@@ -1,0 +1,1001 @@
+step 0, ctx len 130739, avg score 0.2
+step 1, ctx len 130688, avg score 0.1
+step 2, ctx len 130759, avg score 0.13333333333333333
+step 3, ctx len 130782, avg score 0.125
+step 4, ctx len 130720, avg score 0.12
+step 5, ctx len 130829, avg score 0.13333333333333333
+step 6, ctx len 130867, avg score 0.1142857142857143
+step 7, ctx len 130855, avg score 0.1375
+step 8, ctx len 130793, avg score 0.14444444444444446
+step 9, ctx len 130705, avg score 0.14
+step 10, ctx len 130850, avg score 0.1272727272727273
+step 11, ctx len 130836, avg score 0.12500000000000003
+step 12, ctx len 130753, avg score 0.1153846153846154
+step 13, ctx len 130898, avg score 0.10714285714285716
+step 14, ctx len 130844, avg score 0.10000000000000002
+step 15, ctx len 130804, avg score 0.10000000000000002
+step 16, ctx len 130867, avg score 0.09411764705882354
+step 17, ctx len 130867, avg score 0.0888888888888889
+step 18, ctx len 130740, avg score 0.08421052631578949
+step 19, ctx len 130860, avg score 0.08000000000000002
+step 20, ctx len 130876, avg score 0.07619047619047621
+step 21, ctx len 130754, avg score 0.07727272727272728
+step 22, ctx len 130762, avg score 0.07826086956521741
+step 23, ctx len 130900, avg score 0.07500000000000002
+step 24, ctx len 130824, avg score 0.07600000000000003
+step 25, ctx len 130820, avg score 0.07692307692307694
+step 26, ctx len 130891, avg score 0.07777777777777779
+step 27, ctx len 130827, avg score 0.07500000000000002
+step 28, ctx len 130811, avg score 0.07586206896551727
+step 29, ctx len 130786, avg score 0.07333333333333335
+step 30, ctx len 130770, avg score 0.0741935483870968
+step 31, ctx len 130766, avg score 0.07187500000000002
+step 32, ctx len 130804, avg score 0.07272727272727275
+step 33, ctx len 130747, avg score 0.07352941176470591
+step 34, ctx len 130684, avg score 0.08285714285714288
+step 35, ctx len 130736, avg score 0.08333333333333336
+step 36, ctx len 130716, avg score 0.08648648648648652
+step 37, ctx len 130857, avg score 0.08684210526315793
+step 38, ctx len 130654, avg score 0.08461538461538465
+step 39, ctx len 130825, avg score 0.08500000000000003
+step 40, ctx len 130822, avg score 0.08536585365853662
+step 41, ctx len 130779, avg score 0.08571428571428574
+step 42, ctx len 130695, avg score 0.08372093023255817
+step 43, ctx len 130683, avg score 0.08181818181818185
+step 44, ctx len 130904, avg score 0.08444444444444447
+step 45, ctx len 130775, avg score 0.08260869565217395
+step 46, ctx len 130756, avg score 0.08085106382978727
+step 47, ctx len 130767, avg score 0.0791666666666667
+step 48, ctx len 130792, avg score 0.07959183673469392
+step 49, ctx len 130936, avg score 0.07800000000000003
+step 50, ctx len 130790, avg score 0.08039215686274513
+step 51, ctx len 130840, avg score 0.07884615384615387
+step 52, ctx len 130781, avg score 0.08301886792452833
+step 53, ctx len 130793, avg score 0.08333333333333336
+step 54, ctx len 130850, avg score 0.08181818181818183
+step 55, ctx len 130791, avg score 0.08035714285714288
+step 56, ctx len 130731, avg score 0.07894736842105264
+step 57, ctx len 130655, avg score 0.08275862068965519
+step 58, ctx len 130758, avg score 0.08135593220338984
+step 59, ctx len 130769, avg score 0.08166666666666668
+step 60, ctx len 130722, avg score 0.08032786885245902
+step 61, ctx len 130836, avg score 0.08064516129032258
+step 62, ctx len 130810, avg score 0.07936507936507936
+step 63, ctx len 130793, avg score 0.078125
+step 64, ctx len 130729, avg score 0.07692307692307693
+step 65, ctx len 130722, avg score 0.07575757575757576
+step 66, ctx len 130774, avg score 0.07462686567164178
+step 67, ctx len 130768, avg score 0.07794117647058824
+step 68, ctx len 130912, avg score 0.07681159420289854
+step 69, ctx len 130785, avg score 0.0757142857142857
+step 70, ctx len 130764, avg score 0.07605633802816901
+step 71, ctx len 130763, avg score 0.07638888888888888
+step 72, ctx len 130779, avg score 0.07534246575342464
+step 73, ctx len 130676, avg score 0.07432432432432431
+step 74, ctx len 130773, avg score 0.07333333333333332
+step 75, ctx len 130781, avg score 0.075
+step 76, ctx len 130726, avg score 0.0779220779220779
+step 77, ctx len 130913, avg score 0.07692307692307691
+step 78, ctx len 130694, avg score 0.07848101265822784
+step 79, ctx len 130677, avg score 0.07874999999999999
+step 80, ctx len 130762, avg score 0.07777777777777777
+step 81, ctx len 130849, avg score 0.08048780487804877
+step 82, ctx len 130717, avg score 0.07951807228915661
+step 83, ctx len 130772, avg score 0.07857142857142856
+step 84, ctx len 130886, avg score 0.0776470588235294
+step 85, ctx len 130746, avg score 0.07790697674418602
+step 86, ctx len 130756, avg score 0.07701149425287354
+step 87, ctx len 130848, avg score 0.07613636363636361
+step 88, ctx len 130757, avg score 0.07528089887640448
+step 89, ctx len 130786, avg score 0.07444444444444442
+step 90, ctx len 130692, avg score 0.0769230769230769
+step 91, ctx len 130767, avg score 0.0793478260869565
+step 92, ctx len 130837, avg score 0.07956989247311826
+step 93, ctx len 130911, avg score 0.07978723404255317
+step 94, ctx len 130895, avg score 0.08315789473684208
+step 95, ctx len 130848, avg score 0.08437499999999998
+step 96, ctx len 130832, avg score 0.08350515463917524
+step 97, ctx len 130802, avg score 0.08367346938775508
+step 98, ctx len 130734, avg score 0.08383838383838381
+step 99, ctx len 130784, avg score 0.08299999999999998
+step 100, ctx len 130873, avg score 0.08811881188118809
+step 101, ctx len 130814, avg score 0.08725490196078428
+step 102, ctx len 130869, avg score 0.08737864077669899
+step 103, ctx len 130829, avg score 0.08653846153846151
+step 104, ctx len 130731, avg score 0.08571428571428569
+step 105, ctx len 130698, avg score 0.08679245283018863
+step 106, ctx len 130702, avg score 0.08785046728971958
+step 107, ctx len 130875, avg score 0.08796296296296291
+step 108, ctx len 130779, avg score 0.0880733944954128
+step 109, ctx len 130760, avg score 0.08909090909090903
+step 110, ctx len 130951, avg score 0.08828828828828823
+step 111, ctx len 130773, avg score 0.08928571428571422
+step 112, ctx len 130784, avg score 0.09115044247787606
+step 113, ctx len 130777, avg score 0.09298245614035083
+step 114, ctx len 130838, avg score 0.09304347826086952
+step 115, ctx len 130832, avg score 0.09310344827586202
+step 116, ctx len 130861, avg score 0.09316239316239311
+step 117, ctx len 130710, avg score 0.09237288135593215
+step 118, ctx len 130914, avg score 0.09411764705882347
+step 119, ctx len 130737, avg score 0.0941666666666666
+step 120, ctx len 130835, avg score 0.09338842975206606
+step 121, ctx len 130799, avg score 0.09590163934426224
+step 122, ctx len 130773, avg score 0.09593495934959344
+step 123, ctx len 130742, avg score 0.09596774193548381
+step 124, ctx len 130824, avg score 0.09519999999999995
+step 125, ctx len 130814, avg score 0.09523809523809518
+step 126, ctx len 130817, avg score 0.09527559055118104
+step 127, ctx len 130800, avg score 0.09531249999999994
+step 128, ctx len 130721, avg score 0.09612403100775187
+step 129, ctx len 130835, avg score 0.09692307692307685
+step 130, ctx len 130908, avg score 0.0969465648854961
+step 131, ctx len 130850, avg score 0.09621212121212114
+step 132, ctx len 130880, avg score 0.0954887218045112
+step 133, ctx len 130730, avg score 0.094776119402985
+step 134, ctx len 130606, avg score 0.094074074074074
+step 135, ctx len 130713, avg score 0.0933823529411764
+step 136, ctx len 130796, avg score 0.0934306569343065
+step 137, ctx len 130683, avg score 0.09275362318840573
+step 138, ctx len 130771, avg score 0.09352517985611503
+step 139, ctx len 130797, avg score 0.09428571428571421
+step 140, ctx len 130920, avg score 0.09432624113475169
+step 141, ctx len 130664, avg score 0.09507042253521118
+step 142, ctx len 130771, avg score 0.09650349650349642
+step 143, ctx len 130771, avg score 0.0965277777777777
+step 144, ctx len 130780, avg score 0.09586206896551716
+step 145, ctx len 130747, avg score 0.09657534246575333
+step 146, ctx len 130796, avg score 0.09727891156462576
+step 147, ctx len 130758, avg score 0.0972972972972972
+step 148, ctx len 130523, avg score 0.09664429530201334
+step 149, ctx len 130666, avg score 0.0959999999999999
+step 150, ctx len 130727, avg score 0.09602649006622507
+step 151, ctx len 130792, avg score 0.09539473684210517
+step 152, ctx len 130859, avg score 0.0954248366013071
+step 153, ctx len 130950, avg score 0.09480519480519471
+step 154, ctx len 130721, avg score 0.09483870967741925
+step 155, ctx len 130809, avg score 0.09487179487179477
+step 156, ctx len 130779, avg score 0.09490445859872601
+step 157, ctx len 130801, avg score 0.09493670886075939
+step 158, ctx len 130748, avg score 0.09433962264150933
+step 159, ctx len 130798, avg score 0.0937499999999999
+step 160, ctx len 130782, avg score 0.0937888198757763
+step 161, ctx len 130767, avg score 0.09506172839506163
+step 162, ctx len 130784, avg score 0.0950920245398772
+step 163, ctx len 130700, avg score 0.09451219512195112
+step 164, ctx len 130807, avg score 0.09393939393939384
+step 165, ctx len 130860, avg score 0.09397590361445773
+step 166, ctx len 130756, avg score 0.09341317365269451
+step 167, ctx len 130865, avg score 0.09404761904761895
+step 168, ctx len 130901, avg score 0.09467455621301765
+step 169, ctx len 130795, avg score 0.09411764705882343
+step 170, ctx len 130738, avg score 0.09415204678362564
+step 171, ctx len 130934, avg score 0.0936046511627906
+step 172, ctx len 130891, avg score 0.09306358381502881
+step 173, ctx len 130751, avg score 0.09310344827586198
+step 174, ctx len 130868, avg score 0.09314285714285707
+step 175, ctx len 130923, avg score 0.09261363636363629
+step 176, ctx len 130744, avg score 0.09322033898305077
+step 177, ctx len 130821, avg score 0.09269662921348307
+step 178, ctx len 130805, avg score 0.0927374301675977
+step 179, ctx len 130745, avg score 0.09222222222222215
+step 180, ctx len 130787, avg score 0.09226519337016569
+step 181, ctx len 130714, avg score 0.09285714285714279
+step 182, ctx len 130764, avg score 0.0939890710382513
+step 183, ctx len 130741, avg score 0.09347826086956515
+step 184, ctx len 130933, avg score 0.09297297297297291
+step 185, ctx len 130760, avg score 0.09408602150537629
+step 186, ctx len 130899, avg score 0.0935828877005347
+step 187, ctx len 130747, avg score 0.0936170212765957
+step 188, ctx len 130815, avg score 0.09312169312169308
+step 189, ctx len 130779, avg score 0.09263157894736837
+step 190, ctx len 130727, avg score 0.0921465968586387
+step 191, ctx len 130841, avg score 0.09218749999999996
+step 192, ctx len 130748, avg score 0.09378238341968907
+step 193, ctx len 130699, avg score 0.09484536082474222
+step 194, ctx len 130741, avg score 0.09487179487179484
+step 195, ctx len 130802, avg score 0.09438775510204078
+step 196, ctx len 130755, avg score 0.0959390862944162
+step 197, ctx len 130840, avg score 0.09545454545454542
+step 198, ctx len 130668, avg score 0.09547738693467334
+step 199, ctx len 130821, avg score 0.09499999999999996
+step 200, ctx len 130707, avg score 0.09452736318407956
+step 201, ctx len 130797, avg score 0.09405940594059402
+step 202, ctx len 130792, avg score 0.09359605911330046
+step 203, ctx len 130789, avg score 0.09411764705882349
+step 204, ctx len 130819, avg score 0.09365853658536581
+step 205, ctx len 130847, avg score 0.09417475728155336
+step 206, ctx len 130774, avg score 0.09371980676328498
+step 207, ctx len 130789, avg score 0.09471153846153843
+step 208, ctx len 130771, avg score 0.09473684210526313
+step 209, ctx len 130746, avg score 0.09476190476190474
+step 210, ctx len 130906, avg score 0.09573459715639808
+step 211, ctx len 130881, avg score 0.09528301886792451
+step 212, ctx len 130893, avg score 0.09530516431924882
+step 213, ctx len 130797, avg score 0.09485981308411214
+step 214, ctx len 130783, avg score 0.09488372093023255
+step 215, ctx len 130758, avg score 0.09629629629629628
+step 216, ctx len 130931, avg score 0.09723502304147465
+step 217, ctx len 130832, avg score 0.09816513761467889
+step 218, ctx len 130687, avg score 0.09771689497716894
+step 219, ctx len 130764, avg score 0.09818181818181818
+step 220, ctx len 130784, avg score 0.1004524886877828
+step 221, ctx len 130630, avg score 0.10045045045045045
+step 222, ctx len 130815, avg score 0.10044843049327355
+step 223, ctx len 130828, avg score 0.1
+step 224, ctx len 130814, avg score 0.1008888888888889
+step 225, ctx len 130757, avg score 0.1008849557522124
+step 226, ctx len 130748, avg score 0.1008810572687225
+step 227, ctx len 130729, avg score 0.10131578947368423
+step 228, ctx len 130824, avg score 0.1013100436681223
+step 229, ctx len 130809, avg score 0.10173913043478264
+step 230, ctx len 130823, avg score 0.10259740259740263
+step 231, ctx len 130885, avg score 0.10301724137931037
+step 232, ctx len 130870, avg score 0.10386266094420604
+step 233, ctx len 130762, avg score 0.10384615384615388
+step 234, ctx len 130685, avg score 0.10340425531914897
+step 235, ctx len 130741, avg score 0.10296610169491528
+step 236, ctx len 130753, avg score 0.10253164556962029
+step 237, ctx len 130869, avg score 0.10252100840336138
+step 238, ctx len 130909, avg score 0.10209205020920506
+step 239, ctx len 130815, avg score 0.10166666666666671
+step 240, ctx len 130846, avg score 0.10124481327800834
+step 241, ctx len 130712, avg score 0.10123966942148764
+step 242, ctx len 130870, avg score 0.10123456790123461
+step 243, ctx len 130822, avg score 0.10122950819672137
+step 244, ctx len 130827, avg score 0.10163265306122454
+step 245, ctx len 130783, avg score 0.101219512195122
+step 246, ctx len 130746, avg score 0.10080971659919033
+step 247, ctx len 130782, avg score 0.1016129032258065
+step 248, ctx len 130755, avg score 0.10120481927710849
+step 249, ctx len 130826, avg score 0.10080000000000006
+step 250, ctx len 130856, avg score 0.10039840637450205
+step 251, ctx len 130828, avg score 0.10079365079365084
+step 252, ctx len 130705, avg score 0.10039525691699609
+step 253, ctx len 130795, avg score 0.10000000000000005
+step 254, ctx len 130762, avg score 0.09960784313725496
+step 255, ctx len 130754, avg score 0.09921875000000005
+step 256, ctx len 130763, avg score 0.1003891050583658
+step 257, ctx len 130781, avg score 0.10000000000000005
+step 258, ctx len 130755, avg score 0.09961389961389966
+step 259, ctx len 130723, avg score 0.09923076923076928
+step 260, ctx len 130755, avg score 0.09885057471264372
+step 261, ctx len 130768, avg score 0.09923664122137409
+step 262, ctx len 130799, avg score 0.10000000000000005
+step 263, ctx len 130763, avg score 0.10000000000000005
+step 264, ctx len 130771, avg score 0.10075471698113213
+step 265, ctx len 130782, avg score 0.1003759398496241
+step 266, ctx len 130730, avg score 0.10037453183520605
+step 267, ctx len 130934, avg score 0.10000000000000006
+step 268, ctx len 130707, avg score 0.10000000000000006
+step 269, ctx len 130765, avg score 0.10111111111111117
+step 270, ctx len 130774, avg score 0.10147601476014766
+step 271, ctx len 130820, avg score 0.10110294117647065
+step 272, ctx len 130850, avg score 0.10073260073260079
+step 273, ctx len 130834, avg score 0.10036496350364969
+step 274, ctx len 130936, avg score 0.10000000000000005
+step 275, ctx len 130877, avg score 0.10000000000000006
+step 276, ctx len 130528, avg score 0.09963898916967515
+step 277, ctx len 130800, avg score 0.0992805755395684
+step 278, ctx len 130773, avg score 0.10000000000000006
+step 279, ctx len 130773, avg score 0.10000000000000006
+step 280, ctx len 130716, avg score 0.10071174377224205
+step 281, ctx len 130837, avg score 0.1007092198581561
+step 282, ctx len 130886, avg score 0.1007067137809188
+step 283, ctx len 130837, avg score 0.10035211267605641
+step 284, ctx len 130866, avg score 0.10035087719298254
+step 285, ctx len 130825, avg score 0.10034965034965043
+step 286, ctx len 130929, avg score 0.10069686411149834
+step 287, ctx len 130680, avg score 0.10104166666666675
+step 288, ctx len 130774, avg score 0.10138408304498278
+step 289, ctx len 130791, avg score 0.10103448275862077
+step 290, ctx len 130799, avg score 0.10137457044673547
+step 291, ctx len 130862, avg score 0.10102739726027404
+step 292, ctx len 130901, avg score 0.10136518771331066
+step 293, ctx len 130861, avg score 0.10204081632653068
+step 294, ctx len 130912, avg score 0.10305084745762719
+step 295, ctx len 130656, avg score 0.10270270270270276
+step 296, ctx len 130866, avg score 0.10235690235690242
+step 297, ctx len 130899, avg score 0.10234899328859068
+step 298, ctx len 130724, avg score 0.10200668896321077
+step 299, ctx len 130750, avg score 0.1023333333333334
+step 300, ctx len 130751, avg score 0.10299003322259143
+step 301, ctx len 130742, avg score 0.1029801324503312
+step 302, ctx len 130722, avg score 0.10264026402640272
+step 303, ctx len 130714, avg score 0.10296052631578954
+step 304, ctx len 130706, avg score 0.10295081967213122
+step 305, ctx len 130770, avg score 0.10294117647058831
+step 306, ctx len 130794, avg score 0.1026058631921825
+step 307, ctx len 130732, avg score 0.10227272727272735
+step 308, ctx len 130869, avg score 0.10323624595469263
+step 309, ctx len 130830, avg score 0.10322580645161297
+step 310, ctx len 130857, avg score 0.10353697749196149
+step 311, ctx len 130904, avg score 0.10320512820512828
+step 312, ctx len 130713, avg score 0.10319488817891381
+step 313, ctx len 130750, avg score 0.10286624203821665
+step 314, ctx len 130953, avg score 0.1038095238095239
+step 315, ctx len 130822, avg score 0.10379746835443046
+step 316, ctx len 130700, avg score 0.10378548895899062
+step 317, ctx len 130851, avg score 0.10377358490566047
+step 318, ctx len 130844, avg score 0.10344827586206906
+step 319, ctx len 130708, avg score 0.10312500000000009
+step 320, ctx len 130689, avg score 0.10342679127725866
+step 321, ctx len 130863, avg score 0.10372670807453427
+step 322, ctx len 130801, avg score 0.10433436532507749
+step 323, ctx len 130705, avg score 0.10493827160493836
+step 324, ctx len 130812, avg score 0.10461538461538471
+step 325, ctx len 130818, avg score 0.10460122699386512
+step 326, ctx len 130746, avg score 0.10428134556574932
+step 327, ctx len 130731, avg score 0.10426829268292692
+step 328, ctx len 130740, avg score 0.10425531914893627
+step 329, ctx len 130840, avg score 0.10424242424242434
+step 330, ctx len 130874, avg score 0.10483383685800614
+step 331, ctx len 130808, avg score 0.10542168674698804
+step 332, ctx len 130725, avg score 0.10510510510510519
+step 333, ctx len 130713, avg score 0.10568862275449109
+step 334, ctx len 130801, avg score 0.10567164179104485
+step 335, ctx len 130835, avg score 0.10654761904761913
+step 336, ctx len 130655, avg score 0.1062314540059348
+step 337, ctx len 130693, avg score 0.10591715976331369
+step 338, ctx len 130775, avg score 0.10678466076696172
+step 339, ctx len 130742, avg score 0.10647058823529419
+step 340, ctx len 130808, avg score 0.10645161290322588
+step 341, ctx len 130726, avg score 0.10643274853801178
+step 342, ctx len 130651, avg score 0.10612244897959192
+step 343, ctx len 130643, avg score 0.10581395348837218
+step 344, ctx len 130767, avg score 0.10608695652173922
+step 345, ctx len 130905, avg score 0.1060693641618498
+step 346, ctx len 130744, avg score 0.10605187319884736
+step 347, ctx len 130729, avg score 0.10689655172413802
+step 348, ctx len 130843, avg score 0.10687679083094566
+step 349, ctx len 130740, avg score 0.10657142857142866
+step 350, ctx len 130739, avg score 0.10626780626780637
+step 351, ctx len 130818, avg score 0.10596590909090918
+step 352, ctx len 130678, avg score 0.10566572237960349
+step 353, ctx len 130746, avg score 0.10677966101694925
+step 354, ctx len 130712, avg score 0.10732394366197191
+step 355, ctx len 130740, avg score 0.10702247191011244
+step 356, ctx len 130817, avg score 0.1072829131652662
+step 357, ctx len 130823, avg score 0.10782122905027941
+step 358, ctx len 130785, avg score 0.10779944289693602
+step 359, ctx len 130781, avg score 0.10750000000000008
+step 360, ctx len 130810, avg score 0.10720221606648209
+step 361, ctx len 130845, avg score 0.10690607734806638
+step 362, ctx len 130791, avg score 0.10688705234159789
+step 363, ctx len 130779, avg score 0.10659340659340669
+step 364, ctx len 130920, avg score 0.10630136986301379
+step 365, ctx len 130742, avg score 0.10628415300546458
+step 366, ctx len 130771, avg score 0.10626702997275214
+step 367, ctx len 130781, avg score 0.10652173913043489
+step 368, ctx len 130876, avg score 0.10677506775067762
+step 369, ctx len 130894, avg score 0.10648648648648659
+step 370, ctx len 130733, avg score 0.10673854447439365
+step 371, ctx len 130871, avg score 0.106720430107527
+step 372, ctx len 130817, avg score 0.10670241286863283
+step 373, ctx len 130684, avg score 0.10695187165775415
+step 374, ctx len 130797, avg score 0.10720000000000014
+step 375, ctx len 130825, avg score 0.10691489361702142
+step 376, ctx len 130784, avg score 0.1074270557029179
+step 377, ctx len 130838, avg score 0.10740740740740755
+step 378, ctx len 130774, avg score 0.1073878627968339
+step 379, ctx len 130837, avg score 0.10763157894736856
+step 380, ctx len 130774, avg score 0.1076115485564306
+step 381, ctx len 130836, avg score 0.10732984293193733
+step 382, ctx len 130700, avg score 0.1078328981723239
+step 383, ctx len 130736, avg score 0.10755208333333348
+step 384, ctx len 130764, avg score 0.10727272727272741
+step 385, ctx len 130773, avg score 0.10699481865284988
+step 386, ctx len 130733, avg score 0.10671834625323011
+step 387, ctx len 130777, avg score 0.1067010309278352
+step 388, ctx len 130681, avg score 0.10694087403598987
+step 389, ctx len 130776, avg score 0.10743589743589758
+step 390, ctx len 130748, avg score 0.1079283887468032
+step 391, ctx len 130803, avg score 0.1081632653061226
+step 392, ctx len 130791, avg score 0.10839694656488565
+step 393, ctx len 130846, avg score 0.10862944162436564
+step 394, ctx len 130742, avg score 0.10886075949367105
+step 395, ctx len 130911, avg score 0.108838383838384
+step 396, ctx len 130857, avg score 0.10881612090680118
+step 397, ctx len 130802, avg score 0.10854271356783936
+step 398, ctx len 130754, avg score 0.1090225563909776
+step 399, ctx len 130792, avg score 0.10875000000000017
+step 400, ctx len 130810, avg score 0.10872817955112236
+step 401, ctx len 130812, avg score 0.10845771144278624
+step 402, ctx len 130853, avg score 0.1081885856079406
+step 403, ctx len 130839, avg score 0.10816831683168333
+step 404, ctx len 130610, avg score 0.10864197530864213
+step 405, ctx len 130773, avg score 0.10837438423645336
+step 406, ctx len 130763, avg score 0.10835380835380852
+step 407, ctx len 130684, avg score 0.10857843137254919
+step 408, ctx len 130822, avg score 0.108312958435208
+step 409, ctx len 130771, avg score 0.10804878048780504
+step 410, ctx len 130888, avg score 0.10778588807785905
+step 411, ctx len 130803, avg score 0.10800970873786425
+step 412, ctx len 130727, avg score 0.10774818401937063
+step 413, ctx len 130737, avg score 0.107729468599034
+step 414, ctx len 130852, avg score 0.10746987951807246
+step 415, ctx len 130772, avg score 0.10721153846153864
+step 416, ctx len 130908, avg score 0.10743405275779394
+step 417, ctx len 130731, avg score 0.10789473684210543
+step 418, ctx len 130713, avg score 0.10763723150358012
+step 419, ctx len 130795, avg score 0.10738095238095255
+step 420, ctx len 130806, avg score 0.10736342042755362
+step 421, ctx len 130840, avg score 0.10710900473933667
+step 422, ctx len 130951, avg score 0.10709219858156047
+step 423, ctx len 130808, avg score 0.10707547169811339
+step 424, ctx len 130735, avg score 0.10682352941176489
+step 425, ctx len 130867, avg score 0.10657276995305183
+step 426, ctx len 130847, avg score 0.10655737704918052
+step 427, ctx len 130879, avg score 0.10677570093457962
+step 428, ctx len 130822, avg score 0.10675990675990696
+step 429, ctx len 130757, avg score 0.10651162790697694
+step 430, ctx len 130862, avg score 0.10649651972157792
+step 431, ctx len 130735, avg score 0.10671296296296316
+step 432, ctx len 130780, avg score 0.10715935334872999
+step 433, ctx len 130833, avg score 0.10714285714285735
+step 434, ctx len 130864, avg score 0.10735632183908066
+step 435, ctx len 130894, avg score 0.10711009174311947
+step 436, ctx len 130819, avg score 0.10755148741418784
+step 437, ctx len 130805, avg score 0.10776255707762578
+step 438, ctx len 130736, avg score 0.10774487471526216
+step 439, ctx len 130858, avg score 0.10818181818181838
+step 440, ctx len 130745, avg score 0.10816326530612265
+step 441, ctx len 130878, avg score 0.1079185520361993
+step 442, ctx len 130679, avg score 0.10767494356659162
+step 443, ctx len 130857, avg score 0.10743243243243263
+step 444, ctx len 130806, avg score 0.10764044943820245
+step 445, ctx len 130770, avg score 0.1078475336322872
+step 446, ctx len 130790, avg score 0.10827740492170043
+step 447, ctx len 130846, avg score 0.10848214285714307
+step 448, ctx len 130858, avg score 0.10824053452115834
+step 449, ctx len 130673, avg score 0.10866666666666687
+step 450, ctx len 130757, avg score 0.10842572062084277
+step 451, ctx len 130714, avg score 0.1081858407079648
+step 452, ctx len 130716, avg score 0.10838852097130264
+step 453, ctx len 130639, avg score 0.10814977973568303
+step 454, ctx len 130786, avg score 0.10835164835164857
+step 455, ctx len 130682, avg score 0.10811403508771951
+step 456, ctx len 130782, avg score 0.10809628008752757
+step 457, ctx len 130804, avg score 0.10829694323144126
+step 458, ctx len 130918, avg score 0.10827886710239673
+step 459, ctx len 130719, avg score 0.10847826086956544
+step 460, ctx len 130743, avg score 0.10824295010846009
+step 461, ctx len 130834, avg score 0.10800865800865823
+step 462, ctx len 130784, avg score 0.10777537796976265
+step 463, ctx len 130861, avg score 0.10818965517241401
+step 464, ctx len 130778, avg score 0.10817204301075291
+step 465, ctx len 130865, avg score 0.10836909871244658
+step 466, ctx len 130851, avg score 0.10813704496788032
+step 467, ctx len 130822, avg score 0.10790598290598313
+step 468, ctx len 130579, avg score 0.1076759061833691
+step 469, ctx len 130636, avg score 0.10744680851063852
+step 470, ctx len 130746, avg score 0.10764331210191105
+step 471, ctx len 130921, avg score 0.10741525423728837
+step 472, ctx len 130752, avg score 0.107188160676533
+step 473, ctx len 130798, avg score 0.10696202531645593
+step 474, ctx len 130826, avg score 0.10694736842105286
+step 475, ctx len 130730, avg score 0.10714285714285739
+step 476, ctx len 130757, avg score 0.10691823899371093
+step 477, ctx len 130854, avg score 0.10690376569037681
+step 478, ctx len 130727, avg score 0.10688935281837185
+step 479, ctx len 130799, avg score 0.10729166666666691
+step 480, ctx len 130745, avg score 0.10748440748440773
+step 481, ctx len 130686, avg score 0.10726141078838199
+step 482, ctx len 130670, avg score 0.10724637681159445
+step 483, ctx len 130740, avg score 0.10702479338842999
+step 484, ctx len 130767, avg score 0.10680412371134045
+step 485, ctx len 130903, avg score 0.10658436213991794
+step 486, ctx len 130874, avg score 0.1067761806981522
+step 487, ctx len 130765, avg score 0.10655737704918057
+step 488, ctx len 130814, avg score 0.10633946830265874
+step 489, ctx len 130888, avg score 0.10673469387755126
+step 490, ctx len 130923, avg score 0.10651731160896154
+step 491, ctx len 130821, avg score 0.10630081300813032
+step 492, ctx len 130780, avg score 0.10649087221095359
+step 493, ctx len 130782, avg score 0.10627530364372494
+step 494, ctx len 130898, avg score 0.1060606060606063
+step 495, ctx len 130735, avg score 0.10584677419354863
+step 496, ctx len 130780, avg score 0.10563380281690166
+step 497, ctx len 130860, avg score 0.1060240963855424
+step 498, ctx len 130770, avg score 0.10581162324649322
+step 499, ctx len 130775, avg score 0.10580000000000024
+{"ctx_len": 130739, "pred": "1. fingerling 2. stallion 3. marxism 4. gliding 5. balloon 6. reboot 7. guerrilla 8. shoot 9. fairy 10. hyphenation<|eot_id|>", "needle": ["meal", "stallion", "intent", "perform", "silver", "leader", "entrepreneur", "poultry", "fingerling", "default"], "score": 0.2}
+{"ctx_len": 130688, "pred": "1. zippy 2. siding 3. lumber 4. potential 5. green 6. loop 7. quota 8. game 9. calorie 10. tabletop<|eot_id|>", "needle": ["dipstick", "winery", "food", "paragraph", "bracket", "erection", "charter", "disco", "mister", "flavor"], "score": 0.0}
+{"ctx_len": 130759, "pred": "1. linkage 2. paw 3. pimple 4. uniform 5. psychology 6. lesson 7. cinema 8. gander 9. sledge 10. heap<|eot_id|>", "needle": ["uniform", "helmet", "scallion", "sledge", "reorganization", "pause", "testimony", "research", "lawn", "tutu"], "score": 0.2}
+{"ctx_len": 130782, "pred": "1. accommodation 2. mastication 3. mastication 4. exchange 5. banker 6. affidavit 7. frown 8. breakfast 9. stability 10. something<|eot_id|>", "needle": ["adopt", "item", "irritate", "critic", "strength", "artery", "accommodation", "delivery", "bough", "impostor"], "score": 0.1}
+{"ctx_len": 130720, "pred": "1. suck 2. dust storm 3. top-hat 4. artery 5. solidarity 6. dust storm 7. firm 8. liar 9. mighty 10. trigonometry<|eot_id|>", "needle": ["hostel", "tramp", "everybody", "conference", "lucky", "congressman", "tank", "breadcrumb", "suck", "murder"], "score": 0.1}
+{"ctx_len": 130829, "pred": "1. servant 2. lycra 3. participant 4. panda 5. signify 6. raft 7. community 8. chowder 9. karate 10. necklace<|eot_id|>", "needle": ["lollipop", "screamer", "chub", "snow", "label", "garment", "servant", "propane", "lycra", "address"], "score": 0.2}
+{"ctx_len": 130867, "pred": "1. wraparound 2. beck 3. soft 4. pruner 5. baggie 6. panty 7. questionnaire 8. chronicle 9. binoculars 10. zither<|eot_id|>", "needle": ["ritzy", "treaty", "larch", "demur", "jet", "yam", "horror", "withdraw", "burrito", "visit"], "score": 0.0}
+{"ctx_len": 130855, "pred": "1. meatloaf 2. judo 3. flap 4. guilder 5. cuticle 6. index 7. cursor 8. melted 9. utter 10. doubling<|eot_id|>", "needle": ["devastation", "security", "locket", "humor", "meatloaf", "sweep", "cuticle", "judo", "aftershock", "reservoir"], "score": 0.3}
+{"ctx_len": 130793, "pred": "1. therapist 2. luggage 3. belt 4. go-kart 5. timpani 6. fraud 7. chasm 8. fir 9. plow 10. fir<|eot_id|>", "needle": ["tandem", "mug", "shred", "airman", "pickup", "pimple", "detainee", "tall", "therapist", "luggage"], "score": 0.2}
+{"ctx_len": 130705, "pred": "1. editing 2. usage 3. yin 4. uncle 5. greens 6. affidavit 7. morphology 8. market 9. terrorism 10. culvert<|eot_id|>", "needle": ["slump", "keyboard", "winter", "morphology", "heating", "illusion", "cube", "syndrome", "zipper", "fun"], "score": 0.1}
+{"ctx_len": 130850, "pred": "1. analyze 2. injury 3. roar 4. disadvantage 5. bake 6. ukulele 7. frost 8. unblinking 9. garlic 10. tavern<|eot_id|>", "needle": ["deafening", "incandescent", "madam", "investment", "spank", "supermarket", "perfume", "psychotic", "affinity", "cupcake"], "score": 0.0}
+{"ctx_len": 130836, "pred": "1. hospitable 2. hospitable 3. hospitable 4. hospitable 5. hospitable 6. hospitable 7. hospitable 8. hospitable 9. hospitable 10. hospitable<|eot_id|>", "needle": ["avocado", "package", "gymnast", "hospitable", "alliance", "worry", "yarmulke", "loft", "null", "gauge"], "score": 0.1}
+{"ctx_len": 130753, "pred": "1. wine 2. appointment 3. jaw 4. bamboo 5. washer 6. pregnancy 7. basin 8. skullcap 9. pad 10. fireman<|eot_id|>", "needle": ["numerous", "woodwind", "apologize", "gusty", "cheese", "fratricide", "crew", "work", "reasoning", "stock"], "score": 0.0}
+{"ctx_len": 130898, "pred": "1. cowbell 2. fan 3. sympathy 4. zoom 5. arrow 6. fisherman 7. discharge 8. tart 9. selfish 10. rostrum<|eot_id|>", "needle": ["scarification", "greens", "photographer", "straight", "sandwich", "penitent", "ATM", "sister-in-law", "profit", "intentionality"], "score": 0.0}
+{"ctx_len": 130844, "pred": "1. snowboarding 2. undertake 3. measly 4. detector 5. maternity 6. know-how 7. dispensable 8. pastoral 9. cabin 10. comedy<|eot_id|>", "needle": ["sailing", "ranch", "portrait", "mousse", "virginal", "comics", "excerpt", "polyp", "tussle", "chicken"], "score": 0.0}
+{"ctx_len": 130804, "pred": "1. chairperson 2. return 3. van 4. mill 5. rush 6. witty 7. cinder 8. forego 9. makeshift 10. presence<|eot_id|>", "needle": ["chairperson", "competition", "scripture", "cord", "pinecone", "spooky", "legging", "pinafore", "reminiscent", "cofactor"], "score": 0.1}
+{"ctx_len": 130867, "pred": "1. parsley 2. thug 3. direction 4. dahlia 5. ripe 6. oats 7. reindeer 8. devise 9. sculptural 10. scrub<|eot_id|>", "needle": ["chronograph", "early", "tan", "interlay", "mortise", "centimeter", "diving", "alibi", "wiry", "pregnancy"], "score": 0.0}
+{"ctx_len": 130867, "pred": "1. evaluate 2. train 3. acorn 4. revolution 5. auditorium 6. crisp 7. creativity 8. extend 9. encyclopedia 10. format<|eot_id|>", "needle": ["hake", "vitality", "massage", "lender", "patrol", "aperitif", "thorn", "cartilage", "fledgling", "crowded"], "score": 0.0}
+{"ctx_len": 130740, "pred": "1. fisherman 2. spirituality 3. beneficiary 4. diner 5. depressive 6. fisting 7. violin 8. grandma 9. mocha 10. settlement<|eot_id|>", "needle": ["fiddle", "accord", "motor", "automaton", "ecclesia", "heal", "selection", "catalogue", "giant", "goat"], "score": 0.0}
+{"ctx_len": 130860, "pred": "1. aside 2. nominate 3. pod 4. judo 5. restructuring 6. royal 7. breezy 8. creme brulee 9. olive 10. verdict<|eot_id|>", "needle": ["video", "load", "swallow", "patent", "midnight", "pard", "evanescent", "birdcage", "blogger", "splendid"], "score": 0.0}
+{"ctx_len": 130876, "pred": "1. butler 2. stepmother 3. boulder 4. agreeable 5. foundation 6. illiteracy 7. poisoning 8. effort 9. boatload 10. boulder<|eot_id|>", "needle": ["petticoat", "attach", "convention", "schooner", "want", "hatbox", "overweight", "devil", "brain", "battleship"], "score": 0.0}
+{"ctx_len": 130754, "pred": "1. jaw 2. spiderling 3. runner 4. guiltless 5. therapeutic 6. sustainment 7. gloom 8. tell 9. townhouse 10. neighbor<|eot_id|>", "needle": ["workplace", "second", "carnation", "spiderling", "crisp", "racism", "proposition", "laughable", "displacement", "train"], "score": 0.1}
+{"ctx_len": 130762, "pred": "1. sofa 2. exam 3. therapist 4. uninterested 5. wiretap 6. economy 7. decade 8. trousers 9. melted 10. beast<|eot_id|>", "needle": ["sofa", "nervous", "stew", "recondite", "downgrade", "peacoat", "bush", "start", "locomotive", "bid"], "score": 0.1}
+{"ctx_len": 130900, "pred": "1. psychology 2. car 3. circadian 4. task 5. ruddy 6. tan 7. peacoat 8. clan 9. peacoat 10. ruddy<|eot_id|>", "needle": ["osmosis", "iron", "peace", "instrument", "phobic", "ectodermal", "pressurization", "omission", "teaching", "placement"], "score": 0.0}
+{"ctx_len": 130824, "pred": "1. hyacinth 2. hydraulics 3. oceanic 4. raisin 5. freelance 6. utility 7. fruit 8. nightlight 9. realization 10. makeover<|eot_id|>", "needle": ["area", "turn", "crotch", "project", "bronchitis", "chaise", "hyacinth", "sail", "squealing", "investor"], "score": 0.1}
+{"ctx_len": 130820, "pred": "1. great-grandmother 2. queen 3. step-mother 4. collaboration 5. congress 6. noun 7. pigeon 8. descendant 9. dam 10. great-grandfather<|eot_id|>", "needle": ["mug", "sleepiness", "flipped-out", "counsel", "theism", "leader", "step", "lime", "vanity", "custard"], "score": 0.1}
+{"ctx_len": 130891, "pred": "1. abnormality 2. anybody 3. documentary 4. aggradation 5. scream 6. dining 7. pencil 8. furnace 9. semicolon 10. continuity<|eot_id|>", "needle": ["abnormality", "shootdown", "tough-guy", "polarisation", "clutch", "amendment", "volunteer", "provision", "furtive", "agency"], "score": 0.1}
+{"ctx_len": 130827, "pred": "1. honey 2. cord 3. implementation 4. newspaper 5. blend 6. guitar 7. introduce 8. bird-watcher 9. spotlight 10. dynamo<|eot_id|>", "needle": ["loaf", "penicillin", "sand", "insect", "pressurization", "exchange", "arrest", "overdraw", "surprise", "admit"], "score": 0.0}
+{"ctx_len": 130811, "pred": "1. communicate 2. pantsuit 3. angle 4. amazon 5. crinoline 6. volcano 7. skywalk 8. uptight 9. executive 10. septicaemia<|eot_id|>", "needle": ["tag", "pitching", "demon", "renaissance", "quart", "transport", "copywriter", "executive", "maniacal", "stamina"], "score": 0.1}
+{"ctx_len": 130786, "pred": "1. max 2. hub 3. waistband 4. semantics 5. wet-bar 6. subtract 7. clan 8. spokeswoman 9. chapel 10. implementation<|eot_id|>", "needle": ["footrest", "masonry", "gosling", "rod", "earrings", "businessman", "rob", "roller", "draw", "needless"], "score": 0.0}
+{"ctx_len": 130770, "pred": "1. rosemary 2. month 3. bout 4. multiply 5. racer 6. boutique 7. cytoplasm 8. earnings 9. trillion 10. compete<|eot_id|>", "needle": ["prow", "reparation", "read", "waffle", "licensing", "simplicity", "behold", "rosemary", "verdant", "enthusiastic"], "score": 0.1}
+{"ctx_len": 130766, "pred": "1. the 2. and 3. of 4. a 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["ruddy", "slippery", "testament", "catalog", "mist", "undertaker", "compassionate", "anthropology", "effective", "firewall"], "score": 0.0}
+{"ctx_len": 130804, "pred": "1. sombrero 2. shoat 3. breast 4. girl 5. relax 6. tract 7. glove 8. grace 9. alleged 10. melodic<|eot_id|>", "needle": ["tailbud", "mincemeat", "deposition", "morning", "fries", "sombrero", "might", "moonshine", "farm", "doll"], "score": 0.1}
+{"ctx_len": 130747, "pred": "1. reader 2. laborer 3. evocation 4. tragedy 5. progress 6. lamp 7. recreation 8. cloud 9. antique 10. circumstance<|eot_id|>", "needle": ["undesirable", "sheet", "universe", "smoking", "squid", "opportunity", "facet", "scale", "pavement", "laborer"], "score": 0.1}
+{"ctx_len": 130684, "pred": "1. hardware 2. stylus 3. result 4. official 5. stylus 6. result 7. stylus 8. result 9. stylus 10. result<|eot_id|>", "needle": ["elegant", "probe", "stylus", "official", "bandwidth", "hardware", "result", "singing", "pitcher", "value"], "score": 0.4}
+{"ctx_len": 130736, "pred": "1. shed 2. shed 3. shed 4. shed 5. shed 6. shed 7. shed 8. shed 9. shed 10. shed<|eot_id|>", "needle": ["puzzled", "recess", "pianist", "magnitude", "retrospective", "tissue", "hydrolysis", "latitude", "shed", "cautious"], "score": 0.1}
+{"ctx_len": 130716, "pred": "1. bus 2. personnel 3. cricket 4. brake 5. abounding 6. editing 7. arcade 8. sweater 9. ferret 10. furry<|eot_id|>", "needle": ["monument", "dusk", "fiction", "personnel", "boulder", "bus", "nursing", "cribbage", "collect", "stability"], "score": 0.2}
+{"ctx_len": 130857, "pred": "1. rivulet 2. seagull 3. emphasis 4. sauerkraut 5. aspic 6. plug 7. examiner 8. jump 9. arrival 10. calcification<|eot_id|>", "needle": ["criminal", "avoid", "figurine", "tempo", "sample", "inquisitive", "collector", "rivulet", "spokesman", "custard"], "score": 0.1}
+{"ctx_len": 130654, "pred": "1. teacher 2. avenue 3. cocktail 4. preparation 5. naive 6. mainland 7. implement 8. laparoscope 9. bored 10. organic<|eot_id|>", "needle": ["bumper", "lesson", "alpha", "postage", "hostel", "majority", "coordination", "lipid", "coincidence", "assurance"], "score": 0.0}
+{"ctx_len": 130825, "pred": "1. godmother 2. grand 3. colonial 4. dirndl 5. checkroom 6. neck 7. acetate 8. railing 9. bite 10. vise<|eot_id|>", "needle": ["teen", "burly", "cowbell", "sing", "taboo", "squash", "grotesque", "quill", "vise", "volatility"], "score": 0.1}
+{"ctx_len": 130822, "pred": "1. pantyhose 2. hubcap 3. distinct 4. bury 5. guacamole 6. glee 7. eve 8. buddy 9. buffer 10. dresser<|eot_id|>", "needle": ["clay", "pantyhose", "estate", "cyclamen", "fantasy", "handlebar", "reliability", "praised", "gunpowder", "police"], "score": 0.1}
+{"ctx_len": 130779, "pred": "1. staff 2. piano 3. expect 4. expect 5. expect 6. expect 7. expect 8. expect 9. expect 10. expect<|eot_id|>", "needle": ["mime", "guerrilla", "fringe", "staff", "proof", "street", "zoology", "zucchini", "immense", "pine"], "score": 0.1}
+{"ctx_len": 130695, "pred": "1. pocket-watch 2. eagle 3. author 4. assurance 5. standardisation 6. identity 7. hazel 8. representation 9. sexuality 10. recorder<|eot_id|>", "needle": ["manage", "ticket", "ranch", "wet-bar", "schizophrenic", "functionality", "luxury", "witch", "highfalutin", "analysis"], "score": 0.0}
+{"ctx_len": 130683, "pred": "1. good-bye 2. repeat 3. good 4. validity 5. pimple 6. biology 7. pumped 8. abounding 9. puncture 10. fridge<|eot_id|>", "needle": ["beef", "feature", "slippers", "inform", "most", "railway", "miss", "cursor", "realm", "accident"], "score": 0.0}
+{"ctx_len": 130904, "pred": "1. pumpkin 2. guitar 3. sonnet 4. boar 5. chutney 6. sonata 7. character 8. snob 9. ensure 10. castanet<|eot_id|>", "needle": ["coach", "jealousy", "pumpkin", "timetable", "venison", "maximum", "wistful", "guitar", "antennae", "communist"], "score": 0.2}
+{"ctx_len": 130775, "pred": "1. knife-edge 2. latitude 3. lose 4. freighter 5. needle 6. candidate 7. rutabaga 8. kebab 9. porcupine 10. wise<|eot_id|>", "needle": ["present", "arena", "complicity", "enclave", "evening-wear", "washer", "enactment", "executor", "flow", "tailspin"], "score": 0.0}
+{"ctx_len": 130756, "pred": "1. bet 2. fertilizer 3. hallowed 4. billion 5. bet 6. passport 7. venom 8. veterinarian 9. disposal 10. homicide<|eot_id|>", "needle": ["punishment", "aside", "adorable", "nutritious", "armament", "whack", "pastoralist", "technique", "place", "similarity"], "score": 0.0}
+{"ctx_len": 130767, "pred": "1. harald 2. codpiece 3. mansion 4. polarization 5. attacker 6. lyocell 7. turnstile 8. woman 9. shield 10. arthur<|eot_id|>", "needle": ["outcome", "shop", "everything", "artist", "partridge", "coordinate", "roller", "dearest", "theft", "lopsided"], "score": 0.0}
+{"ctx_len": 130792, "pred": "1. knife-edge 2. rowboat 3. prove 4. institute 5. knowledgeable 6. robin 7. tabletop 8. hotel 9. robin 10. sphynx<|eot_id|>", "needle": ["rowboat", "snake", "sherry", "animated", "diligent", "announce", "dependent", "uncle", "spray", "downforce"], "score": 0.1}
+{"ctx_len": 130936, "pred": "1. heifer 2. heifer 3. intentionality 4. headquarters 5. strategy 6. render 7. promise 8. stonework 9. broccoli 10. rehabilitation<|eot_id|>", "needle": ["consulate", "scold", "snowboarding", "bathhouse", "shoes", "scooter", "kohlrabi", "tornado", "poncho", "windage"], "score": 0.0}
+{"ctx_len": 130790, "pred": "1. collectivization 2. slate 3. pegboard 4. draw 5. debt 6. pegboard 7. draw 8. debt 9. pegboard 10. slate<|eot_id|>", "needle": ["inflation", "strap", "filing", "slate", "beech", "philanthropy", "abundant", "machinery", "collectivization", "conifer"], "score": 0.2}
+{"ctx_len": 130840, "pred": "1. banyan 2. bowl 3. contractor 4. interface 5. citron 6. engineer 7. slay 8. gusty 9. adult 10. bungalow<|eot_id|>", "needle": ["sesame", "love", "engagement", "raspberry", "tattler", "dimple", "marmalade", "invitation", "fruit", "jobless"], "score": 0.0}
+{"ctx_len": 130781, "pred": "1. shaggy 2. comportment 3. sociology 4. fort 5. snowstorm 6. flippant 7. temperature 8. crystallography 9. apologize 10. disposer<|eot_id|>", "needle": ["comportment", "ghost", "cushion", "edition", "bun", "shaggy", "crewmate", "pupil", "sociology", "mound"], "score": 0.3}
+{"ctx_len": 130793, "pred": "1. pizza 2. consulting 3. cargo 4. consulting 5. consulting 6. consulting 7. consulting 8. consulting 9. consulting 10. consulting<|eot_id|>", "needle": ["scallops", "plugin", "hospitable", "pizza", "external", "tambourine", "lyrics", "wound", "plaster", "gamy"], "score": 0.1}
+{"ctx_len": 130850, "pred": "1. organization 2. pray 3. gullible 4. soggy 5. god 6. bandana 7. clogs 8. judo 9. principal 10. plume<|eot_id|>", "needle": ["screeching", "volatile", "tray", "nectarine", "likeable", "colon", "stitch", "frontier", "dune", "fox"], "score": 0.0}
+{"ctx_len": 130791, "pred": "1. husband 2. hissing 3. dueling 4. thirst 5. pronoun 6. nest 7. currency 8. whirlpool 9. orange 10. barbiturate<|eot_id|>", "needle": ["singing", "detainment", "breath", "spray", "vitality", "rest", "server", "lime", "upbeat", "dude"], "score": 0.0}
+{"ctx_len": 130731, "pred": "1. bus 2. dad 3. trustee 4. petite 5. towel 6. dizzy 7. zoot-suit 8. grade 9. yacht 10. zebra<|eot_id|>", "needle": ["spat", "fiery", "tile", "internal", "incentive", "savings", "oncology", "separation", "spider", "armoire"], "score": 0.0}
+{"ctx_len": 130655, "pred": "1. lung 2. depression 3. manatee 4. samurai 5. alliance 6. influx 7. miscreant 8. pass 9. confuse 10. polo<|eot_id|>", "needle": ["polo", "tangible", "rainbow", "nasal", "use", "router", "estate", "floor", "depression", "twist"], "score": 0.3}
+{"ctx_len": 130758, "pred": "1. breastplate 2. smile 3. tiny 4. legume 5. gator 6. liquid 7. sling 8. reversal 9. disparity 10. lyre<|eot_id|>", "needle": ["adoption", "blowhole", "kazoo", "wink", "corn", "chasm", "enforce", "maintainer", "caddy", "measles"], "score": 0.0}
+{"ctx_len": 130769, "pred": "1. sorghum 2. hobby 3. couch 4. standardisation 5. barge 6. opportunity 7. bow 8. mangrove 9. roll 10. unblinking<|eot_id|>", "needle": ["joy", "numerous", "receipt", "cross", "estimate", "chateau", "filth", "reluctance", "couch", "figurine"], "score": 0.1}
+{"ctx_len": 130722, "pred": "1. paramecium 2. editor 3. top-hat 4. mythology 5. fragile 6. teacher 7. cloakroom 8. madam 9. passbook 10. ceaseless<|eot_id|>", "needle": ["nightclub", "fluttering", "earrings", "part", "townhouse", "pigeon", "screen", "wreck", "manner", "deck"], "score": 0.0}
+{"ctx_len": 130836, "pred": "1. artificer 2. lychee 3. perfection 4. cannon 5. advertisement 6. pumpkin 7. illiteracy 8. feather 9. disclosure 10. cave<|eot_id|>", "needle": ["doubt", "dome", "itch", "cannon", "tune-up", "lasagna", "retailer", "plumber", "source", "lacquerware"], "score": 0.1}
+{"ctx_len": 130810, "pred": "1. codepage 2. recommend 3. policy 4. fly 5. mitten 6. responsibility 7. oxygen 8. bride 9. ease 10. driveway<|eot_id|>", "needle": ["skyscraper", "pharmacopoeia", "ink", "saving", "infancy", "cabbage", "candy", "developing", "anise", "vane"], "score": 0.0}
+{"ctx_len": 130793, "pred": "1. easy 2. diffuse 3. private 4. voter 5. eyestrain 6. mouton 7. cooperative 8. chairperson 9. fluke 10. negligee<|eot_id|>", "needle": ["gorgeous", "randomization", "learning", "blackness", "crust", "cold", "bomb", "drill", "wingtip", "enrollment"], "score": 0.0}
+{"ctx_len": 130729, "pred": "1. pork 2. credit 3. latter 4. annoying 5. greet 6. chaplain 7. salute 8. similarity 9. reconcile 10. lemur<|eot_id|>", "needle": ["weird", "spooky", "hire", "plant", "favorite", "aboriginal", "poison", "phrase", "overrated", "cell"], "score": 0.0}
+{"ctx_len": 130722, "pred": "1. the 2. and 3. of 4. a 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["equinox", "leopard", "charlatan", "incompetence", "kettle", "platelet", "smith", "compensation", "patroller", "understand"], "score": 0.0}
+{"ctx_len": 130774, "pred": "1. pastor 2. caravan 3. important 4. troubled 5. princess 6. tricky 7. TV 8. facelift 9. injustice 10. lush<|eot_id|>", "needle": ["manage", "glib", "humdrum", "jeep", "castanet", "talent", "participation", "subgroup", "dealer", "cutting"], "score": 0.0}
+{"ctx_len": 130768, "pred": "1. marshland 2. ghost 3. cafe 4. bill 5. wife 6. wife 7. wife 8. wife 9. wife 10. wife<|eot_id|>", "needle": ["breakable", "chip", "cafe", "introduce", "marshland", "irate", "mask", "baseball", "ghost", "relax"], "score": 0.3}
+{"ctx_len": 130912, "pred": "1. outback 2. extend 3. rope 4. traveler 5. pilgrim 6. sabre 7. guilt 8. alphabet 9. orangutan 10. brood<|eot_id|>", "needle": ["pheasant", "revenant", "prove", "magenta", "billion", "ark", "sari", "reflection", "buy", "galoshes"], "score": 0.0}
+{"ctx_len": 130785, "pred": "1. dinner 2. propose 3. veto 4. helo 5. instructor 6. swear 7. neglect 8. foxglove 9. hall 10. husband<|eot_id|>", "needle": ["clamp", "boysenberry", "grandmom", "cake", "boast", "disarmament", "inlay", "permission", "goddess", "kitty"], "score": 0.0}
+{"ctx_len": 130764, "pred": "1. electronics 2. fork 3. athletics 4. buyer 5. guide 6. convection 7. validity 8. touch 9. drummer 10. piracy<|eot_id|>", "needle": ["inlay", "judicious", "library", "tendency", "commercial", "rationale", "blueberry", "goddess", "electronics", "accomplish"], "score": 0.1}
+{"ctx_len": 130763, "pred": "1. suck 2. mare 3. lye 4. doubt 5. disclosure 6. stock-in-trade 7. raise 8. antiquity 9. satellite 10. bless<|eot_id|>", "needle": ["abrogation", "weave", "earthy", "apparel", "emotion", "unpack", "constant", "hungry", "suck", "naughty"], "score": 0.1}
+{"ctx_len": 130779, "pred": "1. mean 2. date 3. filthy 4. language 5. shack 6. dive 7. complete 8. trigger 9. immense 10. lacking<|eot_id|>", "needle": ["reporter", "calibre", "escalator", "plantation", "downtown", "SUV", "biopsy", "tectonics", "pipe", "stot"], "score": 0.0}
+{"ctx_len": 130676, "pred": "1. housewife 2. straw 3. intensify 4. interchange 5. main 6. mud 7. decision-making 8. yesterday 9. puncture 10. withstand<|eot_id|>", "needle": ["kill", "expand", "wealth", "puny", "savage", "evolution", "leverage", "set", "normalization", "packet"], "score": 0.0}
+{"ctx_len": 130773, "pred": "1. the 2. and 3. a 4. of 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["pendant", "unblinking", "parachute", "perennial", "coincidence", "equal", "chick", "rhythm", "asterisk", "column"], "score": 0.0}
+{"ctx_len": 130781, "pred": "1. trachoma 2. moai 3. abundant 4. supermarket 5. transportation 6. surround 7. equinox 8. alight 9. rawhide 10. portfolio<|eot_id|>", "needle": ["offence", "skin", "lady", "moai", "plead", "trachoma", "bet", "open", "blog", "surrounds"], "score": 0.2}
+{"ctx_len": 130726, "pred": "1. speakerphone 2. gazebo 3. sir 4. fisting 5. quadrant 6. directory 7. garbage 8. manufacturer 9. aluminum 10. outline<|eot_id|>", "needle": ["aluminum", "somersault", "gazebo", "pennant", "full", "former", "clearing", "speakerphone", "eat", "lace"], "score": 0.3}
+{"ctx_len": 130913, "pred": "1. nonbeliever 2. halting 3. vault 4. porpoise 5. episode 6. enjoy 7. lethal 8. good 9. good 10. elver<|eot_id|>", "needle": ["nectar", "mozzarella", "province", "garb", "pearl", "beef", "catacomb", "interloper", "puncture", "counterpart"], "score": 0.0}
+{"ctx_len": 130694, "pred": "1. career 2. slit 3. infiltration 4. barrier 5. innovation 6. pace 7. outback 8. pain 9. flare 10. combine<|eot_id|>", "needle": ["pliers", "interpret", "minority", "slit", "doubt", "profess", "dynamic", "twist", "career", "correlate"], "score": 0.2}
+{"ctx_len": 130677, "pred": "1. mail 2. sheath 3. driving 4. runner 5. detective 6. numeric 7. futon 8. tile 9. knowledge 10. authorization<|eot_id|>", "needle": ["utilization", "scatter", "cool", "hardcover", "justify", "exam", "swing", "uneven", "authorization", "destroy"], "score": 0.1}
+{"ctx_len": 130762, "pred": "1. meatloaf 2. lopsided 3. fanatical 4. express 5. shine 6. preset 7. remark 8. classification 9. darn 10. come<|eot_id|>", "needle": ["phobic", "influence", "ghost", "sanctity", "vehicle", "sunglasses", "electricity", "determine", "comeback", "friction"], "score": 0.0}
+{"ctx_len": 130849, "pred": "1. underpass 2. kettledrum 3. ashamed 4. survey 5. clothe 6. contain 7. plastic 8. slapstick 9. statue 10. piquant<|eot_id|>", "needle": ["piquant", "classroom", "fact", "underpass", "program", "significance", "acupuncture", "kettledrum", "revenue", "clearing"], "score": 0.3}
+{"ctx_len": 130717, "pred": "1. name 2. quality 3. kick-off 4. daisy 5. mood 6. razor 7. novel 8. planning 9. paragraph 10. transaction<|eot_id|>", "needle": ["money", "quantity", "jail", "thorn", "tasteless", "satisfying", "operating", "application", "command", "fiery"], "score": 0.0}
+{"ctx_len": 130772, "pred": "1. the 2. and 3. a 4. of 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["alike", "plead", "strong", "suite", "rediscovery", "agony", "remember", "timetable", "angstrom", "headlight"], "score": 0.0}
+{"ctx_len": 130886, "pred": "1. obtain 2. bestseller 3. robin 4. pruner 5. collateral 6. dip 7. counsellor 8. factory 9. inflammation 10. neighbour<|eot_id|>", "needle": ["boundless", "circumstance", "unibody", "registry", "semester", "express", "hesitant", "beggar", "whorl", "actress"], "score": 0.0}
+{"ctx_len": 130746, "pred": "1. toilet 2. analyze 3. shark 4. gastronomy 5. teletype 6. generator 7. lawyer 8. construct 9. antique 10. nitrogen<|eot_id|>", "needle": ["toilet", "colony", "entrance", "moor", "cake", "ownership", "aide", "epoxy", "periodical", "grill"], "score": 0.1}
+{"ctx_len": 130756, "pred": "1. wifi 2. scold 3. known 4. tourism 5. fraudster 6. session 7. milepost 8. rampant 9. postbox 10. raccoon<|eot_id|>", "needle": ["motel", "quickest", "grumpy", "feature", "ashamed", "study", "end", "discourse", "situation", "brainy"], "score": 0.0}
+{"ctx_len": 130848, "pred": "1. awareness 2. salmon 3. forget 4. roof 5. somber 6. shoe-horn 7. wheat 8. magic 9. usual 10. operate<|eot_id|>", "needle": ["bolero", "choke", "handsome", "townhouse", "eclipse", "guttural", "frock", "do", "fire", "afternoon"], "score": 0.0}
+{"ctx_len": 130757, "pred": "1. noise 2. tendency 3. maize 4. barometer 5. smiling 6. innovation 7. alpha 8. company 9. meme 10. faint<|eot_id|>", "needle": ["geography", "sparrow", "fax", "chap", "bucket", "frail", "destroy", "trafficker", "halibut", "constraint"], "score": 0.0}
+{"ctx_len": 130786, "pred": "1. dentist 2. reliability 3. depressed 4. crime 5. chapel 6. lunchroom 7. accelerate 8. chapel 9. appetite 10. intercourse<|eot_id|>", "needle": ["divergent", "irritate", "productive", "archer", "badge", "route", "deep", "gum", "wry", "sensitive"], "score": 0.0}
+{"ctx_len": 130692, "pred": "1. sonar 2. radio 3. tabletop 4. ruby 5. damaging 6. way 7. ruby 8. spirituality 9. word 10. way<|eot_id|>", "needle": ["passive", "lively", "feed", "tabletop", "gossip", "earth", "survivor", "willingness", "radio", "sonar"], "score": 0.3}
+{"ctx_len": 130767, "pred": "1. stucco 2. folder 3. kill 4. logic 5. victorious 6. conduct 7. matrix 8. dispatch 9. famous 10. breakable<|eot_id|>", "needle": ["folder", "bra", "lawn", "famous", "wrist", "breed", "pack", "stucco", "row", "snobbish"], "score": 0.3}
+{"ctx_len": 130837, "pred": "1. stopsign 2. pinecone 3. prepare 4. formamide 5. testament 6. gynaecology 7. exaggeration 8. smog 9. concentrate 10. devil<|eot_id|>", "needle": ["stopsign", "peer", "introduction", "printer", "certification", "report", "cupcake", "analyst", "shoot", "misplacement"], "score": 0.1}
+{"ctx_len": 130911, "pred": "1. mud 2. professor 3. elegant 4. ham 5. warlock 6. angstrom 7. hapless 8. disability 9. freon 10. war<|eot_id|>", "needle": ["chug", "ephemeris", "bag", "mud", "sidecar", "integration", "chalk", "coverall", "upstairs", "oar"], "score": 0.1}
+{"ctx_len": 130895, "pred": "1. data 2. get 3. alder 4. quince 5. koala 6. bongo 7. saloon 8. cob 9. bower 10. photodiode<|eot_id|>", "needle": ["torpid", "bower", "semicolon", "compress", "tonight", "odyssey", "fate", "photodiode", "data", "alder"], "score": 0.4}
+{"ctx_len": 130848, "pred": "1. shoat 2. sonar 3. trustee 4. moustache 5. imaginary 6. communicate 7. increase 8. price 9. difficulty 10. pressure<|eot_id|>", "needle": ["hexagon", "station-wagon", "greedy", "shoat", "git", "trapdoor", "marker", "anxiety", "sonar", "well-being"], "score": 0.2}
+{"ctx_len": 130832, "pred": "1. decision-making 2. dearest 3. zoom 4. dreamer 5. amuck 6. spoil 7. kindhearted 8. eternity 9. mankind 10. jackfruit<|eot_id|>", "needle": ["inscription", "hook", "molasses", "match", "stencil", "bronze", "charity", "developing", "rehospitalization", "dish"], "score": 0.0}
+{"ctx_len": 130802, "pred": "1. education 2. chandelier 3. biology 4. ancient 5. lollipop 6. thrift 7. apology 8. sunbonnet 9. canopy 10. vector<|eot_id|>", "needle": ["titanium", "engagement", "checkout", "veneer", "saw", "assorted", "defender", "amazement", "education", "humdrum"], "score": 0.1}
+{"ctx_len": 130734, "pred": "1. progenitor 2. lightning 3. pruner 4. stitch 5. clearance 6. opossum 7. beach 8. ficlet 9. pinto 10. washtub<|eot_id|>", "needle": ["velodrome", "scene", "fine", "progenitor", "groovy", "conductor", "film", "fatigue", "recreation", "gossip"], "score": 0.1}
+{"ctx_len": 130784, "pred": "1. appear 2. site 3. bond 4. paranoia 5. cilantro 6. signup 7. accelerator 8. silent 9. brick 10. explanation<|eot_id|>", "needle": ["architect", "hiccups", "pitching", "tenet", "lawsuit", "chamber", "friend", "magnet", "pigsty", "temp"], "score": 0.0}
+{"ctx_len": 130873, "pred": "1. pipeline 2. president 3. cocktail 4. category 5. pocket 6. constellation 7. android 8. labour 9. questionable 10. locker<|eot_id|>", "needle": ["constellation", "surgery", "cocktail", "category", "catamaran", "pipeline", "pocket", "boogeyman", "president", "rubric"], "score": 0.6}
+{"ctx_len": 130814, "pred": "1. boyfriend 2. sociology 3. sociology 4. sociology 5. sociology 6. sociology 7. sociology 8. sociology 9. sociology 10. sociology<|eot_id|>", "needle": ["punishment", "ride", "school", "blush", "defeated", "tearful", "fact", "refuse", "abortion", "cricketer"], "score": 0.0}
+{"ctx_len": 130869, "pred": "1. relationship 2. security 3. meal 4. lovely 5. first 6. hull 7. industrious 8. godly 9. lovely 10. first<|eot_id|>", "needle": ["arrive", "clergyman", "drab", "security", "nutty", "circadian", "malice", "blocker", "condemned", "racist"], "score": 0.1}
+{"ctx_len": 130829, "pred": "1. button 2. onion 3. latitude 4. motel 5. subdued 6. challenge 7. fraudster 8. dimension 9. bother 10. actor<|eot_id|>", "needle": ["difficult", "chasm", "refuge", "overcharge", "baggy", "alluvium", "university", "thrive", "high-rise", "recognize"], "score": 0.0}
+{"ctx_len": 130731, "pred": "1. hay 2. hydrocarbon 3. idiom 4. charter 5. professor 6. hydrocarbon 7. hydrocarbon 8. hydrocarbon 9. hydrocarbon 10. hydrocarbon<|eot_id|>", "needle": ["recorder", "counterterrorism", "severity", "treat", "stepdaughter", "forehead", "margin", "solitaire", "radiator", "confidentiality"], "score": 0.0}
+{"ctx_len": 130698, "pred": "1. department 2. journey 3. crisp 4. chamber 5. mob 6. botany 7. yourself 8. financing 9. dredger 10. gripper<|eot_id|>", "needle": ["crisp", "construction", "commuter", "piano", "age", "casket", "ease", "vestment", "department", "year"], "score": 0.2}
+{"ctx_len": 130702, "pred": "1. live 2. assistance 3. perfume 4. admire 5. rob 6. page 7. gnat 8. immigrant 9. illegal 10. loving<|eot_id|>", "needle": ["dislike", "consistency", "generate", "assistance", "possible", "tolerant", "saucer", "boyfriend", "live", "lecture"], "score": 0.2}
+{"ctx_len": 130875, "pred": "1. stallion 2. verify 3. pathology 4. allergist 5. supernatural 6. creepy 7. disclosure 8. centurion 9. gem 10. footage<|eot_id|>", "needle": ["woozy", "cirrhosis", "advertisement", "stallion", "geyser", "airmail", "singer", "trace", "screw-up", "appear"], "score": 0.1}
+{"ctx_len": 130779, "pred": "1. sushi 2. mill 3. bare 4. calibre 5. accounting 6. project 7. nanoparticle 8. yak 9. dust 10. anticodon<|eot_id|>", "needle": ["sleet", "fold", "sushi", "cheek", "lend", "thrive", "kilt", "collect", "suede", "advocate"], "score": 0.1}
+{"ctx_len": 130760, "pred": "1. ham 2. sword 3. slump 4. celeriac 5. coherent 6. espadrille 7. revenue 8. carve 9. relax 10. wedge<|eot_id|>", "needle": ["tablet", "whirlwind", "sword", "lamentable", "awe", "foresee", "private", "rock", "ham", "steady"], "score": 0.2}
+{"ctx_len": 130951, "pred": "1. glass 2. licensing 3. judgment 4. abandoned 5. craft 6. stain 7. veldt 8. doll 9. x-rated 10. snobbish<|eot_id|>", "needle": ["faithful", "blackness", "benefit", "sauerkraut", "hungry", "motivate", "curler", "billowy", "underwriting", "fascia"], "score": 0.0}
+{"ctx_len": 130773, "pred": "1. middleman 2. reparation 3. bud 4. truck 5. numismatist 6. speculation 7. asterisk 8. sunset 9. stumbling 10. snowflake<|eot_id|>", "needle": ["bonsai", "utilization", "snowflake", "middleman", "foregoing", "inequality", "parenthesis", "case", "festival", "absent"], "score": 0.2}
+{"ctx_len": 130784, "pred": "1. worker 2. reflection 3. awareness 4. dune 5. hand-holding 6. disaster 7. feather 8. savannah 9. obedience 10. electrocardiogram<|eot_id|>", "needle": ["amuck", "yak", "awareness", "worker", "kiosk", "place", "conserve", "nibble", "reflection", "expose"], "score": 0.3}
+{"ctx_len": 130777, "pred": "1. mom 2. faithful 3. succeed 4. grumpy 5. synthesize 6. soggy 7. armadillo 8. frontier 9. local 10. cornerstone<|eot_id|>", "needle": ["abdomen", "conception", "offset", "mom", "transportation", "tub", "increase", "shoehorn", "faithful", "grumpy"], "score": 0.3}
+{"ctx_len": 130838, "pred": "1. suet 2. job 3. priesthood 4. cadet 5. host 6. intensify 7. substance 8. purpose 9. fraud 10. squeamish<|eot_id|>", "needle": ["suet", "teenager", "burn", "highland", "thanks", "palace", "coleslaw", "isogloss", "killing", "confirmation"], "score": 0.1}
+{"ctx_len": 130832, "pred": "1. mezzanine 2. med 3. legging 4. show-stopper 5. dealing 6. mezzanine 7. med 8. poultry 9. redundant 10. cornerstone<|eot_id|>", "needle": ["official", "recovery", "school", "comestible", "accord", "swell", "neurobiologist", "install", "legging", "elderberry"], "score": 0.1}
+{"ctx_len": 130861, "pred": "1. dolphin 2. observe 3. dawn 4. add 5. wardrobe 6. yin 7. vane 8. graduation 9. reservoir 10. discrimination<|eot_id|>", "needle": ["forage", "apprehension", "drainage", "tadpole", "weekender", "dolphin", "left", "compose", "croup", "silkworm"], "score": 0.1}
+{"ctx_len": 130710, "pred": "1. furniture 2. sparkling 3. excitement 4. equal 5. accept 6. decimal 7. pound 8. death 9. dial 10. buffet<|eot_id|>", "needle": ["timeout", "inlay", "bring", "vitality", "intuition", "early", "offer", "arm", "impulse", "vast"], "score": 0.0}
+{"ctx_len": 130914, "pred": "1. sun 2. giraffe 3. sword 4. wafer 5. roundabout 6. catamaran 7. sunbeam 8. sun 9. trout 10. velodrome<|eot_id|>", "needle": ["dandelion", "pamphlet", "location", "differential", "pricing", "giraffe", "needle", "velodrome", "god", "sun"], "score": 0.3}
+{"ctx_len": 130737, "pred": "1. milk 2. loud 3. sexuality 4. calibre 5. accelerate 6. dueling 7. recognition 8. termite 9. trumpet 10. quartet<|eot_id|>", "needle": ["quartet", "technician", "sepal", "degree", "tease", "shrill", "aggressive", "water", "adjoining", "standardisation"], "score": 0.1}
+{"ctx_len": 130835, "pred": "1. zinc 2. jewel 3. stereo 4. rinse 5. assemble 6. prayer 7. maiden 8. criterion 9. whispering 10. disease<|eot_id|>", "needle": ["mushy", "license", "knot", "breastplate", "clarify", "infarction", "petticoat", "belly", "semiconductor", "century"], "score": 0.0}
+{"ctx_len": 130799, "pred": "1. duckling 2. roadway 3. warfare 4. croissant 5. restructuring 6. occurrence 7. zealous 8. terrarium 9. shrug 10. marines<|eot_id|>", "needle": ["duckling", "agent", "restructuring", "marines", "colorlessness", "playground", "nebulous", "roadway", "underwear", "maternity"], "score": 0.4}
+{"ctx_len": 130773, "pred": "1. physics 2. windscreen 3. fiddle 4. daffy 5. suggestion 6. jewel 7. diner 8. mound 9. torso 10. self-control<|eot_id|>", "needle": ["sneakers", "cultured", "naive", "skunk", "status", "saucer", "physics", "remember", "fundraising", "bank"], "score": 0.1}
+{"ctx_len": 130742, "pred": "1. grandpa 2. sandpaper 3. beauty 4. nightlife 5. sandal 6. shoe 7. core 8. halloween 9. workhorse 10. netbook<|eot_id|>", "needle": ["grandpa", "prepare", "hockey", "cracker", "proposition", "lifted", "burglar", "cohesion", "standpoint", "assurance"], "score": 0.1}
+{"ctx_len": 130824, "pred": "1. notepad 2. choir 3. painstaking 4. gavel 5. shine 6. teaching 7. amuse 8. soup 9. heart-throb 10. ingrate<|eot_id|>", "needle": ["hail", "castanet", "trellis", "protect", "alteration", "cowbell", "gadget", "likeable", "pen", "reward"], "score": 0.0}
+{"ctx_len": 130814, "pred": "1. desktop 2. tweezers 3. majestic 4. brandy 5. okra 6. misty 7. babushka 8. rawhide 9. ragged 10. ignorance<|eot_id|>", "needle": ["conservative", "locomotive", "reform", "abortive", "opera", "desktop", "relish", "prizefight", "name", "queen"], "score": 0.1}
+{"ctx_len": 130817, "pred": "1. sneaker 2. gas 3. identify 4. campaigning 5. ad hoc 6. embryo 7. classification 8. century 9. gondola 10. nibble<|eot_id|>", "needle": ["revenue", "brink", "unadvised", "sneaker", "walking", "sedate", "misreading", "gratitude", "manufacturer", "enhance"], "score": 0.1}
+{"ctx_len": 130800, "pred": "1. use 2. armchair 3. originate 4. solicitation 5. yurt 6. award 7. raffle 8. refreshments 9. pool 10. fast<|eot_id|>", "needle": ["imaginary", "rainmaker", "inventory", "possession", "syndrome", "concern", "imbalance", "armchair", "webpage", "gale"], "score": 0.1}
+{"ctx_len": 130721, "pred": "1. orchid 2. tourism 3. cabinet 4. quail 5. finer 6. wiretap 7. sand 8. default 9. factory 10. seeder<|eot_id|>", "needle": ["tourism", "brake", "maintain", "import", "pipe", "orchid", "respect", "admit", "company", "itinerary"], "score": 0.2}
+{"ctx_len": 130835, "pred": "1. terrarium 2. neighborhood 3. lip 4. element 5. flood 6. poll 7. banquette 8. observation 9. attribute 10. aggression<|eot_id|>", "needle": ["neighborhood", "mix", "astronomy", "encourage", "trove", "terrarium", "refuse", "tarragon", "dungeon", "overjoyed"], "score": 0.2}
+{"ctx_len": 130908, "pred": "1. attendance 2. sash 3. exile 4. macro 5. cut 6. hyena 7. relax 8. shawl 9. symmetry 10. trapezium<|eot_id|>", "needle": ["voice", "carabao", "battleship", "alpha", "time", "tadpole", "horn", "analgesia", "attendance", "envelope"], "score": 0.1}
+{"ctx_len": 130850, "pred": "1. merciful 2. candidacy 3. running 4. catalogue 5. fair 6. maggot 7. decongestant 8. weep 9. foray 10. thumb<|eot_id|>", "needle": ["commandment", "hunter", "formicarium", "trading", "sir", "timeline", "poverty", "desktop", "quail", "wretched"], "score": 0.0}
+{"ctx_len": 130880, "pred": "1. jicama 2. plead 3. fraud 4. splendor 5. super 6. bake 7. yoga 8. teeny-tiny 9. mixture 10. appetizer<|eot_id|>", "needle": ["unblinking", "halibut", "starter", "develop", "lighten", "ptarmigan", "geranium", "democracy", "fairy", "minimum"], "score": 0.0}
+{"ctx_len": 130730, "pred": "1. plantation 2. match 3. straw 4. disarm 5. cashier 6. warm-up 7. buze 8. signet 9. quote 10. nanoparticle<|eot_id|>", "needle": ["fantasy", "electronics", "veteran", "backburn", "sentiment", "thunder", "glut", "raid", "orchestra", "campaign"], "score": 0.0}
+{"ctx_len": 130606, "pred": "1. station-wagon 2. cartilage 3. chronicle 4. journey 5. elicit 6. compromise 7. hydrolysis 8. functional 9. senate 10. junket<|eot_id|>", "needle": ["strike", "flashy", "story", "nonsense", "programme", "straw", "filing", "asymmetry", "shape", "altar"], "score": 0.0}
+{"ctx_len": 130713, "pred": "1. spiffy 2. tumbler 3. scientific 4. discover 5. tenant 6. succeed 7. mini-skirt 8. statistics 9. poetry 10. summit<|eot_id|>", "needle": ["rejoice", "frost", "strength", "let", "loving", "jasmine", "bud", "pancake", "tawdry", "brief"], "score": 0.0}
+{"ctx_len": 130796, "pred": "1. foamy 2. chaise 3. flax 4. eyelid 5. soccer 6. addicted 7. irate 8. scissors 9. album 10. receptive<|eot_id|>", "needle": ["wasp", "foamy", "steady", "removal", "brochure", "termite", "snowplow", "blossom", "output", "pump"], "score": 0.1}
+{"ctx_len": 130683, "pred": "1. assembly 2. microlending 3. joke 4. subway 5. hamburger 6. nickel 7. phase 8. blank 9. journalist 10. fretful<|eot_id|>", "needle": ["controller", "work", "lender", "tailbud", "cascade", "mediate", "amber", "time", "substance", "milk"], "score": 0.0}
+{"ctx_len": 130771, "pred": "1. spreadsheet 2. ram 3. cocktail 4. groovy 5. pest 6. clarify 7. niece 8. riverbed 9. shoes 10. catalogue<|eot_id|>", "needle": ["ram", "vanish", "grandfather", "bafflement", "stair", "zoo", "spreadsheet", "hang", "coevolution", "wit"], "score": 0.2}
+{"ctx_len": 130797, "pred": "1. airfare 2. papaya 3. ashram 4. symbolize 5. apologize 6. gastronomy 7. oatmeal 8. embarrassed 9. predict 10. preface<|eot_id|>", "needle": ["fog", "inflation", "papaya", "fierce", "fearless", "vendor", "airfare", "legend", "compost", "molding"], "score": 0.2}
+{"ctx_len": 130920, "pred": "1. waterwheel 2. airline 3. exocrine 4. horn 5. slippers 6. conservative 7. veldt 8. candelabra 9. liquidity 10. cactus<|eot_id|>", "needle": ["prince", "zucchini", "pusher", "digestive", "waterwheel", "sardine", "gabby", "cafe", "devilish", "expansion"], "score": 0.1}
+{"ctx_len": 130664, "pred": "1. extension 2. frequency 3. succeed 4. foolish 5. snowboarding 6. cohort 7. timer 8. tent 9. dose 10. furry<|eot_id|>", "needle": ["extension", "graduation", "counsel", "curious", "opinion", "merit", "people", "twins", "toothpick", "frequency"], "score": 0.2}
+{"ctx_len": 130771, "pred": "1. eating 2. airship 3. guava 4. freon 5. twins 6. aboard 7. commonsense 8. heart 9. swamp 10. sty<|eot_id|>", "needle": ["quota", "piccolo", "captain", "airship", "nose", "tricky", "aloof", "guava", "eating", "cutlet"], "score": 0.3}
+{"ctx_len": 130771, "pred": "1. housewife 2. snake 3. day 4. headquarters 5. destroy 6. malnutrition 7. learn 8. front 9. economy 10. cheesecake<|eot_id|>", "needle": ["yellow", "spiral", "removal", "preserve", "sill", "housewife", "guerrilla", "mattock", "divine", "intervenor"], "score": 0.1}
+{"ctx_len": 130780, "pred": "1. sunroom 2. bounce 3. independence 4. aberrant 5. training 6. settle 7. choke 8. detect 9. homicide 10. curry<|eot_id|>", "needle": ["homeland", "trot", "stormy", "available", "spat", "gasket", "gaiters", "ruddy", "chapter", "tight"], "score": 0.0}
+{"ctx_len": 130747, "pred": "1. factory 2. thoughtless 3. strength 4. mining 5. formula 6. spending 7. ozone 8. nation 9. spectacular 10. strength<|eot_id|>", "needle": ["thoughtless", "attorney", "fun", "insurrection", "leather", "detect", "caramel", "goodness", "factory", "veneer"], "score": 0.2}
+{"ctx_len": 130796, "pred": "1. strawman 2. expectation 3. kept 4. personal 5. princess 6. hamster 7. listening 8. excitement 9. real 10. timing<|eot_id|>", "needle": ["bassoon", "drain", "odyssey", "strawman", "miscommunication", "creepy", "grasshopper", "lantern", "expectation", "spite"], "score": 0.2}
+{"ctx_len": 130758, "pred": "1. doughnut 2. music-box 3. belfry 4. cocoa 5. vitamin 6. regionalism 7. mode 8. discount 9. grandiose 10. discount<|eot_id|>", "needle": ["doughnut", "lag", "corporatism", "tasty", "emergency", "latency", "poet", "array", "dusk", "induce"], "score": 0.1}
+{"ctx_len": 130523, "pred": "1. interface 2. instruction 3. imperfect 4. businessman 5. craw 6. cuddly 7. succeed 8. publishing 9. boat 10. flock<|eot_id|>", "needle": ["motionless", "factory", "tell", "surgeon", "professional", "ham", "smelly", "maid", "outcome", "establish"], "score": 0.0}
+{"ctx_len": 130666, "pred": "1. basis 2. respite 3. endorsement 4. slap 5. campaigning 6. junker 7. soak 8. eternity 9. domain 10. mask<|eot_id|>", "needle": ["ridge", "thrill", "poem", "shanty", "beheading", "feedback", "souvenir", "grandma", "cohesion", "fact"], "score": 0.0}
+{"ctx_len": 130727, "pred": "1. outside 2. alcohol 3. woolens 4. hypnotic 5. obedience 6. shaker 7. fireplace 8. nosy 9. explosion 10. fly<|eot_id|>", "needle": ["factor", "synthesize", "catcher", "investigator", "intent", "communication", "collision", "remove", "obedience", "seeker"], "score": 0.1}
+{"ctx_len": 130792, "pred": "1. own 2. dramatic 3. jot 4. wonder 5. pomelo 6. exception 7. investigator 8. dolor 9. succotash 10. fibroblast<|eot_id|>", "needle": ["print", "show", "dhow", "fuzzy", "domain", "great-grandmother", "malice", "chairman", "gaffe", "direction"], "score": 0.0}
+{"ctx_len": 130859, "pred": "1. mapping 2. provide 3. step-brother 4. flag 5. ex-wife 6. silver 7. aftershave 8. underpants 9. step-grandfather 10. freight<|eot_id|>", "needle": ["tendency", "chit-chat", "perpendicular", "erratic", "sadness", "mansard", "whole", "periodical", "freight", "hint"], "score": 0.1}
+{"ctx_len": 130950, "pred": "1. home 2. bondsman 3. lazy 4. keyboarding 5. skylight 6. home 7. rehospitalization 8. burly 9. pantyhose 10. gym<|eot_id|>", "needle": ["dreamer", "citizen", "wisteria", "mariachi", "theater", "embarrassed", "waterspout", "pleat", "little", "reflect"], "score": 0.0}
+{"ctx_len": 130721, "pred": "1. congress 2. congressperson 3. freelance 4. congress 5. congress 6. congress 7. congress 8. congress 9. congress 10. congress<|eot_id|>", "needle": ["mattock", "accordion", "elegant", "password", "fix", "infarction", "freelance", "clearing", "quaint", "validate"], "score": 0.1}
+{"ctx_len": 130809, "pred": "1. longboat 2. ophthalmologist 3. observe 4. plausible 5. crust 6. archives 7. moldy 8. criterion 9. accept 10. ophthalmologist<|eot_id|>", "needle": ["longboat", "nifty", "coupon", "octagon", "baggie", "distortion", "chocolate", "collect", "grit", "sloppy"], "score": 0.1}
+{"ctx_len": 130779, "pred": "1. pathway 2. brunch 3. fill 4. pregnancy 5. colonization 6. loss 7. success 8. geography 9. paper 10. extent<|eot_id|>", "needle": ["sultan", "capability", "meringue", "pregnancy", "tributary", "puzzled", "anise", "belief", "ficlet", "interpretation"], "score": 0.1}
+{"ctx_len": 130801, "pred": "1. dogsled 2. guide 3. coaster 4. dioxide 5. fashion 6. scribble 7. steal 8. temporary 9. magnitude 10. chive<|eot_id|>", "needle": ["brash", "buffer", "destiny", "dogsled", "fiery", "hurdle", "discrimination", "jodhpurs", "miniature", "bond"], "score": 0.1}
+{"ctx_len": 130748, "pred": "1. sunlamp 2. select 3. manage 4. test 5. kidney 6. broccoli 7. principal 8. method 9. polarisation 10. in-laws<|eot_id|>", "needle": ["glass", "cupola", "stew", "base", "hearthside", "number", "software", "hatchling", "warn", "heating"], "score": 0.0}
+{"ctx_len": 130798, "pred": "1. sweatshirt 2. sweat 3. penguin 4. sweat 5. penguin 6. sweat 7. sweat 8. sweat 9. sweat 10. sweat<|eot_id|>", "needle": ["pirate", "ramie", "cuticle", "workable", "detection", "attach", "tradition", "exposition", "feather", "belong"], "score": 0.0}
+{"ctx_len": 130782, "pred": "1. podcast 2. agreement 3. ceremony 4. merchant 5. scripture 6. rabbi 7. distribute 8. typewriter 9. rehospitalization 10. decorous<|eot_id|>", "needle": ["setting", "rinse", "pork", "tandem", "semicolon", "encirclement", "sensitive", "include", "cameo", "podcast"], "score": 0.1}
+{"ctx_len": 130767, "pred": "1. gaming 2. welfare 3. composite 4. excess 5. enjoy 6. mid-course 7. messenger 8. battalion 9. lively 10. decoration<|eot_id|>", "needle": ["plight", "hydrant", "napkin", "latex", "cotton", "welfare", "hemp", "composite", "gaming", "sarong"], "score": 0.3}
+{"ctx_len": 130784, "pred": "1. succotash 2. footrest 3. inhibition 4. in-laws 5. making 6. sleep 7. hysterical 8. portfolio 9. president 10. pork<|eot_id|>", "needle": ["receptive", "captor", "view", "inspire", "regulate", "sticker", "hatred", "catch", "succotash", "missionary"], "score": 0.1}
+{"ctx_len": 130700, "pred": "1. back 2. goggles 3. clarity 4. pattern 5. interchange 6. pine 7. cot 8. piglet 9. mound 10. buggy<|eot_id|>", "needle": ["pacemaker", "stamp", "ceaseless", "mass", "hoe", "anterior", "bee", "retirement", "convenience", "efficacious"], "score": 0.0}
+{"ctx_len": 130807, "pred": "1. jasmine 2. podcast 3. tease 4. adapter 5. snowstorm 6. vice 7. windshield 8. heaven 9. county 10. meddle<|eot_id|>", "needle": ["experience", "terrarium", "average", "venue", "fat", "grandfather", "microlending", "ludicrous", "efficiency", "tortoise"], "score": 0.0}
+{"ctx_len": 130860, "pred": "1. someplace 2. muscat 3. salesman 4. fusarium 5. geranium 6. cheque 7. songbird 8. spiffy 9. neuron 10. advertisement<|eot_id|>", "needle": ["hydrolyze", "respite", "contact lens", "edible", "fuzzy", "rough", "hotdog", "pet", "dimple", "muscat"], "score": 0.1}
+{"ctx_len": 130756, "pred": "1. software 2. spotless 3. mastoid 4. cohesion 5. detective 6. squatter 7. discharge 8. broker 9. wend 10. beastie<|eot_id|>", "needle": ["salty", "migration", "quote", "dew", "grief", "netball", "uncle", "bikini", "sensibility", "pursuit"], "score": 0.0}
+{"ctx_len": 130865, "pred": "1. bootie 2. charlatan 3. frightened 4. title 5. clasp 6. amber 7. doctrine 8. pretend 9. anchovy 10. great-grandmother<|eot_id|>", "needle": ["bootie", "comradeship", "sushi", "great-grandmother", "congress", "verve", "justice", "instance", "subexpression", "outline"], "score": 0.2}
+{"ctx_len": 130901, "pred": "1. current 2. harvester 3. shoestring 4. screw 5. classification 6. odd 7. grandiose 8. grandparent 9. kangaroo 10. polo<|eot_id|>", "needle": ["harvester", "west", "chop", "hissing", "pile", "musician", "vanadyl", "bonnet", "polo", "duration"], "score": 0.2}
+{"ctx_len": 130795, "pred": "1. lettuce 2. peach 3. wreck 4. carpenter 5. ejector 6. lung 7. mid-course 8. eyelid 9. sustenance 10. text<|eot_id|>", "needle": ["accept", "frequency", "counter-force", "veterinarian", "blackfish", "ratty", "havoc", "knitting", "wrong", "stream"], "score": 0.0}
+{"ctx_len": 130738, "pred": "1. astronomy 2. cyclamen 3. resistance 4. shipyard 5. training 6. abolishment 7. scam 8. arrogance 9. ravioli 10. ravioli<|eot_id|>", "needle": ["intensity", "antibody", "astronomy", "gaffe", "knee", "gadget", "succinct", "niece", "birdcage", "silly"], "score": 0.1}
+{"ctx_len": 130934, "pred": "1. anything 2. anything 3. anything 4. anything 5. anything 6. anything 7. anything 8. anything 9. anything 10. anything<|eot_id|>", "needle": ["possession", "contract", "jury", "cirrhosis", "cape", "aardvark", "waggish", "marmalade", "nonsense", "guilt"], "score": 0.0}
+{"ctx_len": 130891, "pred": "1. hear 2. word 3. laparoscope 4. madam 5. abashed 6. casserole 7. safe 8. pot 9. magenta 10. magenta<|eot_id|>", "needle": ["coral", "crewmen", "scientific", "trinket", "underweight", "tassel", "yew", "caramel", "magazine", "campus"], "score": 0.0}
+{"ctx_len": 130751, "pred": "1. nun 2. pneumonia 3. melt 4. carabao 5. brass 6. digestion 7. ruffle 8. baker 9. white 10. stepdaughter<|eot_id|>", "needle": ["block", "complement", "competence", "care", "wound", "avalanche", "vista", "military", "stepdaughter", "anarchist"], "score": 0.1}
+{"ctx_len": 130868, "pred": "1. dialogue 2. brushing 3. step-mother 4. clergyman 5. uplift 6. slippers 7. designation 8. ahead 9. inclusion 10. ahead<|eot_id|>", "needle": ["alpaca", "opium", "tremor", "dialogue", "ash", "puggle", "notation", "piquant", "institute", "personal"], "score": 0.1}
+{"ctx_len": 130923, "pred": "1. fancy 2. hornet 3. identity 4. curious 5. tarragon 6. need 7. aftershave 8. rocket 9. creep 10. lilac<|eot_id|>", "needle": ["land", "nucleotidase", "finicky", "tasteful", "university", "hate", "warden", "time", "relate", "licorice"], "score": 0.0}
+{"ctx_len": 130744, "pred": "1. pier 2. sprag 3. pier 4. pier 5. pier 6. pier 7. pier 8. pier 9. pier 10. pier<|eot_id|>", "needle": ["pier", "responsibility", "jittery", "git", "begonia", "wrap", "lend", "cough", "sprag", "complexity"], "score": 0.2}
+{"ctx_len": 130821, "pred": "1. input 2. feng 3. stepdaughter 4. basketball 5. facet 6. agree 7. sad 8. rainy 9. rye 10. nappy<|eot_id|>", "needle": ["footrest", "insectarium", "pirate", "camera", "cargo", "filthy", "illiteracy", "wolf", "abject", "cesspool"], "score": 0.0}
+{"ctx_len": 130805, "pred": "1. slimy 2. thought 3. approach 4. choir 5. width 6. crazy 7. chops 8. strip 9. kite 10. fountain<|eot_id|>", "needle": ["adjustment", "obtainable", "decade", "slimy", "whisker", "decorous", "gambling", "whirlwind", "realization", "treaty"], "score": 0.1}
+{"ctx_len": 130745, "pred": "1. hovel 2. pilgrimage 3. yarn 4. utilization 5. strength 6. tabby 7. sloppy 8. biplane 9. scam 10. regionalism<|eot_id|>", "needle": ["cushion", "chalet", "recess", "show", "eye", "teller", "respond", "weapon", "coordinate", "jumpsuit"], "score": 0.0}
+{"ctx_len": 130787, "pred": "1. sable 2. ecumenist 3. caffeine 4. temper 5. gainful 6. annual 7. sesame 8. consistency 9. otter 10. epic<|eot_id|>", "needle": ["sable", "corporatism", "wanting", "cage", "celeriac", "hip", "offense", "controversy", "midden", "consciousness"], "score": 0.1}
+{"ctx_len": 130714, "pred": "1. automaton 2. rightful 3. workout 4. sweep 5. headline 6. cultivator 7. mutton 8. snail 9. alphabet 10. mink<|eot_id|>", "needle": ["love", "lava", "reference", "antique", "harass", "stimulate", "damp", "automaton", "rightful", "laugh"], "score": 0.2}
+{"ctx_len": 130764, "pred": "1. mother 2. casserole 3. shin 4. counter 5. realize 6. nucleotide 7. vernacular 8. forest 9. poetry 10. vacuum<|eot_id|>", "needle": ["festive", "stitch", "offence", "mother", "shin", "coalition", "casserole", "sightseeing", "mask", "ratio"], "score": 0.3}
+{"ctx_len": 130741, "pred": "1. Tale 2. Shout 3. Defiant 4. Black 5. Strait 6. Beam 7. Sneakers 8. Pan 9. Invitation 10. Antling<|eot_id|>", "needle": ["alphabet", "hatred", "remember", "violence", "birch", "archaeologist", "domination", "fisting", "peak", "dealing"], "score": 0.0}
+{"ctx_len": 130933, "pred": "1. company 2. ashram 3. fall 4. soy 5. video 6. crew 7. breathe 8. tract 9. verdant 10. cucumber<|eot_id|>", "needle": ["attorney", "loss", "highway", "obeisant", "pupa", "cross-stitch", "off-ramp", "guarded", "sabre", "leeway"], "score": 0.0}
+{"ctx_len": 130760, "pred": "1. motorboat 2. oak 3. assignment 4. clothing 5. auction 6. solidarity 7. cottage 8. squatter 9. typewriter 10. shoehorn<|eot_id|>", "needle": ["observation", "dispatch", "dill", "oak", "retirement", "motorboat", "assignment", "safety", "hardening", "option"], "score": 0.3}
+{"ctx_len": 130899, "pred": "1. caddy 2. divide 3. ancient 4. mythology 5. sore 6. alfalfa 7. farrow 8. refusal 9. millet 10. ownership<|eot_id|>", "needle": ["impress", "angiosperm", "papaya", "lizard", "tinkle", "walrus", "workforce", "championship", "silkworm", "blackbird"], "score": 0.0}
+{"ctx_len": 130747, "pred": "1. rowing 2. lard 3. trainer 4. athlete 5. inform 6. rationale 7. library 8. liberty 9. parka 10. octave<|eot_id|>", "needle": ["fantasy", "stitch", "bassoon", "port", "collision", "comfortable", "rowing", "spelt", "arrogant", "winery"], "score": 0.1}
+{"ctx_len": 130815, "pred": "1. congregation 2. progenitor 3. moonshine 4. arbitrate 5. ambassador 6. rhythm 7. fountain 8. sermon 9. courtroom 10. chamber<|eot_id|>", "needle": ["glossy", "sculptural", "fascia", "worship", "synthesis", "walkway", "yoyo", "close", "heritage", "arrogant"], "score": 0.0}
+{"ctx_len": 130779, "pred": "1. friction 2. backburn 3. loincloth 4. culture 5. mall 6. farrow 7. vine 8. period 9. party 10. velodrome<|eot_id|>", "needle": ["cartload", "spring", "activist", "disarm", "subsection", "victory", "pavilion", "statute", "pacemaker", "bid"], "score": 0.0}
+{"ctx_len": 130727, "pred": "1. notebook 2. geography 3. heater 4. jumper 5. babushka 6. nostalgic 7. integrity 8. garter 9. catalysis 10. pull<|eot_id|>", "needle": ["shoulder", "worm", "cabinet", "textbook", "prey", "rawhide", "ram", "belfry", "longing", "loving"], "score": 0.0}
+{"ctx_len": 130841, "pred": "1. secretary 2. sailboat 3. romance 4. pruner 5. stucco 6. story-telling 7. research 8. interpretation 9. trapdoor 10. lymphocyte<|eot_id|>", "needle": ["lymphocyte", "chaplain", "trail", "dew", "jellyfish", "nail", "spank", "tumble", "fallacy", "consider"], "score": 0.1}
+{"ctx_len": 130748, "pred": "1. mean 2. assertion 3. produce 4. smooth 5. pants 6. marketplace 7. dynasty 8. little 9. mambo 10. buze<|eot_id|>", "needle": ["thrush", "scent", "assertion", "buze", "hypothesis", "mambo", "tiny", "selection", "little", "dash"], "score": 0.4}
+{"ctx_len": 130699, "pred": "1. rain 2. cirrus 3. modification 4. carve 5. embarrassed 6. inlay 7. fit 8. unemployment 9. winner 10. hail<|eot_id|>", "needle": ["embarrassed", "clear", "produce", "modification", "jellyfish", "coordination", "genre", "dart", "cirrus", "attainment"], "score": 0.3}
+{"ctx_len": 130741, "pred": "1. blackfish 2. ziggurat 3. pelican 4. elderly 5. politician 6. alpaca 7. authority 8. league 9. exuberant 10. pink<|eot_id|>", "needle": ["stain", "miss", "property", "unity", "citizen", "lovely", "chassis", "eyelid", "twist", "blackfish"], "score": 0.1}
+{"ctx_len": 130802, "pred": "1. fishbone 2. aunt 3. activation 4. headquarters 5. shadowbox 6. daily 7. schooner 8. net 9. soup 10. vulture<|eot_id|>", "needle": ["pouch", "waistband", "spike", "stranger", "peaceful", "painting", "tandem", "cornet", "elver", "necktie"], "score": 0.0}
+{"ctx_len": 130755, "pred": "1. clergyman 2. sponsorship 3. picnic 4. windage 5. shortwave 6. builder 7. panoramic 8. coevolution 9. meander 10. channel<|eot_id|>", "needle": ["windage", "sponsorship", "network", "journey", "grove", "matter", "clergyman", "picnic", "table", "bloody"], "score": 0.4}
+{"ctx_len": 130840, "pred": "1. translation 2. eel 3. residue 4. surround 5. eel 6. porpoise 7. meteor 8. swordfight 9. become 10. lens<|eot_id|>", "needle": ["assure", "constitution", "approve", "trapdoor", "patience", "company", "fisherman", "offense", "picayune", "creationism"], "score": 0.0}
+{"ctx_len": 130668, "pred": "1. veal 2. cinder 3. fetch 4. ex-wife 5. range 6. salesman 7. amazon 8. hold 9. seagull 10. stormy<|eot_id|>", "needle": ["exhibition", "spawn", "grind", "break", "scrambled", "cliff", "erosion", "veal", "royal", "peripheral"], "score": 0.1}
+{"ctx_len": 130821, "pred": "1. injury 2. hop 3. dysfunction 4. cutting 5. chassis 6. hang 7. case 8. fight 9. category 10. furniture<|eot_id|>", "needle": ["crucifixion", "arrogance", "penalty", "legislator", "story", "diamond", "menopause", "ambulance", "shortwave", "endothelium"], "score": 0.0}
+{"ctx_len": 130707, "pred": "1. young 2. altered 3. miracle 4. paste 5. textbook 6. gem 7. independence 8. stance 9. unbecoming 10. wring<|eot_id|>", "needle": ["trapdoor", "risk", "pinafore", "whiskey", "represent", "tax", "caramel", "scissors", "civilization", "mountain"], "score": 0.0}
+{"ctx_len": 130797, "pred": "1. yogurt 2. oar 3. coordination 4. leverage 5. larder 6. friend 7. railroad 8. heritage 9. evolution 10. suffer<|eot_id|>", "needle": ["jump", "slow", "puddle", "escape", "slate", "hungry", "cribbage", "monotheism", "manifestation", "disparity"], "score": 0.0}
+{"ctx_len": 130792, "pred": "1. the 2. and 3. of 4. a 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["mascara", "bulldozer", "lightscreen", "troop", "fire", "vest", "stranger", "sneaker", "title", "fuel"], "score": 0.0}
+{"ctx_len": 130789, "pred": "1. bassinet 2. spade 3. perfume 4. prose 5. addition 6. glossy 7. beset 8. standpoint 9. counterpart 10. switchboard<|eot_id|>", "needle": ["stall", "icing", "guidance", "zone", "clutch", "bassinet", "spade", "unite", "dirndl", "facilitate"], "score": 0.2}
+{"ctx_len": 130819, "pred": "1. cement 2. editor 3. discrepancy 4. impress 5. insectarium 6. numeric 7. road 8. industry 9. bunkhouse 10. register<|eot_id|>", "needle": ["gusty", "complex", "train", "moonshine", "nutrient", "tuber", "meal", "remove", "transport", "innervation"], "score": 0.0}
+{"ctx_len": 130847, "pred": "1. toque 2. desk 3. guideline 4. employment 5. grouper 6. bakeware 7. cocktail 8. frock 9. surfboard 10. petition<|eot_id|>", "needle": ["causal", "amenity", "bakeware", "toque", "smock", "stump", "grub", "asterisk", "bulb", "canal"], "score": 0.2}
+{"ctx_len": 130774, "pred": "1. sunbonnet 2. glorious 3. surge 4. omelet 5. newspaper 6. cleavage 7. grubby 8. graphic 9. wick 10. shingle<|eot_id|>", "needle": ["server", "girlfriend", "setback", "council", "scope", "vintage", "gopher", "term", "commandment", "suppression"], "score": 0.0}
+{"ctx_len": 130789, "pred": "1. sweat 2. diesel 3. ficlet 4. microlending 5. acetate 6. team 7. surprise 8. pickaxe 9. absent 10. try<|eot_id|>", "needle": ["knickers", "bachelor", "sweat", "chow", "team", "expertise", "absent", "abashed", "camera", "homonym"], "score": 0.3}
+{"ctx_len": 130771, "pred": "1. dot 2. class 3. classmate 4. clergyman 5. wheat 6. weekender 7. doorway 8. stole 9. tsunami 10. sick<|eot_id|>", "needle": ["supplier", "solid", "sphere", "separation", "ray", "captor", "clergyman", "tongue", "yawn", "mutt"], "score": 0.1}
+{"ctx_len": 130746, "pred": "1. harpooner 2. neurobiologist 3. fifth 4. universe 5. smell 6. temperature 7. depressed 8. settler 9. splendor 10. committee<|eot_id|>", "needle": ["rage", "hoof", "plea", "committee", "longitude", "annual", "alluvium", "type", "quickest", "ancient"], "score": 0.1}
+{"ctx_len": 130906, "pred": "1. equipment 2. bulldozer 3. drapes 4. jerk 5. pick 6. change 7. difference 8. lawn 9. gratitude 10. activation<|eot_id|>", "needle": ["bulldozer", "employee", "generate", "drapes", "lifetime", "exclamation", "indigence", "undergo", "equipment", "snowflake"], "score": 0.3}
+{"ctx_len": 130881, "pred": "1. war 2. labor 3. overdo 4. sauerkraut 5. squeeze 6. tomatillo 7. placement 8. lynx 9. meek 10. pathetic<|eot_id|>", "needle": ["storyboard", "drill", "ultimatum", "shoat", "birthday", "clearance", "harvest", "materialistic", "coverall", "combine"], "score": 0.0}
+{"ctx_len": 130893, "pred": "1. leek 2. induce 3. guarded 4. trench 5. mature 6. organising 7. clove 8. mall 9. tawdry 10. ruthless<|eot_id|>", "needle": ["leek", "jaded", "revascularization", "begonia", "tuition", "snake", "chamber", "consistency", "lighting", "durian"], "score": 0.1}
+{"ctx_len": 130797, "pred": "1. astrakhan 2. skiing 3. icebreaker 4. photograph 5. vagrant 6. homeownership 7. forehead 8. gym 9. instance 10. baboon<|eot_id|>", "needle": ["insure", "musculature", "newsstand", "dart", "communication", "daughter", "yarn", "coat", "close", "installation"], "score": 0.0}
+{"ctx_len": 130783, "pred": "1. tooth 2. glory 3. lighten 4. soul 5. vintner 6. correct 7. ornament 8. certainty 9. bank 10. circumference<|eot_id|>", "needle": ["turn", "kid", "obtainable", "parable", "laparoscope", "grenade", "revenue", "loft", "circumference", "facet"], "score": 0.1}
+{"ctx_len": 130758, "pred": "1. hotel 2. pulley 3. straw 4. testy 5. port 6. willow 7. juggle 8. believer 9. mimosa 10. important<|eot_id|>", "needle": ["hotel", "access", "uncovered", "poisoning", "deformation", "hashtag", "pulley", "recession", "straw", "testy"], "score": 0.4}
+{"ctx_len": 130931, "pred": "1. fireman 2. hurried 3. pregnancy 4. baobab 5. harmonise 6. hubris 7. lobby 8. strawberry 9. mix 10. fallacy<|eot_id|>", "needle": ["mustard", "self-control", "coverage", "cradle", "pregnancy", "hurried", "inquisitive", "valley", "aggradation", "fireman"], "score": 0.3}
+{"ctx_len": 130832, "pred": "1. foamy 2. tepee 3. faculty 4. achieve 5. gumshoe 6. sultan 7. sauerkraut 8. bathroom 9. excursion 10. enacted<|eot_id|>", "needle": ["foamy", "dapper", "faculty", "minister", "tepee", "mile", "fling", "picayune", "temp", "zoologist"], "score": 0.3}
+{"ctx_len": 130687, "pred": "1. pipeline 2. playwright 3. memo 4. classy 5. pickaxe 6. cherry 7. racial 8. skillful 9. left 10. good<|eot_id|>", "needle": ["passing", "manipulation", "tourism", "neon", "blight", "sort", "suppression", "obsolete", "circuit", "settle"], "score": 0.0}
+{"ctx_len": 130764, "pred": "1. halibut 2. tomatillo 3. calculation 4. stylus 5. bratwurst 6. apse 7. petite 8. sociology 9. record 10. hearthside<|eot_id|>", "needle": ["tomatillo", "female", "lumber", "halibut", "grocery", "cookbook", "underneath", "rhythm", "booty", "piece"], "score": 0.2}
+{"ctx_len": 130784, "pred": "1. yesterday 2. blackbird 3. cultivar 4. skyline 5. gadget 6. vine 7. stucco 8. magnificent 9. spine 10. stud<|eot_id|>", "needle": ["gadget", "vibe", "tenet", "blackbird", "skyline", "scientific", "cultivar", "clone", "vine", "yesterday"], "score": 0.6}
+{"ctx_len": 130630, "pred": "1. little 2. attribute 3. packaging 4. corporatism 5. pinot 6. rise 7. diesel 8. secretive 9. chapter 10. mythology<|eot_id|>", "needle": ["represent", "program", "store", "mythology", "derby", "stripe", "pastor", "bangle", "evidence", "straight"], "score": 0.1}
+{"ctx_len": 130815, "pred": "1. wasabi 2. sightseeing 3. gaiters 4. contrail 5. autoimmunity 6. shoestring 7. sock 8. belly 9. sprat 10. restructure<|eot_id|>", "needle": ["needy", "pollutant", "nephew", "wasabi", "disgusted", "scare", "epoxy", "accord", "alibi", "approve"], "score": 0.1}
+{"ctx_len": 130828, "pred": "1. belong 2. antibody 3. downforce 4. hydrogen 5. neuron 6. uplift 7. semicolon 8. oregano 9. fishbone 10. bargain<|eot_id|>", "needle": ["lipstick", "pressurization", "geranium", "steal", "pudding", "seller", "manager", "pickaxe", "pitcher", "coast"], "score": 0.0}
+{"ctx_len": 130814, "pred": "1. garage 2. discrimination 3. leave 4. summarize 5. binoculars 6. criticism 7. walk 8. funding 9. harm 10. cause<|eot_id|>", "needle": ["relaxation", "cause", "like", "fingernail", "cop", "hash", "garage", "discrimination", "contagion", "slash"], "score": 0.3}
+{"ctx_len": 130757, "pred": "1. permafrost 2. accessible 3. norm 4. wedding 5. conifer 6. heyday 7. appreciation 8. accountability 9. streamline 10. honeydew<|eot_id|>", "needle": ["permafrost", "somebody", "pride", "pump", "tooth", "skull", "rehabilitate", "citron", "silky", "clip"], "score": 0.1}
+{"ctx_len": 130748, "pred": "1. shed 2. van 3. silicon 4. suede 5. victory 6. still 7. drip 8. struggle 9. manacle 10. man<|eot_id|>", "needle": ["swing", "forgetful", "footstep", "revenue", "mussel", "hut", "shed", "antling", "barrage", "damage"], "score": 0.1}
+{"ctx_len": 130729, "pred": "1. cartload 2. conservative 3. scholarship 4. retreat 5. working 6. checkout 7. anchovy 8. aware 9. geometry 10. update<|eot_id|>", "needle": ["scenario", "antique", "misrepresentation", "tile", "romaine", "pad", "conservative", "plenty", "cartload", "hurdle"], "score": 0.2}
+{"ctx_len": 130824, "pred": "1. keep 2. try 3. burn-out 4. parka 5. resale 6. attribute 7. kilogram 8. religion 9. cyclooxygenase 10. radish<|eot_id|>", "needle": ["steal", "dairy", "shootdown", "radish", "molasses", "intervenor", "plantation", "staircase", "duel", "wreck"], "score": 0.1}
+{"ctx_len": 130809, "pred": "1. trowel 2. craftsman 3. pita 4. dibble 5. spice 6. mindless 7. messy 8. render 9. patty 10. hallowed<|eot_id|>", "needle": ["waggish", "setting", "trowel", "craftsman", "evolution", "ethyl", "cone", "heaven", "assess", "tactile"], "score": 0.2}
+{"ctx_len": 130823, "pred": "1. windscreen 2. eggplant 3. extent 4. haircut 5. prohibition 6. furtive 7. alloy 8. knee 9. win 10. scrawny<|eot_id|>", "needle": ["deserve", "recreation", "eggplant", "disgusted", "coal", "sonnet", "designer", "extent", "windscreen", "zonked"], "score": 0.3}
+{"ctx_len": 130885, "pred": "1. jellybeans 2. shoemaker 3. storyboard 4. haze 5. redhead 6. bedrock 7. grandparent 8. slay 9. fledgling 10. broom<|eot_id|>", "needle": ["unsightly", "pilgrimage", "portrait", "ruin", "inglenook", "copy", "shoemaker", "latitude", "jellybeans", "ashamed"], "score": 0.2}
+{"ctx_len": 130870, "pred": "1. data 2. newsstand 3. decongestant 4. bone 5. burn 6. liberty 7. discrimination 8. dueling 9. accelerator 10. apron<|eot_id|>", "needle": ["data", "dissonance", "felony", "newsstand", "administer", "SUV", "imminent", "permissible", "decongestant", "zoology"], "score": 0.3}
+{"ctx_len": 130762, "pred": "1. hog 2. phone 3. yarn 4. toothpick 5. independence 6. principal 7. triumph 8. sanity 9. mutton 10. agency<|eot_id|>", "needle": ["hog", "astonishing", "bell", "hearing", "underwriting", "crewmate", "goodbye", "meat", "pickaxe", "medicine"], "score": 0.1}
+{"ctx_len": 130685, "pred": "1. the 2. and 3. of 4. to 5. a 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["solidity", "powder", "tattler", "merchandise", "injustice", "killing", "filter", "supper", "thrust", "mangrove"], "score": 0.0}
+{"ctx_len": 130741, "pred": "1. underwire 2. lung 3. acoustics 4. vintner 5. club 6. thinking 7. imprisonment 8. indicator 9. dysfunctional 10. honesty<|eot_id|>", "needle": ["faith", "filing", "frost", "cytoplasm", "anxious", "tame", "bail", "sniffle", "defeat", "board"], "score": 0.0}
+{"ctx_len": 130753, "pred": "1. organization 2. stranger 3. stranger 4. marker 5. elfin 6. trailpatrol 7. brooch 8. rid 9. rid 10. many<|eot_id|>", "needle": ["different", "inconvenience", "zoologist", "swanky", "abdomen", "monk", "net", "puffy", "cooking", "flowery"], "score": 0.0}
+{"ctx_len": 130869, "pred": "1. divan 2. employment 3. crepe 4. elbow 5. ridge 6. decay 7. abacus 8. agreeable 9. left 10. mean<|eot_id|>", "needle": ["divan", "folklore", "misfit", "nasal", "pheromone", "competence", "demand", "quartet", "tenet", "stimulus"], "score": 0.1}
+{"ctx_len": 130909, "pred": "1. meal 2. include 3. vinyl 4. nation 5. sponsor 6. smog 7. lollipop 8. lace 9. deeply 10. checkout<|eot_id|>", "needle": ["rhinoceros", "significance", "doggie", "ranch", "amazement", "selection", "hacksaw", "languid", "sublet", "strife"], "score": 0.0}
+{"ctx_len": 130815, "pred": "1. prepare 2. entity 3. signet 4. horst 5. sniffle 6. gumshoe 7. plasterboard 8. gumshoe 9. fairy 10. permit<|eot_id|>", "needle": ["aberrant", "snatch", "canvas", "randomization", "jellybeans", "terrify", "anywhere", "warming", "available", "half"], "score": 0.0}
+{"ctx_len": 130846, "pred": "1. drum 2. puppy 3. beer 4. simple 5. plight 6. flawless 7. portfolio 8. roomy 9. obsidian 10. monopoly<|eot_id|>", "needle": ["tensor", "canteen", "dud", "parliament", "job", "pajamas", "clogs", "cape", "abrasive", "opportunist"], "score": 0.0}
+{"ctx_len": 130712, "pred": "1. read 2. fresh 3. wet-bar 4. taboo 5. sewer 6. proof 7. break 8. capital 9. divider 10. billing<|eot_id|>", "needle": ["ripple", "trinket", "savior", "billing", "addition", "coincidence", "zipper", "daybed", "campaign", "patron"], "score": 0.1}
+{"ctx_len": 130870, "pred": "1. algorithm 2. woodland 3. incubation 4. retreat 5. collector 6. printer 7. disclaimer 8. method 9. method 10. woodland<|eot_id|>", "needle": ["dibble", "lackadaisical", "sprout", "killing", "magazine", "gigantic", "obligation", "agriculture", "algorithm", "quote"], "score": 0.1}
+{"ctx_len": 130822, "pred": "1. modernist 2. polyp 3. caliber 4. modeling 5. independence 6. nice 7. repair 8. nonstop 9. reaction 10. naturalisation<|eot_id|>", "needle": ["emery", "vengeful", "gastronomy", "naturalisation", "window", "search", "distinction", "gigantic", "reservation", "wheel"], "score": 0.1}
+{"ctx_len": 130827, "pred": "1. blueberry 2. contrail 3. ingrate 4. railing 5. slaw 6. microwave 7. stot 8. strong 9. brand 10. ark<|eot_id|>", "needle": ["approve", "firm", "making", "contrail", "embarrass", "epithelium", "giggle", "cough", "blueberry", "communicant"], "score": 0.2}
+{"ctx_len": 130783, "pred": "1. whale 2. combine 3. convenience 4. tatami 5. demand 6. graph 7. towering 8. modem 9. rejoice 10. teapot<|eot_id|>", "needle": ["fellow", "alike", "difficult", "executive", "command", "charm", "nectar", "armchair", "wear", "brink"], "score": 0.0}
+{"ctx_len": 130746, "pred": "1. havoc 2. dialogue 3. sexuality 4. nutrition 5. dialogue 6. brink 7. weekender 8. proceedings 9. hysterical 10. tomography<|eot_id|>", "needle": ["gentle", "algebra", "cover", "sanctity", "sidecar", "send", "questionable", "welcome", "basis", "project"], "score": 0.0}
+{"ctx_len": 130782, "pred": "1. consulting 2. jailhouse 3. coinsurance 4. provider 5. carotene 6. sewer 7. insolence 8. sentence 9. recruit 10. dart<|eot_id|>", "needle": ["consulting", "ring", "picture", "grab", "continent", "jailhouse", "tic", "assumption", "coinsurance", "poverty"], "score": 0.3}
+{"ctx_len": 130755, "pred": "1. vogue 2. impulse 3. gaudy 4. singer 5. corduroy 6. incentive 7. adjective 8. consent 9. scatter 10. bolero<|eot_id|>", "needle": ["return", "outside", "deal", "whirlpool", "suitcase", "grasp", "incision", "cast", "legend", "demur"], "score": 0.0}
+{"ctx_len": 130826, "pred": "1. grandma 2. receive 3. chairlift 4. setback 5. bookcase 6. peacock 7. rough 8. torte 9. sensitivity 10. grandma<|eot_id|>", "needle": ["gasp", "mode", "suggestion", "provider", "determined", "solicitor", "settlement", "melon", "flour", "tent"], "score": 0.0}
+{"ctx_len": 130856, "pred": "1. eraser 2. uttermost 3. enrollment 4. dazzling 5. wraparound 6. secret 7. saloon 8. weakness 9. understood 10. account<|eot_id|>", "needle": ["ease", "micronutrient", "concept", "significance", "assertion", "cross-stitch", "replace", "chino", "comportment", "burden"], "score": 0.0}
+{"ctx_len": 130828, "pred": "1. interferometer 2. kingfish 3. tripod 4. strengthen 5. forgive 6. real 7. quince 8. printing 9. accelerator 10. purring<|eot_id|>", "needle": ["purring", "octagon", "voiceless", "principal", "stole", "migration", "observatory", "suppose", "interferometer", "tremor"], "score": 0.2}
+{"ctx_len": 130705, "pred": "1. turnstile 2. household 3. basket 4. abrasive 5. utility 6. entrepreneur 7. operator 8. alcoholic 9. turnstile 10. businessman<|eot_id|>", "needle": ["trend", "condition", "meantime", "phase", "diet", "uppity", "scenario", "angry", "cane", "inclusion"], "score": 0.0}
+{"ctx_len": 130795, "pred": "1. sandbar 2. hovercraft 3. sand 4. sandal 5. sandpaper 6. sandalwood 7. sandpiper 8. sandal 9. sand 10. sandal<|eot_id|>", "needle": ["mantle", "flytrap", "anticodon", "voice", "bud", "silver", "milk", "dysfunction", "moor", "rye"], "score": 0.0}
+{"ctx_len": 130762, "pred": "1. mountain 2. victim 3. heady 4. mathematics 5. borrow 6. unit 7. rawhide 8. scooter 9. graffiti 10. mathematics<|eot_id|>", "needle": ["fluffy", "bear", "life", "composer", "countryside", "cuff-link", "assertion", "kingdom", "sell", "reclamation"], "score": 0.0}
+{"ctx_len": 130754, "pred": "1. develop 2. email 3. cent 4. warning 5. consciousness 6. capital 7. pith 8. tire 9. slot 10. mound<|eot_id|>", "needle": ["quince", "capability", "lode", "instrumentalist", "try", "ruthless", "shocking", "waiver", "rainstorm", "shave"], "score": 0.0}
+{"ctx_len": 130763, "pred": "1. shoe-horn 2. raspberry 3. diversity 4. jazz 5. mom 6. authorisation 7. pacemaker 8. bloodflow 9. therapeutic 10. complex<|eot_id|>", "needle": ["good", "gravity", "mom", "jazzy", "doubling", "raspberry", "shoe-horn", "diversity", "decorous", "native"], "score": 0.4}
+{"ctx_len": 130781, "pred": "1. transmission 2. brain 3. uncertainty 4. symptomatic 5. appetizer 6. crewmen 7. harbor 8. prior 9. aback 10. reader<|eot_id|>", "needle": ["stability", "trim", "weigh", "in-joke", "underweight", "crewman", "stress", "shift", "uphold", "straight"], "score": 0.0}
+{"ctx_len": 130755, "pred": "1. the 2. and 3. of 4. a 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["texture", "cabin", "institution", "sympathy", "furtive", "attribute", "factory", "dusk", "miss", "celebration"], "score": 0.0}
+{"ctx_len": 130723, "pred": "1. piano 2. publishing 3. navigation 4. lad 5. divan 6. aglet 7. gram 8. lad 9. lad 10. lad<|eot_id|>", "needle": ["wonderful", "blowgun", "twilight", "north", "television", "attraction", "quart", "consul", "talking", "clumsy"], "score": 0.0}
+{"ctx_len": 130755, "pred": "1. grandmom 2. grandchild 3. timeout 4. barge 5. likelihood 6. terminal 7. oat 8. cartload 9. credential 10. siding<|eot_id|>", "needle": ["apricot", "foot", "boulevard", "graceful", "promote", "handsome", "scotch", "habitual", "fit", "revise"], "score": 0.0}
+{"ctx_len": 130768, "pred": "1. doorway 2. pavilion 3. hyena 4. crackers 5. cornet 6. decline 7. declination 8. withdrawal 9. hamster 10. beak<|eot_id|>", "needle": ["auto", "die", "reinforce", "pavilion", "pulley", "lyrics", "atheist", "shallow", "doorway", "inclusion"], "score": 0.2}
+{"ctx_len": 130799, "pred": "1. mastication 2. pennant 3. angstrom 4. poignance 5. deficit 6. font 7. flash 8. incident 9. discrepancy 10. dust<|eot_id|>", "needle": ["mastication", "zombie", "font", "confirmation", "piano", "plaintiff", "appetiser", "illusion", "pennant", "criticism"], "score": 0.3}
+{"ctx_len": 130763, "pred": "1. bronco 2. polyester 3. wicked 4. sovereignty 5. messenger 6. juicy 7. elephant 8. coliseum 9. eagle 10. licence<|eot_id|>", "needle": ["good-bye", "satire", "homeland", "insight", "accomplishment", "gaming", "bronco", "resident", "motion", "collard"], "score": 0.1}
+{"ctx_len": 130771, "pred": "1. restaurant 2. congressperson 3. congress 4. wifi 5. industrialization 6. congressperson 7. congress 8. wifi 9. congressperson 10. congress<|eot_id|>", "needle": ["conceive", "wifi", "orangutan", "industrialization", "prick", "needless", "restaurant", "numeracy", "pod", "subtitle"], "score": 0.3}
+{"ctx_len": 130782, "pred": "1. the 2. and 3. a 4. of 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["cube", "suicide", "hear", "slot", "ride", "ectoderm", "wiseguy", "scope", "diary", "tail"], "score": 0.0}
+{"ctx_len": 130730, "pred": "1. disturbed 2. leaver 3. widow 4. investigation 5. earring 6. cagey 7. heartache 8. scooter 9. stance 10. background<|eot_id|>", "needle": ["disturbed", "protein", "typical", "diversity", "sandbar", "psychotic", "niece", "avalanche", "account", "tavern"], "score": 0.1}
+{"ctx_len": 130934, "pred": "1. sale 2. render 3. gumshoe 4. family 5. questioner 6. stiletto 7. taro 8. stamen 9. listening 10. piece<|eot_id|>", "needle": ["ascend", "adverb", "sandal", "colt", "brush", "scotch", "motorcycle", "toothpick", "journalism", "gusty"], "score": 0.0}
+{"ctx_len": 130707, "pred": "1. stupid 2. stupid 3. stupid 4. stupid 5. stupid 6. stupid 7. stupid 8. stupid 9. stupid 10. stupid<|eot_id|>", "needle": ["livestock", "ketch", "mend", "stupid", "tempo", "joey", "icicle", "retailer", "autumn", "downfall"], "score": 0.1}
+{"ctx_len": 130765, "pred": "1. mother 2. church 3. fiesta 4. panty 5. glove 6. style 7. pain 8. ozone 9. marked 10. ecology<|eot_id|>", "needle": ["church", "alcohol", "path", "panty", "maker", "long", "fiesta", "unbecoming", "mother", "presentation"], "score": 0.4}
+{"ctx_len": 130774, "pred": "1. shovel 2. washcloth 3. step 4. set 5. obey 6. slap 7. stem 8. porpoise 9. monotheism 10. trailer<|eot_id|>", "needle": ["shovel", "outline", "chemical", "artery", "koala", "content", "handful", "hand", "quit", "washcloth"], "score": 0.2}
+{"ctx_len": 130820, "pred": "1. access 2. joke 3. narrow 4. error 5. account 6. sweep 7. zebra 8. hail 9. absorbing 10. appearance<|eot_id|>", "needle": ["mustache", "economics", "reduction", "councilperson", "preside", "permafrost", "catastrophe", "millimeter", "crumb", "dissect"], "score": 0.0}
+{"ctx_len": 130850, "pred": "1. account 2. account 3. account 4. account 5. account 6. account 7. account 8. account 9. account 10. account<|eot_id|>", "needle": ["parrot", "grubby", "dirndl", "capacity", "original", "father-in-law", "station-wagon", "chemical", "stopsign", "art"], "score": 0.0}
+{"ctx_len": 130834, "pred": "1. suppose 2. eligibility 3. inevitable 4. nation 5. narrow 6. colt 7. fleck 8. opponent 9. pain 10. presume<|eot_id|>", "needle": ["cormorant", "swivel", "t-shirt", "fibre", "recommend", "sheet", "queen", "satisfying", "lanai", "cod"], "score": 0.0}
+{"ctx_len": 130936, "pred": "1. blackbird 2. campanile 3. volunteering 4. cushion 5. hydrolysis 6. midwife 7. parameter 8. settle 9. sonata 10. pate<|eot_id|>", "needle": ["moaning", "doubling", "terror", "buggy", "pour", "oxford", "hike", "nightgown", "archeology", "obscene"], "score": 0.0}
+{"ctx_len": 130877, "pred": "1. logistics 2. logistics 3. logistics 4. logistics 5. logistics 6. logistics 7. logistics 8. logistics 9. logistics 10. logistics<|eot_id|>", "needle": ["astrolabe", "writing", "jittery", "logistics", "stereotyped", "nature", "bourgeoisie", "envious", "imaginary", "archeology"], "score": 0.1}
+{"ctx_len": 130528, "pred": "1. come 2. review 3. crush 4. pillar 5. sultan 6. allergist 7. crucifixion 8. enclosure 9. waveform 10. chug<|eot_id|>", "needle": ["annoyed", "player", "grain", "team", "organ", "bout", "handsome", "slap", "tolerance", "candle"], "score": 0.0}
+{"ctx_len": 130800, "pred": "1. catalog 2. hospitalisation 3. singular 4. longboat 5. administrator 6. treasure 7. hovel 8. magical 9. antiquity 10. birdbath<|eot_id|>", "needle": ["turtle", "steam", "rediscovery", "flag", "dignity", "dilapidation", "scene", "spider", "waste", "goose"], "score": 0.0}
+{"ctx_len": 130773, "pred": "1. muffin 2. township 3. baboon 4. ATM 5. pocket-watch 6. panda 7. disability 8. conduct 9. grant 10. reporter<|eot_id|>", "needle": ["reporter", "doubtful", "delay", "township", "angstrom", "dog", "testy", "lilac", "muffin", "cylinder"], "score": 0.3}
+{"ctx_len": 130773, "pred": "1. great-grandfather 2. tweezers 3. hatbox 4. great-grandmother 5. baseball 6. mileage 7. steward 8. grid 9. dryer 10. call<|eot_id|>", "needle": ["tutor", "prescribe", "unable", "syndrome", "sick", "education", "pressure", "pastor", "tweezers", "hypothermia"], "score": 0.1}
+{"ctx_len": 130716, "pred": "1. gran 2. forego 3. chocolate 4. celsius 5. copyright 6. dislike 7. like 8. shoe 9. examination 10. celsius<|eot_id|>", "needle": ["episode", "representation", "shoe", "chocolate", "scholarship", "bathrobe", "examination", "necessity", "commonsense", "remote"], "score": 0.3}
+{"ctx_len": 130837, "pred": "1. mambo 2. ginger 3. frail 4. probability 5. freeze 6. delivery 7. output 8. verve 9. woolens 10. verve<|eot_id|>", "needle": ["offend", "parsnip", "mambo", "ice", "bowling", "turnover", "fiddle", "entertaining", "ceremony", "undershirt"], "score": 0.1}
+{"ctx_len": 130886, "pred": "1. put 2. jeweller 3. integration 4. marketer 5. pumpernickel 6. fighter 7. creche 8. underwire 9. lift 10. harass<|eot_id|>", "needle": ["cytokine", "jeweller", "ephyra", "weakness", "defiant", "tangible", "shrug", "tiger", "groan", "tentacle"], "score": 0.1}
+{"ctx_len": 130837, "pred": "1. acted 2. premium 3. directory 4. spider 5. trooper 6. helpful 7. lapdog 8. kamikaze 9. tomography 10. choice<|eot_id|>", "needle": ["runway", "game", "meme", "disprove", "angiosperm", "reclamation", "mitten", "jelly", "tenth", "barge"], "score": 0.0}
+{"ctx_len": 130866, "pred": "1. diaphragm 2. telephone 3. bikini 4. vector 5. metabolite 6. gondola 7. rayon 8. slip 9. meadow 10. softdrink<|eot_id|>", "needle": ["diaphragm", "nasal", "draconian", "yew", "carotene", "adapter", "intellect", "seizure", "discourse", "harm"], "score": 0.1}
+{"ctx_len": 130825, "pred": "1. salami 2. gel 3. deodorant 4. emotion 5. rapid 6. jailhouse 7. mandolin 8. gel 9. thoughtless 10. airplane<|eot_id|>", "needle": ["salami", "seek", "icing", "patriot", "frown", "dysfunction", "actress", "reporting", "triumph", "brisket"], "score": 0.1}
+{"ctx_len": 130929, "pred": "1. dollop 2. rod 3. midline 4. divan 5. operation 6. adrenalin 7. underwire 8. enlist 9. escalator 10. work<|eot_id|>", "needle": ["amber", "waterspout", "displacement", "escalator", "flugelhorn", "clammy", "dairy", "thrift", "work", "gauntlet"], "score": 0.2}
+{"ctx_len": 130680, "pred": "1. ale 2. monk 3. workhorse 4. festival 5. vase 6. alphabet 7. chiffonier 8. consumption 9. heel 10. mailing<|eot_id|>", "needle": ["monk", "page", "crush", "adorable", "interpreter", "disk", "queue", "tree", "choker", "ale"], "score": 0.2}
+{"ctx_len": 130774, "pred": "1. leek 2. bunghole 3. roller 4. steeple 5. misreading 6. pocketbook 7. distributor 8. vampire 9. proponent 10. artery<|eot_id|>", "needle": ["noisy", "respond", "eat", "comfort", "acquire", "leek", "comb", "bunghole", "judge", "motorcar"], "score": 0.2}
+{"ctx_len": 130791, "pred": "1. pain 2. pendulum 3. integer 4. quarrelsome 5. result 6. photodiode 7. nightlight 8. validity 9. place 10. fade<|eot_id|>", "needle": ["viewer", "discourse", "racist", "tranquil", "antibody", "noxious", "effect", "soothsay", "vacation", "relax"], "score": 0.0}
+{"ctx_len": 130799, "pred": "1. smock 2. pitch 3. patrolling 4. pupil 5. rule 6. avenue 7. expansion 8. silky 9. pause 10. calcification<|eot_id|>", "needle": ["pastoralist", "samurai", "departure", "ear", "sentence", "cofactor", "gigantic", "smock", "pitch", "rationale"], "score": 0.2}
+{"ctx_len": 130862, "pred": "1. fibroblast 2. hoe 3. edible 4. shrug 5. interrupt 6. propose 7. edited 8. halibut 9. housework 10. swordfight<|eot_id|>", "needle": ["dungeon", "timer", "bratwurst", "argument", "mourn", "transport", "eyestrain", "clip", "election", "buzzard"], "score": 0.0}
+{"ctx_len": 130901, "pred": "1. organization 2. hepatitis 3. monitor 4. characterization 5. cyclooxygenase 6. rubber 7. pantology 8. knowledgeable 9. excerpt 10. nanoparticle<|eot_id|>", "needle": ["echidna", "neighbourhood", "nanoparticle", "chip", "topic", "rocket-ship", "oar", "burglar", "organization", "leaker"], "score": 0.2}
+{"ctx_len": 130861, "pred": "1. tracksuit 2. marimba 3. orientation 4. tracksuit 5. savior 6. abdomen 7. abdomen 8. abdomen 9. abdomen 10. abdomen<|eot_id|>", "needle": ["sorrow", "soda", "guitarist", "clavier", "marimba", "tracksuit", "spleen", "identify", "supreme", "orientation"], "score": 0.3}
+{"ctx_len": 130912, "pred": "1. workhorse 2. chipmunk 3. pepperoni 4. rutabaga 5. lake 6. police 7. mine 8. apricot 9. protein 10. corn<|eot_id|>", "needle": ["workhorse", "activist", "daisy", "native", "chipmunk", "pepperoni", "rutabaga", "recondite", "legislature", "tinkle"], "score": 0.4}
+{"ctx_len": 130656, "pred": "1. nappy 2. crusader 3. quixotic 4. abrasive 5. paddock 6. compost 7. grieving 8. editor 9. lode 10. segment<|eot_id|>", "needle": ["mate", "lonely", "protect", "rich", "knot", "public", "innovate", "port", "perfection", "forget"], "score": 0.0}
+{"ctx_len": 130866, "pred": "1. ultra 2. snowplow 3. ultra 4. feast 5. stimulate 6. genocide 7. jot 8. ultra 9. endpoint 10. jeans<|eot_id|>", "needle": ["handgun", "burglar", "lesson", "fluttering", "visor", "croissant", "cloudy", "bless", "softdrink", "counter-force"], "score": 0.0}
+{"ctx_len": 130899, "pred": "1. dumbwaiter 2. appear 3. amuck 4. brewer 5. protest 6. zampone 7. organize 8. help 9. mantel 10. wail<|eot_id|>", "needle": ["dumbwaiter", "tender", "foal", "mix", "bail", "crabby", "nestling", "pronoun", "yak", "dynamic"], "score": 0.1}
+{"ctx_len": 130724, "pred": "1. the 2. and 3. of 4. to 5. a 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["tempo", "oak", "stinger", "kill", "medicine", "skip", "sassy", "classify", "gold", "affiliate"], "score": 0.0}
+{"ctx_len": 130750, "pred": "1. straw 2. domain 3. marimba 4. maximum 5. bathrobe 6. discovery 7. provision 8. alder 9. scalp 10. objective<|eot_id|>", "needle": ["credit", "succinct", "cute", "domain", "afterthought", "train", "straw", "regime", "celeriac", "specification"], "score": 0.2}
+{"ctx_len": 130751, "pred": "1. clothes 2. e-book 3. zucchini 4. mustard 5. chili 6. appeal 7. careful 8. vector 9. butter 10. powerful<|eot_id|>", "needle": ["garment", "conversion", "swath", "zucchini", "lot", "communion", "tenement", "insurance", "clothes", "gaffer"], "score": 0.3}
+{"ctx_len": 130742, "pred": "1. learning 2. fun 3. deviation 4. acted 5. breast 6. nylon 7. bewildered 8. cooking 9. prickly 10. morsel<|eot_id|>", "needle": ["doc", "enjoy", "validity", "learning", "alpha", "dearest", "hall", "shelter", "whirlwind", "spike"], "score": 0.1}
+{"ctx_len": 130722, "pred": "1. news 2. jerk 3. probability 4. stupidity 5. forage 6. addition 7. foresee 8. squalid 9. prow 10. item<|eot_id|>", "needle": ["verve", "upset", "inventor", "grandpa", "saloon", "radish", "duck", "justification", "gauge", "tavern"], "score": 0.0}
+{"ctx_len": 130714, "pred": "1. pug 2. councilperson 3. tongue 4. disease 5. sailing 6. hospitable 7. seaside 8. hail 9. mop 10. sidewalk<|eot_id|>", "needle": ["pug", "dime", "surround", "spirit", "wine", "abounding", "catch", "councilperson", "bow", "dentist"], "score": 0.2}
+{"ctx_len": 130706, "pred": "1. impress 2. pizza 3. consequence 4. taro 5. pigsty 6. commercial 7. settle 8. med 9. sarong 10. friend<|eot_id|>", "needle": ["chamber", "grit", "pigsty", "assorted", "almighty", "different", "ethics", "patrol", "large", "wonder"], "score": 0.1}
+{"ctx_len": 130770, "pred": "1. hydrogen 2. musculature 3. crocus 4. mother 5. shutdown 6. march 7. plenty 8. venti 9. hear 10. opera<|eot_id|>", "needle": ["prefer", "separate", "deliberation", "yahoo", "professor", "musculature", "proctor", "synonymous", "purr", "lighten"], "score": 0.1}
+{"ctx_len": 130794, "pred": "1. ocelot 2. oxford 3. ophthalmologist 4. ophthalmologist 5. ophthalmologist 6. ophthalmologist 7. ophthalmologist 8. ophthalmologist 9. ophthalmologist 10. ophthalmologist<|eot_id|>", "needle": ["popularity", "fragrance", "tracking", "wed", "barbarous", "standpoint", "deathwatch", "grove", "manipulation", "equable"], "score": 0.0}
+{"ctx_len": 130732, "pred": "1. patrolling 2. territory 3. equation 4. realize 5. satisfying 6. elephant 7. hatbox 8. saint 9. prohibition 10. penny<|eot_id|>", "needle": ["preparation", "casualty", "stealth", "costume", "dinner", "ignorance", "grill", "magic", "close", "mycoplasma"], "score": 0.0}
+{"ctx_len": 130869, "pred": "1. newsstand 2. career 3. assistance 4. councilor 5. burglar 6. shock 7. slip 8. tutu 9. audited 10. problem<|eot_id|>", "needle": ["result", "councilor", "endpoint", "newsstand", "chowder", "attach", "pimple", "assistance", "career", "envy"], "score": 0.4}
+{"ctx_len": 130830, "pred": "1. plasterboard 2. tentacle 3. buffer 4. recondite 5. mini 6. vibrissae 7. juggle 8. translate 9. idea 10. condition<|eot_id|>", "needle": ["vista", "property", "thoughtful", "partner", "ecliptic", "wide", "plasterboard", "participant", "dictator", "alleged"], "score": 0.1}
+{"ctx_len": 130857, "pred": "1. underclothes 2. orchid 3. alleged 4. remember 5. luggage 6. drama 7. hospitality 8. wholesale 9. avocado 10. avocado<|eot_id|>", "needle": ["underclothes", "shallot", "barbiturate", "coaster", "typewriter", "orchid", "nationality", "incidence", "worship", "pottery"], "score": 0.2}
+{"ctx_len": 130904, "pred": "1. control 2. revolution 3. pardon 4. windshield 5. psychotic 6. instinct 7. breakdown 8. banyan 9. capricious 10. forensic<|eot_id|>", "needle": ["finish", "yew", "fourths", "latte", "barbiturate", "standardization", "death", "manservant", "harmonious", "waterfall"], "score": 0.0}
+{"ctx_len": 130713, "pred": "1. street 2. oyster 3. likeness 4. safari 5. med 6. centimeter 7. prevent 8. pony 9. socks 10. copying<|eot_id|>", "needle": ["gravy", "drummer", "assurance", "postage", "stand", "doubtful", "fisherman", "fuel", "street", "nicety"], "score": 0.1}
+{"ctx_len": 130750, "pred": "1. the 2. and 3. of 4. to 5. a 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["pruner", "insight", "howitzer", "entrepreneur", "sherry", "crew", "founder", "reputation", "choose", "tent"], "score": 0.0}
+{"ctx_len": 130953, "pred": "1. mezzanine 2. bidet 3. practice 4. witch-hunt 5. nucleotide 6. duster 7. accounting 8. persuade 9. radiate 10. smooth<|eot_id|>", "needle": ["nucleotide", "law", "deed", "mezzanine", "destiny", "bidet", "allergist", "witch-hunt", "queue", "sexuality"], "score": 0.4}
+{"ctx_len": 130822, "pred": "1. bus 2. bookcase 3. put 4. midwife 5. deeply 6. mRNA 7. roundabout 8. tulip 9. condor 10. affinity<|eot_id|>", "needle": ["enthusiasm", "thirst", "bagpipe", "stream", "lie", "chime", "cabin", "inspect", "bookcase", "witch-hunt"], "score": 0.1}
+{"ctx_len": 130700, "pred": "1. baseball 2. icecream 3. vineyard 4. trade 5. rabbi 6. preset 7. worthless 8. assassination 9. acquaintance 10. jaguar<|eot_id|>", "needle": ["baseball", "involvement", "infusion", "material", "sunshine", "magnet", "exception", "deeply", "greedy", "mailer"], "score": 0.1}
+{"ctx_len": 130851, "pred": "1. jute 2. colonial 3. uptight 4. lookout 5. glee 6. possession 7. carpenter 8. element 9. ginseng 10. lining<|eot_id|>", "needle": ["detector", "illustrate", "discourse", "excursion", "pleasure", "meeting", "eviction", "jute", "coinsurance", "victim"], "score": 0.1}
+{"ctx_len": 130844, "pred": "1. race 2. welcome 3. thousand 4. eyelid 5. buzzard 6. visor 7. debt 8. whelp 9. buzz 10. gown<|eot_id|>", "needle": ["apricot", "coordination", "oriented", "absurd", "forebear", "roar", "sweltering", "spyglass", "fact", "frustration"], "score": 0.0}
+{"ctx_len": 130708, "pred": "1. wood 2. contour 3. summarize 4. wood 5. cabinet 6. harm 7. cycle 8. halibut 9. wealth 10. tendency<|eot_id|>", "needle": ["vine", "closing", "court", "reclamation", "attempt", "talent", "capable", "mop", "voiceless", "doggie"], "score": 0.0}
+{"ctx_len": 130689, "pred": "1. barn 2. lemon 3. aggradation 4. loquat 5. deposit 6. sonnet 7. tough 8. karate 9. muddled 10. prairie<|eot_id|>", "needle": ["lemon", "curl", "spending", "prepare", "ethernet", "directory", "dial", "aboriginal", "barn", "diploma"], "score": 0.2}
+{"ctx_len": 130863, "pred": "1. metronome 2. manacle 3. screeching 4. pepperoni 5. initiative 6. deranged 7. deposit 8. author 9. dynamics 10. washcloth<|eot_id|>", "needle": ["manacle", "clutch", "interest", "greenhouse", "percentage", "chronometer", "causal", "diver", "metronome", "turnover"], "score": 0.2}
+{"ctx_len": 130801, "pred": "1. depot 2. genetics 3. council 4. black 5. lobster 6. lobster 7. lobster 8. lobster 9. lobster 10. lobster<|eot_id|>", "needle": ["genetics", "council", "testy", "extremist", "charm", "geology", "manner", "depot", "poppy", "towering"], "score": 0.3}
+{"ctx_len": 130705, "pred": "1. database 2. programming 3. animal 4. cabbage 5. pier 6. dizzy 7. profession 8. deviation 9. defendant 10. soggy<|eot_id|>", "needle": ["acorn", "lawyer", "lead", "cabbage", "prickly", "gyro", "speed", "programming", "animal", "thoughtful"], "score": 0.3}
+{"ctx_len": 130812, "pred": "1. minibus 2. bagel 3. introduce 4. referendum 5. intestine 6. ear 7. watchmaker 8. firewall 9. reference 10. scraper<|eot_id|>", "needle": ["likelihood", "raffle", "calcification", "rumor", "pronoun", "garden", "merchant", "kaput", "alive", "surgeon"], "score": 0.0}
+{"ctx_len": 130818, "pred": "1. tenet 2. partridge 3. ectodermal 4. gravity 5. gallon 6. urn 7. source 8. add 9. fortune 10. expansion<|eot_id|>", "needle": ["tenet", "patron", "succeed", "register", "adopt", "underweight", "dish", "qualification", "fritter", "chase"], "score": 0.1}
+{"ctx_len": 130746, "pred": "1. thing 2. statistics 3. pine 4. dime 5. bone 6. normalize 7. heirloom 8. thinkable 9. laugh 10. thing<|eot_id|>", "needle": ["retirement", "effect", "pray", "arthur", "airline", "stimulating", "bath", "illiteracy", "petition", "gallon"], "score": 0.0}
+{"ctx_len": 130731, "pred": "1. remember 2. metallurgist 3. mid-course 4. court 5. version 6. wise 7. surplus 8. society 9. various 10. trailpatrol<|eot_id|>", "needle": ["metallurgist", "deafening", "pneumonia", "predecessor", "artifact", "realize", "reinforce", "need", "speed", "steam"], "score": 0.1}
+{"ctx_len": 130740, "pred": "1. citron 2. vintage 3. former 4. tassel 5. smile 6. nutrition 7. sitar 8. font 9. allergist 10. tassel<|eot_id|>", "needle": ["citron", "unemployment", "logic", "location", "anticipate", "describe", "earthy", "pray", "shortage", "section"], "score": 0.1}
+{"ctx_len": 130840, "pred": "1. labored 2. scimitar 3. thunder 4. red 5. loincloth 6. ink 7. devise 8. neighbour 9. fowl 10. tiresome<|eot_id|>", "needle": ["sable", "damaged", "honey", "thread", "powder", "innervation", "independent", "bat", "scimitar", "impudence"], "score": 0.1}
+{"ctx_len": 130874, "pred": "1. creek 2. exhibition 3. cultivar 4. generate 5. appellation 6. dromedary 7. insurrection 8. exasperation 9. peasant 10. sneaker<|eot_id|>", "needle": ["exhibition", "expansionism", "creek", "ritual", "shootdown", "takeover", "cultivar", "leave", "groovy", "addicted"], "score": 0.3}
+{"ctx_len": 130808, "pred": "1. road 2. jalape\u00f1o 3. hotdog 4. immigration 5. immigration 6. immigration 7. immigration 8. immigration 9. immigration 10. immigration<|eot_id|>", "needle": ["jalape\u00f1o", "garb", "consolidate", "veneer", "recommend", "yak", "pink", "mushy", "road", "hotdog"], "score": 0.3}
+{"ctx_len": 130725, "pred": "1. laundry 2. orchestra 3. trustee 4. skating 5. supernatural 6. club 7. pitching 8. marxism 9. effector 10. marxism<|eot_id|>", "needle": ["belong", "breastplate", "absent", "stump", "excursion", "continue", "chromolithograph", "kit", "block", "shingle"], "score": 0.0}
+{"ctx_len": 130713, "pred": "1. hellcat 2. baseball 3. lieutenant 4. position 5. abortion 6. android 7. leadership 8. drum 9. pension 10. lord<|eot_id|>", "needle": ["counselling", "lieutenant", "dispatch", "oar", "innate", "term", "damaged", "haste", "baseball", "hellcat"], "score": 0.3}
+{"ctx_len": 130801, "pred": "1. hospice 2. barn 3. beanstalk 4. woebegone 5. reform 6. contain 7. pipe 8. vein 9. mercury 10. hybridization<|eot_id|>", "needle": ["define", "router", "preservation", "hospice", "dew", "vengeful", "church", "bellows", "modern", "propaganda"], "score": 0.1}
+{"ctx_len": 130835, "pred": "1. witch-hunt 2. chrome 3. bun 4. linkage 5. publicize 6. balance 7. fixture 8. bay 9. warlike 10. fibre<|eot_id|>", "needle": ["peer", "eclipse", "inhibition", "linkage", "chuck", "witch-hunt", "metabolite", "thrush", "bun", "chrome"], "score": 0.4}
+{"ctx_len": 130655, "pred": "1. spawn 2. lawn 3. selection 4. mobility 5. threat 6. signature 7. physical 8. lilac 9. bridge 10. microphone<|eot_id|>", "needle": ["mode", "jewelry", "retailer", "cot", "survey", "embryo", "heartbeat", "pew", "lamentable", "age"], "score": 0.0}
+{"ctx_len": 130693, "pred": "1. men 2. yellow 3. limo 4. clothes 5. utility 6. lyre 7. outlet 8. anime 9. mate 10. coast<|eot_id|>", "needle": ["tempt", "logistics", "airman", "outrun", "structure", "pinch", "fun", "flexibility", "wilderness", "reporting"], "score": 0.0}
+{"ctx_len": 130775, "pred": "1. cowbell 2. analyst 3. medium 4. generation 5. tech 6. uniformity 7. deposit 8. mandarin 9. gunpowder 10. deviance<|eot_id|>", "needle": ["analyst", "list", "tomb", "deviance", "cowbell", "dolor", "vertigo", "fretful", "medium", "hydrogen"], "score": 0.4}
+{"ctx_len": 130742, "pred": "1. federation 2. convenience 3. racial 4. breakpoint 5. gamma-ray 6. move 7. win 8. tech 9. fall 10. tan<|eot_id|>", "needle": ["teenager", "workbench", "grocery", "assorted", "variant", "year", "hypnotic", "photograph", "sake", "geography"], "score": 0.0}
+{"ctx_len": 130808, "pred": "1. snowplow 2. frock 3. sub 4. advocacy 5. temporary 6. latex 7. campanile 8. trend 9. lyrical 10. sweatsuit<|eot_id|>", "needle": ["ram", "flood", "snowplow", "tenth", "fat", "handgun", "encouraging", "panpipe", "choosing", "cutting"], "score": 0.1}
+{"ctx_len": 130726, "pred": "1. loan 2. presence 3. grouchy 4. vitality 5. initialise 6. shack 7. bush 8. burrow 9. million 10. elk<|eot_id|>", "needle": ["loan", "reign", "eliminate", "caffeine", "nightgown", "hydrogen", "liar", "chronometer", "silver", "township"], "score": 0.1}
+{"ctx_len": 130651, "pred": "1. classmate 2. occur 3. comics 4. aquifer 5. file 6. woozy 7. bottling 8. tube 9. hunt 10. ceaseless<|eot_id|>", "needle": ["meek", "hardboard", "squeak", "plot", "erratic", "migrant", "dragster", "skywalk", "bedrock", "civilian"], "score": 0.0}
+{"ctx_len": 130643, "pred": "1. the 2. and 3. of 4. a 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["deck", "apricot", "rural", "refreshments", "sink", "gerbil", "guitar", "cabinet", "barrel", "concerned"], "score": 0.0}
+{"ctx_len": 130767, "pred": "1. e-reader 2. eyelash 3. forego 4. confused 5. wait 6. maelstrom 7. carport 8. whip 9. full 10. ptarmigan<|eot_id|>", "needle": ["wisdom", "kick", "semester", "eyelash", "ownership", "engagement", "channel", "rebellious", "e-reader", "validate"], "score": 0.2}
+{"ctx_len": 130905, "pred": "1. footstool 2. someplace 3. activity 4. unique 5. waste 6. fool 7. research 8. wingtip 9. mat 10. chauvinist<|eot_id|>", "needle": ["vote", "plumber", "roomy", "flatboat", "pond", "perfection", "mainland", "maintenance", "footstool", "honoree"], "score": 0.1}
+{"ctx_len": 130744, "pred": "1. hospitalization 2. skyline 3. school 4. rifle 5. crewman 6. menu 7. wife 8. upstairs 9. whale 10. hostess<|eot_id|>", "needle": ["hospitalization", "describe", "familiar", "epee", "fry", "extract", "winner", "crow", "flash", "ground"], "score": 0.1}
+{"ctx_len": 130729, "pred": "1. desktop 2. bakeware 3. cello 4. charity 5. writer 6. noun 7. arch 8. horizon 9. thoughtless 10. importance<|eot_id|>", "needle": ["variable", "truth", "bakeware", "cello", "traveler", "fragile", "desktop", "term", "importance", "stink"], "score": 0.4}
+{"ctx_len": 130843, "pred": "1. elderberry 2. llama 3. harass 4. fortunate 5. navigate 6. eicosanoid 7. grandchild 8. eponym 9. communion 10. grandchild<|eot_id|>", "needle": ["elderberry", "plunger", "almanac", "bidder", "chopstick", "wee", "govern", "county", "voice", "synonym"], "score": 0.1}
+{"ctx_len": 130740, "pred": "1. attach 2. provide 3. semicircle 4. lamb 5. junior 6. randomization 7. rug 8. giant 9. liquor 10. relieved<|eot_id|>", "needle": ["rush", "install", "secretive", "vibraphone", "misunderstand", "reconcile", "ozone", "comeback", "molding", "detective"], "score": 0.0}
+{"ctx_len": 130739, "pred": "1. the 2. and 3. of 4. a 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["ugly", "leprosy", "cure", "chick", "ram", "cut", "matrix", "lack", "circumference", "noon"], "score": 0.0}
+{"ctx_len": 130818, "pred": "1. motivate 2. moonshine 3. testimony 4. mode 5. smiling 6. muddle 7. spork 8. spell 9. parallelogram 10. instinct<|eot_id|>", "needle": ["importance", "maternity", "immense", "lizard", "old-fashioned", "nominate", "jump", "gasp", "breathe", "urgency"], "score": 0.0}
+{"ctx_len": 130678, "pred": "1. the 2. and 3. of 4. to 5. a 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["slang", "smoke", "disagreement", "blood", "jerk", "eternity", "top", "meme", "protocol", "elbow"], "score": 0.0}
+{"ctx_len": 130746, "pred": "1. joey 2. violin 3. expedition 4. globe 5. peanut 6. plow 7. describe 8. sting 9. money 10. jellybeans<|eot_id|>", "needle": ["belly", "poke", "peanut", "joey", "concept", "violin", "reader", "riot", "expedition", "globe"], "score": 0.5}
+{"ctx_len": 130712, "pred": "1. speakerphone 2. thundering 3. locate 4. descendant 5. pathway 6. cloves 7. deep 8. incident 9. emission 10. tomb<|eot_id|>", "needle": ["descendant", "pull", "majestic", "thundering", "listen", "speakerphone", "photograph", "filing", "determination", "simplify"], "score": 0.3}
+{"ctx_len": 130740, "pred": "1. lake 2. section 3. save 4. architecture 5. almighty 6. integrate 7. heartwood 8. late 9. late 10. pyramid<|eot_id|>", "needle": ["causeway", "incompetent", "ridge", "jungle", "scotch", "chateau", "pick", "mayor", "grip", "revolution"], "score": 0.0}
+{"ctx_len": 130817, "pred": "1. programming 2. honey 3. billion 4. screw 5. flexibility 6. intention 7. murky 8. thank 9. bondsman 10. testament<|eot_id|>", "needle": ["selective", "reparation", "devil", "programming", "summer", "wisdom", "morning", "poultry", "billion", "gynaecology"], "score": 0.2}
+{"ctx_len": 130823, "pred": "1. airmail 2. folder 3. clutch 4. cattle 5. stamp 6. acid 7. symbolize 8. private 9. antechamber 10. couple<|eot_id|>", "needle": ["crewmate", "tie", "invincible", "grade", "camera", "id", "airmail", "correspondence", "folder", "codpiece"], "score": 0.3}
+{"ctx_len": 130785, "pred": "1. stake 2. address 3. pleasure 4. eleventh 5. disappear 6. detail 7. sneaky 8. defeated 9. railing 10. ashram<|eot_id|>", "needle": ["stake", "precision", "corruption", "interfere", "dance", "critic", "napkin", "homonym", "apprehension", "endpoint"], "score": 0.1}
+{"ctx_len": 130781, "pred": "1. the 2. and 3. of 4. a 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["trust", "chime", "billing", "yarn", "ideology", "bride", "erosion", "divalent", "riser", "leap"], "score": 0.0}
+{"ctx_len": 130810, "pred": "1. the 2. and 3. of 4. to 5. a 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["palate", "exile", "dictaphone", "abrogation", "voice", "mug", "anterior", "entertain", "roof", "dull"], "score": 0.0}
+{"ctx_len": 130845, "pred": "1. stress 2. afterlife 3. chess 4. traditionalism 5. cloister 6. pamphlet 7. vice 8. suet 9. seemly 10. fifth<|eot_id|>", "needle": ["jumbled", "cooking", "successful", "understatement", "place", "oafish", "auction", "identification", "support", "lesson"], "score": 0.0}
+{"ctx_len": 130791, "pred": "1. advertising 2. supermarket 3. bacterium 4. bagel 5. hot 6. hot 7. caption 8. briefing 9. gutter 10. niche<|eot_id|>", "needle": ["panoramic", "tawdry", "force", "pledge", "waveform", "cappelletti", "limitation", "screamer", "advertising", "measurement"], "score": 0.1}
+{"ctx_len": 130779, "pred": "1. the 2. and 3. of 4. a 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["personal", "judicious", "marines", "yahoo", "difficult", "challenge", "loading", "passport", "burrow", "diam"], "score": 0.0}
+{"ctx_len": 130920, "pred": "1. course 2. gerbil 3. concerned 4. gnat 5. hepatitis 6. moat 7. zone 8. security 9. row 10. used<|eot_id|>", "needle": ["disengagement", "rear", "hardcover", "relaxation", "piccolo", "explanation", "sneeze", "ephemera", "stormy", "supply"], "score": 0.0}
+{"ctx_len": 130742, "pred": "1. clockwork 2. gaming 3. usual 4. dealer 5. patience 6. admire 7. whelp 8. embossing 9. theater 10. mandarin<|eot_id|>", "needle": ["clockwork", "atom", "quadrant", "calculate", "barge", "illness", "cheer", "communicate", "melatonin", "creditor"], "score": 0.1}
+{"ctx_len": 130771, "pred": "1. woodshed 2. airplane 3. osprey 4. undertaker 5. liner 6. submarine 7. numeracy 8. skill 9. steak 10. wood<|eot_id|>", "needle": ["expansion", "line", "mattock", "piracy", "sitar", "tape", "collateral", "room", "punctuation", "manufacturing"], "score": 0.1}
+{"ctx_len": 130781, "pred": "1. calico 2. driveway 3. estimate 4. arithmetic 5. pat 6. eve 7. port 8. tabernacle 9. decency 10. hamster<|eot_id|>", "needle": ["film", "linkage", "passion", "mare", "armour", "dioxide", "calico", "sultan", "driveway", "strait"], "score": 0.2}
+{"ctx_len": 130876, "pred": "1. duckling 2. shootdown 3. bottle 4. earplug 5. shoelace 6. teller 7. vinyl 8. antechamber 9. handgun 10. lemur<|eot_id|>", "needle": ["eminent", "student", "ease", "duckling", "xylophone", "developing", "loan", "siding", "shootdown", "landscape"], "score": 0.2}
+{"ctx_len": 130894, "pred": "1. town 2. catalogue 3. rye 4. ficlet 5. eve 6. atelier 7. congo 8. helpful 9. pumped 10. pillbox<|eot_id|>", "needle": ["ghost", "puffy", "criticism", "strife", "readiness", "corduroy", "attic", "memory", "audited", "scold"], "score": 0.0}
+{"ctx_len": 130733, "pred": "1. dust 2. moldy 3. bag 4. pelt 5. randomisation 6. catastrophe 7. transport 8. objective 9. rambler 10. wisdom<|eot_id|>", "needle": ["storage", "moldy", "brave", "role", "dew", "tempo", "builder", "detention", "dust", "plenty"], "score": 0.2}
+{"ctx_len": 130871, "pred": "1. gigantic 2. gigantic 3. gigantic 4. gigantic 5. gigantic 6. gigantic 7. gigantic 8. gigantic 9. gigantic 10. gigantic<|eot_id|>", "needle": ["cope", "diadem", "gasket", "flytrap", "gigantic", "epauliere", "snowboarding", "foam", "personal", "racial"], "score": 0.1}
+{"ctx_len": 130817, "pred": "1. mailer 2. mail 3. mailman 4. mail 5. mail 6. mail 7. mail 8. mail 9. mail 10. mail<|eot_id|>", "needle": ["strive", "mailer", "diplomacy", "alloy", "circle", "dwell", "pyramid", "syndrome", "lout", "protect"], "score": 0.1}
+{"ctx_len": 130684, "pred": "1. cabinet 2. federation 3. significance 4. grand 5. beak 6. sponsor 7. task 8. curious 9. haven 10. army<|eot_id|>", "needle": ["dibble", "brain", "cabinet", "swamp", "zip", "tune-up", "comic", "receptive", "gutter", "federation"], "score": 0.2}
+{"ctx_len": 130797, "pred": "1. ringworm 2. birdbath 3. dew 4. highlight 5. house 6. castanet 7. official 8. metronome 9. weed 10. might<|eot_id|>", "needle": ["slap", "chance", "yam", "ringworm", "dinosaur", "curriculum", "birdbath", "financing", "gram", "person"], "score": 0.2}
+{"ctx_len": 130825, "pred": "1. pork 2. transfer 3. duck 4. formamide 5. haversack 6. accessible 7. carter 8. tonality 9. pot 10. duck<|eot_id|>", "needle": ["scandalous", "malnutrition", "clip", "honor", "tights", "hole", "vegetarian", "steeple", "possibility", "nod"], "score": 0.0}
+{"ctx_len": 130784, "pred": "1. broccoli 2. derrick 3. literature 4. dew 5. fish 6. amusement 7. eyebrows 8. talking 9. exasperation 10. styling<|eot_id|>", "needle": ["womanly", "source", "evaluate", "seizure", "disclaimer", "mastoid", "broccoli", "derrick", "literature", "wood"], "score": 0.3}
+{"ctx_len": 130838, "pred": "1. chicken 2. pencil 3. toast 4. fleece 5. attain 6. tap 7. disagreeable 8. mincemeat 9. titanium 10. silly<|eot_id|>", "needle": ["menu", "sonnet", "idea", "chicken", "hydrogen", "loading", "ice-cream", "definition", "confusion", "pop"], "score": 0.1}
+{"ctx_len": 130774, "pred": "1. petticoat 2. magical 3. disagreeable 4. stack 5. remark 6. marsh 7. facet 8. favorite 9. hatchling 10. marsh<|eot_id|>", "needle": ["needy", "clover", "manipulate", "fav", "loquat", "curio", "optimization", "vivacious", "beast", "statement"], "score": 0.1}
+{"ctx_len": 130837, "pred": "1. jodhpurs 2. genocide 3. communist 4. mediate 5. save 6. geyser 7. airship 8. adaptation 9. materialistic 10. anywhere<|eot_id|>", "needle": ["bough", "pin", "kettle", "genocide", "accidental", "railroad", "function", "wink", "jodhpurs", "consonant"], "score": 0.2}
+{"ctx_len": 130774, "pred": "1. riverbed 2. health-care 3. consist 4. tag 5. direction 6. zoologist 7. atelier 8. damage 9. sweat 10. knuckle<|eot_id|>", "needle": ["referendum", "careful", "farmer", "withstand", "snatch", "horse", "interject", "songbird", "riverbed", "leaver"], "score": 0.1}
+{"ctx_len": 130836, "pred": "1. balance 2. force 3. verdict 4. caddy 5. chorus 6. espalier 7. clarification 8. treasure 9. bust 10. catch<|eot_id|>", "needle": ["bruise", "steward", "boundless", "heyday", "cartload", "habit", "soliloquy", "making", "consolidate", "neglect"], "score": 0.0}
+{"ctx_len": 130700, "pred": "1. streetcar 2. uniform 3. grind 4. lip 5. focus 6. glutamate 7. gratitude 8. bee 9. boast 10. pheasant<|eot_id|>", "needle": ["cartridge", "academy", "merchant", "syndrome", "reserve", "punish", "streetcar", "uniform", "available", "lip"], "score": 0.3}
+{"ctx_len": 130736, "pred": "1. lap 2. mid-course 3. lid 4. lap 5. reorganize 6. snuggle 7. film 8. polyester 9. snake 10. ghost<|eot_id|>", "needle": ["solitaire", "calendar", "prevention", "solid", "session", "lacking", "juvenile", "axis", "socialist", "housework"], "score": 0.0}
+{"ctx_len": 130764, "pred": "1. somebody 2. somebody 3. jellybeans 4. assistance 5. examination 6. somebody 7. assistance 8. jellybeans 9. examination 10. assistance<|eot_id|>", "needle": ["graduate", "awful", "molding", "ethyl", "characteristic", "sanction", "brow", "tomography", "change", "ground"], "score": 0.0}
+{"ctx_len": 130773, "pred": "1. portion 2. door 3. dredger 4. threat 5. strive 6. freezing 7. advancement 8. gymnastics 9. intention 10. dinghy<|eot_id|>", "needle": ["wend", "shofar", "footwear", "dew", "battleship", "studio", "freedom", "windshield", "look", "comma"], "score": 0.0}
+{"ctx_len": 130733, "pred": "1. committee 2. parenting 3. crop 4. decimal 5. hut 6. god 7. storytelling 8. pseudocode 9. detention 10. legacy<|eot_id|>", "needle": ["catcher", "passenger", "dedication", "shark", "beneficiary", "cation", "uncle", "pianist", "imaginary", "cravat"], "score": 0.0}
+{"ctx_len": 130777, "pred": "1. settler 2. content 3. tactile 4. plausible 5. cover 6. seafood 7. dependency 8. leaver 9. transom 10. vellum<|eot_id|>", "needle": ["settler", "tassel", "roommate", "quick", "dark", "pod", "strange", "insomnia", "hybridization", "fierce"], "score": 0.1}
+{"ctx_len": 130681, "pred": "1. walrus 2. oven 3. velvet 4. growth 5. photography 6. mariachi 7. arcade 8. marxism 9. complication 10. ribbon<|eot_id|>", "needle": ["pounding", "takeover", "babe", "oven", "astronomy", "examiner", "walrus", "readiness", "voiceless", "surplus"], "score": 0.2}
+{"ctx_len": 130776, "pred": "1. samovar 2. publishing 3. environment 4. cent 5. mall 6. trait 7. snug 8. reservoir 9. bomber 10. gobbler<|eot_id|>", "needle": ["barracks", "minister", "loop", "publishing", "cello", "arise", "switching", "samovar", "environment", "message"], "score": 0.3}
+{"ctx_len": 130748, "pred": "1. howitzer 2. sycamore 3. research 4. uniform 5. episode 6. station 7. former 8. copy 9. license 10. doubling<|eot_id|>", "needle": ["sugar", "government", "pocket", "research", "madly", "liquid", "uniform", "downfall", "tailor", "sycamore"], "score": 0.3}
+{"ctx_len": 130803, "pred": "1. soot 2. lemur 3. caviar 4. satin 5. attraction 6. blackbird 7. bump 8. farrow 9. sublet 10. wail<|eot_id|>", "needle": ["venomous", "flour", "wax", "greens", "lemur", "consent", "protect", "retailer", "jacket", "soot"], "score": 0.2}
+{"ctx_len": 130791, "pred": "1. cirrus 2. hatbox 3. roller 4. cub 5. believer 6. smelly 7. resident 8. homeownership 9. vein 10. resident<|eot_id|>", "needle": ["cirrus", "tripod", "cranky", "hatbox", "enactment", "needless", "content", "midline", "profess", "chafe"], "score": 0.2}
+{"ctx_len": 130846, "pred": "1. pawnshop 2. pumpernickel 3. rudiment 4. undertake 5. dahlia 6. neighbourhood 7. lining 8. jockey 9. know 10. log<|eot_id|>", "needle": ["crust", "match", "mobile", "pumpernickel", "ape", "aberrant", "harmonise", "initial", "pawnshop", "reference"], "score": 0.2}
+{"ctx_len": 130742, "pred": "1. socks 2. audience 3. step-mother 4. inn 5. inn 6. inn 7. inn 8. inn 9. inn 10. inn<|eot_id|>", "needle": ["used", "expedite", "crusader", "audience", "interchange", "composition", "departure", "squatter", "socks", "owner"], "score": 0.2}
+{"ctx_len": 130911, "pred": "1. socialism 2. white 3. vitro 4. wend 5. adhesive 6. slump 7. codon 8. importance 9. inversion 10. robin<|eot_id|>", "needle": ["socialism", "undertake", "draconian", "calcification", "breakdown", "chalk", "foal", "tawdry", "inlay", "tearful"], "score": 0.1}
+{"ctx_len": 130857, "pred": "1. Tambourine 2. Spray 3. Saving 4. Square 5. Overrated 6. Governance 7. Way 8. Assistant 9. Viola 10. Possessive<|eot_id|>", "needle": ["chivalry", "gender", "eyebrows", "mixer", "realm", "tambourine", "fort", "wholesaler", "shiver", "proposal"], "score": 0.1}
+{"ctx_len": 130802, "pred": "1. wingtip 2. womanly 3. salon 4. bonus 5. ride 6. flame 7. sprout 8. aperitif 9. quicksand 10. worm<|eot_id|>", "needle": ["toothsome", "trim", "hit", "ambitious", "hope", "mama", "surge", "antechamber", "define", "bake"], "score": 0.0}
+{"ctx_len": 130754, "pred": "1. strobe 2. rightful 3. miss 4. misspell 5. lieutenant 6. rightful 7. rightful 8. rightful 9. rightful 10. rightful<|eot_id|>", "needle": ["think", "hypochondria", "early", "cattle", "forbid", "strobe", "cage", "lieutenant", "rightful", "wall"], "score": 0.3}
+{"ctx_len": 130792, "pred": "1. sample 2. savior 3. subdued 4. street 5. engineering 6. hammer 7. textual 8. hashtag 9. folk 10. industrious<|eot_id|>", "needle": ["willingness", "front", "cube", "bird", "smelting", "tritone", "crop", "moor", "freighter", "metaphor"], "score": 0.0}
+{"ctx_len": 130810, "pred": "1. teriyaki 2. manifestation 3. robotics 4. glossy 5. hospitable 6. webinar 7. cultured 8. rehospitalization 9. rehospitalization 10. glossy<|eot_id|>", "needle": ["music-making", "remain", "passion", "segment", "butler", "annoyed", "camper", "adverb", "teriyaki", "working"], "score": 0.1}
+{"ctx_len": 130812, "pred": "1. work 2. operation 3. coalition 4. communion 5. puritan 6. trading 7. anise 8. handle 9. visor 10. loop<|eot_id|>", "needle": ["sonata", "spite", "dazzling", "pouch", "spray", "chronometer", "news", "eurocentrism", "bachelor", "cynical"], "score": 0.0}
+{"ctx_len": 130853, "pred": "1. valentine 2. kick-off 3. valentine 4. bark 5. amendment 6. ethereal 7. garage 8. completion 9. missile 10. noxious<|eot_id|>", "needle": ["clogs", "hot", "amenity", "assessment", "inspire", "reach", "veal", "finer", "foodstuffs", "legging"], "score": 0.0}
+{"ctx_len": 130839, "pred": "1. self 2. plug 3. inexpensive 4. materialistic 5. goddess 6. clavicle 7. oceanic 8. rap 9. boolean 10. lot<|eot_id|>", "needle": ["connotation", "fascinated", "tow-truck", "heel", "creek", "sidecar", "furtive", "dishwasher", "materialistic", "scarce"], "score": 0.1}
+{"ctx_len": 130610, "pred": "1. study 2. market 3. dispatch 4. economy 5. critique 6. hierarchy 7. thunder 8. coil 9. diamond 10. handful<|eot_id|>", "needle": ["selfish", "parchment", "thunder", "dispatch", "station", "pudding", "comic", "issue", "market", "swift"], "score": 0.3}
+{"ctx_len": 130773, "pred": "1. killing 2. trot 3. siege 4. lackadaisical 5. seafood 6. marketing 7. offend 8. chutney 9. notation 10. tenuous<|eot_id|>", "needle": ["eliminate", "boyfriend", "diagram", "pajamas", "attenuation", "funny", "cloakroom", "pollutant", "flame", "month"], "score": 0.0}
+{"ctx_len": 130763, "pred": "1. foal 2. dinner 3. mind 4. yak 5. builder 6. gravy 7. religion 8. candy 9. sender 10. clarify<|eot_id|>", "needle": ["foal", "capitalism", "constitution", "blizzard", "exam", "addiction", "dwell", "illiteracy", "nymph", "ratty"], "score": 0.1}
+{"ctx_len": 130684, "pred": "1. wifi 2. cassava 3. workforce 4. colonization 5. hiccups 6. eliminate 7. righteous 8. sweltering 9. tweet 10. colonization<|eot_id|>", "needle": ["wifi", "store", "community", "reveal", "naughty", "cassava", "yacht", "separate", "footnote", "frog"], "score": 0.2}
+{"ctx_len": 130822, "pred": "1. reorganize 2. stick 3. manifestation 4. maracas 5. mainland 6. trombone 7. cosset 8. turf 9. deceive 10. royal<|eot_id|>", "needle": ["thickness", "ownership", "diabetes", "rainy", "magenta", "theft", "amenity", "cannon", "macrofauna", "rheumatism"], "score": 0.0}
+{"ctx_len": 130771, "pred": "1. certification 2. composite 3. punish 4. space 5. wriggle 6. espalier 7. turmeric 8. courtroom 9. waiting 10. amnesty<|eot_id|>", "needle": ["residence", "steadfast", "lounge", "headline", "burglar", "induce", "threat", "state", "punctuation", "yellowjacket"], "score": 0.0}
+{"ctx_len": 130888, "pred": "1. daffodil 2. pecan 3. serve 4. disposer 5. rostrum 6. volunteering 7. bathtub 8. raccoon 9. councilman 10. dune<|eot_id|>", "needle": ["lamentable", "east", "sword", "thorn", "bikini", "tail", "cynic", "validity", "sordid", "dawn"], "score": 0.0}
+{"ctx_len": 130803, "pred": "1. foodstuffs 2. unable 3. fry 4. woodland 5. fit 6. yourself 7. status 8. liquidity 9. allow 10. swanky<|eot_id|>", "needle": ["advocate", "forgery", "formal", "be", "kick", "cigarette", "foodstuffs", "swanky", "beak", "legging"], "score": 0.2}
+{"ctx_len": 130727, "pred": "1. athletics 2. farmland 3. moth 4. institute 5. activate 6. vanish 7. wary 8. harsh 9. harsh 10. cry<|eot_id|>", "needle": ["annoying", "dip", "folder", "siege", "beanie", "pennant", "traffic", "steer", "objection", "maintain"], "score": 0.0}
+{"ctx_len": 130737, "pred": "1. people 2. the 3. and 4. of 5. a 6. to 7. in 8. that 9. is 10. for<|eot_id|>", "needle": ["sniff", "grubby", "oxford", "people", "anterior", "component", "step", "brink", "tattoo", "wholesaler"], "score": 0.1}
+{"ctx_len": 130852, "pred": "1. detective 2. contain 3. pilgrimage 4. tapioca 5. avenue 6. whale 7. glimpse 8. colleague 9. pepperoni 10. college<|eot_id|>", "needle": ["clarification", "orchestra", "conclude", "kilometer", "salsa", "midline", "lyrical", "fairy", "coevolution", "hydrolyze"], "score": 0.0}
+{"ctx_len": 130772, "pred": "1. meter 2. export 3. upset 4. charset 5. cuisine 6. elderberry 7. revitalization 8. dissonance 9. precedence 10. tasty<|eot_id|>", "needle": ["concept", "eaves", "feed", "arcade", "seabass", "disease", "fowl", "ripe", "sailing", "brow"], "score": 0.0}
+{"ctx_len": 130908, "pred": "1. hockey 2. step-mother 3. polarization 4. motive 5. caviar 6. impropriety 7. treat 8. grief 9. annoy 10. teletype<|eot_id|>", "needle": ["self-esteem", "finicky", "pike", "watchful", "camel", "spasm", "hockey", "puggle", "smith", "step-mother"], "score": 0.2}
+{"ctx_len": 130731, "pred": "1. tweezers 2. septicaemia 3. chassis 4. tweezers 5. chassis 6. tweezers 7. chassis 8. tweezers 9. chassis 10. tweezers<|eot_id|>", "needle": ["septicaemia", "chassis", "disclosure", "tweezers", "protective", "fallacy", "mower", "frantic", "veil", "spasm"], "score": 0.3}
+{"ctx_len": 130713, "pred": "1. entity 2. monitor 3. brand 4. spree 5. bet 6. inevitable 7. method 8. polo 9. pointless 10. elegant<|eot_id|>", "needle": ["dedication", "separation", "scattered", "species", "icon", "fishnet", "propane", "legislation", "lode", "codon"], "score": 0.0}
+{"ctx_len": 130795, "pred": "1. measurement 2. principle 3. birch 4. gap 5. removal 6. mango 7. vigorous 8. aim 9. scanner 10. piety<|eot_id|>", "needle": ["churn", "toad", "blackfish", "kit", "bra", "flip-flops", "hoof", "bitten", "garb", "turnip"], "score": 0.0}
+{"ctx_len": 130806, "pred": "1. pantologist 2. linguist 3. herring 4. piracy 5. mean 6. shop 7. bunch 8. mortise 9. adult 10. slime<|eot_id|>", "needle": ["individual", "placid", "chemical", "pantologist", "romantic", "doorknob", "cattle", "rambunctious", "noise", "plausible"], "score": 0.1}
+{"ctx_len": 130840, "pred": "1. overflight 2. publisher 3. nut 4. gander 5. gander 6. gander 7. gander 8. gander 9. gander 10. gander<|eot_id|>", "needle": ["functionality", "brunch", "uncovered", "canteen", "teeny-tiny", "oasis", "infection", "swan", "coral", "grit"], "score": 0.0}
+{"ctx_len": 130951, "pred": "1. registration 2. morning 3. plan 4. analogue 5. teen 6. vampire 7. smiling 8. afternoon 9. glimpse 10. microlending<|eot_id|>", "needle": ["enforce", "providence", "dahlia", "herring", "reaction", "rambunctious", "millisecond", "birdbath", "registration", "talking"], "score": 0.1}
+{"ctx_len": 130808, "pred": "1. stucco 2. neighborly 3. proliferation 4. outrageous 5. sociology 6. formal 7. broad 8. sting 9. script 10. rinse<|eot_id|>", "needle": ["stucco", "kamikaze", "roof", "evil", "limit", "campus", "volcano", "boorish", "fascia", "suspect"], "score": 0.1}
+{"ctx_len": 130735, "pred": "1. motorcycle 2. access 3. poverty 4. print 5. horrible 6. gift 7. streetcar 8. fowl 9. church 10. fanny-pack<|eot_id|>", "needle": ["tile", "chemical", "derrick", "tranquil", "spectrum", "precede", "opossum", "rust", "postfix", "textual"], "score": 0.0}
+{"ctx_len": 130867, "pred": "1. gumshoe 2. money 3. soup 4. scrawny 5. fearless 6. mecca 7. compose 8. underwear 9. residue 10. defend<|eot_id|>", "needle": ["elated", "annoying", "expand", "idiom", "base", "mallard", "cheese", "brash", "reform", "nougat"], "score": 0.0}
+{"ctx_len": 130847, "pred": "1. boyfriend 2. laparoscope 3. misfit 4. posterior 5. shopping 6. ginger 7. reject 8. pressurization 9. union 10. bangle<|eot_id|>", "needle": ["cartel", "laparoscope", "busy", "freighter", "tacit", "profuse", "peripheral", "supplier", "explorer", "ladle"], "score": 0.1}
+{"ctx_len": 130879, "pred": "1. milkshake 2. sprinter 3. magnificent 4. subtract 5. ballet 6. tent 7. restoration 8. taxi 9. methodology 10. silky<|eot_id|>", "needle": ["charter", "barn", "woodchuck", "sprinter", "handwrite", "diagnose", "continue", "barbiturate", "milkshake", "kumquat"], "score": 0.2}
+{"ctx_len": 130822, "pred": "1. mailer 2. godfather 3. intestine 4. name 5. event 6. divide 7. million 8. godfather 9. chocolate 10. odyssey<|eot_id|>", "needle": ["underpass", "aardvark", "livestock", "recreation", "woodshed", "correlate", "mailer", "molecule", "overshoot", "ischemia"], "score": 0.1}
+{"ctx_len": 130757, "pred": "1. Early 2. Early 3. Early 4. Early 5. Early 6. Early 7. Early 8. Early 9. Early 10. Early<|eot_id|>", "needle": ["introduction", "glib", "credibility", "farm", "ophthalmologist", "decorate", "croissant", "instance", "juvenile", "junior"], "score": 0.0}
+{"ctx_len": 130862, "pred": "1. lollipop 2. networking 3. depressive 4. ossified 5. guacamole 6. crawdad 7. paddock 8. monocle 9. happy 10. gherkin<|eot_id|>", "needle": ["saving", "pancake", "spelling", "lap", "max", "jeweller", "accelerator", "handsome", "flare", "gherkin"], "score": 0.1}
+{"ctx_len": 130735, "pred": "1. pub 2. athletics 3. volleyball 4. update 5. scrutiny 6. prostrate 7. chronometer 8. overconfident 9. aftershock 10. dreamer<|eot_id|>", "needle": ["athletics", "breakthrough", "infinite", "bunch", "popcorn", "wasting", "stimulation", "republic", "pub", "quadrant"], "score": 0.2}
+{"ctx_len": 130780, "pred": "1. logistics 2. creativity 3. mangrove 4. pace 5. birthday 6. warn 7. emphasis 8. voice 9. materialistic 10. raiment<|eot_id|>", "needle": ["check", "scissors", "premier", "creativity", "foodstuffs", "bewildered", "direct", "mangrove", "logistics", "dentist"], "score": 0.3}
+{"ctx_len": 130833, "pred": "1. trap 2. oregano 3. outline 4. grit 5. leap 6. centre 7. fairness 8. department 9. whispering 10. evaluation<|eot_id|>", "needle": ["assessment", "caviar", "rainmaker", "evaluation", "exaggeration", "cafe", "ficlet", "flaky", "external", "headphones"], "score": 0.1}
+{"ctx_len": 130864, "pred": "1. flan 2. sofa 3. misreading 4. township 5. dolor 6. foray 7. cassava 8. wheel 9. teriyaki 10. ukulele<|eot_id|>", "needle": ["instinctive", "birdcage", "teller", "decrease", "ukulele", "praised", "editor", "pride", "flan", "right"], "score": 0.2}
+{"ctx_len": 130894, "pred": "1. networking 2. anybody 3. anybody 4. continue 5. enjoyment 6. sable 7. bite 8. newsstand 9. analogue 10. library<|eot_id|>", "needle": ["aftershave", "sorbet", "philanthropy", "plowman", "maddening", "cotton", "consequence", "subprime", "robust", "tonight"], "score": 0.0}
+{"ctx_len": 130819, "pred": "1. residence 2. gamma-ray 3. pathway 4. deodorant 5. spending 6. significance 7. polarisation 8. loafer 9. gentleman 10. moat<|eot_id|>", "needle": ["loafer", "surge", "reunion", "residence", "energy", "hare", "sprag", "debris", "gamma-ray", "transparency"], "score": 0.3}
+{"ctx_len": 130805, "pred": "1. distortion 2. samovar 3. matter 4. kindness 5. tritone 6. smoggy 7. derrick 8. selection 9. buck 10. poll<|eot_id|>", "needle": ["yawn", "ball", "cheddar", "distortion", "convert", "outback", "stream", "old", "samovar", "quest"], "score": 0.2}
+{"ctx_len": 130736, "pred": "1. dirt 2. remote 3. knowledgeable 4. lava 5. romance 6. guerrilla 7. carbohydrate 8. cabbage 9. mower 10. criminal<|eot_id|>", "needle": ["fence", "award", "haven", "dirt", "critique", "burning", "stump", "glider", "specify", "exception"], "score": 0.1}
+{"ctx_len": 130858, "pred": "1. manufacturing 2. harpooner 3. bamboo 4. babushka 5. tough-guy 6. barbiturate 7. ecology 8. puma 9. alluvium 10. enzyme<|eot_id|>", "needle": ["blue-eyed", "puma", "girlfriend", "accordion", "alluvium", "measure", "muffin", "triangle", "manufacturing", "collapse"], "score": 0.3}
+{"ctx_len": 130745, "pred": "1. attorney 2. chemistry 3. lava 4. regulation 5. solidarity 6. blouse 7. windshield 8. spool 9. operating 10. tactile<|eot_id|>", "needle": ["windshield", "aquatic", "frown", "shine", "nondescript", "scare", "disguise", "splendor", "coke", "instructor"], "score": 0.1}
+{"ctx_len": 130878, "pred": "1. butane 2. bough 3. prescription 4. pregnancy 5. bed 6. overview 7. tumbler 8. intercourse 9. freon 10. backburn<|eot_id|>", "needle": ["puppet", "tom-tom", "applied", "zebra", "tune-up", "oxford", "snorer", "element", "pull", "sad"], "score": 0.0}
+{"ctx_len": 130679, "pred": "1. officer 2. influence 3. prelude 4. loggia 5. magazine 6. mill 7. streetcar 8. gelding 9. sloppy 10. owl<|eot_id|>", "needle": ["training", "prior", "lyrics", "database", "cornet", "wheel", "canal", "math", "difficult", "wedge"], "score": 0.0}
+{"ctx_len": 130857, "pred": "1. scholarship 2. hashtag 3. pitch 4. wee 5. hype 6. sideboard 7. circumstance 8. gullible 9. coordination 10. computer<|eot_id|>", "needle": ["cuticle", "emerald", "buying", "evening", "clavicle", "styling", "symbol", "cleavage", "peep", "chip"], "score": 0.0}
+{"ctx_len": 130806, "pred": "1. ashtray 2. maracas 3. railway 4. leash 5. suet 6. pruner 7. porpoise 8. mother-in-law 9. schnitzel 10. trash<|eot_id|>", "needle": ["t-shirt", "brochure", "juicy", "heating", "cook", "survivor", "innovate", "ashtray", "maracas", "rabbit"], "score": 0.2}
+{"ctx_len": 130770, "pred": "1. shadowbox 2. gold 3. pulley 4. rage 5. open 6. lyrics 7. monkey 8. calibre 9. spotless 10. patrol<|eot_id|>", "needle": ["poke", "standardization", "stable", "timeline", "forestry", "saviour", "gold", "shadowbox", "denominator", "barley"], "score": 0.2}
+{"ctx_len": 130790, "pred": "1. mushroom 2. nebulous 3. loggia 4. parameter 5. keyboard 6. feigned 7. motive 8. label 9. fledgling 10. endive<|eot_id|>", "needle": ["mushroom", "building", "loggia", "compassion", "checking", "mineral", "questionable", "summary", "nebulous", "astrology"], "score": 0.3}
+{"ctx_len": 130846, "pred": "1. washcloth 2. jute 3. hamburger 4. gainful 5. robotics 6. paintwork 7. total 8. devise 9. meeting 10. institution<|eot_id|>", "needle": ["picayune", "clip", "main", "disagreeable", "wrapping", "jute", "forsake", "longitude", "washcloth", "devil"], "score": 0.2}
+{"ctx_len": 130858, "pred": "1. judo 2. corduroy 3. encouragement 4. blushing 5. contour 6. variable 7. aback 8. satellite 9. rifle 10. wrestler<|eot_id|>", "needle": ["rhubarb", "bowler", "hunger", "insurrection", "abortion", "scallion", "berserk", "priest", "brass", "difficulty"], "score": 0.0}
+{"ctx_len": 130673, "pred": "1. tank-top 2. serval 3. pork 4. cocktail 5. transfer 6. pathway 7. conditioner 8. earth 9. earthworm 10. loaf<|eot_id|>", "needle": ["unadvised", "mint", "nose", "pork", "congressman", "cook", "nursing", "cod", "serval", "tank-top"], "score": 0.3}
+{"ctx_len": 130757, "pred": "1. thinking 2. main 3. main 4. thinking 5. thinking 6. thinking 7. thinking 8. thinking 9. thinking 10. thinking<|eot_id|>", "needle": ["relation", "nightclub", "subexpression", "cap", "resemblance", "research", "fetch", "knowledge", "clammy", "middle"], "score": 0.0}
+{"ctx_len": 130714, "pred": "1. the 2. and 3. of 4. to 5. a 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["chest", "formula", "field", "homosexuality", "disengagement", "comfortable", "challenge", "flair", "sir", "vascular"], "score": 0.0}
+{"ctx_len": 130716, "pred": "1. netsuke 2. canal 3. constraint 4. technician 5. rank 6. applause 7. sturgeon 8. pest 9. romantic 10. coordination<|eot_id|>", "needle": ["movie", "play", "netsuke", "dry", "advent", "stitch", "possession", "coordination", "epoxy", "initial"], "score": 0.2}
+{"ctx_len": 130639, "pred": "1. psychoanalyst 2. earthy 3. doorpost 4. organizing 5. heal 6. milestone 7. flair 8. crusader 9. tractor 10. ratio<|eot_id|>", "needle": ["grain", "tricky", "forte", "freight", "alive", "selection", "preset", "standoff", "root", "rhetorical"], "score": 0.0}
+{"ctx_len": 130786, "pred": "1. formation 2. estuary 3. goal 4. focus 5. synthesize 6. suspenders 7. editor 8. loading 9. blade 10. football<|eot_id|>", "needle": ["endurable", "exhibit", "harsh", "whispering", "realization", "estuary", "time", "originality", "focus", "divine"], "score": 0.2}
+{"ctx_len": 130682, "pred": "1. improvement 2. brainy 3. undertake 4. update 5. volleyball 6. crepe 7. person 8. gamebird 9. subscription 10. tiresome<|eot_id|>", "needle": ["ladle", "piece", "recognize", "robust", "streamline", "coinsurance", "incentive", "capability", "curiosity", "founder"], "score": 0.0}
+{"ctx_len": 130782, "pred": "1. walnut 2. institute 3. economy 4. damaged 5. writing 6. skillful 7. engineering 8. authorisation 9. sweatshirt 10. opera<|eot_id|>", "needle": ["deputy", "robin", "maestro", "detection", "jumpy", "teller", "info", "arrogance", "walnut", "world"], "score": 0.1}
+{"ctx_len": 130804, "pred": "1. swordfish 2. utility 3. moonshine 4. moon 5. bathhouse 6. applaud 7. separation 8. pianist 9. radiate 10. twilight<|eot_id|>", "needle": ["open", "bran", "teepee", "floor", "teller", "deposition", "utility", "creationist", "swordfish", "congress"], "score": 0.2}
+{"ctx_len": 130918, "pred": "1. lacquerware 2. challenge 3. judge 4. dizzy 5. harpsichord 6. stride 7. contact lens 8. doctorate 9. wraparound 10. tortellini<|eot_id|>", "needle": ["sparkle", "clock", "sidestream", "forebear", "executive", "apse", "promotion", "institute", "lacquerware", "beak"], "score": 0.1}
+{"ctx_len": 130719, "pred": "1. butane 2. hutch 3. guy 4. turtle 5. yew 6. supervision 7. afternoon 8. malnutrition 9. coliseum 10. chart<|eot_id|>", "needle": ["butane", "refuge", "transom", "pack", "uppity", "license", "leather", "interest", "hutch", "labour"], "score": 0.2}
+{"ctx_len": 130743, "pred": "1. island 2. pavilion 3. storm 4. debtor 5. tasty 6. pastor 7. scenario 8. riot 9. child 10. quickest<|eot_id|>", "needle": ["century", "keystone", "spectrograph", "exotic", "strand", "pecan", "sidecar", "nothing", "equal", "scrub"], "score": 0.0}
+{"ctx_len": 130834, "pred": "1. wood 2. clerk 3. careful 4. blue-eyed 5. sugar 6. tangible 7. permafrost 8. fuzzy 9. fuzzy 10. fuzzy<|eot_id|>", "needle": ["weigh", "agriculture", "crusader", "swell", "rawhide", "quiche", "selfish", "baseboard", "realize", "veto"], "score": 0.0}
+{"ctx_len": 130784, "pred": "1. the 2. and 3. of 4. to 5. a 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["comeback", "commotion", "bullet", "flung", "hare", "validity", "fantasy", "station", "wee", "stadium"], "score": 0.0}
+{"ctx_len": 130861, "pred": "1. watercress 2. tutu 3. reinscription 4. pince-nez 5. supplier 6. mister 7. ore 8. satin 9. ellipse 10. manager<|eot_id|>", "needle": ["tutu", "leadership", "include", "wet", "fishing", "outlaw", "codepage", "benefit", "reinscription", "watercress"], "score": 0.3}
+{"ctx_len": 130778, "pred": "1. middle 2. chive 3. glib 4. frustration 5. breakfast 6. madly 7. modify 8. dramaturge 9. eyebrow 10. tooth<|eot_id|>", "needle": ["mandate", "guideline", "chive", "defense", "lieu", "smog", "cleavage", "exile", "walker", "sound"], "score": 0.1}
+{"ctx_len": 130865, "pred": "1. grandmother 2. crayfish 3. sensitivity 4. airforce 5. loggia 6. lobotomy 7. maintain 8. picayune 9. headquarters 10. transom<|eot_id|>", "needle": ["grandmother", "wrathful", "osprey", "note", "puritan", "crayfish", "copyright", "originality", "mess", "homicide"], "score": 0.2}
+{"ctx_len": 130851, "pred": "1. the 2. and 3. of 4. to 5. a 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["vast", "maelstrom", "macrofauna", "bulb", "court", "lottery", "macrame", "juice", "silk", "cutover"], "score": 0.0}
+{"ctx_len": 130822, "pred": "1. rain 2. quail 3. trick 4. lime 5. robe 6. trend 7. wiring 8. probe 9. neonate 10. appeal<|eot_id|>", "needle": ["stimulation", "factor", "accordion", "grouper", "countess", "ski", "consignment", "elimination", "covariate", "birthday"], "score": 0.0}
+{"ctx_len": 130579, "pred": "1. agriculture 2. buddy 3. heavy 4. agriculture 5. buddy 6. agriculture 7. buddy 8. agriculture 9. buddy 10. agriculture<|eot_id|>", "needle": ["armor", "tolerance", "bet", "woodwind", "cauliflower", "reflection", "prisoner", "motor", "overcoat", "original"], "score": 0.0}
+{"ctx_len": 130636, "pred": "1. faculty 2. progress 3. ridge 4. loan 5. farm 6. plucky 7. fiberglass 8. struggle 9. childbirth 10. burn-out<|eot_id|>", "needle": ["alpenglow", "ringworm", "estuary", "compulsion", "bee", "clap", "fasten", "high", "fiesta", "nick"], "score": 0.0}
+{"ctx_len": 130746, "pred": "1. windshield 2. pastor 3. fisting 4. jeep 5. thickness 6. fisting 7. fisting 8. fisting 9. fisting 10. fisting<|eot_id|>", "needle": ["killer", "disguise", "turnstile", "rejoice", "particle", "windshield", "stain", "pastor", "crepe", "glacier"], "score": 0.2}
+{"ctx_len": 130921, "pred": "1. display 2. tamale 3. loneliness 4. reasoning 5. sloppy 6. boycott 7. numeracy 8. squealing 9. overconfident 10. convenience<|eot_id|>", "needle": ["sundial", "death", "format", "reorganization", "baseball", "herring", "potential", "divergent", "stepping-stone", "cradle"], "score": 0.0}
+{"ctx_len": 130752, "pred": "1. know 2. soulmate 3. assurance 4. scientific 5. homeownership 6. hatbox 7. pagan 8. sunrise 9. rural 10. hard<|eot_id|>", "needle": ["zip", "ethernet", "follower", "shield", "hubcap", "tank", "integrate", "outrageous", "checkbook", "assault"], "score": 0.0}
+{"ctx_len": 130798, "pred": "1. everybody 2. everybody 3. everybody 4. everybody 5. everybody 6. everybody 7. everybody 8. everybody 9. everybody 10. everybody<|eot_id|>", "needle": ["yoyo", "activate", "review", "misrepresentation", "step-uncle", "doc", "boolean", "steep", "habit", "fame"], "score": 0.0}
+{"ctx_len": 130826, "pred": "1. outrigger 2. extension 3. cormorant 4. kneel 5. snake 6. newsstand 7. cleaner 8. yawl 9. gherkin 10. grouchy<|eot_id|>", "needle": ["outrigger", "flick", "clock", "brick", "bag", "assembly", "sedate", "scallion", "reign", "chip"], "score": 0.1}
+{"ctx_len": 130730, "pred": "1. hut 2. essay 3. form 4. snap 5. almanac 6. monasticism 7. pile 8. almanac 9. character 10. manipulation<|eot_id|>", "needle": ["destruction", "agenda", "thundering", "essay", "yarn", "hut", "cytokine", "need", "spot", "blind"], "score": 0.2}
+{"ctx_len": 130757, "pred": "1. chief 2. heyday 3. beak 4. creditor 5. mercury 6. dispensable 7. sectional 8. structure 9. fiddle 10. variant<|eot_id|>", "needle": ["selfish", "monger", "hundred", "jam", "spell", "authorisation", "bun", "beast", "atom", "tell"], "score": 0.0}
+{"ctx_len": 130854, "pred": "1. consumption 2. communicate 3. overexertion 4. raspberry 5. goofy 6. vendor 7. luck 8. accordance 9. eavesdropper 10. inheritance<|eot_id|>", "needle": ["bond", "jealous", "outhouse", "consumption", "sitar", "cool", "ahead", "clarinet", "afford", "mRNA"], "score": 0.1}
+{"ctx_len": 130727, "pred": "1. tortoise 2. post 3. disappear 4. stinger 5. convenience 6. block 7. revelation 8. fondue 9. promenade 10. hallowed<|eot_id|>", "needle": ["assessment", "cowardly", "shampoo", "sorbet", "gateway", "bikini", "crusader", "tortoise", "panoramic", "dream"], "score": 0.1}
+{"ctx_len": 130799, "pred": "1. tortellini 2. silk 3. furniture 4. silk 5. tortellini 6. tortellini 7. tortellini 8. tortellini 9. tortellini 10. tortellini<|eot_id|>", "needle": ["calibre", "tortellini", "building", "allegation", "reality", "silk", "posterior", "furniture", "chow", "present"], "score": 0.3}
+{"ctx_len": 130745, "pred": "1. burrow 2. presidency 3. likeable 4. hose 5. log 6. heir 7. coinsurance 8. pulse 9. icing 10. remind<|eot_id|>", "needle": ["presidency", "pillow", "loneliness", "revitalisation", "presentation", "nexus", "zoology", "burrow", "greatness", "vulture"], "score": 0.2}
+{"ctx_len": 130686, "pred": "1. the 2. and 3. of 4. a 5. to 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["sugar", "founder", "still", "bull", "softball", "antigen", "elongation", "needless", "boss", "prune"], "score": 0.0}
+{"ctx_len": 130670, "pred": "1. family 2. violet 3. instance 4. soybean 5. belief 6. stride 7. fang 8. heal 9. revascularization 10. interpretation<|eot_id|>", "needle": ["glamorous", "ambiguity", "win", "push", "wholesaler", "patient", "point", "acquisition", "interpretation", "calorie"], "score": 0.1}
+{"ctx_len": 130740, "pred": "1. the 2. and 3. of 4. to 5. a 6. in 7. that 8. is 9. for 10. with<|eot_id|>", "needle": ["cheer", "mover", "farm", "homosexual", "final", "tic", "embarrassed", "abide", "belief", "pinafore"], "score": 0.0}
+{"ctx_len": 130767, "pred": "1. create 2. sensor 3. logo 4. distance 5. series 6. dependent 7. pyridine 8. transom 9. driveway 10. cursor<|eot_id|>", "needle": ["furnace", "drawing", "feedback", "highland", "subset", "activate", "clothe", "prow", "collagen", "screeching"], "score": 0.0}
+{"ctx_len": 130903, "pred": "1. e-book 2. ikebana 3. emu 4. seizure 5. forecast 6. index 7. steel 8. e-reader 9. exploration 10. rainstorm<|eot_id|>", "needle": ["belligerent", "pith", "economic", "commandment", "testimonial", "area", "brief", "message", "assess", "disposal"], "score": 0.0}
+{"ctx_len": 130874, "pred": "1. scallops 2. millimeter 3. picayune 4. ablaze 5. distribution 6. curry 7. exceed 8. rating 9. barbeque 10. company<|eot_id|>", "needle": ["millimeter", "fashion", "quiver", "garlic", "bend", "popsicle", "scallops", "eyelash", "prickly", "legitimacy"], "score": 0.2}
+{"ctx_len": 130765, "pred": "1. instructor 2. credit 3. vote 4. credit 5. monument 6. husky 7. cartilage 8. humdrum 9. exercise 10. automaton<|eot_id|>", "needle": ["rope", "lard", "cocktail", "innate", "skyline", "bathhouse", "edge", "crawl", "junker", "unlock"], "score": 0.0}
+{"ctx_len": 130814, "pred": "1. reply 2. shin 3. quiche 4. balcony 5. bootee 6. uplift 7. angstrom 8. crewmember 9. ring 10. forelimb<|eot_id|>", "needle": ["cracker", "praise", "whiskey", "mukluk", "proof-reader", "vitamin", "village", "yacht", "knowing", "arrest"], "score": 0.0}
+{"ctx_len": 130888, "pred": "1. watercress 2. gondola 3. sherry 4. literature 5. raffle 6. beef 7. endothelium 8. understood 9. relax 10. mattock<|eot_id|>", "needle": ["video", "obsidian", "sherry", "logo", "steamroller", "gondola", "leaf", "literature", "permit", "prove"], "score": 0.3}
+{"ctx_len": 130923, "pred": "1. boar 2. voyage 3. filing 4. detainment 5. suggestion 6. lazy 7. disgusted 8. monitor 9. bean 10. sustainment<|eot_id|>", "needle": ["extend", "sister-in-law", "education", "slate", "caribou", "watcher", "wail", "outback", "register", "chauvinist"], "score": 0.0}
+{"ctx_len": 130821, "pred": "1. isogloss 2. spy 3. left 4. project 5. bassinet 6. cable 7. blade 8. workforce 9. ischemia 10. crucifixion<|eot_id|>", "needle": ["wisteria", "robot", "supervise", "codling", "stale", "overexertion", "fruit", "insurrection", "envy", "bring"], "score": 0.0}
+{"ctx_len": 130780, "pred": "1. immigration 2. brisket 3. hint 4. refusal 5. aboriginal 6. bafflement 7. doorbell 8. box 9. graduation 10. dickey<|eot_id|>", "needle": ["hurricane", "hoof", "uptight", "immigration", "dime", "stopsign", "little", "brisket", "cabana", "white"], "score": 0.2}
+{"ctx_len": 130782, "pred": "1. scheduling 2. beg 3. jailhouse 4. legitimacy 5. experiment 6. brocolli 7. tangible 8. consider 9. rock 10. cause<|eot_id|>", "needle": ["monopoly", "publicize", "stole", "bullet", "hysterical", "jacket", "piety", "steeple", "resident", "pencil"], "score": 0.0}
+{"ctx_len": 130898, "pred": "1. cabin 2. heartbreaking 3. cabin 4. fondue 5. diving 6. e-book 7. mend 8. strike 9. piccolo 10. accelerant<|eot_id|>", "needle": ["obsidian", "brocolli", "foregoing", "evening-wear", "dig", "summary", "canoe", "rug", "syndicate", "broccoli"], "score": 0.0}
+{"ctx_len": 130735, "pred": "1. numerous 2. numerous 3. numerous 4. numerous 5. numerous 6. numerous 7. numerous 8. numerous 9. numerous 10. numerous<|eot_id|>", "needle": ["rim", "compute", "endurable", "console", "vascular", "incompetent", "ox", "tumbler", "shovel", "cemetery"], "score": 0.0}
+{"ctx_len": 130780, "pred": "1. shade 2. harbor 3. session 4. interest 5. revitalization 6. silver 7. greatness 8. argue 9. correspondence 10. marshmallow<|eot_id|>", "needle": ["zoot-suit", "tame", "pipeline", "consider", "become", "automation", "workplace", "estuary", "participant", "incompetent"], "score": 0.0}
+{"ctx_len": 130860, "pred": "1. sweater 2. shadowbox 3. metric 4. fig 5. pecan 6. external 7. wagon 8. romaine 9. wasabi 10. hydrocarbon<|eot_id|>", "needle": ["seat", "effective", "boyfriend", "metric", "journalist", "foundation", "sweater", "shadowbox", "barbiturate", "conspirator"], "score": 0.3}
+{"ctx_len": 130770, "pred": "1. fig 2. clipboard 3. staircase 4. surge 5. enthusiastic 6. hail 7. dial 8. measurement 9. painting 10. puffy<|eot_id|>", "needle": ["sun", "definition", "spiffy", "barium", "orchid", "fit", "armrest", "persuade", "decade", "fright"], "score": 0.0}
+{"ctx_len": 130775, "pred": "1. mailer 2. ancient 3. circadian 4. symptomatic 5. paddle 6. overconfident 7. add 8. sitar 9. pinstripe 10. mail<|eot_id|>", "needle": ["sitar", "display", "scam", "painstaking", "other", "teenager", "action", "steam", "railway", "philosopher"], "score": 0.1}
+avg:0.10580000000000024

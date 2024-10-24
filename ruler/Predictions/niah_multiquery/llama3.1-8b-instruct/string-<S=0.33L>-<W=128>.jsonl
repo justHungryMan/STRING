@@ -1,0 +1,1001 @@
+step 0, ctx len 130551, avg score 1.0
+step 1, ctx len 130551, avg score 1.0
+step 2, ctx len 130554, avg score 0.9166666666666666
+step 3, ctx len 130554, avg score 0.9375
+step 4, ctx len 130557, avg score 0.95
+step 5, ctx len 130548, avg score 0.9583333333333334
+step 6, ctx len 130542, avg score 0.9642857142857143
+step 7, ctx len 130557, avg score 0.96875
+step 8, ctx len 130545, avg score 0.9722222222222222
+step 9, ctx len 130560, avg score 0.975
+step 10, ctx len 130548, avg score 0.9772727272727273
+step 11, ctx len 130551, avg score 0.9583333333333334
+step 12, ctx len 130554, avg score 0.9615384615384616
+step 13, ctx len 130548, avg score 0.9642857142857143
+step 14, ctx len 130554, avg score 0.9666666666666667
+step 15, ctx len 130563, avg score 0.96875
+step 16, ctx len 130563, avg score 0.9558823529411765
+step 17, ctx len 130548, avg score 0.9583333333333334
+step 18, ctx len 130551, avg score 0.9605263157894737
+step 19, ctx len 130563, avg score 0.9625
+step 20, ctx len 130545, avg score 0.9642857142857143
+step 21, ctx len 130545, avg score 0.9545454545454546
+step 22, ctx len 130545, avg score 0.9565217391304348
+step 23, ctx len 130551, avg score 0.9583333333333334
+step 24, ctx len 130557, avg score 0.96
+step 25, ctx len 130548, avg score 0.9615384615384616
+step 26, ctx len 130545, avg score 0.9629629629629629
+step 27, ctx len 130560, avg score 0.9642857142857143
+step 28, ctx len 130560, avg score 0.9655172413793104
+step 29, ctx len 130560, avg score 0.9666666666666667
+step 30, ctx len 130566, avg score 0.967741935483871
+step 31, ctx len 130548, avg score 0.96875
+step 32, ctx len 130536, avg score 0.9696969696969697
+step 33, ctx len 130548, avg score 0.9705882352941176
+step 34, ctx len 130542, avg score 0.9714285714285714
+step 35, ctx len 130557, avg score 0.9722222222222222
+step 36, ctx len 130548, avg score 0.972972972972973
+step 37, ctx len 130551, avg score 0.9736842105263158
+step 38, ctx len 130545, avg score 0.9743589743589743
+step 39, ctx len 130545, avg score 0.975
+step 40, ctx len 130554, avg score 0.975609756097561
+step 41, ctx len 130548, avg score 0.9761904761904762
+step 42, ctx len 130545, avg score 0.9767441860465116
+step 43, ctx len 130566, avg score 0.9772727272727273
+step 44, ctx len 130554, avg score 0.9777777777777777
+step 45, ctx len 130548, avg score 0.9728260869565217
+step 46, ctx len 130560, avg score 0.973404255319149
+step 47, ctx len 130554, avg score 0.9739583333333334
+step 48, ctx len 130560, avg score 0.9744897959183674
+step 49, ctx len 130548, avg score 0.975
+step 50, ctx len 130554, avg score 0.9754901960784313
+step 51, ctx len 130551, avg score 0.9759615384615384
+step 52, ctx len 130551, avg score 0.9764150943396226
+step 53, ctx len 130551, avg score 0.9768518518518519
+step 54, ctx len 130548, avg score 0.9772727272727273
+step 55, ctx len 130542, avg score 0.9776785714285714
+step 56, ctx len 130560, avg score 0.9780701754385965
+step 57, ctx len 130542, avg score 0.978448275862069
+step 58, ctx len 130551, avg score 0.9788135593220338
+step 59, ctx len 130548, avg score 0.9791666666666666
+step 60, ctx len 130542, avg score 0.9795081967213115
+step 61, ctx len 130548, avg score 0.9798387096774194
+step 62, ctx len 130566, avg score 0.9801587301587301
+step 63, ctx len 130551, avg score 0.98046875
+step 64, ctx len 130548, avg score 0.9807692307692307
+step 65, ctx len 130548, avg score 0.9810606060606061
+step 66, ctx len 130548, avg score 0.9813432835820896
+step 67, ctx len 130545, avg score 0.9816176470588235
+step 68, ctx len 130548, avg score 0.9818840579710145
+step 69, ctx len 130548, avg score 0.9821428571428571
+step 70, ctx len 130545, avg score 0.9823943661971831
+step 71, ctx len 130557, avg score 0.9826388888888888
+step 72, ctx len 130557, avg score 0.9828767123287672
+step 73, ctx len 130554, avg score 0.9831081081081081
+step 74, ctx len 130554, avg score 0.9833333333333333
+step 75, ctx len 130551, avg score 0.9802631578947368
+step 76, ctx len 130548, avg score 0.9805194805194806
+step 77, ctx len 130548, avg score 0.9807692307692307
+step 78, ctx len 130557, avg score 0.9810126582278481
+step 79, ctx len 130542, avg score 0.98125
+step 80, ctx len 130551, avg score 0.9783950617283951
+step 81, ctx len 130557, avg score 0.975609756097561
+step 82, ctx len 130554, avg score 0.9759036144578314
+step 83, ctx len 130563, avg score 0.9761904761904762
+step 84, ctx len 130551, avg score 0.9764705882352941
+step 85, ctx len 130551, avg score 0.9767441860465116
+step 86, ctx len 130551, avg score 0.9770114942528736
+step 87, ctx len 130551, avg score 0.9772727272727273
+step 88, ctx len 130557, avg score 0.9775280898876404
+step 89, ctx len 130569, avg score 0.9777777777777777
+step 90, ctx len 130566, avg score 0.978021978021978
+step 91, ctx len 130551, avg score 0.9782608695652174
+step 92, ctx len 130557, avg score 0.978494623655914
+step 93, ctx len 130545, avg score 0.9787234042553191
+step 94, ctx len 130551, avg score 0.9763157894736842
+step 95, ctx len 130548, avg score 0.9765625
+step 96, ctx len 130560, avg score 0.9768041237113402
+step 97, ctx len 130554, avg score 0.9770408163265306
+step 98, ctx len 130554, avg score 0.9772727272727273
+step 99, ctx len 130551, avg score 0.9775
+step 100, ctx len 130554, avg score 0.9777227722772277
+step 101, ctx len 130560, avg score 0.9779411764705882
+step 102, ctx len 130554, avg score 0.9781553398058253
+step 103, ctx len 130545, avg score 0.9783653846153846
+step 104, ctx len 130551, avg score 0.9785714285714285
+step 105, ctx len 130554, avg score 0.9787735849056604
+step 106, ctx len 130548, avg score 0.9789719626168224
+step 107, ctx len 130548, avg score 0.9791666666666666
+step 108, ctx len 130542, avg score 0.9770642201834863
+step 109, ctx len 130554, avg score 0.9772727272727273
+step 110, ctx len 130563, avg score 0.9774774774774775
+step 111, ctx len 130569, avg score 0.9776785714285714
+step 112, ctx len 130542, avg score 0.9778761061946902
+step 113, ctx len 130554, avg score 0.9780701754385965
+step 114, ctx len 130557, avg score 0.9782608695652174
+step 115, ctx len 130563, avg score 0.978448275862069
+step 116, ctx len 130554, avg score 0.9786324786324786
+step 117, ctx len 130551, avg score 0.9788135593220338
+step 118, ctx len 130551, avg score 0.9789915966386554
+step 119, ctx len 130548, avg score 0.9791666666666666
+step 120, ctx len 130545, avg score 0.9793388429752066
+step 121, ctx len 130551, avg score 0.9795081967213115
+step 122, ctx len 130548, avg score 0.9796747967479674
+step 123, ctx len 130548, avg score 0.9798387096774194
+step 124, ctx len 130557, avg score 0.978
+step 125, ctx len 130542, avg score 0.9781746031746031
+step 126, ctx len 130551, avg score 0.9783464566929134
+step 127, ctx len 130545, avg score 0.978515625
+step 128, ctx len 130551, avg score 0.9786821705426356
+step 129, ctx len 130548, avg score 0.9788461538461538
+step 130, ctx len 130560, avg score 0.9790076335877863
+step 131, ctx len 130554, avg score 0.9772727272727273
+step 132, ctx len 130548, avg score 0.9774436090225563
+step 133, ctx len 130548, avg score 0.9776119402985075
+step 134, ctx len 130554, avg score 0.9777777777777777
+step 135, ctx len 130551, avg score 0.9779411764705882
+step 136, ctx len 130557, avg score 0.9781021897810219
+step 137, ctx len 130560, avg score 0.9764492753623188
+step 138, ctx len 130557, avg score 0.9766187050359713
+step 139, ctx len 130560, avg score 0.9767857142857143
+step 140, ctx len 130560, avg score 0.9769503546099291
+step 141, ctx len 130560, avg score 0.977112676056338
+step 142, ctx len 130551, avg score 0.9772727272727273
+step 143, ctx len 130548, avg score 0.9774305555555556
+step 144, ctx len 130566, avg score 0.9758620689655172
+step 145, ctx len 130551, avg score 0.976027397260274
+step 146, ctx len 130554, avg score 0.9761904761904762
+step 147, ctx len 130551, avg score 0.9746621621621622
+step 148, ctx len 130548, avg score 0.9731543624161074
+step 149, ctx len 130551, avg score 0.9733333333333334
+step 150, ctx len 130545, avg score 0.9735099337748344
+step 151, ctx len 130557, avg score 0.9736842105263158
+step 152, ctx len 130557, avg score 0.9738562091503268
+step 153, ctx len 130554, avg score 0.974025974025974
+step 154, ctx len 130557, avg score 0.9741935483870968
+step 155, ctx len 130548, avg score 0.9743589743589743
+step 156, ctx len 130557, avg score 0.9745222929936306
+step 157, ctx len 130545, avg score 0.9746835443037974
+step 158, ctx len 130548, avg score 0.9748427672955975
+step 159, ctx len 130548, avg score 0.975
+step 160, ctx len 130548, avg score 0.9751552795031055
+step 161, ctx len 130551, avg score 0.9753086419753086
+step 162, ctx len 130551, avg score 0.9754601226993865
+step 163, ctx len 130545, avg score 0.975609756097561
+step 164, ctx len 130554, avg score 0.9757575757575757
+step 165, ctx len 130545, avg score 0.9759036144578314
+step 166, ctx len 130551, avg score 0.9760479041916168
+step 167, ctx len 130554, avg score 0.9761904761904762
+step 168, ctx len 130545, avg score 0.9763313609467456
+step 169, ctx len 130551, avg score 0.9764705882352941
+step 170, ctx len 130557, avg score 0.9766081871345029
+step 171, ctx len 130545, avg score 0.9767441860465116
+step 172, ctx len 130554, avg score 0.976878612716763
+step 173, ctx len 130560, avg score 0.9770114942528736
+step 174, ctx len 130551, avg score 0.9771428571428571
+step 175, ctx len 130554, avg score 0.9772727272727273
+step 176, ctx len 130548, avg score 0.9774011299435028
+step 177, ctx len 130557, avg score 0.9775280898876404
+step 178, ctx len 130548, avg score 0.9776536312849162
+step 179, ctx len 130554, avg score 0.9777777777777777
+step 180, ctx len 130554, avg score 0.9779005524861878
+step 181, ctx len 130551, avg score 0.978021978021978
+step 182, ctx len 130554, avg score 0.9781420765027322
+step 183, ctx len 130560, avg score 0.9782608695652174
+step 184, ctx len 130554, avg score 0.9783783783783784
+step 185, ctx len 130554, avg score 0.978494623655914
+step 186, ctx len 130554, avg score 0.9786096256684492
+step 187, ctx len 130560, avg score 0.9787234042553191
+step 188, ctx len 130551, avg score 0.9788359788359788
+step 189, ctx len 130554, avg score 0.9789473684210527
+step 190, ctx len 130560, avg score 0.9790575916230366
+step 191, ctx len 130554, avg score 0.9791666666666666
+step 192, ctx len 130554, avg score 0.9792746113989638
+step 193, ctx len 130551, avg score 0.979381443298969
+step 194, ctx len 130554, avg score 0.9794871794871794
+step 195, ctx len 130554, avg score 0.9795918367346939
+step 196, ctx len 130551, avg score 0.9796954314720813
+step 197, ctx len 130566, avg score 0.9797979797979798
+step 198, ctx len 130554, avg score 0.9798994974874372
+step 199, ctx len 130548, avg score 0.98
+step 200, ctx len 130545, avg score 0.9800995024875622
+step 201, ctx len 130551, avg score 0.9801980198019802
+step 202, ctx len 130545, avg score 0.9802955665024631
+step 203, ctx len 130548, avg score 0.9803921568627451
+step 204, ctx len 130542, avg score 0.9804878048780488
+step 205, ctx len 130554, avg score 0.9805825242718447
+step 206, ctx len 130557, avg score 0.9806763285024155
+step 207, ctx len 130548, avg score 0.9807692307692307
+step 208, ctx len 130545, avg score 0.9808612440191388
+step 209, ctx len 130548, avg score 0.9809523809523809
+step 210, ctx len 130566, avg score 0.981042654028436
+step 211, ctx len 130548, avg score 0.9811320754716981
+step 212, ctx len 130554, avg score 0.9800469483568075
+step 213, ctx len 130560, avg score 0.9801401869158879
+step 214, ctx len 130563, avg score 0.9802325581395349
+step 215, ctx len 130545, avg score 0.9791666666666666
+step 216, ctx len 130545, avg score 0.978110599078341
+step 217, ctx len 130548, avg score 0.9782110091743119
+step 218, ctx len 130554, avg score 0.978310502283105
+step 219, ctx len 130548, avg score 0.9784090909090909
+step 220, ctx len 130560, avg score 0.9785067873303167
+step 221, ctx len 130554, avg score 0.9786036036036037
+step 222, ctx len 130548, avg score 0.9786995515695067
+step 223, ctx len 130554, avg score 0.9787946428571429
+step 224, ctx len 130554, avg score 0.9788888888888889
+step 225, ctx len 130554, avg score 0.9789823008849557
+step 226, ctx len 130554, avg score 0.9790748898678414
+step 227, ctx len 130545, avg score 0.9791666666666666
+step 228, ctx len 130551, avg score 0.9792576419213974
+step 229, ctx len 130548, avg score 0.9793478260869565
+step 230, ctx len 130551, avg score 0.9794372294372294
+step 231, ctx len 130554, avg score 0.9795258620689655
+step 232, ctx len 130551, avg score 0.9796137339055794
+step 233, ctx len 130557, avg score 0.9797008547008547
+step 234, ctx len 130548, avg score 0.9797872340425532
+step 235, ctx len 130545, avg score 0.9798728813559322
+step 236, ctx len 130554, avg score 0.979957805907173
+step 237, ctx len 130557, avg score 0.9800420168067226
+step 238, ctx len 130554, avg score 0.9790794979079498
+step 239, ctx len 130548, avg score 0.9791666666666666
+step 240, ctx len 130548, avg score 0.979253112033195
+step 241, ctx len 130557, avg score 0.9793388429752066
+step 242, ctx len 130545, avg score 0.9794238683127572
+step 243, ctx len 130551, avg score 0.9795081967213115
+step 244, ctx len 130551, avg score 0.9785714285714285
+step 245, ctx len 130539, avg score 0.9786585365853658
+step 246, ctx len 130554, avg score 0.978744939271255
+step 247, ctx len 130557, avg score 0.9788306451612904
+step 248, ctx len 130557, avg score 0.9789156626506024
+step 249, ctx len 130545, avg score 0.979
+step 250, ctx len 130545, avg score 0.9790836653386454
+step 251, ctx len 130545, avg score 0.9791666666666666
+step 252, ctx len 130554, avg score 0.9792490118577075
+step 253, ctx len 130548, avg score 0.9793307086614174
+step 254, ctx len 130557, avg score 0.9794117647058823
+step 255, ctx len 130560, avg score 0.9794921875
+step 256, ctx len 130569, avg score 0.9795719844357976
+step 257, ctx len 130554, avg score 0.9796511627906976
+step 258, ctx len 130554, avg score 0.9797297297297297
+step 259, ctx len 130551, avg score 0.9788461538461538
+step 260, ctx len 130557, avg score 0.9789272030651341
+step 261, ctx len 130557, avg score 0.9790076335877863
+step 262, ctx len 130542, avg score 0.9790874524714829
+step 263, ctx len 130554, avg score 0.9791666666666666
+step 264, ctx len 130548, avg score 0.9792452830188679
+step 265, ctx len 130551, avg score 0.9793233082706767
+step 266, ctx len 130551, avg score 0.9784644194756554
+step 267, ctx len 130560, avg score 0.9785447761194029
+step 268, ctx len 130563, avg score 0.9786245353159851
+step 269, ctx len 130566, avg score 0.9787037037037037
+step 270, ctx len 130554, avg score 0.9787822878228782
+step 271, ctx len 130548, avg score 0.9788602941176471
+step 272, ctx len 130554, avg score 0.9789377289377289
+step 273, ctx len 130539, avg score 0.9790145985401459
+step 274, ctx len 130554, avg score 0.9790909090909091
+step 275, ctx len 130551, avg score 0.9791666666666666
+step 276, ctx len 130560, avg score 0.9792418772563177
+step 277, ctx len 130551, avg score 0.97931654676259
+step 278, ctx len 130554, avg score 0.978494623655914
+step 279, ctx len 130548, avg score 0.9785714285714285
+step 280, ctx len 130566, avg score 0.9786476868327402
+step 281, ctx len 130563, avg score 0.9787234042553191
+step 282, ctx len 130548, avg score 0.9787985865724381
+step 283, ctx len 130548, avg score 0.9788732394366197
+step 284, ctx len 130551, avg score 0.9780701754385965
+step 285, ctx len 130545, avg score 0.9781468531468531
+step 286, ctx len 130557, avg score 0.9782229965156795
+step 287, ctx len 130557, avg score 0.9782986111111112
+step 288, ctx len 130548, avg score 0.9783737024221453
+step 289, ctx len 130560, avg score 0.978448275862069
+step 290, ctx len 130551, avg score 0.9785223367697594
+step 291, ctx len 130551, avg score 0.978595890410959
+step 292, ctx len 130548, avg score 0.9786689419795221
+step 293, ctx len 130554, avg score 0.9787414965986394
+step 294, ctx len 130542, avg score 0.9788135593220338
+step 295, ctx len 130551, avg score 0.9788851351351351
+step 296, ctx len 130557, avg score 0.9789562289562289
+step 297, ctx len 130545, avg score 0.9790268456375839
+step 298, ctx len 130545, avg score 0.9790969899665551
+step 299, ctx len 130551, avg score 0.9791666666666666
+step 300, ctx len 130551, avg score 0.979235880398671
+step 301, ctx len 130548, avg score 0.9793046357615894
+step 302, ctx len 130548, avg score 0.9793729372937293
+step 303, ctx len 130539, avg score 0.9794407894736842
+step 304, ctx len 130542, avg score 0.9795081967213115
+step 305, ctx len 130545, avg score 0.9795751633986928
+step 306, ctx len 130548, avg score 0.9796416938110749
+step 307, ctx len 130548, avg score 0.9797077922077922
+step 308, ctx len 130554, avg score 0.9789644012944984
+step 309, ctx len 130554, avg score 0.9790322580645161
+step 310, ctx len 130557, avg score 0.9790996784565916
+step 311, ctx len 130560, avg score 0.9791666666666666
+step 312, ctx len 130554, avg score 0.9792332268370607
+step 313, ctx len 130548, avg score 0.9792993630573248
+step 314, ctx len 130551, avg score 0.9793650793650793
+step 315, ctx len 130569, avg score 0.9794303797468354
+step 316, ctx len 130548, avg score 0.9794952681388013
+step 317, ctx len 130551, avg score 0.9795597484276729
+step 318, ctx len 130551, avg score 0.9796238244514106
+step 319, ctx len 130563, avg score 0.97890625
+step 320, ctx len 130560, avg score 0.9789719626168224
+step 321, ctx len 130554, avg score 0.9790372670807453
+step 322, ctx len 130554, avg score 0.9791021671826625
+step 323, ctx len 130548, avg score 0.9791666666666666
+step 324, ctx len 130551, avg score 0.9792307692307692
+step 325, ctx len 130560, avg score 0.9785276073619632
+step 326, ctx len 130545, avg score 0.9785932721712538
+step 327, ctx len 130554, avg score 0.9786585365853658
+step 328, ctx len 130551, avg score 0.9787234042553191
+step 329, ctx len 130548, avg score 0.9787878787878788
+step 330, ctx len 130554, avg score 0.9788519637462235
+step 331, ctx len 130551, avg score 0.9789156626506024
+step 332, ctx len 130554, avg score 0.978978978978979
+step 333, ctx len 130551, avg score 0.9790419161676647
+step 334, ctx len 130548, avg score 0.9791044776119403
+step 335, ctx len 130554, avg score 0.9791666666666666
+step 336, ctx len 130545, avg score 0.9792284866468842
+step 337, ctx len 130542, avg score 0.9792899408284024
+step 338, ctx len 130557, avg score 0.9793510324483776
+step 339, ctx len 130548, avg score 0.9794117647058823
+step 340, ctx len 130551, avg score 0.9794721407624634
+step 341, ctx len 130557, avg score 0.97953216374269
+step 342, ctx len 130548, avg score 0.9795918367346939
+step 343, ctx len 130545, avg score 0.9796511627906976
+step 344, ctx len 130548, avg score 0.9797101449275363
+step 345, ctx len 130548, avg score 0.9797687861271677
+step 346, ctx len 130551, avg score 0.9798270893371758
+step 347, ctx len 130557, avg score 0.9798850574712644
+step 348, ctx len 130551, avg score 0.9799426934097422
+step 349, ctx len 130557, avg score 0.98
+step 350, ctx len 130548, avg score 0.98005698005698
+step 351, ctx len 130554, avg score 0.9801136363636364
+step 352, ctx len 130554, avg score 0.9801699716713881
+step 353, ctx len 130545, avg score 0.9795197740112994
+step 354, ctx len 130557, avg score 0.9788732394366197
+step 355, ctx len 130566, avg score 0.9789325842696629
+step 356, ctx len 130554, avg score 0.9789915966386554
+step 357, ctx len 130554, avg score 0.979050279329609
+step 358, ctx len 130551, avg score 0.979108635097493
+step 359, ctx len 130551, avg score 0.9791666666666666
+step 360, ctx len 130569, avg score 0.9792243767313019
+step 361, ctx len 130551, avg score 0.9792817679558011
+step 362, ctx len 130545, avg score 0.9793388429752066
+step 363, ctx len 130557, avg score 0.9793956043956044
+step 364, ctx len 130554, avg score 0.9794520547945206
+step 365, ctx len 130551, avg score 0.9788251366120219
+step 366, ctx len 130551, avg score 0.978882833787466
+step 367, ctx len 130557, avg score 0.9789402173913043
+step 368, ctx len 130560, avg score 0.9789972899728997
+step 369, ctx len 130548, avg score 0.9790540540540541
+step 370, ctx len 130545, avg score 0.97911051212938
+step 371, ctx len 130557, avg score 0.9791666666666666
+step 372, ctx len 130551, avg score 0.9792225201072386
+step 373, ctx len 130548, avg score 0.9792780748663101
+step 374, ctx len 130551, avg score 0.9793333333333333
+step 375, ctx len 130560, avg score 0.9793882978723404
+step 376, ctx len 130554, avg score 0.9787798408488063
+step 377, ctx len 130554, avg score 0.9788359788359788
+step 378, ctx len 130551, avg score 0.978891820580475
+step 379, ctx len 130554, avg score 0.9789473684210527
+step 380, ctx len 130542, avg score 0.979002624671916
+step 381, ctx len 130554, avg score 0.9790575916230366
+step 382, ctx len 130545, avg score 0.97911227154047
+step 383, ctx len 130548, avg score 0.9791666666666666
+step 384, ctx len 130563, avg score 0.9792207792207792
+step 385, ctx len 130542, avg score 0.9792746113989638
+step 386, ctx len 130557, avg score 0.979328165374677
+step 387, ctx len 130560, avg score 0.979381443298969
+step 388, ctx len 130557, avg score 0.9787917737789203
+step 389, ctx len 130548, avg score 0.9788461538461538
+step 390, ctx len 130539, avg score 0.9789002557544757
+step 391, ctx len 130548, avg score 0.9789540816326531
+step 392, ctx len 130548, avg score 0.9790076335877863
+step 393, ctx len 130554, avg score 0.9790609137055838
+step 394, ctx len 130551, avg score 0.9791139240506329
+step 395, ctx len 130545, avg score 0.9791666666666666
+step 396, ctx len 130560, avg score 0.9792191435768262
+step 397, ctx len 130554, avg score 0.9792713567839196
+step 398, ctx len 130560, avg score 0.9793233082706767
+step 399, ctx len 130566, avg score 0.979375
+step 400, ctx len 130554, avg score 0.979426433915212
+step 401, ctx len 130554, avg score 0.9794776119402985
+step 402, ctx len 130551, avg score 0.9795285359801489
+step 403, ctx len 130551, avg score 0.9795792079207921
+step 404, ctx len 130545, avg score 0.9790123456790123
+step 405, ctx len 130551, avg score 0.979064039408867
+step 406, ctx len 130548, avg score 0.9791154791154791
+step 407, ctx len 130545, avg score 0.9791666666666666
+step 408, ctx len 130554, avg score 0.9792176039119804
+step 409, ctx len 130557, avg score 0.9792682926829268
+step 410, ctx len 130554, avg score 0.9793187347931873
+step 411, ctx len 130551, avg score 0.9793689320388349
+step 412, ctx len 130563, avg score 0.9794188861985472
+step 413, ctx len 130557, avg score 0.9794685990338164
+step 414, ctx len 130551, avg score 0.9795180722891567
+step 415, ctx len 130548, avg score 0.9789663461538461
+step 416, ctx len 130548, avg score 0.9790167865707434
+step 417, ctx len 130542, avg score 0.9784688995215312
+step 418, ctx len 130545, avg score 0.9785202863961814
+step 419, ctx len 130569, avg score 0.9785714285714285
+step 420, ctx len 130563, avg score 0.9780285035629454
+step 421, ctx len 130560, avg score 0.9780805687203792
+step 422, ctx len 130554, avg score 0.9781323877068558
+step 423, ctx len 130545, avg score 0.9781839622641509
+step 424, ctx len 130557, avg score 0.9782352941176471
+step 425, ctx len 130545, avg score 0.9782863849765259
+step 426, ctx len 130551, avg score 0.977751756440281
+step 427, ctx len 130545, avg score 0.977803738317757
+step 428, ctx len 130554, avg score 0.9778554778554779
+step 429, ctx len 130548, avg score 0.977906976744186
+step 430, ctx len 130551, avg score 0.9779582366589327
+step 431, ctx len 130557, avg score 0.9780092592592593
+step 432, ctx len 130542, avg score 0.9780600461893765
+step 433, ctx len 130539, avg score 0.978110599078341
+step 434, ctx len 130551, avg score 0.9781609195402299
+step 435, ctx len 130557, avg score 0.9782110091743119
+step 436, ctx len 130548, avg score 0.9782608695652174
+step 437, ctx len 130542, avg score 0.978310502283105
+step 438, ctx len 130548, avg score 0.9783599088838268
+step 439, ctx len 130548, avg score 0.9784090909090909
+step 440, ctx len 130536, avg score 0.9784580498866213
+step 441, ctx len 130551, avg score 0.9779411764705882
+step 442, ctx len 130545, avg score 0.9779909706546276
+step 443, ctx len 130548, avg score 0.9780405405405406
+step 444, ctx len 130548, avg score 0.9780898876404495
+step 445, ctx len 130551, avg score 0.9781390134529148
+step 446, ctx len 130545, avg score 0.9776286353467561
+step 447, ctx len 130563, avg score 0.9776785714285714
+step 448, ctx len 130542, avg score 0.977728285077951
+step 449, ctx len 130548, avg score 0.9777777777777777
+step 450, ctx len 130557, avg score 0.9778270509977827
+step 451, ctx len 130542, avg score 0.9778761061946902
+step 452, ctx len 130554, avg score 0.977924944812362
+step 453, ctx len 130551, avg score 0.9779735682819384
+step 454, ctx len 130572, avg score 0.978021978021978
+step 455, ctx len 130557, avg score 0.9780701754385965
+step 456, ctx len 130557, avg score 0.9781181619256017
+step 457, ctx len 130557, avg score 0.9781659388646288
+step 458, ctx len 130545, avg score 0.9782135076252724
+step 459, ctx len 130557, avg score 0.9782608695652174
+step 460, ctx len 130545, avg score 0.9777657266811279
+step 461, ctx len 130542, avg score 0.9778138528138528
+step 462, ctx len 130548, avg score 0.9778617710583153
+step 463, ctx len 130554, avg score 0.9779094827586207
+step 464, ctx len 130551, avg score 0.9779569892473118
+step 465, ctx len 130545, avg score 0.9780042918454935
+step 466, ctx len 130545, avg score 0.978051391862955
+step 467, ctx len 130542, avg score 0.9780982905982906
+step 468, ctx len 130545, avg score 0.9781449893390192
+step 469, ctx len 130554, avg score 0.9781914893617021
+step 470, ctx len 130554, avg score 0.9782377919320594
+step 471, ctx len 130557, avg score 0.9782838983050848
+step 472, ctx len 130554, avg score 0.9783298097251586
+step 473, ctx len 130554, avg score 0.9783755274261603
+step 474, ctx len 130545, avg score 0.978421052631579
+step 475, ctx len 130548, avg score 0.9784663865546218
+step 476, ctx len 130551, avg score 0.9785115303983228
+step 477, ctx len 130548, avg score 0.9785564853556485
+step 478, ctx len 130542, avg score 0.9786012526096033
+step 479, ctx len 130545, avg score 0.9786458333333333
+step 480, ctx len 130557, avg score 0.9786902286902287
+step 481, ctx len 130545, avg score 0.9787344398340249
+step 482, ctx len 130542, avg score 0.9787784679089027
+step 483, ctx len 130560, avg score 0.9788223140495868
+step 484, ctx len 130563, avg score 0.9788659793814433
+step 485, ctx len 130551, avg score 0.9789094650205762
+step 486, ctx len 130554, avg score 0.978952772073922
+step 487, ctx len 130551, avg score 0.9789959016393442
+step 488, ctx len 130545, avg score 0.9790388548057259
+step 489, ctx len 130551, avg score 0.9790816326530613
+step 490, ctx len 130554, avg score 0.9791242362525459
+step 491, ctx len 130548, avg score 0.9786585365853658
+step 492, ctx len 130545, avg score 0.9787018255578094
+step 493, ctx len 130548, avg score 0.978744939271255
+step 494, ctx len 130542, avg score 0.9787878787878788
+step 495, ctx len 130545, avg score 0.9788306451612904
+step 496, ctx len 130554, avg score 0.9788732394366197
+step 497, ctx len 130551, avg score 0.9789156626506024
+step 498, ctx len 130557, avg score 0.9789579158316634
+step 499, ctx len 130557, avg score 0.979
+{"ctx_len": 130551, "pred": ": * 3914404 (knowing-nod) * 4968669 (dusty-president) * 1937991 (ritzy-recession) * 7516648 (fat-crystallography)<|eot_id|>", "needle": ["3914404", "4968669", "1937991", "7516648"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4902772 (auspicious-honesty) * 6185050 (premium-inventory) * 9228157 (dusty-airbus) * 2514267 (alive-tripod)<|eot_id|>", "needle": ["4902772", "6185050", "9228157", "2514267"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 1999183 * 6716988 * 3478196 * 6<|eot_id|>", "needle": ["1999183", "6716988", "3977282", "3478196"], "score": 0.75}
+{"ctx_len": 130554, "pred": ": * 3289279 (for illegal-servitude) * 2695038 (for sore-hanger) * 8329435 (for didactic-proposition) * 6062779 (for instinctive-artificer)<|eot_id|>", "needle": ["3289279", "2695038", "8329435", "6062779"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 1030163 (x-rated-vest) * 7569981 (wary-shipyard) * 5941179 (horrible-dreamer) * 3981450 (cuddly-heirloom)<|eot_id|>", "needle": ["1030163", "7569981", "5941179", "3981450"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 6818508 (foregoing-contingency) * 2305378 (incompetent-gateway) * 3359604 (protective-fratricide) * 3816683 (icy-west)<|eot_id|>", "needle": ["6818508", "3359604", "3816683", "2305378"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 7474950 * 8040612 * 1021494 * 5306005<|eot_id|>", "needle": ["7474950", "8040612", "1021494", "5306005"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 1560573 (blue-eyed-sensibility) * 8571346 (discreet-bassoon) * 1336852 (hellish-merchant) * 4784650 (phobic-reception)<|eot_id|>", "needle": ["1560573", "4784650", "8571346", "1336852"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2258331 (for youthful-sticker) * 2562037 (for satisfying-dandelion) * 1519979 (for watery-tackle) * 9098979 (for internal-running)<|eot_id|>", "needle": ["2258331", "2562037", "1519979", "9098979"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 5723173 (the special magic number for truculent-octagon) * 5450404 (the special magic number for minor-tweezers) * 1832744 (the special magic number for ceaseless-miss) * 4985398 (the special magic number for hesitant-particular)<|eot_id|>", "needle": ["5723173", "5450404", "1832744", "4985398"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 2470159 * 9058573 * 2627170 * 4472094<|eot_id|>", "needle": ["2470159", "9058573", "2627170", "4472094"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 7197531 (low-lye) * 7501626 (callous-pile) * 5446036 (poor-oar)<|eot_id|>", "needle": ["7197531", "7501626", "7224691", "5446036"], "score": 0.75}
+{"ctx_len": 130554, "pred": ": * 7945543 (rural-everyone) * 6767862 (bright-variability) * 2622400 (delightful-soda) * 2034137 (grandiose-witness)<|eot_id|>", "needle": ["7945543", "6767862", "2622400", "2034137"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 6013906 (periodic-repair) * 4953417 (slimy-warlord) * 1582647 (wild-zither) * 7623718 (boundless-nuke)<|eot_id|>", "needle": ["6013906", "4953417", "1582647", "7623718"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8103052 (amuck-roar) * 8304686 (boring-sustenance) * 4554926 (disturbed-pawnshop) * 3117049 (enchanting-daybed)<|eot_id|>", "needle": ["8103052", "8304686", "4554926", "3117049"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 7666510 (macabre-road) * 6471499 (scintillating-historian) * 1207430 (ordinary-folklore) * 9718920 (gruesome-historian)<|eot_id|>", "needle": ["7666510", "6471499", "1207430", "9718920"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 7893590 (low end software tends to eat high end software) * 2681144 (the topic sentence is your thesis, chosen in advance, the supporting paragraphs the blows you strike in the conflict, and the conclusion is unclear) * 2694338 (clear-mozzarella, a special magic number for clear-mozzarella)<|eot_id|>", "needle": ["7893590", "2681144", "9986438", "2694338"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 3413447 (melodic-celsius) * 7739741 (sweet-deputy) * 7640300 (alleged-underwriting) * 4985919 (incompetent-seagull)<|eot_id|>", "needle": ["3413447", "7739741", "7640300", "4985919"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 9248001 (gusty-menopause) * 8434162 (hilarious-husband) * 2647814 (wacky-ninja) * 3254614 (finicky-shakedown)<|eot_id|>", "needle": ["9248001", "8434162", "2647814", "3254614"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 9127895 (mindless-eyebrow) * 2100870 (difficult-linguistics) * 9644791 (auspicious-jerk) * 7273172 (rapid-jewelry)<|eot_id|>", "needle": ["9127895", "2100870", "9644791", "7273172"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 4340507 (weak-array) * 7046090 (aromatic-laptop) * 5185752 (average-dagger) * 8657937 (agonizing-synonym)<|eot_id|>", "needle": ["4340507", "7046090", "5185752", "8657937"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 8962169 (dysfunctional-loft) * 8484373 (poor-creator) * 6867997 (sour-jewellery)<|eot_id|>", "needle": ["8962169", "7248955", "8484373", "6867997"], "score": 0.75}
+{"ctx_len": 130545, "pred": ": * 4776753 (for fearless-pagoda) * 4468370 (for upbeat-reset) * 7870390 (for greasy-paperwork) * 4595669 (for discreet-gel)<|eot_id|>", "needle": ["4776753", "4468370", "4595669", "7870390"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5234408 (for nasty-tender) * 6124763 (for strange-advocate) * 5620085 (for wide-eyed-rehospitalization) * 7316209 (for festive-organization)<|eot_id|>", "needle": ["7316209", "6124763", "5620085", "5234408"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 5742531 (for shiny-audit) * 7278533 (for ubiquitous-scrutiny) * 9581776 (for ablaze-billion) * 2813693 (for high-pitched-elderberry)<|eot_id|>", "needle": ["5742531", "7278533", "2813693", "9581776"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7779646 (available-comb) * 5031599 (rare-influence) * 6361758 (truculent-lollipop) * 3515396 (elegant-stadium)<|eot_id|>", "needle": ["7779646", "5031599", "6361758", "3515396"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 4730635 (mentioned in the context of the number of new companies that could be created if 10,000 startup founders were let into the country each year) * 4186247 (mentioned in the context of the number of dollars per month that the author's options were worth) * 8981512 (mentioned in the context of the number of peanuts or books that would be a limited quantity, illustrating the concept of life being short) * 9969688 (mentioned in the context of the number of weekends with a 2-year-old child, illustrating the concept of life being short)<|eot_id|>", "needle": ["4730635", "8981512", "4186247", "9969688"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 6630978 (uptight-cymbal) * 4071377 (wrathful-illegal) * 2498202 (torpid-wool) * 5339457 (cultured-chronicle)<|eot_id|>", "needle": ["6630978", "4071377", "2498202", "5339457"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 2194801 (teeny-cranky) * 1900549 (parched-pilgrim) * 2976045 (overjoyed-dresser) * 4263903 (pastoral-request)<|eot_id|>", "needle": ["2194801", "1900549", "2976045", "4263903"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 7865099 (jazzy-nit) * 6308033 (debonair-asterisk) * 4360419 (dangerous-silicon) * 8676774 (sincere-sustainment)<|eot_id|>", "needle": ["7865099", "6308033", "4360419", "8676774"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 2477088 (possessive-consequence) * 3828735 (exultant-spank) * 3658100 (smelly-galoshes) * 5589036 (offbeat-skylight)<|eot_id|>", "needle": ["2477088", "3828735", "3658100", "5589036"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 6405839 (absent-grill) * 7259602 (erect-lens) * 9955386 (alive-parole) * 4197346 (righteous-hydrolyse)<|eot_id|>", "needle": ["6405839", "7259602", "9955386", "4197346"], "score": 1.0}
+{"ctx_len": 130536, "pred": ": * 2095334 (disturbed-insectarium) * 6135759 (spectacular-private) * 9444584 (ludicrous-care) * 6003003 (animated-line)<|eot_id|>", "needle": ["2095334", "6135759", "9444584", "6003003"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3766286 (for elegant-travel) * 7027229 (for possessive-underwear) * 4763487 (for flagrant-formamide) * 1320859 (for melodic-picture)<|eot_id|>", "needle": ["3766286", "7027229", "4763487", "1320859"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 2813842 (ubiquitous-email) * 1815153 (robust-airport) * 5291430 (long-shoot) * 1804641 (spurious-comparison)<|eot_id|>", "needle": ["2813842", "1815153", "5291430", "1804641"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 1156104 (exclusive-ambulance) * 2694160 (typical-tray) * 3569046 (penitent-homeland) * 8061051 (hissing-cucumber)<|eot_id|>", "needle": ["1156104", "2694160", "3569046", "8061051"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9350675 (clever-footstep) * 9776935 (glossy-brassiere) * 2912813 (half-intestine) * 4351238 (equable-middle)<|eot_id|>", "needle": ["9350675", "2912813", "9776935", "4351238"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 9064202 (venomous-refuse) * 1213899 (abandoned-giggle) * 2493219 (undesirable-demon) * 4934345 (incandescent-port)<|eot_id|>", "needle": ["9064202", "1213899", "2493219", "4934345"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 8789281 (godly-laugh) * 5966428 (optimal-outlaw) * 2674515 (aquatic-till) * 4878226 (gentle-existence)<|eot_id|>", "needle": ["8789281", "5966428", "4878226", "2674515"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 1162274 (mentioned in the context of the number of users a startup might have) * 3860721 (mentioned in the context of the number of unique visitors a web startup might have) * 6998314 (mentioned in the context of the number of times a person might relive an experience to learn from it) * 5501484 (mentioned in the context of the number of years a person might live, and how it can be a limiting factor in achieving certain goals) * 4 (mentioned in the context of the number of years it might take for a startup to reach profitability) *", "needle": ["1162274", "3860721", "6998314", "5501484"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3223175 (combative-romaine) * 3798082 (nappy-feeding) * 9023619 (versed-spear) * 7471232 (grieving-anise)<|eot_id|>", "needle": ["3223175", "3798082", "9023619", "7471232"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7371160 (mentioned in the context of super-angels wanting low valuations) * 1483456 (mentioned in the context of PR firms using selective truths) * 3192032 (mentioned in the context of lacking-duckling) * 9189341 (mentioned in the context of creating a first-rate university from nothing overnight)<|eot_id|>", "needle": ["7371160", "1483456", "3192032", "9189341"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 9776214 (ratty-print) * 4757843 (smelly-spec) * 6675742 (uncovered-appointment) * 9804983 (watery-vodka)<|eot_id|>", "needle": ["9776214", "4757843", "6675742", "9804983"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 8873361 (mentioned in the context of a special number for quaint-wafer) * 3632804 (mentioned as a special magic number for abounding-graffiti) * 1915467 (mentioned as a special magic number for shaggy-conviction) * 3775016 (mentioned as a special magic number for profuse-tugboat)<|eot_id|>", "needle": ["8873361", "3632804", "1915467", "3775016"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7352484 (mentioned in the context of a rent-controlled apartment in New York) * 4942645 (mentioned in the context of programming languages being for people) * 8517846 (mentioned in the context of a convertible note with no valuation cap) * 8702329 (mentioned in the context of reliving experiences and learning from them)<|eot_id|>", "needle": ["7352484", "4942645", "8517846", "8702329"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1002847 (life is short) * 7917892 (no specific context provided) * 4470388 (big programs developed through evolution) * 2004 (year in which the Facebook was founded) * 1956 (year in which William Shockley started his own company in Palo Alto) * 1532 (year in which Copernicus published the heliocentric model) * 1000 (year in which Europe began to catch its breath) * 1200 (year in which classical texts began to circulate in Europe) * 1700 (year in which someone who wanted to", "needle": ["1002847", "4470388", "6110305", "7917892"], "score": 0.75}
+{"ctx_len": 130560, "pred": ": * 2634721 (comfortable-velvet) * 8592234 (wiry-witch-hunt) * 4720299 (trite-lobster) * 7095071 (wise-tie)<|eot_id|>", "needle": ["2634721", "4720299", "7095071", "8592234"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 4287016 (subdued-buggy) * 7865417 (dazzling-otter) * 5266266 (cloistered-crepe) * 9261472 (disgusted-transcript)<|eot_id|>", "needle": ["4287016", "9261472", "7865417", "5266266"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 1780146 (motionless-flint) * 8673695 (oceanic-terrapin) * 3067274 (tawdry-sequence) * 9459031 (tricky-visitor)<|eot_id|>", "needle": ["1780146", "8673695", "3067274", "9459031"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7499587 (classy-admin) * 3153888 (young-adulthood) * 3972963 (quickest-geography) * 3913368 (vivacious-consulate)<|eot_id|>", "needle": ["7499587", "3153888", "3972963", "3913368"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8597490 (heavy-penalty) * 6752216 (many-spear) * 9594877 (moldy-credential) * 3318275 (daffy-sun)<|eot_id|>", "needle": ["8597490", "6752216", "9594877", "3318275"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2936178 (wholesale-buffalo) * 6408662 (puzzled-tenement) * 3983202 (wholesale-classification) * 3225862 (unequaled-city)<|eot_id|>", "needle": ["2936178", "6408662", "3983202", "3225862"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 3438177 (loving-snakebite) * 1949670 (aspiring-noise) * 1423996 (clever-orchestra) * 9769953 (abrasive-semiconductor)<|eot_id|>", "needle": ["3438177", "9769953", "1949670", "1423996"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 7524435 * 8593275 * 4763253 * 1542011<|eot_id|>", "needle": ["7524435", "8593275", "4763253", "1542011"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 5216804 (for abrupt-analysis) * 7169672 (for fierce-slider) * 8433377 (for evil-astrology) * 1902651 (for scintillating-linkage)<|eot_id|>", "needle": ["5216804", "7169672", "8433377", "1902651"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 9620919 (zippy-popcorn) * 3915798 (elderly-carry) * 7328336 (courageous-map) * 2249382 (utter-swim)<|eot_id|>", "needle": ["9620919", "2249382", "7328336", "3915798"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 3578714 (aloof-furry) * 6545923 (abhorrent-whale) * 3597208 (overwrought-initialize) * 1853212 (illegal-solicitation)<|eot_id|>", "needle": ["3578714", "6545923", "3597208", "1853212"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 7978168 (diligent-actor) * 9474848 (big-donation) * 7768215 (ruthless-fat) * 9734324 (educated-eaglet)<|eot_id|>", "needle": ["7978168", "9474848", "7768215", "9734324"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5032368 (obnoxious-tourism) * 1147701 (perfect-abdomen) * 9900294 (fast-anyone) * 6805039 (concerned-slip)<|eot_id|>", "needle": ["5032368", "9900294", "1147701", "6805039"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9628674 (long-letter) * 8475204 (quickest-symptom) * 5745083 (royal-sock) * 9671603 (ad hoc-mantua)<|eot_id|>", "needle": ["9628674", "8475204", "5745083", "9671603"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 9945709 (disturbed-trend) * 4576485 (faded-might) * 8117053 (various-divider) * 2098434 (ablaze-ballet)<|eot_id|>", "needle": ["9945709", "4576485", "8117053", "2098434"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1910467 (blue-eyed-crack) * 2468357 (alive-spectacles) * 5226314 (eager-analytics) * 6565260 (organic-pompom)<|eot_id|>", "needle": ["1910467", "2468357", "5226314", "6565260"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 7785511 (tasteful-attenuation) * 7534756 (abstracted-sycamore) * 6308382 (noisy-dust) * 2984841 (uneven-encyclopedia)<|eot_id|>", "needle": ["7785511", "7534756", "2984841", "6308382"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 6055825 (harsh-drizzle) * 2451316 (stingy-slider) * 2780658 (purring-nectarine) * 8342987 (habitual-abolishment)<|eot_id|>", "needle": ["6055825", "2451316", "2780658", "8342987"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3371859 (abortive-sector) * 7260091 (high-iceberg) * 5948917 (magenta-face) * 3417186 (tearful-seep)<|eot_id|>", "needle": ["3371859", "7260091", "5948917", "3417186"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7923193 (faint-researcher) * 6768873 (fabulous-pike) * 9599207 (thoughtful-jade) * 3700366 (deafening-bottle)<|eot_id|>", "needle": ["7923193", "6768873", "9599207", "3700366"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 2130159 (don't get your hopes up) * 2647562 (low end software tends to eat high end software) * 8738745 (top actors make a lot more money than B-list actors) * 2227162 (life is short) * 2000 (the price of an ordinary adult slave in ancient Rome) * 600 (the price of a servant girl in ancient Rome) * 8000 (the price of a skilled vine-dresser in ancient Rome) * 50,000 (the price of a doctor's freedom in ancient Rome) * 100,000", "needle": ["2130159", "8738745", "2647562", "2227162"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 8560584 (plucky-oat) * 6331563 (encouraging-congregation) * 2171198 (handsome-item) * 6128383 (important-taxicab)<|eot_id|>", "needle": ["8560584", "6331563", "2171198", "6128383"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 6562703 (damaged-alto) * 5130133 (hurried-commandment) * 8316947 (fearless-spyglass) * 7031174 (grumpy-allocation)<|eot_id|>", "needle": ["7031174", "8316947", "5130133", "6562703"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 2282825 (thoughtful-activation) * 2375290 (thoughtful-activation) * 4295580 (gusty-tape) * 3348838 (gusty-tape)<|eot_id|>", "needle": ["2282825", "4295580", "2375290", "3348838"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 7585029 (learned-cough) * 8920589 (torpid-favorite) * 5372416 (scientific-stripe) * 3493647 (ruthless-smoking)<|eot_id|>", "needle": ["7585029", "3493647", "5372416", "8920589"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 5007754 (abortive-bond) * 3782393 (succinct-astrology) * 3355029 (rainy-metaphor) * 9424968 (lavish-shipyard)<|eot_id|>", "needle": ["5007754", "3782393", "3355029", "9424968"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 4926181 (lewd-posterior) * 4888118 (poised-signup) * 4671175 (aloof-waiting) * 5435176 (bashful-pulley)<|eot_id|>", "needle": ["4926181", "4888118", "5435176", "4671175"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 5588489 (treatful-concern) * 9747185 (clammy-nutrient) * 6437011 (aloof-extreme) * 3916715 (glossy-laugh)<|eot_id|>", "needle": ["5588489", "9747185", "6437011", "3916715"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 1110690 * 6788681 * 3331501 * 9088465<|eot_id|>", "needle": ["1110690", "6788681", "3331501", "9088465"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2985251 (steady-congo) * 6540252 (motionless-macaw) * 7077092 (didactic-living)<|eot_id|>", "needle": ["2985251", "4864570", "6540252", "7077092"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 3463987 (alluring-hypothesis) * 3703298 (cultured-blank) * 1723841 (fresh-cow) * 9600719 (damaged-maple)<|eot_id|>", "needle": ["3463987", "9600719", "1723841", "3703298"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3861635 (for placid-heartbeat) * 4633834 (for bright-zone) * 8909005 (for obtainable-dune buggy) * 7891524 (for fat-climate)<|eot_id|>", "needle": ["3861635", "4633834", "8909005", "7891524"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 7345333 (for flashy-blazer) * 3218169 (for luxuriant-knuckle) * 2154992 (for squealing-happiness) * 1277874 (for clumsy-corsage)<|eot_id|>", "needle": ["7345333", "3218169", "2154992", "1277874"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 3186555 (plain-capon) * 9444462 (righteous-tunnel) * 1654924 (periodic-descent) * 2563468 (cool-disparity)<|eot_id|>", "needle": ["3186555", "9444462", "1654924", "2563468"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2639417 (spicy-chronicle) * 6880713 (low-disregard) * 9088689 (flaky-pot)<|eot_id|>", "needle": ["2639417", "3246185", "6880713", "9088689"], "score": 0.75}
+{"ctx_len": 130557, "pred": ": * 9720156 * 1119354 * 1091762<|eot_id|>", "needle": ["9720156", "1119354", "1091762", "9766777"], "score": 0.75}
+{"ctx_len": 130554, "pred": ": * 5623138 (mentioned in the context of creating a first-rate university from nothing overnight) * 5255251 (mentioned in the context of the number of digressions in an early draft of an essay) * 9994347 (mentioned in the context of Apple's model of product development) * 7134489 (mentioned in the context of the number of startup founders that venture capital funds are stuck with due to a seller's market)<|eot_id|>", "needle": ["5623138", "5255251", "9994347", "7134489"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 6144785 (gaping-pyramid) * 3316405 (zonked-mathematics) * 6777340 (smoggy-battery) * 7679508 (wealthy-briefs)<|eot_id|>", "needle": ["6144785", "3316405", "6777340", "7679508"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1873301 (scattered-nursing) * 7528076 (direful-promise) * 3438206 (callous-noun) * 1088762 (telling-assistance)<|eot_id|>", "needle": ["1873301", "7528076", "3438206", "1088762"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 7447920 (worthless-niche) * 9741022 (mature-dime) * 1964069 (hapless-caliber) * 1633429 (brainy-uniformity)<|eot_id|>", "needle": ["7447920", "9741022", "1964069", "1633429"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4886793 (rampant-pants) * 1605005 (uninterested-convert) * 9565571 (agreeable-mat) * 3843451 (sulky-island)<|eot_id|>", "needle": ["9565571", "4886793", "3843451", "1605005"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1257807 (raspy-agency) * 4360650 (mere-convection) * 2151205 (watchful-shack) * 7629401 (unbiased-skyline)<|eot_id|>", "needle": ["1257807", "4360650", "2151205", "7629401"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 4263591 (stingy-minibus) * 1078038 (slow-popsicle) * 7777264 (onerous-chip) * 3936596 (gleaming-saviour)<|eot_id|>", "needle": ["4263591", "1078038", "7777264", "3936596"], "score": 1.0}
+{"ctx_len": 130569, "pred": ": * 9611521 (cooing-pattypan) * 5196677 (giddy-mechanic) * 9113963 (lopsided-carpeting) * 8428425 (voracious-carving)<|eot_id|>", "needle": ["9611521", "5196677", "9113963", "8428425"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 4857587 (unusual-scholarship) * 4697401 (tearful-enjoyment) * 7420191 (bewildered-lender) * 7919359 (husky-echidna)<|eot_id|>", "needle": ["4857587", "7420191", "4697401", "7919359"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4666931 * 6265911 * 6737688 * 3994493<|eot_id|>", "needle": ["4666931", "6265911", "6737688", "3994493"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 6973148 (futuristic-pit) * 4401858 (flaky-fear) * 5061034 (zonked-brushfire) * 4469169 (goofy-birdhouse)<|eot_id|>", "needle": ["6973148", "4401858", "5061034", "4469169"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 6291817 (upper bound for liking one's work) * 7227644 (amount of money Paul Graham's options were worth) * 4068080 (number of hours Paul Graham spent programming before taking a break) * 5609255 (number that Paul Graham uses to describe the feeling of being a successful startup founder) * 4 (number of years Paul Graham spent working on Viaweb before taking a break) * 3 (number of years Paul Graham spent working on Viaweb before taking a break) * 2 (number of years Paul Graham spent working on Viaweb before taking", "needle": ["6291817", "7227644", "4068080", "5609255"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1546310 (ruddy-jalape\u00f1o) * 3932663 (majestic-promise) * 6826541 (orange-click) * No special magic number is mentioned for purring-cello.<|eot_id|>", "needle": ["1546310", "3932663", "3019442", "6826541"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 2690268 (snotty-credit) * 7066680 (imminent-ear) * 5409875 (elderly-flanker) * 5357055 (substantial-koala)<|eot_id|>", "needle": ["5357055", "7066680", "2690268", "5409875"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 4532148 (for naughty-banana) * 7720828 (for lean-ecumenist) * 7246319 (for mute-barrel) * 8561977 (for gullible-plasterboard)<|eot_id|>", "needle": ["4532148", "7720828", "7246319", "8561977"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3509000 (deep-dryer) * 4289394 (loving-speech) * 8251427 (sedate-kiss) * 1163448 (pathetic-pressurisation)<|eot_id|>", "needle": ["3509000", "4289394", "1163448", "8251427"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3740422 (victorious-pace) * 2660521 (marked-kimono) * 4614941 (axiomatic-coupon) * 1800429 (shiny-tenor)<|eot_id|>", "needle": ["3740422", "2660521", "4614941", "1800429"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 3034027 (modern-accommodation) * 1332781 (jittery-hardboard) * 4337963 (kaput-accuracy) * 5323737 (shallow-practice)<|eot_id|>", "needle": ["3034027", "1332781", "4337963", "5323737"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7393310 (boring-transport) * 6660436 (divergent-chateau) * 3430151 (overjoyed-division) * 5807067 (successful-nectarine)<|eot_id|>", "needle": ["7393310", "6660436", "3430151", "5807067"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 7634639 (stimulating-flugelhorn) * 5888148 (hypnotic-quicksand) * 6259356 (flagrant-bun) * 5487442 (wholesale-councilor)<|eot_id|>", "needle": ["7634639", "5888148", "6259356", "5487442"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3097821 (acoustic-metabolite) * 2343263 (warm-cod) * 4936391 (wry-peer-to-peer) * 5221936 (ubiquitous-fridge)<|eot_id|>", "needle": ["3097821", "2343263", "4936391", "5221936"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2396723 (redundant-recognition) * 5403218 (classy-invasion) * 3605071 (sweet-beech) * 7660764 (adaptable-nestling)<|eot_id|>", "needle": ["2396723", "5403218", "3605071", "7660764"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1479346 * 6986802 * 9837269 * 3120836<|eot_id|>", "needle": ["1479346", "6986802", "9837269", "3120836"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8659527 (spiritual-fortune) * 3970181 (wakeful-gang) * 9955411 (redundant-bikini) * 8297709 (tasteless-believer)<|eot_id|>", "needle": ["8659527", "3970181", "9955411", "8297709"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7915632 (learned-clearing) * 1177097 (hollow-disappointment) * 3612506 (glamorous-city) * 9779789 (Early-bulldozer)<|eot_id|>", "needle": ["7915632", "1177097", "3612506", "9779789"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7268704 (abject-tramp) * 4879150 (squealing-yard) * 1153219 (highfalutin-freon) * 5914425 (nice-block)<|eot_id|>", "needle": ["7268704", "1153219", "4879150", "5914425"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 2328918 (mentioned in the context of a special magic number for glossy-blade) * 4700926 (mentioned in the context of an Italian word for abstract concepts) * 5561139 (mentioned in the context of a special magic number for rapid-orator)<|eot_id|>", "needle": ["2328918", "4700926", "5019180", "5561139"], "score": 0.75}
+{"ctx_len": 130554, "pred": ": * 2851472 (harmonious-wombat) * 8596173 (swanky-orator) * 9254323 (grieving-grocery) * 8639388 (temporary-embassy)<|eot_id|>", "needle": ["2851472", "8596173", "9254323", "8639388"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 1137641 (wrong-solicitation) * 5733096 (chunky-heyday) * 3097809 (greasy-sari) * 8355410 (wiry-bourgeoisie)<|eot_id|>", "needle": ["1137641", "5733096", "3097809", "8355410"], "score": 1.0}
+{"ctx_len": 130569, "pred": ": * 9361693 (humorous-chromolithograph) * 1532460 (waggish-lottery) * 8779334 (literate-broadcast) * 2345920 (incandescent-deadline)<|eot_id|>", "needle": ["9361693", "1532460", "8779334", "2345920"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 5195637 (empty-mouth) * 1211652 (low-print) * 8431651 (lush-pocketbook) * 5176895 (craven-saffron)<|eot_id|>", "needle": ["5195637", "5176895", "8431651", "1211652"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3661058 (illustrious-footprint) * 9739692 (scary-fry) * 6236326 (maddening-ale) * 1707762 (tangy-rhubarb)<|eot_id|>", "needle": ["3661058", "9739692", "6236326", "1707762"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 4958849 (combative-noon) * 5632190 (disturbed-takeover) * 8284023 (tawdry-gauntlet) * 1252794 (immense-checkout)<|eot_id|>", "needle": ["4958849", "5632190", "8284023", "1252794"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 2501223 (literate-brother) * 6677780 (various-underground) * 3645741 (furtive-inhibitor) * 2533463 (puffy-wilderness)<|eot_id|>", "needle": ["2501223", "6677780", "3645741", "2533463"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 6827024 (hypnotic-mare) * 4237420 (null-external) * 3260430 (lackadaisical-river) * 7337911 (accidental-grammar)<|eot_id|>", "needle": ["7337911", "3260430", "4237420", "6827024"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8858359 (imaginary-calculus) * 6832845 (sable-accompanist) * 3690116 (grubby-final) * 4131076 (silent-malnutrition)<|eot_id|>", "needle": ["8858359", "6832845", "3690116", "4131076"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4112748 (loutish-middleman) * 9488562 (Early-tea) * 5006173 (swift-place) * 7108168 (abusive-celebration)<|eot_id|>", "needle": ["4112748", "7108168", "5006173", "9488562"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7875379 (illegal-seminar) * 5750117 (substantial-smog) * 6402667 (tested-dilapidation) * 2614912 (cold-media)<|eot_id|>", "needle": ["7875379", "5750117", "6402667", "2614912"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 4214793 (pleasant-yoyo) * 1533803 (childlike-beef) * 9219319 (tricky-effector) * 7519606 (skinny-submitter)<|eot_id|>", "needle": ["4214793", "1533803", "9219319", "7519606"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8852729 (brainy-spouse) * 2018380 (tense-silence) * 4502044 (abrupt-codling) * 9244416 (towering-optimal)<|eot_id|>", "needle": ["8852729", "2018380", "4502044", "9244416"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9715516 (for fanatical-taro) * 2698275 (for charming-avenue) * 2307538 (for hollow-polish) * 4875838 (for wrathful-home)<|eot_id|>", "needle": ["9715516", "2698275", "2307538", "4875838"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8165129 (wasteful-insurgence) * 3798595 (classy-preparation) * 7005628 (clear-honesty) * 8696054 (uninterested-sectional)<|eot_id|>", "needle": ["8165129", "3798595", "7005628", "8696054"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 6446792 (scary-worry) * 7917972 (literate-legacy) * 6287423 (kind-macaroon)<|eot_id|>", "needle": ["6446792", "8224069", "7917972", "6287423"], "score": 0.75}
+{"ctx_len": 130542, "pred": ": * 1581546 (wretched-square) * 8507800 (old-decoration) * 1273509 (halting-plan) * 1003282 (maniacal-summary)<|eot_id|>", "needle": ["1581546", "8507800", "1273509", "1003282"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * Seemly-puggle: 3595683 * Screeching-hay: 9577712 * Accidental-sonnet: 5629792 * Careful-men: 1633110<|eot_id|>", "needle": ["3595683", "9577712", "5629792", "1633110"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 6038238 (the number of dollars Interleaf paid the author) * 4647992 (the number of unique visitors to Reddit per month) * 2295227 (the number of dollars the author spent on a TRS-80 computer) * 7707501 (the number of characters the computer would be happy to process if it were unambiguous)<|eot_id|>", "needle": ["6038238", "4647992", "7707501", "2295227"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 7988074 (nonchalant-sunshine) * 7401281 (young-game) * 1938227 (boundless-adult) * 6837300 (innate-ford)<|eot_id|>", "needle": ["7988074", "7401281", "1938227", "6837300"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3509536 (icy-recess) * 1847581 (deranged-garment) * 9428900 (imperfect-airforce) * 4704361 (wakeful-message)<|eot_id|>", "needle": ["3509536", "1847581", "9428900", "4704361"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 1827302 (sleepy-grace) * 8983516 (breakable-arch-rival) * 6639966 (cynical-gynaecology) * 3483236 (make-shift-icicle)<|eot_id|>", "needle": ["1827302", "8983516", "6639966", "3483236"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 4323709 (shaky-generosity) * 4290000 (tiresome-drudgery) * 9068540 (damaged-rate)<|eot_id|>", "needle": ["4323709", "9068540", "4290000", "7632348"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 7128174 (nasty-minor) * 4195887 (juicy-minor) * 7938755 (combative-breath) * 2503148 (illustrious-serval)<|eot_id|>", "needle": ["7128174", "2503148", "7938755", "4195887"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1752920 (for numerous-jury) * 4350161 (for flipped-out-paperwork) * 3446428 (for tacit-fluke) * 7271672 (for various-coverall)<|eot_id|>", "needle": ["1752920", "4350161", "3446428", "7271672"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8550780 (homely-cocoa) * 1381650 (parsimonious-intellect) * 2866934 (volatile-peanut) * 6759137 (abrupt-weird)<|eot_id|>", "needle": ["8550780", "1381650", "2866934", "6759137"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1308508 (vulgar-creme brulee) * 9838222 (loose-math) * 2008479 (doubtful-mark) * 5285846 (amused-rice)<|eot_id|>", "needle": ["1308508", "9838222", "2008479", "5285846"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 1320081 (cloudy-full) * 7043474 (ugliest-memorial) * 5551832 (macho-hippopotamus) * 7484783 (heartbreaking-molding)<|eot_id|>", "needle": ["1320081", "7043474", "5551832", "7484783"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 9399526 (low end software tends to eat high end software) * 1360516 (life is short) * 5150551 (a special magic number for aloof-cayenne, but not explicitly defined in the text) * 2004 (a year mentioned in the text as a reference to the presidential election) * 1998 (a year mentioned in the text as the year the Yahoo acquisition was announced) * 1996 (a year mentioned in the text as the year the author left Yahoo) * 1995 (a year mentioned in the text as the year the author started Vi", "needle": ["9399526", "1360516", "5150551", "6115834"], "score": 0.75}
+{"ctx_len": 130557, "pred": ": * 9409604 * 6072192 * 5323142 * 2040350<|eot_id|>", "needle": ["9409604", "6072192", "5323142", "2040350"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 4815608 (Lisp) * 7412371 (bumpy-lymphocyte) * 3302852 (trashy-bee) * 5032585 (mundane-telescreen)<|eot_id|>", "needle": ["4815608", "7412371", "3302852", "5032585"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 4394202 (snotty-denim) * 9787997 (verdant-catcher) * 3324928 (tiresome-mimosa) * 6184132 (dapper-reasoning)<|eot_id|>", "needle": ["4394202", "9787997", "3324928", "6184132"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 6328403 (educated-oven) * 6089336 (moaning-gall-bladder) * 7946441 (icky-vegetable) * 1494648 (decorous-teacher)<|eot_id|>", "needle": ["6328403", "6089336", "7946441", "1494648"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1437625 (flat-hygienic) * 4874049 (stimulating-pail) * 5477211 (subsequent-lesson) * 4895376 (squealing-constraint)<|eot_id|>", "needle": ["1437625", "4895376", "4874049", "5477211"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3307080 (peaceful-riot) * 9245088 (lyrical-wafer) * 4242361 (disgusted-instrument) * 1540722 (filthy-puzzle)<|eot_id|>", "needle": ["3307080", "9245088", "4242361", "1540722"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 7792537 (needy-lymphocyte) * 6450844 (orange-nourishment) * 9219877 (numberless-anesthesiologist) * 6450844 (venomous-entrance)<|eot_id|>", "needle": ["7792537", "5140345", "9219877", "6450844"], "score": 0.75}
+{"ctx_len": 130551, "pred": ": * 5122525 (amuck-honey) * 1658532 (zippy-session) * 8665517 (offbeat-dining) * 7637254 (ratty-contest)<|eot_id|>", "needle": ["5122525", "1658532", "7637254", "8665517"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 5796850 (homeless-jeans) * 5939543 (narrow-curriculum) * 1915141 (substantial-tunnel) * 3793181 (outstanding-electrocardiogram)<|eot_id|>", "needle": ["5796850", "5939543", "1915141", "3793181"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8564609 (magnificent-tenement) * 7938373 (ad hoc-sheet) * 3270069 (sordid-purity)<|eot_id|>", "needle": ["8564609", "7938373", "3270069", "4001084"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 9788196 (mentioned in the context of a conversation with a boss at Yahoo) * 8539654 (mentioned in the context of a conversation about the importance of growth rate in a startup) * 2915369 (mentioned in the context of a conversation about the importance of considering the intersection of questions that the left and right care about when judging the politics of an accidental moderate)<|eot_id|>", "needle": ["9788196", "7089179", "8539654", "2915369"], "score": 0.75}
+{"ctx_len": 130551, "pred": ": * 3518087 (shy-archives) * 6623607 (drab-dealing) * 3426109 (disagreeable-handlebar) * 1860847 (early-bronco)<|eot_id|>", "needle": ["3518087", "6623607", "3426109", "1860847"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 1096478 (ruthless-storage) * 8694746 (abrasive-blush) * 9365828 (psychedelic-charger) * 5246497 (abashed-freight)<|eot_id|>", "needle": ["1096478", "8694746", "9365828", "5246497"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 5665960 (fretful-lecture) * 1110277 (brainy-chives) * 4101100 (apathetic-interview) * 4483580 (swift-carotene)<|eot_id|>", "needle": ["5665960", "1110277", "4101100", "4483580"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 7995376 (clumsy-nutmeg) * 5771113 (undesirable-sleepiness) * 3706755 (eager-fig) * 1822609 (bumpy-harmonica)<|eot_id|>", "needle": ["7995376", "5771113", "3706755", "1822609"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 2135258 (loutish-hole) * 7183568 (illustrious-baker) * 2089275 (needy-deathwatch) * 6021328 (capricious-buying)<|eot_id|>", "needle": ["2135258", "7183568", "2089275", "6021328"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 9874251 (coherent-burden) * 9114518 (bumpy-gaiters) * 1976175 (subsequent-normalization) * 4507293 (wacky-chorus)<|eot_id|>", "needle": ["9874251", "9114518", "1976175", "4507293"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9328158 (for succinct-formicarium) * 9350710 (for real-hundred) * 4904421 (for strong-expectation) * 4018342 (for premium-smell)<|eot_id|>", "needle": ["9328158", "9350710", "4904421", "4018342"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 7956372 (sulky-overcharge) * 1763232 (momentous-softdrink) * 6866154 (inexpensive-overexertion) * 4562439 (shallow-saint)<|eot_id|>", "needle": ["7956372", "1763232", "6866154", "4562439"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 1488508 (worthless-inventory) * 2909863 (abiding-motion) * 7644605 (jaded-whelp) * 6591559 (various-signify)<|eot_id|>", "needle": ["1488508", "2909863", "7644605", "6591559"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8727886 (determined-bin) * 9742158 (auspicious-desert) * 6622207 (roomy-scrutiny) * 7944979 (oval-president)<|eot_id|>", "needle": ["8727886", "9742158", "6622207", "7944979"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1522998 (gusty-procedure) * 7295495 (irate-delight) * 3504920 (berserk-stem) * 9963616 (tame-interface)<|eot_id|>", "needle": ["1522998", "7295495", "3504920", "9963616"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1530633 (whispering-jazz) * 7943579 (green-order) * 9339189 (broken-ecumenist) * 6276424 (weak-solvency)<|eot_id|>", "needle": ["1530633", "7943579", "9339189", "6276424"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8445293 (for capable-investor) * 4390648 (for alive-croup) * 1418336 (for quarrelsome-knee) * 7278297 (for colossal-religion)<|eot_id|>", "needle": ["8445293", "4390648", "1418336", "7278297"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2648387 (debonair-casket) * 1613249 (excited-pearl) * 7502651 (organic-stitch) * 3226624 (rapid-armchair)<|eot_id|>", "needle": ["2648387", "1613249", "7502651", "3226624"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 6242557 (accurate-series) * 9733844 (clammy-implementation) * 1774096 (painful-cascade) * 6236888 (accurate-series)<|eot_id|>", "needle": ["6242557", "6236888", "9733844", "1774096"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3505186 (groovy-ash) * 1255965 (concerned-kitsch) * 2973853 (understood-outhouse) * 5590865 (didactic-pride)<|eot_id|>", "needle": ["3505186", "5590865", "1255965", "2973853"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2195257 (drab-razor) * 3374929 (green-banner) * 5107483 (sloppy-pill) * 5752443 (watery-professor)<|eot_id|>", "needle": ["2195257", "3374929", "5107483", "5752443"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2444846 (number of web startups) * 7435734 (special magic number for clear-university) * 7575272 (special magic number for needless-colonialism) * 1846511 (special magic number for parched-tick)<|eot_id|>", "needle": ["2444846", "7435734", "7575272", "1846511"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8813071 (boundless-bookmark) * 9950391 (wide-eyed-troop) * 3211157 (silky-symptom) * 8856366 (capable-stress)<|eot_id|>", "needle": ["8813071", "9950391", "3211157", "8856366"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 1507747 (poised-pasta) * 6541983 (economic-philosopher) * 7577959 (lavish-draw) * 8604827 (immense-industry)<|eot_id|>", "needle": ["1507747", "6541983", "7577959", "8604827"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2189907 (imminent-soup) * 3137316 (juicy-vacation) * 2794848 (mere-kohlrabi) * 2726915 (quick-tin)<|eot_id|>", "needle": ["2189907", "3137316", "2794848", "2726915"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 6741177 (nonstop-clef) * 7439371 (plain-easel) * 6716235 (berserk-pillbox) * 8233471 (exuberant-hassock)<|eot_id|>", "needle": ["6741177", "7439371", "6716235", "8233471"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2638360 (sedate-collapse) * 2824432 (bitter-assassination) * 7808088 (hospitable-secret) * 3955709 (obnoxious-force)<|eot_id|>", "needle": ["2638360", "2824432", "7808088", "3955709"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3503436 (deeply-garb) * 9912993 (old-fashioned-orangutan) * 7542823 (healthy-filter) * 1003092 (snobbish-transplantation)<|eot_id|>", "needle": ["3503436", "9912993", "7542823", "1003092"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 1136218 (for busy-gaffer) * 9563491 (for subdued-thong) * 6109503 (for skillful-veterinarian) * 6775801 (for nondescript-governor)<|eot_id|>", "needle": ["1136218", "9563491", "6109503", "6775801"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5734685 * 4946691 * 7027124 * 7614724<|eot_id|>", "needle": ["5734685", "4946691", "7027124", "7614724"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7452434 (sedate-netsuke) * 8000050 (languid-galley) * 5839738 (deserted-propaganda) * 4157922 (dark-toilet)<|eot_id|>", "needle": ["7452434", "8000050", "5839738", "4157922"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 4016499 (tacit-hostess) * 7976896 (dangerous-painter) * 2420416 (damaging-sprinter) * 8142130 (open-reasoning)<|eot_id|>", "needle": ["4016499", "7976896", "8142130", "2420416"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 9357686 (smoggy-hexagon) * 8126489 (efficient-plate) * 4972005 (young-lycra) * 1124654 (sticky-flatboat)<|eot_id|>", "needle": ["9357686", "8126489", "4972005", "1124654"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7183722 (weak-fixture) * 9831661 (deadpan-payment) * 9078781 (combative-taxpayer) * 2343236 (victorious-misrepresentation)<|eot_id|>", "needle": ["7183722", "9831661", "9078781", "2343236"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 9976368 (jealous-populist) * 1885405 (substantial-smock) * 8866313 (abortive-eyelid) * 6242875 (vacuous-palace)<|eot_id|>", "needle": ["9976368", "1885405", "8866313", "6242875"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 5369510 (for wrong-phrasing) * 8938316 (for bad-tram) * 3810320 (for harmonious-leprosy) * 6101462 (for alcoholic-platypus)<|eot_id|>", "needle": ["5369510", "8938316", "3810320", "6101462"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2384290 (pleasant-decade) * 5661529 (bored-aftershock) * 3223631 (gainful-moose) * 9482495 (cruel-saw)<|eot_id|>", "needle": ["2384290", "5661529", "3223631", "9482495"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3942713 (light-bolero) * 4962709 (gleaming-veldt) * 8493596 (trite-solution) * 4033474 (pleasant-housework)<|eot_id|>", "needle": ["3942713", "4962709", "8493596", "4033474"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 6789409 * 8385078 * 3806547 * 7428475<|eot_id|>", "needle": ["6789409", "8385078", "3806547", "7428475"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7544296 (uttermost-trophy) * 7371999 (flipped-out-stacking) * 5406118 (penitent-plenty) * 9934217 (periodic-resistance)<|eot_id|>", "needle": ["7544296", "7371999", "5406118", "9934217"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 5573311 (upper bound for liking one's work) * 9913623 (special magic number for charming-fool) * 1688161 (special magic number for rich-jewellery) * 6936250 (temporary-vista)<|eot_id|>", "needle": ["5573311", "9913623", "1688161", "6936250"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 6660743 * 4018500 * 1142206 * 1177469<|eot_id|>", "needle": ["6660743", "1177469", "4018500", "1142206"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 5752935 (for fat-cutlet) * 2542518 (for sweltering-polliwog) * 1397627 (for ahead-bidder) * 4239337 (for gainful-ginger)<|eot_id|>", "needle": ["5752935", "2542518", "1397627", "4239337"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5942041 (upper bound for liking one's work) * 4091420 (number of characters in a programming language that a computer would be happy to speak) * 4099902 (number of peanuts or books that would seem like a limited quantity) * 2270273 (number of startups that venture investors prefer to fund within an hour's drive) * 1000 (number of startup founders that could be let into the country each year) * 4 (number of people per startup) * 2500 (number of new companies that could be created each year) * 50 (number of", "needle": ["5942041", "4099902", "2270273", "4091420"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3985161 (for good-clerk) * 7422301 (for bashful-caddy) * 6581020 (for macho-forest) * 5332524 (for axiomatic-deathwatch)<|eot_id|>", "needle": ["3985161", "7422301", "6581020", "5332524"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 8235234 (debonair-steeple) * 2782574 (fascinated-vivo) * 1584868 (clammy-porcupine) * 5345236 (nutritious-suede)<|eot_id|>", "needle": ["8235234", "2782574", "1584868", "5345236"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 1062138 (for magenta-reverse) * 6533643 (for warlike-geology) * 7551231 (for alive-savannah) * 3543551 (for gorgeous-footrest)<|eot_id|>", "needle": ["1062138", "6533643", "7551231", "3543551"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 9980912 (crabby-sorrow) * 9087731 (versed-archer) * 6594190 (lacking-postage) * 7449562 (abashed-blizzard)<|eot_id|>", "needle": ["9980912", "6594190", "9087731", "7449562"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4204501 (ludicrous-tax) * 5864699 (ossified-complication) * 4407796 (threatening-scrambled) * 1659867 (dynamic-eyeball)<|eot_id|>", "needle": ["4204501", "5864699", "4407796", "1659867"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7522436 (mentioned in the context of learning that low-end software tends to eat high-end software) * 1598917 (mentioned in the context of Italian words for abstract concepts) * 5001116 (mentioned in the context of the new generation of software being written to take advantage of Ajax) * 1425547 (mentioned in the context of the number of new companies that could be created if 10,000 startup founders were let into the country each year)<|eot_id|>", "needle": ["7522436", "1598917", "5001116", "1425547"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 1718308 (wooden-dune buggy) * 6665977 (auspicious-ear) * 2982850 (mere-doctor) * 9776491 (faint-platypus)<|eot_id|>", "needle": ["1718308", "6665977", "2982850", "9776491"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1768424 (parsimonious-leap) * 3190059 (frantic-yellow) * 1319824 (poor-floodplain) * 3889858 (absent-rosemary)<|eot_id|>", "needle": ["1768424", "3190059", "1319824", "3889858"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 4700592 (squalid-kilogram) * 6659678 (nebulous-sucker) * 9340683 (concerned-chafe) * 4399754 (bawdy-aftershock)<|eot_id|>", "needle": ["4700592", "6659678", "9340683", "4399754"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 2060687 (innocent-renaissance) * 5595168 (crabby-dig) * 3909968 (spotless-chastity) * 7965133 (dead-netbook)<|eot_id|>", "needle": ["2060687", "5595168", "3909968", "7965133"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1121198 (the age at which people tend to have a good sense of what they want to do) * 1262233 (the number of unique visitors to Reddit per month) * 2354300 (the number of people who might be interested in a particular technology) * 7310431 (the number of times a top actor makes more money than a B-list actor) * 2004 (the year in which the Facebook was founded) * 1956 (the year in which William Shockley started his own company in Palo Alto) * 1974 (the year in which John Doerr", "needle": ["1121198", "2354300", "1262233", "7310431"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 5545782 (tenuous-tritone) * 8556779 (red-oval) * 5014011 (modern-feast) * 3400615 (exclusive-statement)<|eot_id|>", "needle": ["5545782", "8556779", "5014011", "3400615"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8026061 (juicy-accompanist) * 2971454 (empty-cribbage) * 6053293 (tan-envelope) * 4953366 (aberrant-perception)<|eot_id|>", "needle": ["8026061", "2971454", "6053293", "4953366"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 8959326 (various-bear) * 3958222 (aspiring-nun) * 3503452 (combative-dusk) * 4250065 (aspiring-nun)<|eot_id|>", "needle": ["8959326", "4250065", "3503452", "3958222"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 2751895 (amused-math) * 3950904 (ashamed-stake) * 1487633 (different-frosting) * 8602555 (innate-debtor)<|eot_id|>", "needle": ["2751895", "3950904", "1487633", "8602555"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 4821548 (impartial-cheetah) * 4334495 (mute-apartment) * 2847722 (flashy-grand) * 6464086 (unusual-proposition)<|eot_id|>", "needle": ["4821548", "4334495", "2847722", "6464086"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8633480 (strong-forage) * 4626649 (decorous-clogs) * 8312602 (sordid-displacement) * 9127012 (sordid-displacement) * 4 (astonishing-clothes)<|eot_id|>", "needle": ["8633480", "4626649", "9127012", "8312602"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 2000789 (good PR firms use this number to give reporters selective truths) * 3134259 (a special magic number for inquisitive-cowboy, implying that 30 people could turn Buffalo into a significant startup hub) * 4392535 (the number of pixels in a digital image, used to illustrate the increasing specialization of knowledge and the divergence of wisdom and intelligence) * 3290115 (the number of hiring bonuses of $3 million apiece that could be paid to recruit a significant number of the best young researchers and create a first-rate university)<|eot_id|>", "needle": ["2000789", "4392535", "3134259", "3290115"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7907115 (mentioned in the context of venture capital funds being squeezed from four directions) * 4853765 (mentioned in the context of the accelerating process of technological progress) * 9207638 (mentioned in the context of the author's experience with computers and programming) * 3851044 (mentioned in the context of the variation in income being a sign of health) * 1000 (mentioned in the context of the number of startup founders that could be let into the country each year) * 4 (mentioned in the context of the number of people who can be employed by small, fast-moving companies", "needle": ["7907115", "3851044", "4853765", "9207638"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 6491114 (funny-force) * 4731363 (nonchalant-sibling) * 1085187 (splendid-luck) * 3499296 (splendid-luck)<|eot_id|>", "needle": ["6491114", "4731363", "3499296", "1085187"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 2394044 (fragile-envelope) * 9309504 (old-e-book) * 1208423 (shaggy-generation) * 2644153 (waggish-coil)<|eot_id|>", "needle": ["2394044", "2644153", "1208423", "9309504"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 8780612 (for onerous-diagram) * 1409590 (for skinny-bird-watcher) * 6114309 (for picayune-blowhole) * 8705487 (for disagreeable-agency)<|eot_id|>", "needle": ["8780612", "1409590", "6114309", "8705487"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8145454 (helpless-parenting) * 1548852 (righteous-emergence) * 4475340 (great-leadership) * 6585238 (lush-scene)<|eot_id|>", "needle": ["8145454", "6585238", "4475340", "1548852"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 1685757 (sweltering-fixture) * 2124172 (dull-pigeon) * 8807325 (lean-trooper)<|eot_id|>", "needle": ["1685757", "7147725", "8807325", "2124172"], "score": 0.75}
+{"ctx_len": 130560, "pred": ": * 5485520 (kindhearted-adjective) * 6376490 (fierce-pomegranate) * 8095573 (puzzled-kimono) * 4519758 (snobbish-calendar)<|eot_id|>", "needle": ["5485520", "6376490", "8095573", "4519758"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 9923876 (parched-constraint) * 9939831 (uppity-larva) * 7176462 (symptomatic-nondisclosure) * 8582938 (heartbreaking-dryer)<|eot_id|>", "needle": ["9923876", "9939831", "7176462", "8582938"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 3524938 (protective-marketplace) * 5629550 (disillusioned-pony) * 2834838 (bored-buzz) * 99.5% (protective-marketplace, referring to the percentage of programming that consists of gluing together calls to library functions) * 10,000 (disillusioned-pony, referring to the number of startup founders that could be let into the country each year) * 4 (disillusioned-pony, referring to the number of series A investments a VC fund can do per partner per year) * 5 (", "needle": ["3524938", "3482256", "2834838", "5629550"], "score": 0.75}
+{"ctx_len": 130545, "pred": ": * 4171911 (healthy-format) * 1360413 (obedient-pound) * 8048611 (joyous-mosquito)<|eot_id|>", "needle": ["4171911", "1369713", "1360413", "8048611"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 3213824 (for silky-cover) * 8470161 (for scandalous-yoyo) * 6101655 (for ordinary-closet) * 9894713 (for spotless-keeper)<|eot_id|>", "needle": ["3213824", "8470161", "6101655", "9894713"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8649177 (halting-marionberry) * 6924385 (defective-fruit) * 3697606 (distinct-personnel) * 9981123 (wicked-tortellini)<|eot_id|>", "needle": ["8649177", "6924385", "3697606", "9981123"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1581986 (excited-oboe) * 4095339 (lewd-wedding) * 3121873 (slow-copywriter) * 5368907 (nutritious-adoption)<|eot_id|>", "needle": ["1581986", "4095339", "3121873", "5368907"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 8684648 (decorous-railway) * 9378825 (merciful-breath) * 3618139 (idiotic-spur) * 1418175 (craven-colonisation)<|eot_id|>", "needle": ["8684648", "9378825", "3618139", "1418175"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3339134 (aloof-mat) * 2884343 (youthful-high-rise) * 8417300 (shrill-rainbow) * 9035971 (invincible-playground)<|eot_id|>", "needle": ["3339134", "9035971", "8417300", "2884343"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 2551575 (labored-ship) * 9832094 (solid-coyote) * 1923311 (impartial-hurdler) * 4274069 (straight-schema)<|eot_id|>", "needle": ["2551575", "4274069", "1923311", "9832094"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7057663 (auspicious-dress) * 9228643 (endurable-funding) * 7617330 (rabid-pew) * 9582482 (hysterical-shorts)<|eot_id|>", "needle": ["7057663", "9228643", "7617330", "9582482"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 2469661 (sharp-lye) * 6894759 (jobless-gasp) * 8475525 (hospitable-staff) * 8452780 (fanatical-parole)<|eot_id|>", "needle": ["8452780", "2469661", "8475525", "6894759"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 2444148 (sour-step-aunt) * 4486033 (debonair-milk) * 8962686 (holistic-stable) * 6627359 (relieved-foodstuffs)<|eot_id|>", "needle": ["2444148", "4486033", "8962686", "6627359"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 4120669 (erect-eraser) * 3297254 (whispering-wifi) * 5856386 (low-triumph) * 8753086 (dull-congressperson)<|eot_id|>", "needle": ["4120669", "3297254", "5856386", "8753086"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 1041048 (addicted-cold) * 5826621 (creepy-lawyer) * 5406989 (deserted-grassland) * 8927925 (hilarious-bacon)<|eot_id|>", "needle": ["1041048", "5826621", "5406989", "8927925"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 7069317 (better-judgment) * 9061215 (snotty-ear) * 8986637 (giddy-snuggle) * 8316015 (shy-centimeter)<|eot_id|>", "needle": ["7069317", "9061215", "8986637", "8316015"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3739867 (labored-sender) * 3273269 (outrageous-treasure) * 6363359 (deep-perch) * 5574649 (aspiring-gather)<|eot_id|>", "needle": ["3739867", "3273269", "6363359", "5574649"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 6412444 (sable-business) * 4074382 (tangible-fireman) * 6051155 (husky-tarragon) * 3804075 (careful-soundness)<|eot_id|>", "needle": ["6412444", "4074382", "6051155", "3804075"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 9135255 * 6709506 * 5721406 * 2718286<|eot_id|>", "needle": ["9135255", "6709506", "5721406", "2718286"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 9044980 (for absurd-jumbo) * 2281784 (for outrageous-debt) * 3201710 (for cooing-bonus) * 6227335 (for juicy-hydrofoil)<|eot_id|>", "needle": ["9044980", "2281784", "3201710", "6227335"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 4730545 (cooperative-objection) * 3102926 (hospitable-antecedent) * 4801288 (venomous-manipulation) * 3388393 (curious-budget)<|eot_id|>", "needle": ["4730545", "3102926", "4801288", "3388393"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1713315 (nifty-bomb) * 2808875 (entertaining-raspberry) * 1994305 (spotless-dimple) * 9614751 (agonizing-manager)<|eot_id|>", "needle": ["1713315", "2808875", "1994305", "9614751"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 6897756 (Lisp's power is multiplied by the fact that your competitors don't understand it) * 4355853 (the number of hours it takes to realize that work can be fun) * 2523024 (the number of peanuts or books that would seem like a lot to someone with a limited lifespan) * 4446060 (the number of times a CEO or professional athlete might be more productive than an ordinary person)<|eot_id|>", "needle": ["6897756", "4446060", "2523024", "4355853"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3881880 (habitual-hearth) * 4640623 (resonant-refectory) * 1234617 (childlike-liberty) * 4213634 (wiry-stripe)<|eot_id|>", "needle": ["3881880", "4640623", "1234617", "4213634"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 6952931 (earthymetro) * 8115080 (lovely-discharge) * 9627700 (fallacious-sweatsuit) * 2800606 (uneven-necessity)<|eot_id|>", "needle": ["2800606", "6952931", "9627700", "8115080"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 6504863 (mentioned in the context of the \"brawny-plugin\" term) * 5836389 (mentioned in the context of \"weak-circumference\") * 7060776 (mentioned in the context of \"profuse-tissue\")<|eot_id|>", "needle": ["6504863", "1681298", "5836389", "7060776"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 7164643 (periodic-afterthought) * 7833061 (filthy-cowbell) * 8180005 (heady-cover) * 2167847 (elfin-fringe)<|eot_id|>", "needle": ["7164643", "8180005", "7833061", "2167847"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7623837 (debonair-cross) * 4340115 (lavish-objection) * 2706614 (mature-daikon) * 2085660 (dizzy-mixer)<|eot_id|>", "needle": ["7623837", "4340115", "2706614", "2085660"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 7785437 (low end software tends to eat high end software) * 5579723 (leaving a large amount of money on the table to start a new startup) * 7714837 (a certain level of liking for work) * 8983040 (the nature of programming languages to make most people satisfied with whatever they currently use)<|eot_id|>", "needle": ["7785437", "5579723", "8983040", "7714837"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2671067 (adorable-resistance) * 3258353 (flat-falling-out) * 9342869 (poor-tic) * 2144687 (aspiring-fan)<|eot_id|>", "needle": ["2671067", "9342869", "3258353", "2144687"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5925168 (evanescent-outset) * 9353359 (ubiquitous-inclusion) * 9723295 (boorish-nature) * 8818548 (premium-help)<|eot_id|>", "needle": ["5925168", "9353359", "9723295", "8818548"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8551685 (ludicrous-cue) * 8711752 (oafish-battleship) * 2998738 (nice-audience)<|eot_id|>", "needle": ["8551685", "8711752", "7313879", "2998738"], "score": 0.75}
+{"ctx_len": 130539, "pred": ": * 7527687 (hungry-depth) * 2835125 (poised-monkey) * 9230125 (sincere-consist) * 8882244 (troubled-wait)<|eot_id|>", "needle": ["7527687", "2835125", "9230125", "8882244"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 6376808 (halting-onset) * 1472228 (bad-troop) * 7338393 (spiritual-panda) * 6918393 (supreme-pastoralist)<|eot_id|>", "needle": ["6376808", "1472228", "7338393", "6918393"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 2633262 (loving-immigration) * 6790539 (neighborly-digestion) * 1947061 (kaput-croup) * 7911031 (labored-rye)<|eot_id|>", "needle": ["2633262", "6790539", "1947061", "7911031"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 1330712 (domineering-surrounds) * 8732776 (alive-conviction) * 6471332 (rough-modeling) * 8087921 (tricky-bronze)<|eot_id|>", "needle": ["1330712", "8732776", "6471332", "8087921"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2639564 (illegal-minor) * 7337385 (hypnotic-dinner) * 7548160 (skinny-atrium) * 2678672 (political-primary)<|eot_id|>", "needle": ["2639564", "7337385", "7548160", "2678672"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2263679 (proud-equal) * 4591668 (romantic-gather) * 4384948 (nonstop-victim) * 5448564 (happy-crate)<|eot_id|>", "needle": ["2263679", "4591668", "4384948", "5448564"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 9909769 (silent-consignment) * 2128599 (groovy-transmission) * 8165647 (perfect-letter) * 6651204 (splendid-patrolling)<|eot_id|>", "needle": ["9909769", "2128599", "8165647", "6651204"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 9660803 (low end software tends to eat high end software) * 4029979 (web startup does not have this number as a magic number) * 9646460 (venture capital funds are stuck with a seller's market) * 7749490 (topic sentence is your thesis, chosen in advance) * 2000 (price of an ordinary adult slave in ancient Rome) * 600 (price of a servant girl in ancient Rome) * 8000 (price of a skilled vine-dresser in ancient Rome) * 50,000 (price of a doctor's freedom in ancient Rome", "needle": ["9660803", "9646460", "4029979", "7749490"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8759239 (lazy-elver) * 5032805 (defeated-part) * 4366315 (recondite-omission) * 6037789 (delightful-addiction)<|eot_id|>", "needle": ["8759239", "6037789", "5032805", "4366315"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 3515949 (comfortable-garlic) * 4961601 (giant-admire) * 5001087 (mere-radiosonde) * 3694157 (thoughtful-orangutan)<|eot_id|>", "needle": ["3515949", "4961601", "5001087", "3694157"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 5335179 (adorable-aluminium) * 1620819 (thoughtless-prostacyclin) * 3288926 (groovy-burrito) * 3673591 (evanescent-private)<|eot_id|>", "needle": ["5335179", "1620819", "3288926", "3673591"], "score": 1.0}
+{"ctx_len": 130569, "pred": ": * 5999260 (hurt-approach) * 2515088 (lavish-diplomacy) * 7828441 (bawdy-nonconformist) * 3358208 (maniacal-pair)<|eot_id|>", "needle": ["5999260", "2515088", "7828441", "3358208"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 4994266 (cagey-millet) * 7542286 (somber-excursion) * 6524500 (hurried-heterosexual) * 3051464 (standing-jaguar)<|eot_id|>", "needle": ["4994266", "7542286", "6524500", "3051464"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 1938272 (garrulous-fortress) * 2895176 (long-connotation) * 7851404 (numberless-dinner) * 9950140 (powerful-citizen)<|eot_id|>", "needle": ["1938272", "2895176", "7851404", "9950140"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1584005 (thirsty-smoking) * 1917249 (ubiquitous-organizing) * 1353566 (hospitable-vegetation)<|eot_id|>", "needle": ["1584005", "1917249", "1353566", "7169641"], "score": 0.75}
+{"ctx_len": 130557, "pred": ": * 7517462 (nutty-tabernacle) * 6048065 (gaudy-synthesis) * 7593035 (ablaze-rayon) * 4965830 (robust-daikon)<|eot_id|>", "needle": ["7517462", "6048065", "7593035", "4965830"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 5597569 (agreeable-taco) * 9249220 (brash-administrator) * 7928341 (parsimonious-final) * 8086125 (industrious-egghead)<|eot_id|>", "needle": ["5597569", "9249220", "7928341", "8086125"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 8439100 (tart-weight) * 3283248 (tested-lay) * 1458871 (old-fashioned-wasabi) * 4082639 (ashamed-group)<|eot_id|>", "needle": ["8439100", "3283248", "1458871", "4082639"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7883963 (spurious-elevation) * 3182597 (rapid-epic) * 5187652 (different-boogeyman) * 8574743 (icy-soy)<|eot_id|>", "needle": ["7883963", "3182597", "5187652", "8574743"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1385374 (accessible-paperwork) * 4766269 (lopsided-hiring) * 7601736 (easy-stake) * 7167297 (motionless-girl)<|eot_id|>", "needle": ["1385374", "7167297", "7601736", "4766269"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 7728249 (aquatic-mansion) * 5364723 (statuesque-comfort) * 8195804 (swanky-verve) * 2494200 (defiant-lantern)<|eot_id|>", "needle": ["7728249", "5364723", "8195804", "2494200"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5466142 (embarrassed-marksman) * 9290445 (uneven-printer) * 4408213 (wild-bifocals)<|eot_id|>", "needle": ["5466142", "9290445", "4408213", "4766215"], "score": 0.75}
+{"ctx_len": 130560, "pred": ": * 4026104 (for mushy-candelabra) * 5868629 (for adjoining-missionary) * 3448514 (for minor-academy) * 4176986 (for wrong-eyeliner)<|eot_id|>", "needle": ["4026104", "5868629", "3448514", "4176986"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 8866528 (aboriginal-rope) * 4560421 (vengeful-balloonist) * 7669861 (voiceless-price) * 6423167 (daffy-pinstripe)<|eot_id|>", "needle": ["8866528", "4560421", "7669861", "6423167"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 5255656 (abhorrent-paintwork) * 1763562 (stingy-mosque) * 6944195 (parsimonious-charm) * 4939985 (industrious-invention)<|eot_id|>", "needle": ["5255656", "1763562", "6944195", "4939985"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3849886, 4009366, 1689962, and 9268480, respectively.<|eot_id|>", "needle": ["3849886", "9268480", "4009366", "1689962"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1740918 (hurried-description) * 9375364 (cultured-bassoon) * 7049733 (guttural-former) * 2960284 (glamorous-throne)<|eot_id|>", "needle": ["9375364", "7049733", "1740918", "2960284"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 6293931 (disillusioned-valley) * 3537801 (precious-ectodermal) * 4169550 (aspiring-settler) * 8381800 (sedate-thumb)<|eot_id|>", "needle": ["6293931", "3537801", "8381800", "4169550"], "score": 1.0}
+{"ctx_len": 130539, "pred": ": * 2946560 (for nostalgic-lantern) * 8837188 (for wealthy-precision) * 6981414 (for nutritious-session) * 1684371 (for productive-set)<|eot_id|>", "needle": ["2946560", "8837188", "6981414", "1684371"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3823521 (earthly-evening) * 4563416 (shocking-disarmament) * 5766683 (evil-station-wagon) * 5576682 (quickest-tackle)<|eot_id|>", "needle": ["3823521", "4563416", "5766683", "5576682"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2582179 (psychedelic-retrospect) * 7267268 (made-up number, not explicitly defined as a magic number) * 1435572 (imported-documentation) * 3046668 (halting-havoc)<|eot_id|>", "needle": ["2582179", "7267268", "1435572", "3046668"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * Omniscient-duckling: 5518413 * Impossible-crop: 1735630 * Spurious-mainstream: 1097397 * Tranquil-casualty: 8601790<|eot_id|>", "needle": ["5518413", "1735630", "1097397", "8601790"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 7398678 (satisfying-galley) * 2186553 (attractive-periodical) * 3986525 (gaudy-helo) * 7691735 (capable-hackwork)<|eot_id|>", "needle": ["7398678", "2186553", "3986525", "7691735"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8253770 (for powerful-sailing) * 6008781 (for crabby-birch) * 3585950 (for handsome-cruise)<|eot_id|>", "needle": ["8253770", "6202636", "3585950", "6008781"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 8088983 (cagey-lyrics) * 7511061 (obnoxious-path) * 8097946 (shocking-announcement) * 5504336 (periodic-village)<|eot_id|>", "needle": ["8088983", "7511061", "8097946", "5504336"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 4761958 (overconfident-wriggler) * 3601637 (threatening-melatonin) * 9846268 (profuse-eggplant) * 9802632 (tart-dandelion)<|eot_id|>", "needle": ["4761958", "3601637", "9846268", "9802632"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 6040020 (cuddly-warmth) * 1800747 (silly-sideburns) * 9776028 (furtive-garage) * 5957359 (needy-retrospect)<|eot_id|>", "needle": ["6040020", "5957359", "9776028", "1800747"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 5251016 (truculent-trash) * 2371865 (sordid-strait) * 8795642 (careful-shoe) * 5275844 (knowledgeable-guard)<|eot_id|>", "needle": ["5251016", "8795642", "2371865", "5275844"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 5993696 (for watery-reception) * 8633602 (for hurt-blogger) * 7983542 (for breakable-vista) * 8548873 (for uncovered-mecca)<|eot_id|>", "needle": ["5993696", "7983542", "8633602", "8548873"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2957536 (malicious-contrast) * 9965341 (nonchalant-defender) * 2783932 (uneven-hybridisation)<|eot_id|>", "needle": ["2957536", "1098097", "9965341", "2783932"], "score": 0.75}
+{"ctx_len": 130545, "pred": ": * 7626953 (victorious-savory) * 3266835 (crooked-paper) * 2470273 (holistic-carriage) * 7052024 (sweet-mirror)<|eot_id|>", "needle": ["7626953", "7052024", "2470273", "3266835"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 3435283 (mentioned in the context of the author's experience with microcomputers) * 6048564 (mentioned in the context of the author's realization that the concept of wisdom is diverging from intelligence) * 5050 (mentioned in the context of Gauss's solution to a math problem) * 5056398 (mentioned in the context of the author's discussion of the importance of having a critical mass of startup people in a location) * 4203013 (mentioned in the context of the author's discussion of the difficulty of getting people to use Lisp) * 5050 (again, mentioned", "needle": ["3435283", "6048564", "4203013", "5056398"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 8470322 (wasteful-lox) * 8910276 (pleasant-nonconformist) * 5070650 (sordid-horse) * 8541631 (acceptable-diner)<|eot_id|>", "needle": ["8470322", "8910276", "5070650", "8541631"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9178834 (alike-rowboat) * 8244199 (tasteful-dust) * 5878387 (smooth-evidence) * 9316519 (muddled-stool)<|eot_id|>", "needle": ["9178834", "8244199", "5878387", "9316519"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 2961940 (mentioned in the context of Interleaf, a software company) * 7998405 (mentioned in the context of the concept of good taste) * 6299086 (mentioned in the context of the special magic number for nappy-plane) * 2065530 (mentioned in the context of the special magic number for scrawny-toothbrush)<|eot_id|>", "needle": ["2961940", "6299086", "7998405", "2065530"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 6768801 (panoramic-backpack) * 4685993 (quick-local) * 4894044 (noxious-morale) * 4224602 (wretched-quicksand)<|eot_id|>", "needle": ["6768801", "4685993", "4894044", "4224602"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 3718341 (pastoral-sunlight) * 4476383 (synonymous-pronoun) * 2446060 (half-cirrus) * 7044085 (uneven-bathroom)<|eot_id|>", "needle": ["3718341", "4476383", "2446060", "7044085"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9283332 (muddy-critic) * 7019442 (abundant-handrail) * 4937929 (hollow-forte) * 1789356 (exultant-temperature)<|eot_id|>", "needle": ["9283332", "7019442", "4937929", "1789356"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 4803231 (comfortable-take-out) * 5325537 (pointless-crude) * 6959954 (itchy-professional) * 4759700 (crabby-comportment)<|eot_id|>", "needle": ["4803231", "5325537", "6959954", "4759700"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 2709062 (clear-thanks) * 1704130 (shivering-enemy) * 2768504 (quick-buggy) * 2861110 (orange-book)<|eot_id|>", "needle": ["2709062", "1704130", "2768504", "2861110"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 9361613 (mentioned in the context of super-angels hoping to invest in companies that get acquired quickly) * 3311438 (mentioned in the context of the number of young researchers needed to create a first-rate university) * 2665880 (mentioned in the context of the number of startup founders needed to create a startup hub) * 7102492 (mentioned in the context of deserted-reinscription, but not explicitly defined as a special magic number) * 2004 (mentioned as a year in several contexts, but not explicitly defined as a special magic number) * 1998 (mentioned as", "needle": ["9361613", "3311438", "2665880", "7102492"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 7962689 (wiry-breadfruit) * 9472875 (hapless-jewellery) * 7248445 (goofy-spoon) * 2429986 (drab-pun)<|eot_id|>", "needle": ["7962689", "9472875", "7248445", "2429986"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 7867070 (momentous-armchair) * 9659648 (organic-bonnet) * 7069566 (utter-engine) * 8425238 (adorable-sexuality)<|eot_id|>", "needle": ["7867070", "9659648", "7069566", "8425238"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 3532555 (for alike-stimulation) * 1969887 (for slow-deficit) * 7597913 (for bad-winter) * 8282524 (for disillusioned-carol)<|eot_id|>", "needle": ["3532555", "1969887", "7597913", "8282524"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4441570 (obscene-millstone) * 5693941 (ablaze-sandal) * 3463932 (resolute-host) * 7776956 (warlike-populist)<|eot_id|>", "needle": ["4441570", "5693941", "3463932", "7776956"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 5763519, 2557253, 6611860, and 3114023, respectively.<|eot_id|>", "needle": ["5763519", "2557253", "6611860", "3114023"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8092498 (wrong-birdhouse) * 5340101 (adhesive-jar) * 2852907 (quaint-nurse) * 6099302 (frail-farmland)<|eot_id|>", "needle": ["8092498", "5340101", "2852907", "6099302"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 6687145 (old-fashioned-sound) * 9947098 (fluttering-stock) * 5998957 (obsolete-quartz) * 1087466 (slimy-ox)<|eot_id|>", "needle": ["6687145", "9947098", "5998957", "1087466"], "score": 1.0}
+{"ctx_len": 130539, "pred": ": * 5154597 (real-gorilla) * 8622050 (large-mystery) * 4230541 (rapid-head) * 6500359 (clear-being)<|eot_id|>", "needle": ["5154597", "8622050", "4230541", "6500359"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 9829103 * 8485391 * 7195728 * 8990200<|eot_id|>", "needle": ["9829103", "8485391", "7195728", "8990200"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 9213136 (numerous-adult) * 7994796 (youthful-locomotive) * 3132786 (quarrelsome-cut) * 3421727 (discreet-election)<|eot_id|>", "needle": ["9213136", "3421727", "3132786", "7994796"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7196363 (devilish-sword) * 3027802 (cold-governance) * 1547061 (peaceful-chainstay) * 7855503 (cooperative-sleet)<|eot_id|>", "needle": ["7196363", "1547061", "3027802", "7855503"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9152477 (heavy-half) * 3396950 (adhesive-mustard) * 8075907 (deadpan-punishment) * 6087859 (lonely-tempo)<|eot_id|>", "needle": ["9152477", "3396950", "8075907", "6087859"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 6195935 (mentioned in the context of valuations) * 9072800 (mentioned in the context of life being short) * 6849358 (mentioned in the context of the topic sentence being the thesis, chosen in advance)<|eot_id|>", "needle": ["6195935", "9072800", "6849358", "1749647"], "score": 0.75}
+{"ctx_len": 130554, "pred": ": * 8733225 (quack-waste) * 6456223 (defiant-clause) * 8534223 (oceanic-communicant) * 7872422 (busy-hacienda)<|eot_id|>", "needle": ["8733225", "6456223", "8534223", "7872422"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 2485285 (thoughtful-infarction) * 6181610 (slimy-beneficiary) * 1416143 (dispensable-receipt) * 3076710 (sharp-marionberry)<|eot_id|>", "needle": ["2485285", "6181610", "3076710", "1416143"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 1318323 (earsplitting-concentration) * 9923120 (cowardly-prestige) * 4452834 (grouchy-testimonial) * 1313131 (purring-fiesta)<|eot_id|>", "needle": ["1318323", "9923120", "1313131", "4452834"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 6703524 (acoustic-rooster) * 1403608 (motionless-tritone) * 6324793 (resolute-moment) * 4028421 (nosy-crocodile)<|eot_id|>", "needle": ["6703524", "1403608", "6324793", "4028421"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 4064676 (decisive-athlete) * 6147152 (deserted-period) * 2503717 (mindless-infusion) * 3838554 (mindless-infusion) * 7 (gaudy-tile)<|eot_id|>", "needle": ["4064676", "6147152", "3838554", "2503717"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 3390091 (idiotic-ownership) * 7300065 (giddy-statute) * 6439471 (moldy-essential) * 2656653 (madly-angle)<|eot_id|>", "needle": ["3390091", "7300065", "6439471", "2656653"], "score": 1.0}
+{"ctx_len": 130569, "pred": ": * 2017235 (mentioned in the context of attracting professors to a university) * 8798444 (mentioned in the context of linguistics) * 9123050 (mentioned in the context of belligerent-tote) * 7829609 (mentioned in the context of scrawny-revenue)<|eot_id|>", "needle": ["2017235", "9123050", "7829609", "8798444"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3388522 (evil-leg) * 9395862 (teeny-vendor) * 2407748 (obscene-enclosure) * 7824064 (silly-hydrogen)<|eot_id|>", "needle": ["3388522", "9395862", "2407748", "7824064"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2009569 (related to Early-plough) * 5852800 (related to symptomatic-exhaust) * 8795567 (related to aback-daily) * 3808198 (related to toothsome-dueling)<|eot_id|>", "needle": ["2009569", "5852800", "8795567", "3808198"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * Roasted-creme brulee: 2173318 * Hilarious-paste: 2505169 * Malicious-pin: 3063211 * Animated-crow: 3708116<|eot_id|>", "needle": ["2173318", "2505169", "3063211", "3708116"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 5125991 (mentioned in the context of venture capital funds being squeezed from four directions) * 8595349 (mentioned in the context of life being short) * 6396194 (mentioned in the context of the distinction between wisdom and intelligence)<|eot_id|>", "needle": ["5125991", "5384902", "6396194", "8595349"], "score": 0.75}
+{"ctx_len": 130560, "pred": ": * 8994829 (mentioned in the context of Italian words for abstract concepts) * 3911451 (mentioned as a special magic number for unequaled-mood) * 1160702 (mentioned as a special magic number for aberrant-dusk) * 9203667 (mentioned as a special magic number for moldy-remnant)<|eot_id|>", "needle": ["8994829", "3911451", "1160702", "9203667"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 1141455 (waggish-payment) * 7314548 (kindhearted-footstep) * 3972698 (lyrical-blend) * 7005668 (steadfast-evaporation)<|eot_id|>", "needle": ["1141455", "7314548", "3972698", "7005668"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 6086491 (successful-escape) * 2509387 (eminent-repository) * 7003240 (guttural-lute) * 4710242 (witty-eyelids)<|eot_id|>", "needle": ["6086491", "2509387", "7003240", "4710242"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 5653119 (colorful-chapel) * 3860131 (prickly-popsicle) * 7645223 (entertaining-gram) * 9394071 (sincere-lead)<|eot_id|>", "needle": ["5653119", "7645223", "9394071", "3860131"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1387847 (empty-chronicle) * 4824620 (skillful-knowledge) * 5355775 (cuddly-lotion) * 5602459 (red-opinion)<|eot_id|>", "needle": ["1387847", "5355775", "4824620", "5602459"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 8256954 (illustrious-downfall) * 5597554 (mighty-wait) * 9314364 (overwrought-scrambled)<|eot_id|>", "needle": ["8256954", "5597554", "9695551", "9314364"], "score": 0.75}
+{"ctx_len": 130545, "pred": ": * 4264982 (magical-grin) * 1086558 (husky-trek) * 1425670 (sleepy-sturgeon) * 2372525 (innate-ride)<|eot_id|>", "needle": ["4264982", "1086558", "1425670", "2372525"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 9052500 (adhesive-incidence) * 6608665 (spooky-inspection) * 2622794 (bashful-precipitation) * 1403047 (nifty-visa)<|eot_id|>", "needle": ["9052500", "6608665", "2622794", "1403047"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8490291 (ceaseless-directive) * 3094239 (smooth-pickup) * 4971899 (real-guacamole) * 8357303 (blue-car)<|eot_id|>", "needle": ["8490291", "3094239", "4971899", "8357303"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 2708383 (berserk-exposition) * 8414160 (barbarous-pearl) * 6057845 (astonishing-recipient) * 8245056 (stupid-wave)<|eot_id|>", "needle": ["2708383", "8414160", "6057845", "8245056"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8182422 (overjoyed-sponsorship) * 2699161 (swift-postbox) * 1177948 (standing-co-producer) * 7441109 (old-king)<|eot_id|>", "needle": ["8182422", "2699161", "1177948", "7441109"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 3113620 (mentioned in the context of creating a first-rate university from nothing overnight) * 1206168 (mentioned in the context of the author's options being worth about $2 million a month) * 4248312 (mentioned in the context of the special magic number for spooky-thug, referring to the number of good ideas that seem bad initially) * 2133208 (mentioned in the context of squalid-regret, referring to the number of unpleasant jobs that can't be automated or done without someone's willingness) * 2004 (mentioned in the context of the year when the author", "needle": ["3113620", "4248312", "2133208", "1206168"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 2014873 (for ancient-jealousy) * 3309764 (for freezing-moose) * 6228902 (for somber-mink) * 8312318 (for somber-mink)<|eot_id|>", "needle": ["2014873", "3309764", "8312318", "6228902"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 6752912 (steep-sleeping) * 7187940 (heady-sick) * 9685239 (ablaze-worm) * 3425991 (sore-turnstile)<|eot_id|>", "needle": ["6752912", "7187940", "9685239", "3425991"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8981342 (life is short) * 8841710 (top actors make a lot more money than B-list actors) * 6730290 (topic sentence is your thesis, chosen in advance) * 4376603 (mechanical watches have to be wound, and the only thing technology can't cheapen is brand)<|eot_id|>", "needle": ["8981342", "8841710", "6730290", "4376603"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8621924 (clean-office) * 1062026 (fat-creditor) * 9320336 (amuck-chinchilla) * 3722606 (imported-crucifixion)<|eot_id|>", "needle": ["8621924", "1062026", "9320336", "3722606"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 1165961 (for hackers) * 1112833 (for educated-roller) * 7004341 (for blue-eyed-sleet) * 7716130 (for excited-sign)<|eot_id|>", "needle": ["1165961", "1112833", "7716130", "7004341"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 4318952 (erect-character) * 1498041 (ancient-division) * 3921695 (halting-conflict) * 5395611 (fast-personnel)<|eot_id|>", "needle": ["4318952", "1498041", "3921695", "5395611"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 2861751 * 4527197 * 2697690 * 3302564<|eot_id|>", "needle": ["2861751", "4527197", "2697690", "3302564"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9934785 (mentioned in the context of optimization) * 4181650 (mentioned in the context of programming languages) * 2096852 (mentioned in the context of watches) * 3423170 (mentioned in the context of big programs)<|eot_id|>", "needle": ["9934785", "4181650", "2096852", "3423170"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1893537 (functional-marshmallow) * 4172607 (super-licensing) * 6497568 (defective-petticoat) * 5935567 (robust-tree)<|eot_id|>", "needle": ["1893537", "4172607", "6497568", "5935567"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 9542262 (macabre-scheme) * 9364914 (lonely-pheromone) * 9533123 (disturbed-wedding) * 2088389 (ugly-consent)<|eot_id|>", "needle": ["9542262", "9364914", "9533123", "2088389"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 7726758 (for snotty-hunter) * 4683039 (for expensive-carpenter) * 1614121 (for tender-side) * 5501921 (for peaceful-pavilion)<|eot_id|>", "needle": ["7726758", "4683039", "1614121", "5501921"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2422018 (mentioned in the context of scattered-molding) * 5270292 (mentioned in the context of lonely-industry) * 3637534 (mentioned in the context of sleepy-encouragement) * 2409758 (mentioned in the context of damaged-auto)<|eot_id|>", "needle": ["5270292", "2422018", "3637534", "2409758"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 6643418 (mentioned in the context of racial-dash) * 7165827 (mentioned in the context of minor-maiden) * 8256240 (mentioned in the context of painful-warren) * 8569061 (mentioned in the context of nebulous-refuge)<|eot_id|>", "needle": ["6643418", "7165827", "8569061", "8256240"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 2273196 (for goofy-fly) * 2382753 (for lacking-terrarium) * 2311290 (for racial-tempo) * 9418218 (for hellish-bayou)<|eot_id|>", "needle": ["2273196", "2382753", "2311290", "9418218"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 6078724 * 4299177 * 6523752 * 5604751<|eot_id|>", "needle": ["6078724", "4299177", "6523752", "5604751"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 7669032 (defiant-mallard) * 9600788 (pastoral-invoice) * 1199493 (mere-mushroom) * 7774826 (joyous-kohlrabi)<|eot_id|>", "needle": ["7669032", "9600788", "1199493", "7774826"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8193952 (elegant-corporal) * 8007639 (wakeful-satellite) * 6252524 (broad-chino) * 8359842 (fabulous-bid)<|eot_id|>", "needle": ["8193952", "8007639", "6252524", "8359842"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 9385256 (aboard-wampum) * 4783105 (itchy-beet) * 8142385 (mute-cartridge) * 6950248 (trite-hydrocarb)<|eot_id|>", "needle": ["9385256", "4783105", "8142385", "6950248"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 6540684 (deranged-wont) * 7557976 (silly-garlic) * 4425984 (low-funding) * 2068863 (madly-team)<|eot_id|>", "needle": ["6540684", "7557976", "4425984", "2068863"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3980239 (classy-vanity) 3876011 (capricious-digging) 4132173 (addicted-codon) 9197571 (aggressive-pantsuit)<|eot_id|>", "needle": ["3980239", "3876011", "4132173", "9197571"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7893107 (impartial-upstairs) * 9699518 (level-quota) * 1963904 (onerous-aquifer) * 3882757 (abortive-phrase)<|eot_id|>", "needle": ["7893107", "9699518", "1963904", "3882757"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 8965487 (noiseless-disruption) * 6206200 (exotic-debt) * 3179901 (exotic-debt) * 2000 (slaves in ancient Rome) * 600 (servant girl in ancient Rome) * 8000 (skilled vine-dresser in ancient Rome) * 50,000 (price of a doctor's freedom in ancient Rome) * 100,000 (price of a linguist's freedom in ancient Rome) * 700,000 (highest price paid for a slave in ancient Rome) * 125-150 (price of", "needle": ["8965487", "3179901", "6206200", "6196863"], "score": 0.75}
+{"ctx_len": 130557, "pred": ": * 6517883 (massive-locust) * 9236918 (sincere-pilgrimage) * 2073239 (obnoxious-yoyo)<|eot_id|>", "needle": ["6517883", "9236918", "5141290", "2073239"], "score": 0.75}
+{"ctx_len": 130566, "pred": ": * 5990361 (warlike-pudding) * 3938131 (magenta-impediment) * 8249042 (early-woodland) * 5179788 (muddled-beancurd)<|eot_id|>", "needle": ["5990361", "3938131", "8249042", "5179788"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 2119776 (unadvised-borrowing) * 5593203 (different-culture) * 4644931 (wakeful-termination) * 5897094 (tangible-hardboard)<|eot_id|>", "needle": ["2119776", "5593203", "4644931", "5897094"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 9490354 (expensive-filth) * 5240720 (disillusioned-sanctuary) * 8753883 (angry-code) * 8565450 (miscreant-vaccine)<|eot_id|>", "needle": ["9490354", "8753883", "5240720", "8565450"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5204466 * 3289764 * 1633753 * 8788747<|eot_id|>", "needle": ["5204466", "3289764", "8788747", "1633753"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5683223 (parched-wasp) * 3862010 (dirty-ischemia) * 5934928 (dysfunctional-bone) * 2686363 (abundant-fairness)<|eot_id|>", "needle": ["5683223", "2686363", "5934928", "3862010"], "score": 1.0}
+{"ctx_len": 130569, "pred": ": * 8393014 (deranged-retrospective) * 3985341 (lackadaisical-pheromone) * 1577888 (fancy-squeegee) * 9930492 (unsightly-inspection)<|eot_id|>", "needle": ["8393014", "3985341", "1577888", "9930492"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1078278 (ashamed-share) * 5002042 (long-calculation) * 7331646 (apathetic-chocolate) * 5189267 (evanescent-general)<|eot_id|>", "needle": ["1078278", "5002042", "7331646", "5189267"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 3816607 (ugly-value) * 2620732 (faulty-picnic) * 2059841 (uptight-maracas) * 3802587 (worried-youngster)<|eot_id|>", "needle": ["3816607", "2620732", "2059841", "3802587"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 4586633 (flippant-eaves) * 7628072 (rural-pard) * 3026754 (needy-trooper) * 6982358 (clear-tectonics)<|eot_id|>", "needle": ["4586633", "7628072", "3026754", "6982358"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 2129631 (ancient-escape) * 5671743 (berserk-ocean) * 7190456 (tightfisted-household) * 4692601 (organic-calculation)<|eot_id|>", "needle": ["2129631", "4692601", "7190456", "5671743"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 6441761 (mentioned in the context of the author's experience with computers and the feeling that life is short) * 7519046 (mentioned in the context of programming languages being for people and the need to prevent human brains from being overwhelmed by detail) * 3941566 (mentioned in the context of the author's realization that life is short after having kids) * 10,000 (mentioned in the context of the author's suggestion to establish a new class of visa for startup founders) * 2500 (mentioned as the number of new companies that could be created if 10,000 startup founders were", "needle": ["6441761", "3230219", "7519046", "3941566"], "score": 0.75}
+{"ctx_len": 130551, "pred": ": * 4899452 (quizzical-quarter) * 3081317 (super-time) * 1355901 (flippant-manipulation) * 1222997 (puzzled-enigma)<|eot_id|>", "needle": ["4899452", "3081317", "1355901", "1222997"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 3544610 (life is short) * 4429016 (a magic number for longing-karate) * 1635969 (a magic number for testy-pith) * 5976369 (a magic number for psychotic-leisure)<|eot_id|>", "needle": ["3544610", "1635969", "4429016", "5976369"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 7960756 (rebellious-tailbud) * 4842150 (acrid-dune buggy) * 6557792 (yummy-velocity) * 5839473 (thundering-boatyard)<|eot_id|>", "needle": ["7960756", "4842150", "6557792", "5839473"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 6396173 (receptive-pacemaker) * 8421584 (economic-telescreen) * 1101379 (tart-lily) * 7400271 (straight-placebo)<|eot_id|>", "needle": ["6396173", "7400271", "8421584", "1101379"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 8836205 (wrathful-cookie) * 4428815 (drunk-princess) * 8151117 (boring-oxygen) * 9513171 (foamy-butane)<|eot_id|>", "needle": ["8836205", "4428815", "8151117", "9513171"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 8520742 (handsome-resist) * 4378948 (teeny-tiny-shortwave) * 9072704 (grieving-banking) * 7032783 (brainy-tomato)<|eot_id|>", "needle": ["7032783", "4378948", "9072704", "8520742"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 3563536 (squalid-response) * 8170536 (low-lag) * 6037049 (breakable-taxi) * 1332374 (placid-spawn)<|eot_id|>", "needle": ["3563536", "8170536", "6037049", "1332374"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3595845 (energetic-tuxedo) * 6590741 (black-trip) * 9067229 (long-resistance) * 8872850 (damp-triumph)<|eot_id|>", "needle": ["3595845", "6590741", "8872850", "9067229"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 6164208 (possessive-clapboard) * 1651407 (minor-external) * 2195114 (tested-humour) * 7443078 (lively-disdain)<|eot_id|>", "needle": ["6164208", "1651407", "2195114", "7443078"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 1968122 (wacky-tug) * 7464817 (tiny-painting) * 9197714 (quiet-virtue) * 7177044 (teeny-tiny-angora)<|eot_id|>", "needle": ["1968122", "7464817", "9197714", "7177044"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3708302 (for steady-fluke) * 3472414 (for used-tire) * 8641531 (for glib-assist)<|eot_id|>", "needle": ["3708302", "5150931", "8641531", "3472414"], "score": 0.75}
+{"ctx_len": 130554, "pred": ": * 3782058 (narrow-southeast) * 9945633 (pumped-synthesis) * 5242475 (needless-pottery) * 6070402 (vivacious-cricketer)<|eot_id|>", "needle": ["3782058", "9945633", "5242475", "6070402"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1026484 (precious-stencil) * 3825261 (abiding-tutu) * 6169066 (many-victim) * 4515255 (greasy-menopause)<|eot_id|>", "needle": ["1026484", "3825261", "6169066", "4515255"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 4127273 (long-carbon) * 3959522 (doubtful-trustee) * 3253718 (watery-ethernet) * 9161633 (envious-semantics)<|eot_id|>", "needle": ["4127273", "3959522", "3253718", "9161633"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 2831995 * 4219293 * 3787134 * 3787134 (also mentioned as a \"telling-religion\" number) * 7858398 (gigantic-number) * 99.5% (numerous-slime) * 10,000 (eat,able-tactics) * 4 (eat,able-tactics) * 5 (eat,able-tactics) * 7 (eat,able-tactics) * 8 (numerous-slime) * 9 (numerous-slime) * 10 (numerous-slime", "needle": ["2831995", "4219293", "7858398", "3787134"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 4938956 (sordid-veteran) * 2024357 (aboard-riding) * 2691296 (unequaled-professor) * 9140210 (perpetual-row)<|eot_id|>", "needle": ["4938956", "2024357", "2691296", "9140210"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 6654424 (for pathetic-wreck) * 8205036 (for sticky-bracket) * 9152488 (for goofy-organizing) * 9725395 (for steep-glory)<|eot_id|>", "needle": ["6654424", "8205036", "9152488", "9725395"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1051752 (chilly-spice) * 7741225 (optimal-sorbet) * 6540763 (known-browsing) * 1960353 (subdued-bagpipe)<|eot_id|>", "needle": ["1051752", "7741225", "1960353", "6540763"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 6405343 (abandoned-suicide) * 8972523 (offbeat-pear) * 7931114 (rambunctious-listening) * 4153025 (truculent-chastity)<|eot_id|>", "needle": ["6405343", "8972523", "7931114", "4153025"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 2365149 (substantial-direction) * 7456854 (zealous-preparation) * 8179243 (juicy-noodles) * 2685367 (periodic-minimum)<|eot_id|>", "needle": ["2365149", "7456854", "8179243", "2685367"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 8831655 * 8487448 * 5041658 * 9089445<|eot_id|>", "needle": ["8831655", "8487448", "5041658", "9089445"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 7433891 (impartial-offence) * 5322289 (womanly-airport) * 4697296 (gusty-missionary) * 8991026 (unaccountable-contingency)<|eot_id|>", "needle": ["7433891", "5322289", "4697296", "8991026"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 2084932 (small-yin) * 8331010 (torpid-flavor) * 6758373 (lopsided-assassination) * 8331010 is not actually mentioned as a torpid-flavor number, but rather as an example of a good idea that seems bad initially.<|eot_id|>", "needle": ["2084932", "8331010", "7403032", "6758373"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 7169603 (for confused-lover) * 1028160 (for lovely-window) * 6257514 (for cuddly-leopard) * 4156740 (for spooky-babushka)<|eot_id|>", "needle": ["7169603", "1028160", "6257514", "4156740"], "score": 1.0}
+{"ctx_len": 130539, "pred": ": * 8727632 (for aboard-foot) * 4726916 (for real-land) * 3119085 (for lean-cucumber) * 7632241 (for clever-rose)<|eot_id|>", "needle": ["8727632", "7632241", "4726916", "3119085"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1576194 (deep-evidence) * 9428504 (hot-spreadsheet) * 6371047 (stale-equinox) * 5754542 (steadfast-lettuce)<|eot_id|>", "needle": ["1576194", "9428504", "6371047", "5754542"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 4533501 (depressed-sailing) * 6589238 (aware-prostrate) * 1881916 (warlike-snarl) * 4776077 (yummy-precedent)<|eot_id|>", "needle": ["4533501", "6589238", "1881916", "4776077"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8942696 (narrow-contingency) * 5748621 (resolute-lava) * 7565976 (juicy-minimum) * 2204993 (magenta-havoc)<|eot_id|>", "needle": ["8942696", "5748621", "7565976", "2204993"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 6101515 * 3746337 * 9094028 * 3307889<|eot_id|>", "needle": ["6101515", "3746337", "9094028", "3307889"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2611413 * 8950315 * 3822312 * 8165734<|eot_id|>", "needle": ["2611413", "8950315", "3822312", "8165734"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 7777894 (tan-argument) * 5040883 (cooperative-streetcar) * 1570305 (fretful-stucco) * 9197782 (maniacal-ethnicity)<|eot_id|>", "needle": ["7777894", "1570305", "5040883", "9197782"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3047685 (breakable-cheetah) * 1194656 (lethal-battery) * 8467845 (tasty-plaster) * 2956687 (cowardly-felony)<|eot_id|>", "needle": ["3047685", "1194656", "8467845", "2956687"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * ludicrous-passing: 9123384 * thinkable-sorbet: 8275548 * high-pitched-churn: 3101118 * childlike-traveler: 6456436<|eot_id|>", "needle": ["9123384", "8275548", "3101118", "6456436"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": * 2968404 (expensive-infix) * 8503322 (abhorrent-mouton) * 3081873 (ratty-icebreaker) * 4018851 (earthy-eyestrain)<|eot_id|>", "needle": ["2968404", "4018851", "3081873", "8503322"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 2419525 (alcoholic-divalent) * 7099518 (high-pitched-hesitation) * 5307726 (shivering-favor) * 9491759 (crooked-clock)<|eot_id|>", "needle": ["2419525", "7099518", "5307726", "9491759"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3346378 (oboisant-yang) * 9228265 (smiling-flu) * 6250195 (vulgar-dibble) * 9960751 (trite-sophomore)<|eot_id|>", "needle": ["3346378", "9228265", "9960751", "6250195"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 3376783 (elegant-kilt) * 4624549 (daily-thorn) * 1616293 (foolish-bookend) * 4610673 (highfalutin-kilometer)<|eot_id|>", "needle": ["4624549", "1616293", "3376783", "4610673"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5264422 * 8136077 * 3740044 * 8651547<|eot_id|>", "needle": ["5264422", "8136077", "3740044", "8651547"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 9580328 (shocking-road) * 8275056 (hypnotic-beancurd) * 3575158 (mute-shout)<|eot_id|>", "needle": ["9580328", "3752186", "8275056", "3575158"], "score": 0.75}
+{"ctx_len": 130551, "pred": ": * 7824657 (vacuous-leveret) * 6525702 (berserk-mammoth) * 2492738 (terrible-founder) * 6595492 (laughable-league)<|eot_id|>", "needle": ["7824657", "6525702", "6595492", "2492738"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 6143048 (Aristotle's Metaphysics) * 9832796 (dusty-curse) * 9214437 (spectacular-tank-top) * 3072044 (clean-shortage)<|eot_id|>", "needle": ["6143048", "9214437", "9832796", "3072044"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 7535788 (mentioned in the context of the World Wide Web) * 9920146 (mentioned in the context of writing essays) * 3864666 (mentioned in the context of watches) * 6791040 (mentioned in the context of Apple's product development process) * 2,000 sestertii (mentioned as the price of an ordinary adult slave in ancient Rome) * 600 sestertii (mentioned as the price of a servant girl in ancient Rome) * 8,000 sestertii (mentioned as the price of a skilled vine-dresser in ancient Rome", "needle": ["7535788", "9920146", "3864666", "6791040"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7355220 (deafening-fortnight) * 7210098 (aspiring-fishing) * 5485722 (silky-noon) * 3120109 (trashy-stomach)<|eot_id|>", "needle": ["7355220", "7210098", "5485722", "3120109"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 5812035 (purple-splendor) * 8176707 (grubby-vol) * 2458649 (homely-digger) * 4838024 (rebellious-mantua)<|eot_id|>", "needle": ["5812035", "2458649", "4838024", "8176707"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 1963205 * 5795781 * 8113264 * 9268659<|eot_id|>", "needle": ["1963205", "5795781", "8113264", "9268659"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 9964482 (typical-everybody) * 8129962 (ablaze-advertisement) * 5097436 (jobless-med) * 9860239 (typical-everybody)<|eot_id|>", "needle": ["9964482", "8129962", "5097436", "9860239"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 9618195 (daffy-siding) * 1854070 (kindhearted-rebel) * 9313242 (narrow-memorial) * 3860246 (loutish-overweight)<|eot_id|>", "needle": ["9618195", "1854070", "9313242", "3860246"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 6114027 (fantastic-snowplow) * 5441781 (heavenly-sunbonnet) * 1037485 (faithful-gig) * 7603872 (tasteless-daily)<|eot_id|>", "needle": ["6114027", "5441781", "1037485", "7603872"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8723456 (sulky-tepee) * 6005493 (imported-cereal) * 2797914 (knotty-interchange) * 6867356 (abhorrent-function)<|eot_id|>", "needle": ["8723456", "6005493", "2797914", "6867356"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1115938 (for poised-locality) * 3578837 (for rainy-seaweed) * 9876767 (for brief-rooster) * 1115938 is not mentioned again in the text, but 1115938 is not the correct answer for brief-rooster. The correct answer is 9876767.<|eot_id|>", "needle": ["1115938", "3578837", "3077734", "9876767"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": * 4056507 (neighborly-larva) * 5521152 (roomy-budget) * 8371182 (tranquil-dish) * 8358018 (clumsy-fourths)<|eot_id|>", "needle": ["4056507", "5521152", "8371182", "8358018"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 5779824 (mentioned in the context of being a special magic number for elite-fashion) * 1530269 (mentioned in the context of being a special magic number for incompetent-hop) * 8064143 (mentioned in the context of being a special magic number for makeshift-rawhide)<|eot_id|>", "needle": ["5779824", "3242783", "8064143", "1530269"], "score": 0.75}
+{"ctx_len": 130545, "pred": ": * 7523795 (purple-gavel) * 2841010 (cute-in-joke) * 3137987 (utopian-reorganization) * 7708806 (immense-orange)<|eot_id|>", "needle": ["7523795", "2841010", "3137987", "7708806"], "score": 1.0}
+{"ctx_len": 130569, "pred": ": * 1134702 (new-casserole) * 9056301 (nonchalant-thermals) * 6740173 (ashamed-eyelash) * 5734922 (harmonious-soundness)<|eot_id|>", "needle": ["1134702", "9056301", "6740173", "5734922"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 5149917 (number of web startups) * 8950602 (number of months since the author left Yahoo) * 2929715 (number of people in a guttural-mainland)<|eot_id|>", "needle": ["5149917", "8200092", "2929715", "8950602"], "score": 0.75}
+{"ctx_len": 130560, "pred": ": * 3219555 (cowardly-tire) * 1643681 (measly-attenuation) * 4224201 (grotesque-mandolin) * 8152177 (deep-repayment)<|eot_id|>", "needle": ["3219555", "1643681", "4224201", "8152177"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 9039562 (nebulous-propaganda) * 6640128 (feigned-chastity) * 4882711 (warlike-library) * 9554093 (bad-sponge)<|eot_id|>", "needle": ["9039562", "6640128", "9554093", "4882711"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 1008991 (for ambiguous-mass) * 6366039 (for functional-earthworm) * 8014121 (for wicked-partridge) * 4049286 (for annoying-sensibility)<|eot_id|>", "needle": ["1008991", "6366039", "8014121", "4049286"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 6106258 (innate-cruise) * 7099881 (precious-entertainment) * 2625497 (colorful-suffocation) * 5232271 (efficacious-kneejerk)<|eot_id|>", "needle": ["6106258", "2625497", "7099881", "5232271"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 5629621 (foregoing-litmus) * 3019210 (curved-elevation) * 7443279 (fabulous-participation) * 2784517 (broken-speaker)<|eot_id|>", "needle": ["5629621", "3019210", "7443279", "2784517"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 3578194 (mentioned in the essay \"Don't Get Your Hopes Up\") * 9951610 (mentioned in the essay \"Intelligence and Wisdom\") * 8955730 (mentioned in the essay \"The Age of the Essay\")<|eot_id|>", "needle": ["3578194", "9951610", "3144664", "8955730"], "score": 0.75}
+{"ctx_len": 130545, "pred": ": * 2135960 (for nostalgic-caliber) * 9453526 (for redundant-independence) * 3800706 (for accurate-arithmetic) * 8029723 (for plain-stallion)<|eot_id|>", "needle": ["2135960", "9453526", "3800706", "8029723"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 2258048 (for ragged-robin) * 9305156 (for many-freighter) * 8344141 (for dispensable-octet) * 9933361 (for vague-grace)<|eot_id|>", "needle": ["2258048", "9305156", "8344141", "9933361"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8641031 (racial-textual) * 9809266 (puzzled-shout) * 1148668 (splendid-variability) * 4654207 (diligent-servant)<|eot_id|>", "needle": ["8641031", "9809266", "4654207", "1148668"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4996614 * 1655832 * 1765250 * 3485367<|eot_id|>", "needle": ["4996614", "1655832", "1765250", "3485367"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 2396638 (immense-cougar) * 6829443 (thundering-speaker) * 5429825 (wealthy-barge) * 7192640 (tawdry-boutique)<|eot_id|>", "needle": ["2396638", "6829443", "5429825", "7192640"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 7408577 (workable-detainment) * 5692416 (fat-barbecue) * 2785812 (absorbing-factor) * 5294752 (dynamic-investment)<|eot_id|>", "needle": ["7408577", "5692416", "5294752", "2785812"], "score": 1.0}
+{"ctx_len": 130539, "pred": ": * 3488634 (level-proof-reader) * 7634775 (excellent-behalf) * 8279693 (flawless-id) * 8483576 (determined-grasp)<|eot_id|>", "needle": ["3488634", "7634775", "8279693", "8483576"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4026721 (yellow-roof) * 9229532 (skillful-composition) * 5731917 (threatening-labourer) * 6203625 (accidental-airman)<|eot_id|>", "needle": ["4026721", "9229532", "5731917", "6203625"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 5114676 (needless-bonsai) * 1197778 (dangerous-quiver) * 9837877 (chilly-thunderbolt) * 7752901 (onerous-junior)<|eot_id|>", "needle": ["5114676", "1197778", "9837877", "7752901"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3393028 (graceful-suede) * 2784071 (aboard-orchid) * 1226440 (tan-means) * 2402500 (funny-wrestler)<|eot_id|>", "needle": ["3393028", "2784071", "1226440", "2402500"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 6565947 (horrible-whale) * 1937435 (fresh-globe) * 3592303 (phobic-address) * 5487177 (ruthless-taro)<|eot_id|>", "needle": ["6565947", "1937435", "3592303", "5487177"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 1020307 (mentioned in the context of knowing what you want to do when you're 12) * 8166143 (mentioned in the context of good art and good taste) * 7967320 (mentioned in the context of introducing change in software and getting away with it) * 1402667 (mentioned in the context of Lisp's power being multiplied by the fact that competitors don't understand it)<|eot_id|>", "needle": ["1020307", "1402667", "8166143", "7967320"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3844728 (precious-waste) * 2279932 (labored-priest) * 5728058 (chubby-rust) * 4766861 (cold-chairperson)<|eot_id|>", "needle": ["3844728", "2279932", "5728058", "4766861"], "score": 1.0}
+{"ctx_len": 130536, "pred": ": * 8134419 (upset-tech) * 4042807 (innate-training) * 6059400 (delicious-professional) * 9899988 (neighborly-stock)<|eot_id|>", "needle": ["8134419", "4042807", "6059400", "9899988"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2281267 (mentioned in the context of the author's experience with Interleaf and his desire to avoid unnecessary work) * 3493814 (mentioned in the context of abaft-privacy) * 3479340 (mentioned in the context of idiotic-tattoo)<|eot_id|>", "needle": ["2281267", "3459356", "3493814", "3479340"], "score": 0.75}
+{"ctx_len": 130545, "pred": ": * 6357229 (kind-tabby) * 2517449 (decisive-specialty) * 3139694 (illustrious-finger) * 7459520 (easy-solidity)<|eot_id|>", "needle": ["7459520", "2517449", "6357229", "3139694"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9955185 (rough-whisper) * 9933438 (premium-turtle) * 9339992 (mushy-maggot) * 4860680 (romantic-standardization)<|eot_id|>", "needle": ["9955185", "9933438", "9339992", "4860680"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8951164 (late-wine) * 1287807 (evil-duckling) * 1048085 (late-carnival) * 2848116 (daily-census)<|eot_id|>", "needle": ["8951164", "1287807", "1048085", "2848116"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4535586 (frantic-salon) * 2966890 (dapper-filing) * 3400426 (wacky-boulevard) * 1937270 (few-pain)<|eot_id|>", "needle": ["4535586", "2966890", "3400426", "1937270"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 3464349 (adventurous-equity) * 1 (permissible-horst) * 5111186 (boundless-people) * 3370243 (lean-latter)<|eot_id|>", "needle": ["3464349", "3653705", "5111186", "3370243"], "score": 0.75}
+{"ctx_len": 130563, "pred": ": * 6024905 (resolute-age) * 6659575 (workable-constellation) * 1221617 (obedient-soliloquy) * 7904201 (parched-crocodile)<|eot_id|>", "needle": ["6024905", "6659575", "1221617", "7904201"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 5329433 (secretive-analytics) * 7650332 (abortive-hook) * 8621830 (nasty-pita) * 9420022 (slimy-classic)<|eot_id|>", "needle": ["5329433", "7650332", "8621830", "9420022"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 2295356 (mentioned in the context of the increasing gap between rich and poor) * 7717637 (mentioned in the context of the author's experience with art and writing) * 1939470 (mentioned in the context of Apple's product development process) * 7581550 (mentioned in the context of the computer's ability to be programmed in any language that is unambiguous)<|eot_id|>", "needle": ["2295356", "7717637", "7581550", "1939470"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 2751542 (for clumsy-abdomen) * 7085123 (for boring-comic) * 8117262 (for thoughtless-forgery) * 5528498 (for endurable-raincoat)<|eot_id|>", "needle": ["2751542", "8117262", "7085123", "5528498"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 1184163 (faint-viability) * 4384399 (scientific-wick) * 4149818 (huge-calibre) * 1543024 (tense-chemical)<|eot_id|>", "needle": ["1184163", "4384399", "4149818", "1543024"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 6983579 (abnormal-jodhpurs) * 6277781 (anxious-grandfather) * 7679620 (half-boolean) * 6177530 (capricious-criminal)<|eot_id|>", "needle": ["6983579", "6277781", "7679620", "6177530"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 9425133 (chivalrous-stop) * 9448643 (mindless-inventory) * 7410771 (sour-stall) * 1397373 (delicious-photograph)<|eot_id|>", "needle": ["9425133", "9448643", "7410771", "1397373"], "score": 1.0}
+{"ctx_len": 130572, "pred": ": * 3701920 (mentioned in the context of woebegone-depressive) * 2565160 (mentioned in the context of tall-sculptural) * 4885101 (mentioned in the context of woebegone-catalysis) * 3363282 (mentioned in the context of fanatical-monument)<|eot_id|>", "needle": ["3701920", "2565160", "4885101", "3363282"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 8229326 (languid-halt) * 2258262 (stupid-manicure) * 7503423 (aloof-injustice) * 4503428 (forgetful-motorcar)<|eot_id|>", "needle": ["8229326", "2258262", "7503423", "4503428"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * Psychotic-remote: 2578970 * Dirty-occasion: 2143565 * Domineering-shoemaker: 5959482 * Onerous-crab: 6263326<|eot_id|>", "needle": ["2578970", "2143565", "5959482", "6263326"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 9191626 (creepy-debris) * 3356313 (tightfisted-suffocation) * 8940001 (giddy-strudel) * 8416290 (gentle-kindness)<|eot_id|>", "needle": ["9191626", "3356313", "8940001", "8416290"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 9597975 (legal-fennel) * 6262096 (talented-change) * 7932248 (utter-enzyme) * 2400738 (lively-tumbler)<|eot_id|>", "needle": ["9597975", "2400738", "7932248", "6262096"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 4742179 * 7305241 * 7698813 * 2766607<|eot_id|>", "needle": ["4742179", "7305241", "7698813", "2766607"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 7736395 (life is short) * 4024485 (expensive watches) * 2817783 (computer would be happy speaking any language that was unambiguous) * 1 (the number of peanuts or books to choose from, which is a small quantity) * 50 (the number of pairs of numbers that can be summed to 101, which is a small number) * 5050 (the sum of 50 pairs of numbers that each sum to 101) * 100 (the number of simultaneous users a server can support per machine, which is a critical question for companies offering server", "needle": ["7736395", "4024485", "2817783", "8266453"], "score": 0.75}
+{"ctx_len": 130542, "pred": ": * 4581434 (terrible-handrail) * 8626564 (guiltless-bus) * 3612902 (alleged-execution) * 3441316 (panoramic-view)<|eot_id|>", "needle": ["4581434", "8626564", "3612902", "3441316"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8095426 (acoustic-forehead) * 4548261 (assorted-statue) * 4580607 (peaceful-cough) * 5229054 (great-morale)<|eot_id|>", "needle": ["8095426", "4548261", "4580607", "5229054"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 9804312 (mute-stalk) * 8573586 (wide-eyed-beaver) * 1901645 (educated-meatloaf) * 5352802 (fallacious-platter)<|eot_id|>", "needle": ["9804312", "8573586", "1901645", "5352802"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 8977556 (mentioned in the context of watches) * 8328019 (mentioned in the context of waggish-crib) * 7528651 (mentioned in the context of knowing-industry) * 3695916 (mentioned in the context of robust-way)<|eot_id|>", "needle": ["8977556", "8328019", "7528651", "3695916"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 6310245 (ugly-teapot) * 3525076 (absent-manager) * 3474414 (ordinary-wetland) * 6308442 (puffy-grandmom)<|eot_id|>", "needle": ["6310245", "3525076", "6308442", "3474414"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 4667881 (for alike-brake) * 2634873 (for tense-signify) * 8049385 (for elderly-webinar) * 3786712 (for wacky-trailer)<|eot_id|>", "needle": ["4667881", "2634873", "8049385", "3786712"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 9374022 (wanting-interloper) * 3092879 (purple-pigpen) * 6150025 (historical-design) * 1271644 (lavish-purpose)<|eot_id|>", "needle": ["9374022", "3092879", "6150025", "1271644"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 8697782 (dusty-fanny-pack) * 8312788 (rustic-upward) * 3728933 (dynamic-plow) * 7259939 (neighborly-medium)<|eot_id|>", "needle": ["8697782", "8312788", "3728933", "7259939"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 9328292 (classy-chrome) * 7900127 (super-shoemaker) * 1275590 (tightfisted-armrest) * 2672723 (tacky-chateau)<|eot_id|>", "needle": ["9328292", "7900127", "1275590", "2672723"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 4280956 (concerned-margarine) * 3087766 (panoramic-internet) * 8783741 (juvenile-harvest) * 7393458 (omniscient-yourself)<|eot_id|>", "needle": ["4280956", "3087766", "8783741", "7393458"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 5052611 * 7957788 * 7955106 * 5437558<|eot_id|>", "needle": ["5052611", "7955106", "7957788", "5437558"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7598776 (for enchanting-chromolithograph) * 8199144 (for arrogant-rush) * 8214533 (for doubtful-photographer) * 7565971 (for frail-universe)<|eot_id|>", "needle": ["7598776", "8199144", "8214533", "7565971"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 3119470 (whispering-pump) * 2670640 (flat-lining) * 2985964 (quack-fight) * 7576872 (tasteless-minimalism)<|eot_id|>", "needle": ["3119470", "2670640", "2985964", "7576872"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 3567729 (tangy-hash) * 1193577 (nosy-reach) * 2321583 (adhesive-glory) * 7415688 (sleepy-spank)<|eot_id|>", "needle": ["3567729", "1193577", "2321583", "7415688"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9982810 (encouraging-oatmeal) * 7343582 (friendly-coaster) * 2391894 (grouchy-thesis) * 1868201 (glamorous-yesterday)<|eot_id|>", "needle": ["9982810", "7343582", "2391894", "1868201"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5738943 (deadpan-factor) * 4030429 (glib-suitcase) * 7063240 (prickly-want) * 2298244 (capable-prescription)<|eot_id|>", "needle": ["5738943", "4030429", "7063240", "2298244"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 8044872 (for fabulous-visit) * 6261082 (for long-suspenders) * 2280314 (for tall-ice) * 8564486 (for tearful-clutch)<|eot_id|>", "needle": ["8044872", "6261082", "2280314", "8564486"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 6818065 (jazzy-satin) * 9753488 (different-share) * 3040002 (garrulous-object) * 1084130 (plausible-condition)<|eot_id|>", "needle": ["6818065", "9753488", "3040002", "1084130"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2925830 (lean-bankruptcy) * 2399937 (fat-pillar) * 1494887 (fantastic-conformation) * 3324735 (imperfect-tell)<|eot_id|>", "needle": ["2925830", "1494887", "3324735", "2399937"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * Enchanting-penalty: 5195866 * Profuse-telephone: 8315906 * Dramatic-silkworm: 4319815 * Racial-receptor: 7709915<|eot_id|>", "needle": ["5195866", "8315906", "4319815", "7709915"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2804542 (icy-amendment) * 7426442 (stormy-radish) * 8485284 (noisy-spy) * 5557932 (nasty-sir)<|eot_id|>", "needle": ["2804542", "7426442", "8485284", "5557932"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 5245703 (rabid-cacao) * 9900282 (heavenly-search) * 7875441 (sour-instructor) * 1566398 (disturbed-reunion)<|eot_id|>", "needle": ["5245703", "9900282", "7875441", "1566398"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": * 4610191 (for bloody-sheet) * 7235425 (for trashy-brassiere) * 5115755 (for lackadaisical-cupcake) * 3433361 (for literate-sir)<|eot_id|>", "needle": ["4610191", "3433361", "7235425", "5115755"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * 2111241 (shiny-doughnut) * 4559708 (steadfast-tray) * 5758257 (luxuriant-pharmacopoeia) * 4648430 (repulsive-secretariat)<|eot_id|>", "needle": ["2111241", "4559708", "5758257", "4648430"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 4307179 (envious-valance) * 9286841 (aquatic-globe) * 1785036 (psychotic-hardship) * 6370746 (hysterical-speakerphone)<|eot_id|>", "needle": ["4307179", "9286841", "1785036", "6370746"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 1356829 (foamy-development) * 1299243 (handsome-fledgling) * 5770866 (outstanding-son) * 1077963 (therapeutic-pomegranate)<|eot_id|>", "needle": ["1356829", "1299243", "5770866", "1077963"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 2595845 (panoramic-subsection) * 6049913 (muddled-breeze) * 7716663 (jolly-lace) * 6321559 (grouchy-marathon)<|eot_id|>", "needle": ["2595845", "6049913", "6321559", "7716663"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2723751 (for lonely-corporal) * 4758337 (for adorable-cook) * 1174416 (for anxious-cardboard) * 3036971 (for pretty-stake)<|eot_id|>", "needle": ["2723751", "3036971", "4758337", "1174416"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1880652 (venomous-screw-up) * 1082902 (rotten-leverage) * 1722698 (glamorous-air) * 7188771 (worthless-burlesque)<|eot_id|>", "needle": ["1880652", "1082902", "1722698", "7188771"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 8729158 (mentioned in the context of creating a first-rate university from nothing overnight) * 3118772 (mentioned in the context of good PR firms using selective truths) * 3483052 (mentioned in the context of super-angels wanting low valuations) * 3857807 (mentioned in the context of top actors making a lot more money than B-list actors) * 2,000 sestertii (mentioned as the price of an ordinary adult slave in ancient Rome) * 600 sestertii (mentioned as the price of a servant girl in ancient Rome) * 8", "needle": ["8729158", "3118772", "3483052", "3857807"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 9098468 (young-intellect) * 2540137 (filthy-citizen) * 6400776 (gusty-sheet)<|eot_id|>", "needle": ["9098468", "2540137", "6400776", "5969984"], "score": 0.75}
+{"ctx_len": 130545, "pred": ": * 4626151 (uncovered-standardization) * 1220253 (fair-philosopher) * 7460238 (painstaking-puzzle) * 2011111 (productive-hardboard)<|eot_id|>", "needle": ["1220253", "4626151", "7460238", "2011111"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": * 3583673 (towering-ascent) * 4670600 (curly-scientist) * 8617224 (wet-spite) * 2772688 (quack-pier)<|eot_id|>", "needle": ["3583673", "4670600", "8617224", "2772688"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": * 8733526 (defeated-beat) * 8098339 (guarded-in-joke) * 6153067 (disgusted-way) * 2712355 (smiling-mint)<|eot_id|>", "needle": ["8733526", "8098339", "6153067", "2712355"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": * 2410406 (scattered-disaster) * 2985184 (goofy-efficiency) * 6904855 (old-fashioned-contract) * 9906779 (periodic-quail)<|eot_id|>", "needle": ["2410406", "2985184", "6904855", "9906779"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": * 7203890 (grieving-waffle) * 1824338 (charming-tom-tom) * 7417663 (thundering-sick) * 8404466 (aspiring-pyramid)<|eot_id|>", "needle": ["7203890", "1824338", "7417663", "8404466"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 5176591 (thoughtful-woodshed) * 8274019 (ratty-bosom) * 4683937 (colorful-essential) * 1836704 (clumsy-wash)<|eot_id|>", "needle": ["5176591", "8274019", "4683937", "1836704"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 7787380 (venture capital funds being squeezed from four directions) * 4689113 (upper bound for liking one's work) * 4799452 (low end software tends to eat high end software) * 7591523 (special magic number for magical-ink, not explicitly defined in the text) * 10,000 (number of startup founders that could be let into the country each year) * 2500 (number of new companies that could be created each year if 10,000 startup founders were let into the country) * 4 (number of people per startup) * 100", "needle": ["7787380", "4689113", "7591523", "4799452"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": * 8998677 (mentioned in the context of puzzled-blast) * 4105107 (mentioned in the context of careful-laparoscope) * 1052124 (mentioned in the context of zealous-consonant) * 5003370 (mentioned in the context of homely-hog)<|eot_id|>", "needle": ["8998677", "4105107", "1052124", "5003370"], "score": 1.0}
+avg:0.979

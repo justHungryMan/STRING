@@ -1,0 +1,1001 @@
+step 0, ctx len 129603, avg score 1.0
+step 1, ctx len 117016, avg score 0.8333333333333333
+step 2, ctx len 124928, avg score 0.8888888888888888
+step 3, ctx len 124183, avg score 0.9166666666666666
+step 4, ctx len 122891, avg score 0.9333333333333332
+step 5, ctx len 129517, avg score 0.9444444444444443
+step 6, ctx len 124972, avg score 0.9523809523809523
+step 7, ctx len 121855, avg score 0.9583333333333333
+step 8, ctx len 115730, avg score 0.9629629629629629
+step 9, ctx len 117533, avg score 0.9666666666666666
+step 10, ctx len 127186, avg score 0.9696969696969696
+step 11, ctx len 125916, avg score 0.9444444444444443
+step 12, ctx len 121110, avg score 0.9487179487179487
+step 13, ctx len 123312, avg score 0.9523809523809523
+step 14, ctx len 120103, avg score 0.9555555555555555
+step 15, ctx len 122490, avg score 0.9583333333333333
+step 16, ctx len 130646, avg score 0.9411764705882352
+step 17, ctx len 122235, avg score 0.9444444444444444
+step 18, ctx len 128124, avg score 0.9473684210526315
+step 19, ctx len 117632, avg score 0.95
+step 20, ctx len 126139, avg score 0.9523809523809523
+step 21, ctx len 119476, avg score 0.9545454545454546
+step 22, ctx len 126789, avg score 0.9565217391304348
+step 23, ctx len 119896, avg score 0.9583333333333334
+step 24, ctx len 119973, avg score 0.96
+step 25, ctx len 122672, avg score 0.9487179487179488
+step 26, ctx len 128915, avg score 0.9506172839506173
+step 27, ctx len 118444, avg score 0.9404761904761906
+step 28, ctx len 119129, avg score 0.942528735632184
+step 29, ctx len 119513, avg score 0.9444444444444445
+step 30, ctx len 130860, avg score 0.9354838709677421
+step 31, ctx len 130399, avg score 0.9375000000000001
+step 32, ctx len 119612, avg score 0.9393939393939394
+step 33, ctx len 115774, avg score 0.931372549019608
+step 34, ctx len 128727, avg score 0.9333333333333335
+step 35, ctx len 117560, avg score 0.9351851851851853
+step 36, ctx len 125870, avg score 0.936936936936937
+step 37, ctx len 113277, avg score 0.9385964912280703
+step 38, ctx len 115811, avg score 0.9401709401709403
+step 39, ctx len 123470, avg score 0.9416666666666668
+step 40, ctx len 123889, avg score 0.934959349593496
+step 41, ctx len 113603, avg score 0.9285714285714286
+step 42, ctx len 114984, avg score 0.9147286821705427
+step 43, ctx len 117903, avg score 0.9090909090909091
+step 44, ctx len 121825, avg score 0.9111111111111111
+step 45, ctx len 130713, avg score 0.9130434782608695
+step 46, ctx len 128356, avg score 0.9078014184397163
+step 47, ctx len 128475, avg score 0.9027777777777777
+step 48, ctx len 131036, avg score 0.9047619047619047
+step 49, ctx len 123812, avg score 0.8999999999999999
+step 50, ctx len 115993, avg score 0.895424836601307
+step 51, ctx len 119529, avg score 0.8974358974358972
+step 52, ctx len 130681, avg score 0.8993710691823897
+step 53, ctx len 129232, avg score 0.8950617283950615
+step 54, ctx len 116734, avg score 0.8969696969696968
+step 55, ctx len 123491, avg score 0.8988095238095236
+step 56, ctx len 126001, avg score 0.8947368421052629
+step 57, ctx len 117323, avg score 0.8908045977011492
+step 58, ctx len 131010, avg score 0.8926553672316382
+step 59, ctx len 120226, avg score 0.8944444444444442
+step 60, ctx len 128949, avg score 0.8961748633879779
+step 61, ctx len 114865, avg score 0.8978494623655912
+step 62, ctx len 119962, avg score 0.8941798941798939
+step 63, ctx len 129513, avg score 0.895833333333333
+step 64, ctx len 124952, avg score 0.8974358974358971
+step 65, ctx len 115969, avg score 0.8939393939393936
+step 66, ctx len 113600, avg score 0.8955223880597012
+step 67, ctx len 121731, avg score 0.8970588235294115
+step 68, ctx len 116703, avg score 0.8985507246376808
+step 69, ctx len 120033, avg score 0.8952380952380949
+step 70, ctx len 112504, avg score 0.8967136150234738
+step 71, ctx len 126359, avg score 0.8935185185185183
+step 72, ctx len 119852, avg score 0.8949771689497714
+step 73, ctx len 129133, avg score 0.8963963963963961
+step 74, ctx len 114525, avg score 0.8977777777777776
+step 75, ctx len 130514, avg score 0.8991228070175437
+step 76, ctx len 130203, avg score 0.9004329004329001
+step 77, ctx len 109266, avg score 0.8974358974358972
+step 78, ctx len 128903, avg score 0.8987341772151897
+step 79, ctx len 125581, avg score 0.8958333333333333
+step 80, ctx len 122142, avg score 0.8971193415637859
+step 81, ctx len 119703, avg score 0.8983739837398372
+step 82, ctx len 121017, avg score 0.895582329317269
+step 83, ctx len 123388, avg score 0.8968253968253967
+step 84, ctx len 121047, avg score 0.8980392156862744
+step 85, ctx len 123496, avg score 0.8992248062015503
+step 86, ctx len 125954, avg score 0.900383141762452
+step 87, ctx len 124842, avg score 0.8977272727272727
+step 88, ctx len 124668, avg score 0.898876404494382
+step 89, ctx len 122869, avg score 0.9
+step 90, ctx len 126709, avg score 0.9010989010989011
+step 91, ctx len 117774, avg score 0.9021739130434783
+step 92, ctx len 110000, avg score 0.9032258064516129
+step 93, ctx len 119634, avg score 0.9042553191489362
+step 94, ctx len 123886, avg score 0.9052631578947369
+step 95, ctx len 125009, avg score 0.90625
+step 96, ctx len 126591, avg score 0.9072164948453608
+step 97, ctx len 115389, avg score 0.9081632653061225
+step 98, ctx len 123491, avg score 0.9057239057239058
+step 99, ctx len 118791, avg score 0.9066666666666667
+step 100, ctx len 128654, avg score 0.9075907590759076
+step 101, ctx len 118320, avg score 0.9084967320261438
+step 102, ctx len 124402, avg score 0.9093851132686085
+step 103, ctx len 111078, avg score 0.9070512820512822
+step 104, ctx len 127335, avg score 0.907936507936508
+step 105, ctx len 114902, avg score 0.908805031446541
+step 106, ctx len 127520, avg score 0.9065420560747665
+step 107, ctx len 118251, avg score 0.9043209876543211
+step 108, ctx len 107469, avg score 0.90519877675841
+step 109, ctx len 123755, avg score 0.9060606060606062
+step 110, ctx len 126632, avg score 0.9069069069069071
+step 111, ctx len 130941, avg score 0.9077380952380955
+step 112, ctx len 115470, avg score 0.9085545722713866
+step 113, ctx len 115843, avg score 0.909356725146199
+step 114, ctx len 117165, avg score 0.910144927536232
+step 115, ctx len 126513, avg score 0.9080459770114945
+step 116, ctx len 120947, avg score 0.908831908831909
+step 117, ctx len 122443, avg score 0.9096045197740115
+step 118, ctx len 121649, avg score 0.9103641456582635
+step 119, ctx len 123511, avg score 0.9083333333333335
+step 120, ctx len 128102, avg score 0.9063360881542702
+step 121, ctx len 127877, avg score 0.9071038251366123
+step 122, ctx len 124320, avg score 0.9078590785907862
+step 123, ctx len 128976, avg score 0.905913978494624
+step 124, ctx len 130314, avg score 0.9040000000000004
+step 125, ctx len 120870, avg score 0.9021164021164025
+step 126, ctx len 128333, avg score 0.9028871391076119
+step 127, ctx len 123386, avg score 0.9010416666666671
+step 128, ctx len 114914, avg score 0.9018087855297162
+step 129, ctx len 113681, avg score 0.9025641025641029
+step 130, ctx len 123614, avg score 0.9033078880407128
+step 131, ctx len 126580, avg score 0.9015151515151519
+step 132, ctx len 115521, avg score 0.9022556390977448
+step 133, ctx len 127357, avg score 0.9029850746268661
+step 134, ctx len 115019, avg score 0.9037037037037041
+step 135, ctx len 120670, avg score 0.9044117647058828
+step 136, ctx len 130413, avg score 0.9026763990267644
+step 137, ctx len 119553, avg score 0.9033816425120778
+step 138, ctx len 116573, avg score 0.9040767386091132
+step 139, ctx len 130141, avg score 0.9047619047619052
+step 140, ctx len 119042, avg score 0.9054373522458633
+step 141, ctx len 116008, avg score 0.9061032863849771
+step 142, ctx len 115840, avg score 0.9067599067599073
+step 143, ctx len 125920, avg score 0.9074074074074079
+step 144, ctx len 122402, avg score 0.9080459770114948
+step 145, ctx len 125427, avg score 0.9086757990867586
+step 146, ctx len 121625, avg score 0.9070294784580504
+step 147, ctx len 119614, avg score 0.9076576576576582
+step 148, ctx len 125715, avg score 0.9082774049217006
+step 149, ctx len 113802, avg score 0.9088888888888893
+step 150, ctx len 121218, avg score 0.9072847682119209
+step 151, ctx len 120025, avg score 0.9057017543859652
+step 152, ctx len 116140, avg score 0.9063180827886713
+step 153, ctx len 128919, avg score 0.904761904761905
+step 154, ctx len 114271, avg score 0.9053763440860217
+step 155, ctx len 128310, avg score 0.9038461538461541
+step 156, ctx len 128692, avg score 0.9044585987261148
+step 157, ctx len 118668, avg score 0.9050632911392407
+step 158, ctx len 128931, avg score 0.9035639412997905
+step 159, ctx len 116670, avg score 0.9020833333333333
+step 160, ctx len 120669, avg score 0.9026915113871636
+step 161, ctx len 126496, avg score 0.9032921810699589
+step 162, ctx len 115010, avg score 0.9038854805725972
+step 163, ctx len 120219, avg score 0.9044715447154472
+step 164, ctx len 122979, avg score 0.9050505050505051
+step 165, ctx len 118273, avg score 0.9056224899598394
+step 166, ctx len 125920, avg score 0.9041916167664671
+step 167, ctx len 128309, avg score 0.9047619047619048
+step 168, ctx len 120958, avg score 0.9053254437869822
+step 169, ctx len 117283, avg score 0.9058823529411765
+step 170, ctx len 117029, avg score 0.9044834307992202
+step 171, ctx len 125399, avg score 0.9050387596899224
+step 172, ctx len 128731, avg score 0.9055876685934489
+step 173, ctx len 122252, avg score 0.9061302681992337
+step 174, ctx len 119092, avg score 0.9047619047619047
+step 175, ctx len 121647, avg score 0.9034090909090907
+step 176, ctx len 122559, avg score 0.902071563088512
+step 177, ctx len 129003, avg score 0.9007490636704117
+step 178, ctx len 125565, avg score 0.9013035381750463
+step 179, ctx len 119602, avg score 0.9018518518518516
+step 180, ctx len 125292, avg score 0.902394106813996
+step 181, ctx len 125593, avg score 0.9029304029304027
+step 182, ctx len 118371, avg score 0.9034608378870671
+step 183, ctx len 119526, avg score 0.9039855072463766
+step 184, ctx len 123401, avg score 0.9045045045045043
+step 185, ctx len 120074, avg score 0.9050179211469531
+step 186, ctx len 117158, avg score 0.9037433155080211
+step 187, ctx len 114115, avg score 0.9024822695035457
+step 188, ctx len 114032, avg score 0.9012345679012341
+step 189, ctx len 120761, avg score 0.9017543859649119
+step 190, ctx len 122339, avg score 0.902268760907504
+step 191, ctx len 113376, avg score 0.9027777777777773
+step 192, ctx len 121446, avg score 0.9015544041450773
+step 193, ctx len 123958, avg score 0.9020618556701027
+step 194, ctx len 118824, avg score 0.9025641025641021
+step 195, ctx len 123736, avg score 0.9030612244897955
+step 196, ctx len 122996, avg score 0.9035532994923854
+step 197, ctx len 115731, avg score 0.9040404040404036
+step 198, ctx len 120401, avg score 0.9045226130653262
+step 199, ctx len 124530, avg score 0.9049999999999996
+step 200, ctx len 118315, avg score 0.9054726368159199
+step 201, ctx len 127910, avg score 0.9059405940594055
+step 202, ctx len 127427, avg score 0.9064039408866991
+step 203, ctx len 114963, avg score 0.9068627450980388
+step 204, ctx len 112991, avg score 0.9073170731707313
+step 205, ctx len 129955, avg score 0.9077669902912617
+step 206, ctx len 120166, avg score 0.908212560386473
+step 207, ctx len 117544, avg score 0.9086538461538457
+step 208, ctx len 121768, avg score 0.9090909090909087
+step 209, ctx len 118195, avg score 0.9095238095238091
+step 210, ctx len 125012, avg score 0.908372827804107
+step 211, ctx len 126037, avg score 0.9088050314465405
+step 212, ctx len 120130, avg score 0.9092331768388102
+step 213, ctx len 121032, avg score 0.9096573208722737
+step 214, ctx len 123657, avg score 0.9100775193798445
+step 215, ctx len 127696, avg score 0.9089506172839501
+step 216, ctx len 124189, avg score 0.9093701996927799
+step 217, ctx len 116381, avg score 0.909785932721712
+step 218, ctx len 129310, avg score 0.9101978691019782
+step 219, ctx len 118525, avg score 0.9106060606060601
+step 220, ctx len 104760, avg score 0.9110105580693811
+step 221, ctx len 122994, avg score 0.9114114114114109
+step 222, ctx len 122372, avg score 0.9118086696562028
+step 223, ctx len 122627, avg score 0.9122023809523805
+step 224, ctx len 124223, avg score 0.9125925925925922
+step 225, ctx len 124718, avg score 0.9129793510324479
+step 226, ctx len 117337, avg score 0.913362701908957
+step 227, ctx len 125861, avg score 0.9122807017543855
+step 228, ctx len 130757, avg score 0.9126637554585147
+step 229, ctx len 119790, avg score 0.9130434782608691
+step 230, ctx len 118246, avg score 0.9134199134199129
+step 231, ctx len 112566, avg score 0.9123563218390799
+step 232, ctx len 126639, avg score 0.912732474964234
+step 233, ctx len 118914, avg score 0.9116809116809111
+step 234, ctx len 119572, avg score 0.9106382978723399
+step 235, ctx len 121900, avg score 0.9110169491525417
+step 236, ctx len 117266, avg score 0.9113924050632906
+step 237, ctx len 115357, avg score 0.9117647058823524
+step 238, ctx len 127931, avg score 0.9121338912133885
+step 239, ctx len 123539, avg score 0.9111111111111104
+step 240, ctx len 118713, avg score 0.9114799446749648
+step 241, ctx len 130879, avg score 0.910468319559228
+step 242, ctx len 113741, avg score 0.909465020576131
+step 243, ctx len 124583, avg score 0.9098360655737698
+step 244, ctx len 121052, avg score 0.9102040816326523
+step 245, ctx len 127113, avg score 0.9092140921409206
+step 246, ctx len 115773, avg score 0.909581646423751
+step 247, ctx len 117873, avg score 0.9086021505376336
+step 248, ctx len 116238, avg score 0.9089692101740287
+step 249, ctx len 115576, avg score 0.9079999999999993
+step 250, ctx len 119809, avg score 0.907038512616201
+step 251, ctx len 106489, avg score 0.9074074074074066
+step 252, ctx len 129888, avg score 0.9064558629776013
+step 253, ctx len 123311, avg score 0.9068241469816264
+step 254, ctx len 115706, avg score 0.9071895424836592
+step 255, ctx len 124132, avg score 0.9075520833333325
+step 256, ctx len 122255, avg score 0.906614785992217
+step 257, ctx len 104154, avg score 0.905684754521963
+step 258, ctx len 106270, avg score 0.9060489060489051
+step 259, ctx len 113040, avg score 0.9051282051282041
+step 260, ctx len 118833, avg score 0.9042145593869721
+step 261, ctx len 120632, avg score 0.9033078880407115
+step 262, ctx len 118924, avg score 0.9036755386565263
+step 263, ctx len 126500, avg score 0.9040404040404031
+step 264, ctx len 125535, avg score 0.9044025157232695
+step 265, ctx len 115453, avg score 0.9035087719298235
+step 266, ctx len 115287, avg score 0.9038701622971276
+step 267, ctx len 115707, avg score 0.9029850746268646
+step 268, ctx len 127772, avg score 0.9033457249070621
+step 269, ctx len 118736, avg score 0.9037037037037027
+step 270, ctx len 124002, avg score 0.9040590405904049
+step 271, ctx len 115161, avg score 0.9044117647058814
+step 272, ctx len 124261, avg score 0.9035409035409024
+step 273, ctx len 126202, avg score 0.9038929440389284
+step 274, ctx len 129567, avg score 0.903030303030302
+step 275, ctx len 126128, avg score 0.9033816425120762
+step 276, ctx len 121269, avg score 0.9037304452466897
+step 277, ctx len 118251, avg score 0.9040767386091116
+step 278, ctx len 112071, avg score 0.9044205495818388
+step 279, ctx len 124349, avg score 0.9047619047619037
+step 280, ctx len 114763, avg score 0.9051008303677333
+step 281, ctx len 117964, avg score 0.9054373522458619
+step 282, ctx len 124560, avg score 0.9057714958775018
+step 283, ctx len 113063, avg score 0.9049295774647877
+step 284, ctx len 125306, avg score 0.9052631578947359
+step 285, ctx len 123558, avg score 0.9055944055944046
+step 286, ctx len 117155, avg score 0.9059233449477342
+step 287, ctx len 129768, avg score 0.9050925925925917
+step 288, ctx len 123852, avg score 0.9054209919261813
+step 289, ctx len 119537, avg score 0.9057471264367807
+step 290, ctx len 112865, avg score 0.9060710194730804
+step 291, ctx len 127111, avg score 0.9063926940639261
+step 292, ctx len 119713, avg score 0.9055745164960174
+step 293, ctx len 119604, avg score 0.904761904761904
+step 294, ctx len 128591, avg score 0.9050847457627111
+step 295, ctx len 118220, avg score 0.9054054054054046
+step 296, ctx len 126044, avg score 0.9057239057239049
+step 297, ctx len 122777, avg score 0.9060402684563751
+step 298, ctx len 124564, avg score 0.9052396878483828
+step 299, ctx len 116627, avg score 0.9044444444444438
+step 300, ctx len 125542, avg score 0.9036544850498334
+step 301, ctx len 123318, avg score 0.9039735099337742
+step 302, ctx len 124069, avg score 0.9031903190319027
+step 303, ctx len 123496, avg score 0.9024122807017539
+step 304, ctx len 127298, avg score 0.902732240437158
+step 305, ctx len 125055, avg score 0.9030501089324614
+step 306, ctx len 125021, avg score 0.9033659066232351
+step 307, ctx len 120843, avg score 0.9036796536796532
+step 308, ctx len 117290, avg score 0.9029126213592229
+step 309, ctx len 113442, avg score 0.9032258064516125
+step 310, ctx len 120567, avg score 0.903536977491961
+step 311, ctx len 122903, avg score 0.9027777777777775
+step 312, ctx len 128158, avg score 0.903088391906283
+step 313, ctx len 125776, avg score 0.903397027600849
+step 314, ctx len 125139, avg score 0.9037037037037035
+step 315, ctx len 125571, avg score 0.9040084388185651
+step 316, ctx len 120082, avg score 0.9032597266035749
+step 317, ctx len 122622, avg score 0.9035639412997901
+step 318, ctx len 116664, avg score 0.9038662486938347
+step 319, ctx len 115014, avg score 0.9041666666666665
+step 320, ctx len 123625, avg score 0.9044652128764276
+step 321, ctx len 118747, avg score 0.903726708074534
+step 322, ctx len 127715, avg score 0.9029927760577914
+step 323, ctx len 129906, avg score 0.9032921810699587
+step 324, ctx len 121064, avg score 0.9035897435897434
+step 325, ctx len 115898, avg score 0.903885480572597
+step 326, ctx len 118166, avg score 0.9031600407747196
+step 327, ctx len 126589, avg score 0.9034552845528455
+step 328, ctx len 128334, avg score 0.9037487335359675
+step 329, ctx len 129151, avg score 0.904040404040404
+step 330, ctx len 123238, avg score 0.9033232628398792
+step 331, ctx len 110828, avg score 0.9026104417670683
+step 332, ctx len 119688, avg score 0.902902902902903
+step 333, ctx len 127811, avg score 0.9031936127744512
+step 334, ctx len 124570, avg score 0.9034825870646767
+step 335, ctx len 124408, avg score 0.9037698412698413
+step 336, ctx len 126318, avg score 0.904055390702275
+step 337, ctx len 128552, avg score 0.9043392504930967
+step 338, ctx len 130224, avg score 0.904621435594887
+step 339, ctx len 120673, avg score 0.9039215686274511
+step 340, ctx len 125694, avg score 0.9042033235581624
+step 341, ctx len 130552, avg score 0.9044834307992203
+step 342, ctx len 119111, avg score 0.903790087463557
+step 343, ctx len 116751, avg score 0.9040697674418606
+step 344, ctx len 123894, avg score 0.9043478260869567
+step 345, ctx len 121022, avg score 0.9046242774566475
+step 346, ctx len 128751, avg score 0.9048991354466861
+step 347, ctx len 116088, avg score 0.9042145593869734
+step 348, ctx len 116765, avg score 0.9044890162368675
+step 349, ctx len 123894, avg score 0.9038095238095241
+step 350, ctx len 123487, avg score 0.9040835707502377
+step 351, ctx len 126795, avg score 0.9034090909090913
+step 352, ctx len 130552, avg score 0.9036827195467425
+step 353, ctx len 119337, avg score 0.9039548022598873
+step 354, ctx len 123191, avg score 0.9042253521126764
+step 355, ctx len 126857, avg score 0.9035580524344573
+step 356, ctx len 120130, avg score 0.9028944911297857
+step 357, ctx len 115341, avg score 0.9031657355679706
+step 358, ctx len 129231, avg score 0.9034354688950793
+step 359, ctx len 122655, avg score 0.9037037037037041
+step 360, ctx len 127432, avg score 0.9030470914127429
+step 361, ctx len 113556, avg score 0.9033149171270723
+step 362, ctx len 126459, avg score 0.9035812672176313
+step 363, ctx len 118131, avg score 0.9038461538461543
+step 364, ctx len 120065, avg score 0.9041095890410964
+step 365, ctx len 121011, avg score 0.904371584699454
+step 366, ctx len 117937, avg score 0.9046321525885563
+step 367, ctx len 120144, avg score 0.9048913043478265
+step 368, ctx len 123455, avg score 0.9051490514905154
+step 369, ctx len 130092, avg score 0.9054054054054058
+step 370, ctx len 129228, avg score 0.9047619047619053
+step 371, ctx len 112530, avg score 0.9050179211469539
+step 372, ctx len 126718, avg score 0.9043789097408406
+step 373, ctx len 123568, avg score 0.9046345811051699
+step 374, ctx len 118052, avg score 0.9048888888888894
+step 375, ctx len 124131, avg score 0.9051418439716318
+step 376, ctx len 130440, avg score 0.9053934571175956
+step 377, ctx len 128023, avg score 0.9047619047619053
+step 378, ctx len 117360, avg score 0.9050131926121378
+step 379, ctx len 129301, avg score 0.9052631578947374
+step 380, ctx len 114530, avg score 0.9055118110236227
+step 381, ctx len 118445, avg score 0.9048865619546255
+step 382, ctx len 119572, avg score 0.9042645778938214
+step 383, ctx len 115186, avg score 0.9045138888888896
+step 384, ctx len 126909, avg score 0.9038961038961046
+step 385, ctx len 118273, avg score 0.9032815198618316
+step 386, ctx len 126909, avg score 0.9035314384151601
+step 387, ctx len 114207, avg score 0.9029209621993135
+step 388, ctx len 130589, avg score 0.9031705227077986
+step 389, ctx len 115339, avg score 0.9025641025641035
+step 390, ctx len 130774, avg score 0.9028132992327375
+step 391, ctx len 115639, avg score 0.9030612244897968
+step 392, ctx len 116690, avg score 0.9033078880407134
+step 393, ctx len 117890, avg score 0.9027072758037235
+step 394, ctx len 117286, avg score 0.9029535864978913
+step 395, ctx len 128380, avg score 0.9031986531986541
+step 396, ctx len 123512, avg score 0.9026028547439137
+step 397, ctx len 127978, avg score 0.9028475711892807
+step 398, ctx len 106830, avg score 0.9022556390977453
+step 399, ctx len 130734, avg score 0.9016666666666677
+step 400, ctx len 124773, avg score 0.9019118869492945
+step 401, ctx len 130028, avg score 0.9021558872305151
+step 402, ctx len 127725, avg score 0.9023986765922261
+step 403, ctx len 127740, avg score 0.9026402640264036
+step 404, ctx len 118711, avg score 0.902880658436215
+step 405, ctx len 125209, avg score 0.9022988505747137
+step 406, ctx len 122281, avg score 0.9025389025389036
+step 407, ctx len 112084, avg score 0.9027777777777789
+step 408, ctx len 129486, avg score 0.9030154849225764
+step 409, ctx len 119034, avg score 0.9032520325203263
+step 410, ctx len 120262, avg score 0.9034874290348753
+step 411, ctx len 124375, avg score 0.9029126213592245
+step 412, ctx len 115944, avg score 0.9023405972558527
+step 413, ctx len 127468, avg score 0.9025764895330124
+step 414, ctx len 122406, avg score 0.9020080321285152
+step 415, ctx len 123120, avg score 0.902243589743591
+step 416, ctx len 122616, avg score 0.9016786570743418
+step 417, ctx len 109673, avg score 0.9011164274322182
+step 418, ctx len 126987, avg score 0.900556881463804
+step 419, ctx len 111076, avg score 0.9000000000000014
+step 420, ctx len 122471, avg score 0.9002375296912127
+step 421, ctx len 124866, avg score 0.9004739336492904
+step 422, ctx len 126524, avg score 0.9007092198581573
+step 423, ctx len 112362, avg score 0.900157232704404
+step 424, ctx len 129812, avg score 0.9003921568627464
+step 425, ctx len 116522, avg score 0.9006259780907682
+step 426, ctx len 114368, avg score 0.9000780640124917
+step 427, ctx len 123682, avg score 0.9003115264797522
+step 428, ctx len 119731, avg score 0.900543900543902
+step 429, ctx len 118430, avg score 0.9000000000000015
+step 430, ctx len 116033, avg score 0.9002320185614864
+step 431, ctx len 127353, avg score 0.9004629629629645
+step 432, ctx len 126242, avg score 0.9006928406466527
+step 433, ctx len 128819, avg score 0.9001536098310307
+step 434, ctx len 116495, avg score 0.8996168582375494
+step 435, ctx len 124042, avg score 0.8998470948012247
+step 436, ctx len 120879, avg score 0.9000762776506499
+step 437, ctx len 121330, avg score 0.9003044140030456
+step 438, ctx len 116923, avg score 0.9005315110098724
+step 439, ctx len 121206, avg score 0.9000000000000016
+step 440, ctx len 121041, avg score 0.8994708994709011
+step 441, ctx len 124356, avg score 0.899698340874813
+step 442, ctx len 122218, avg score 0.8999247554552311
+step 443, ctx len 124429, avg score 0.9001501501501518
+step 444, ctx len 125360, avg score 0.9003745318352075
+step 445, ctx len 122409, avg score 0.9005979073243663
+step 446, ctx len 122169, avg score 0.9008202833706205
+step 447, ctx len 120934, avg score 0.9002976190476206
+step 448, ctx len 124884, avg score 0.8997772828507812
+step 449, ctx len 123142, avg score 0.9000000000000017
+step 450, ctx len 129075, avg score 0.89948263118995
+step 451, ctx len 127031, avg score 0.8997050147492642
+step 452, ctx len 123655, avg score 0.8999264164827095
+step 453, ctx len 129194, avg score 0.9001468428781221
+step 454, ctx len 121830, avg score 0.900366300366302
+step 455, ctx len 123065, avg score 0.900584795321639
+step 456, ctx len 122678, avg score 0.9008023340627296
+step 457, ctx len 118943, avg score 0.90029112081514
+step 458, ctx len 124427, avg score 0.8997821350762545
+step 459, ctx len 117006, avg score 0.8992753623188423
+step 460, ctx len 127068, avg score 0.8994938539407104
+step 461, ctx len 117357, avg score 0.8989898989899008
+step 462, ctx len 122809, avg score 0.8992080633549334
+step 463, ctx len 113834, avg score 0.8994252873563237
+step 464, ctx len 118177, avg score 0.8996415770609337
+step 465, ctx len 119008, avg score 0.8998569384835498
+step 466, ctx len 119338, avg score 0.8993576017130639
+step 467, ctx len 120600, avg score 0.8995726495726514
+step 468, ctx len 124733, avg score 0.8990760483297815
+step 469, ctx len 118833, avg score 0.8985815602836899
+step 470, ctx len 119861, avg score 0.8987968860580344
+step 471, ctx len 125045, avg score 0.8990112994350301
+step 472, ctx len 126146, avg score 0.8992248062015523
+step 473, ctx len 123327, avg score 0.8994374120956419
+step 474, ctx len 115666, avg score 0.8989473684210545
+step 475, ctx len 125562, avg score 0.8984593837535033
+step 476, ctx len 123889, avg score 0.8979734451432585
+step 477, ctx len 128092, avg score 0.898186889818691
+step 478, ctx len 113796, avg score 0.8983994432846227
+step 479, ctx len 124328, avg score 0.8979166666666687
+step 480, ctx len 120662, avg score 0.8981288981289002
+step 481, ctx len 127810, avg score 0.8976486860304308
+step 482, ctx len 119131, avg score 0.8971704623878558
+step 483, ctx len 130437, avg score 0.8973829201101949
+step 484, ctx len 118126, avg score 0.8975945017182151
+step 485, ctx len 115287, avg score 0.8978052126200295
+step 486, ctx len 120334, avg score 0.8973305954825483
+step 487, ctx len 115106, avg score 0.8968579234972699
+step 488, ctx len 120735, avg score 0.8970688479890955
+step 489, ctx len 123351, avg score 0.897278911564628
+step 490, ctx len 118248, avg score 0.8974881194840483
+step 491, ctx len 123798, avg score 0.8976964769647717
+step 492, ctx len 118876, avg score 0.8979039891818817
+step 493, ctx len 117151, avg score 0.8981106612685581
+step 494, ctx len 117071, avg score 0.8983164983165004
+step 495, ctx len 128149, avg score 0.8978494623655935
+step 496, ctx len 120318, avg score 0.8973843058350123
+step 497, ctx len 115533, avg score 0.8975903614457853
+step 498, ctx len 122261, avg score 0.8977955911823668
+step 499, ctx len 129035, avg score 0.8980000000000021
+{"ctx_len": 129603, "pred": "1. pslpqi 2. zjtonc 3. bopdfy<|eot_id|>", "needle": ["pslpqi", "zjtonc", "bopdfy"], "score": 1.0}
+{"ctx_len": 117016, "pred": "1. qdemvl 2. zkaykb 3. yxvxuv<|eot_id|>", "needle": ["qdemvl", "zkaykb", "bstvjz"], "score": 0.6666666666666666}
+{"ctx_len": 124928, "pred": "1. pvhmta 2. zkfppw 3. burluq<|eot_id|>", "needle": ["pvhmta", "zkfppw", "burluq"], "score": 1.0}
+{"ctx_len": 124183, "pred": "pukhhi, zmlmfr, and bshbza.<|eot_id|>", "needle": ["pukhhi", "zmlmfr", "bshbza"], "score": 1.0}
+{"ctx_len": 122891, "pred": "1. zjciig 2. pqueid 3. bsdssm<|eot_id|>", "needle": ["pqueid", "zjciig", "bsdssm"], "score": 1.0}
+{"ctx_len": 129517, "pred": "1. ptgbvz 2. zmoyrz 3. bsxdtg<|eot_id|>", "needle": ["ptgbvz", "zmoyrz", "bsxdtg"], "score": 1.0}
+{"ctx_len": 124972, "pred": "1. pwkxva 2. zjcism 3. bolxtb<|eot_id|>", "needle": ["pwkxva", "zjcism", "bolxtb"], "score": 1.0}
+{"ctx_len": 121855, "pred": "1. pzenql 2. zjzyyl 3. buwgyu<|eot_id|>", "needle": ["pzenql", "zjzyyl", "buwgyu"], "score": 1.0}
+{"ctx_len": 115730, "pred": "1. zhvtcm 2. pqpvdc 3. bmizjd<|eot_id|>", "needle": ["pqpvdc", "zhvtcm", "bmizjd"], "score": 1.0}
+{"ctx_len": 117533, "pred": "1. zinzoi 2. bqxahb 3. prgfxq<|eot_id|>", "needle": ["prgfxq", "zinzoi", "bqxahb"], "score": 1.0}
+{"ctx_len": 127186, "pred": "1. zlzvqy 2. pwndqt 3. bsqcrx<|eot_id|>", "needle": ["pwndqt", "zlzvqy", "bsqcrx"], "score": 1.0}
+{"ctx_len": 125916, "pred": "1. pxcjqg 2. bolxcw 3. zbhvwb<|eot_id|>", "needle": ["pxcjqg", "zkuymj", "bolxcw"], "score": 0.6666666666666666}
+{"ctx_len": 121110, "pred": "ptehoo, zhjzvn, and btlhaa.<|eot_id|>", "needle": ["ptehoo", "zhjzvn", "btlhaa"], "score": 1.0}
+{"ctx_len": 123312, "pred": "1. qcvwqh 2. zltmhz 3. brqkth<|eot_id|>", "needle": ["qcvwqh", "zltmhz", "brqkth"], "score": 1.0}
+{"ctx_len": 120103, "pred": "1. pxbrse 2. zixdyq 3. bvauyp<|eot_id|>", "needle": ["pxbrse", "zixdyq", "bvauyp"], "score": 1.0}
+{"ctx_len": 122490, "pred": "1. qfhrvn 2. zkelvq 3. bnsesf<|eot_id|>", "needle": ["qfhrvn", "zkelvq", "bnsesf"], "score": 1.0}
+{"ctx_len": 130646, "pred": "pwkqox, zkzylk, and yxdqmu.<|eot_id|>", "needle": ["pwkqox", "zkzylk", "bqjsmt"], "score": 0.6666666666666666}
+{"ctx_len": 122235, "pred": "1. pswhxe 2. zjkxsv 3. bqsqkd<|eot_id|>", "needle": ["pswhxe", "zjkxsv", "bqsqkd"], "score": 1.0}
+{"ctx_len": 128124, "pred": "1. qdvsib 2. zlhhvr 3. brnrnj<|eot_id|>", "needle": ["qdvsib", "zlhhvr", "brnrnj"], "score": 1.0}
+{"ctx_len": 117632, "pred": "1. ptscry 2. zhvieq 3. bpauka<|eot_id|>", "needle": ["ptscry", "zhvieq", "bpauka"], "score": 1.0}
+{"ctx_len": 126139, "pred": "1. pvnuww 2. zlqaoz 3. bpxdcq<|eot_id|>", "needle": ["pvnuww", "zlqaoz", "bpxdcq"], "score": 1.0}
+{"ctx_len": 119476, "pred": "1. ptbtba 2. zizbrc 3. bnawko<|eot_id|>", "needle": ["ptbtba", "zizbrc", "bnawko"], "score": 1.0}
+{"ctx_len": 126789, "pred": "1. qazypn 2. zkxfis 3. bxxmye<|eot_id|>", "needle": ["qazypn", "zkxfis", "bxxmye"], "score": 1.0}
+{"ctx_len": 119896, "pred": "1. qmegcq 2. zmbazh 3. bthifb<|eot_id|>", "needle": ["qmegcq", "zmbazh", "bthifb"], "score": 1.0}
+{"ctx_len": 119973, "pred": "1. zjvbwm 2. qbcdht 3. bumcxn<|eot_id|>", "needle": ["qbcdht", "zjvbwm", "bumcxn"], "score": 1.0}
+{"ctx_len": 122672, "pred": "1. qewuol 2. zlwqse 3. yzuron<|eot_id|>", "needle": ["qewuol", "zlwqse", "bsmuii"], "score": 0.6666666666666666}
+{"ctx_len": 128915, "pred": "1. qinigq 2. zkbxex 3. bsjbwa<|eot_id|>", "needle": ["qinigq", "zkbxex", "bsjbwa"], "score": 1.0}
+{"ctx_len": 118444, "pred": "1. zhyzyf 2. pzvnce 3. ywossu<|eot_id|>", "needle": ["pzvnce", "zhyzyf", "bqquyb"], "score": 0.6666666666666666}
+{"ctx_len": 119129, "pred": "qlcmwl, znjlkv, and buarcd.<|eot_id|>", "needle": ["qlcmwl", "znjlkv", "buarcd"], "score": 1.0}
+{"ctx_len": 119513, "pred": "1. prmugm 2. zlacqi 3. btaolq<|eot_id|>", "needle": ["prmugm", "zlacqi", "btaolq"], "score": 1.0}
+{"ctx_len": 130860, "pred": "1. pnbrxv 2. zlvswu 3. yzoqjk<|eot_id|>", "needle": ["pnbrxv", "zlvswu", "bsbbmv"], "score": 0.6666666666666666}
+{"ctx_len": 130399, "pred": "pmsvjy, zkrnbx, and ccqjrp.<|eot_id|>", "needle": ["pmsvjy", "zkrnbx", "ccqjrp"], "score": 1.0}
+{"ctx_len": 119612, "pred": "1. pjmjev 2. zlwmgd 3. brzlci<|eot_id|>", "needle": ["pjmjev", "zlwmgd", "brzlci"], "score": 1.0}
+{"ctx_len": 115774, "pred": "1. ptbger 2. zkduiq 3. yxklij<|eot_id|>", "needle": ["ptbger", "zkduiq", "bnvnox"], "score": 0.6666666666666666}
+{"ctx_len": 128727, "pred": "1. pufkdj 2. zjduhm 3. caagtw<|eot_id|>", "needle": ["pufkdj", "zjduhm", "caagtw"], "score": 1.0}
+{"ctx_len": 117560, "pred": "1. qducpg 2. zlhgid 3. bulpxo<|eot_id|>", "needle": ["qducpg", "zlhgid", "bulpxo"], "score": 1.0}
+{"ctx_len": 125870, "pred": "1. pscrmh 2. zhsiwx 3. bpntzc<|eot_id|>", "needle": ["pscrmh", "zhsiwx", "bpntzc"], "score": 1.0}
+{"ctx_len": 113277, "pred": "1. zoabkr 2. pqtnss 3. bsiaki<|eot_id|>", "needle": ["pqtnss", "zoabkr", "bsiaki"], "score": 1.0}
+{"ctx_len": 115811, "pred": "1. ziwydi 2. psfaxz 3. bkdsuv<|eot_id|>", "needle": ["psfaxz", "ziwydi", "bkdsuv"], "score": 1.0}
+{"ctx_len": 123470, "pred": "1. qddwgd 2. bwbsxg 3. ziqxxn<|eot_id|>", "needle": ["qddwgd", "ziqxxn", "bwbsxg"], "score": 1.0}
+{"ctx_len": 123889, "pred": "1. pnxocm 2. zkyyir 3. yykbrm<|eot_id|>", "needle": ["pnxocm", "zkyyir", "boslef"], "score": 0.6666666666666666}
+{"ctx_len": 113603, "pred": "1. zkzjez 2. ptrrnk 3. yzvkmj<|eot_id|>", "needle": ["ptrrnk", "zkzjez", "bomcss"], "score": 0.6666666666666666}
+{"ctx_len": 114984, "pred": "pnrrez, jksjyb, and yyitla.<|eot_id|>", "needle": ["pnrrez", "zkuuyi", "bugpxe"], "score": 0.3333333333333333}
+{"ctx_len": 117903, "pred": "1. pxuhno 2. zjamcd 3. yufjwt<|eot_id|>", "needle": ["pxuhno", "zjamcd", "bpvmqy"], "score": 0.6666666666666666}
+{"ctx_len": 121825, "pred": "1. pqebqb 2. zffrjk 3. bvpavh<|eot_id|>", "needle": ["pqebqb", "zffrjk", "bvpavh"], "score": 1.0}
+{"ctx_len": 130713, "pred": "1. pshljy 2. zjifih 3. bwqqfx<|eot_id|>", "needle": ["pshljy", "zjifih", "bwqqfx"], "score": 1.0}
+{"ctx_len": 128356, "pred": "1. qdxhdz 2. zjfbzn 3. yvbeit<|eot_id|>", "needle": ["qdxhdz", "zjfbzn", "bqaysf"], "score": 0.6666666666666666}
+{"ctx_len": 128475, "pred": "1. zfvohw 2. pmkzgs 3. ytlwje<|eot_id|>", "needle": ["pmkzgs", "zfvohw", "bqjjkj"], "score": 0.6666666666666666}
+{"ctx_len": 131036, "pred": "ppkhxw, zlxtai, and bpzkez.<|eot_id|>", "needle": ["ppkhxw", "zlxtai", "bpzkez"], "score": 1.0}
+{"ctx_len": 123812, "pred": "1. qjgbnx 2. ziychx 3. yymxwd<|eot_id|>", "needle": ["qjgbnx", "ziychx", "buryiu"], "score": 0.6666666666666666}
+{"ctx_len": 115993, "pred": "1. pjwetc 2. zliajm 3. yvbibj<|eot_id|>", "needle": ["pjwetc", "zliajm", "bomlho"], "score": 0.6666666666666666}
+{"ctx_len": 119529, "pred": "1. ptjhfe 2. zkmqdi 3. bqeblr<|eot_id|>", "needle": ["ptjhfe", "zkmqdi", "bqeblr"], "score": 1.0}
+{"ctx_len": 130681, "pred": "1. pqjttu 2. zhfqng 3. boammh<|eot_id|>", "needle": ["pqjttu", "zhfqng", "boammh"], "score": 1.0}
+{"ctx_len": 129232, "pred": "1. pqgduo 2. zlmvuh 3. yxqsvc<|eot_id|>", "needle": ["pqgduo", "zlmvuh", "bpcauv"], "score": 0.6666666666666666}
+{"ctx_len": 116734, "pred": "1. plkrvr 2. zmtpie 3. bjvlvy<|eot_id|>", "needle": ["plkrvr", "zmtpie", "bjvlvy"], "score": 1.0}
+{"ctx_len": 123491, "pred": "pzuajq, zoccvs, and bnmeuj.<|eot_id|>", "needle": ["pzuajq", "zoccvs", "bnmeuj"], "score": 1.0}
+{"ctx_len": 126001, "pred": "1. pukbwy 2. zivmzc 3. yvzlws<|eot_id|>", "needle": ["pukbwy", "zivmzc", "buenjm"], "score": 0.6666666666666666}
+{"ctx_len": 117323, "pred": "1. pznvet 2. zglcgo 3. ywtmge<|eot_id|>", "needle": ["pznvet", "zglcgo", "bsitra"], "score": 0.6666666666666666}
+{"ctx_len": 131010, "pred": "1. ptbhzj 2. zjmkim 3. bpgsps<|eot_id|>", "needle": ["ptbhzj", "zjmkim", "bpgsps"], "score": 1.0}
+{"ctx_len": 120226, "pred": "1. pxfypy 2. zjukuz 3. bwcekr<|eot_id|>", "needle": ["pxfypy", "zjukuz", "bwcekr"], "score": 1.0}
+{"ctx_len": 128949, "pred": "1. pwgcnw 2. zklhny 3. btndqn<|eot_id|>", "needle": ["pwgcnw", "zklhny", "btndqn"], "score": 1.0}
+{"ctx_len": 114865, "pred": "1. qianri 2. zkisal 3. bsmcoi<|eot_id|>", "needle": ["qianri", "zkisal", "bsmcoi"], "score": 1.0}
+{"ctx_len": 119962, "pred": "1. pqgthi 2. zfwxro 3. ytycbw<|eot_id|>", "needle": ["pqgthi", "zfwxro", "btgews"], "score": 0.6666666666666666}
+{"ctx_len": 129513, "pred": "1. pndvkc 2. zlpqms 3. bxyraf<|eot_id|>", "needle": ["pndvkc", "zlpqms", "bxyraf"], "score": 1.0}
+{"ctx_len": 124952, "pred": "1. pzcqgq 2. zmcttl 3. brhwvc<|eot_id|>", "needle": ["pzcqgq", "zmcttl", "brhwvc"], "score": 1.0}
+{"ctx_len": 115969, "pred": "1. zkrauc 2. yxvsvi 3. bmfsfa<|eot_id|>", "needle": ["punnui", "zkrauc", "bmfsfa"], "score": 0.6666666666666666}
+{"ctx_len": 113600, "pred": "1. psiqbb 2. zkizip 3. btqnva<|eot_id|>", "needle": ["psiqbb", "zkizip", "btqnva"], "score": 1.0}
+{"ctx_len": 121731, "pred": "1. puwpln 2. bnrjyp 3. zigapl<|eot_id|>", "needle": ["puwpln", "zigapl", "bnrjyp"], "score": 1.0}
+{"ctx_len": 116703, "pred": "ptzmve, znfbvk, and bpxtxb.<|eot_id|>", "needle": ["ptzmve", "znfbvk", "bpxtxb"], "score": 1.0}
+{"ctx_len": 120033, "pred": "pwzxwr, zjnswx, and yvzugt.<|eot_id|>", "needle": ["pwzxwr", "zjnswx", "burucb"], "score": 0.6666666666666666}
+{"ctx_len": 112504, "pred": "1. pufoud 2. zkxirc 3. bozlkl<|eot_id|>", "needle": ["pufoud", "zkxirc", "bozlkl"], "score": 1.0}
+{"ctx_len": 126359, "pred": "1. pqfamc 2. zmirgg 3. yxdnfn<|eot_id|>", "needle": ["pqfamc", "zmirgg", "bmzeaf"], "score": 0.6666666666666666}
+{"ctx_len": 119852, "pred": "1. pqddvw 2. zklpdz 3. bzjgpz<|eot_id|>", "needle": ["pqddvw", "zklpdz", "bzjgpz"], "score": 1.0}
+{"ctx_len": 129133, "pred": "1. ptwqdk 2. zjlujo 3. boffje<|eot_id|>", "needle": ["ptwqdk", "zjlujo", "boffje"], "score": 1.0}
+{"ctx_len": 114525, "pred": "1. qlhgxc 2. zkpabd 3. bruzgd<|eot_id|>", "needle": ["qlhgxc", "zkpabd", "bruzgd"], "score": 1.0}
+{"ctx_len": 130514, "pred": "1. zjphfb 2. pcrqln 3. bnmpkn<|eot_id|>", "needle": ["pcrqln", "zjphfb", "bnmpkn"], "score": 1.0}
+{"ctx_len": 130203, "pred": "1. puarjg 2. zhhpio 3. btlzqf<|eot_id|>", "needle": ["puarjg", "zhhpio", "btlzqf"], "score": 1.0}
+{"ctx_len": 109266, "pred": "1. bnkvyu 2. zfphko 3. yswznu<|eot_id|>", "needle": ["pnlmon", "zfphko", "bnkvyu"], "score": 0.6666666666666666}
+{"ctx_len": 128903, "pred": "pyhcgk, zjqggg, and bukash.<|eot_id|>", "needle": ["pyhcgk", "zjqggg", "bukash"], "score": 1.0}
+{"ctx_len": 125581, "pred": "1. pmqyvh 2. zhzhym 3. yuttqq<|eot_id|>", "needle": ["pmqyvh", "zhzhym", "bpzqfl"], "score": 0.6666666666666666}
+{"ctx_len": 122142, "pred": "1. pmumct 2. zjvrzb 3. bprgnl<|eot_id|>", "needle": ["pmumct", "zjvrzb", "bprgnl"], "score": 1.0}
+{"ctx_len": 119703, "pred": "1. ptqxkd 2. zjwkfa 3. bsugxy<|eot_id|>", "needle": ["ptqxkd", "zjwkfa", "bsugxy"], "score": 1.0}
+{"ctx_len": 121017, "pred": "1. pqemyr 2. zfkwyw 3. yveyjb<|eot_id|>", "needle": ["pqemyr", "zfkwyw", "bvbhqr"], "score": 0.6666666666666666}
+{"ctx_len": 123388, "pred": "1. psbgvb 2. zibwta 3. bnhvvj<|eot_id|>", "needle": ["psbgvb", "zibwta", "bnhvvj"], "score": 1.0}
+{"ctx_len": 121047, "pred": "1. prthct 2. zmozwq 3. bsydeb<|eot_id|>", "needle": ["prthct", "zmozwq", "bsydeb"], "score": 1.0}
+{"ctx_len": 123496, "pred": "1. pvdnvm 2. zkglem 3. btqhwl<|eot_id|>", "needle": ["pvdnvm", "zkglem", "btqhwl"], "score": 1.0}
+{"ctx_len": 125954, "pred": "1. pyxwyz 2. zkmggt 3. bwwrka<|eot_id|>", "needle": ["pyxwyz", "zkmggt", "bwwrka"], "score": 1.0}
+{"ctx_len": 124842, "pred": "1. puoivq 2. zmutry 3. yyhgna<|eot_id|>", "needle": ["puoivq", "zmutry", "bofabp"], "score": 0.6666666666666666}
+{"ctx_len": 124668, "pred": "1. pxbnnw 2. zkegri 3. brmxbk<|eot_id|>", "needle": ["pxbnnw", "zkegri", "brmxbk"], "score": 1.0}
+{"ctx_len": 122869, "pred": "1. pweovq 2. zkkkyv 3. bqqmie<|eot_id|>", "needle": ["pweovq", "zkkkyv", "bqqmie"], "score": 1.0}
+{"ctx_len": 126709, "pred": "1. pxxlqb 2. zlgbio 3. bkwmwg<|eot_id|>", "needle": ["pxxlqb", "zlgbio", "bkwmwg"], "score": 1.0}
+{"ctx_len": 117774, "pred": "1. bocwvu 2. pkgcfo 3. ziybvw<|eot_id|>", "needle": ["pkgcfo", "ziybvw", "bocwvu"], "score": 1.0}
+{"ctx_len": 110000, "pred": "1. pusuck 2. zlhcum 3. bwtpko<|eot_id|>", "needle": ["pusuck", "zlhcum", "bwtpko"], "score": 1.0}
+{"ctx_len": 119634, "pred": "1. pwanwb 2. zjodct 3. bqhjur<|eot_id|>", "needle": ["pwanwb", "zjodct", "bqhjur"], "score": 1.0}
+{"ctx_len": 123886, "pred": "ppuvyz, zliglo, and bseyjc.<|eot_id|>", "needle": ["ppuvyz", "zliglo", "bseyjc"], "score": 1.0}
+{"ctx_len": 125009, "pred": "pqjozg, zndtmx, and bsgtmq.<|eot_id|>", "needle": ["pqjozg", "zndtmx", "bsgtmq"], "score": 1.0}
+{"ctx_len": 126591, "pred": "1. pulefz 2. zjyxma 3. bxmqjs<|eot_id|>", "needle": ["pulefz", "zjyxma", "bxmqjs"], "score": 1.0}
+{"ctx_len": 115389, "pred": "1. qautjn 2. zkmyub 3. bywuig<|eot_id|>", "needle": ["qautjn", "zkmyub", "bywuig"], "score": 1.0}
+{"ctx_len": 123491, "pred": "1. pzqjta 2. btsnan 3. yuaqxj<|eot_id|>", "needle": ["pzqjta", "ziguxe", "btsnan"], "score": 0.6666666666666666}
+{"ctx_len": 118791, "pred": "1. poenhg 2. zkeieq 3. bqdoaq<|eot_id|>", "needle": ["poenhg", "zkeieq", "bqdoaq"], "score": 1.0}
+{"ctx_len": 128654, "pred": "1. qakbiq 2. ziwxda 3. bnznxj<|eot_id|>", "needle": ["qakbiq", "ziwxda", "bnznxj"], "score": 1.0}
+{"ctx_len": 118320, "pred": "1. prveoj 2. ziuokq 3. bpbdwe<|eot_id|>", "needle": ["prveoj", "ziuokq", "bpbdwe"], "score": 1.0}
+{"ctx_len": 124402, "pred": "1. pqyxbh 2. zgrkwz 3. bprycg<|eot_id|>", "needle": ["pqyxbh", "zgrkwz", "bprycg"], "score": 1.0}
+{"ctx_len": 111078, "pred": "pqijps, znacna, and zcwvic.<|eot_id|>", "needle": ["pqijps", "znacna", "bogati"], "score": 0.6666666666666666}
+{"ctx_len": 127335, "pred": "1. qakobx 2. ziuasa 3. btqcmw<|eot_id|>", "needle": ["qakobx", "ziuasa", "btqcmw"], "score": 1.0}
+{"ctx_len": 114902, "pred": "1. posxjl 2. zlhslo 3. bttomo<|eot_id|>", "needle": ["posxjl", "zlhslo", "bttomo"], "score": 1.0}
+{"ctx_len": 127520, "pred": "qdlocc, zaadzx, and zklpyd.<|eot_id|>", "needle": ["qdlocc", "zklpyd", "btflzb"], "score": 0.6666666666666666}
+{"ctx_len": 118251, "pred": "1. pxjjzt 2. zjriaq 3. yyatzk<|eot_id|>", "needle": ["pxjjzt", "zjriaq", "brkupk"], "score": 0.6666666666666666}
+{"ctx_len": 107469, "pred": "1. blvgkq 2. ziidua 3. pgcome<|eot_id|>", "needle": ["pgcome", "ziidua", "blvgkq"], "score": 1.0}
+{"ctx_len": 123755, "pred": "1. prxtgz 2. bnsfyu 3. zgqkjk<|eot_id|>", "needle": ["prxtgz", "zgqkjk", "bnsfyu"], "score": 1.0}
+{"ctx_len": 126632, "pred": "1. pvyzfe 2. zluzwk 3. brrbqz<|eot_id|>", "needle": ["pvyzfe", "zluzwk", "brrbqz"], "score": 1.0}
+{"ctx_len": 130941, "pred": "1. qfghby 2. zjwaru 3. brzayb<|eot_id|>", "needle": ["qfghby", "zjwaru", "brzayb"], "score": 1.0}
+{"ctx_len": 115470, "pred": "1. pxgvnt 2. zkrjar 3. bqukmt<|eot_id|>", "needle": ["pxgvnt", "zkrjar", "bqukmt"], "score": 1.0}
+{"ctx_len": 115843, "pred": "1. pdpasa 2. bphvpw 3. ziyssk<|eot_id|>", "needle": ["pdpasa", "ziyssk", "bphvpw"], "score": 1.0}
+{"ctx_len": 117165, "pred": "1. qfxeza 2. zkwlzb 3. btmzvu<|eot_id|>", "needle": ["qfxeza", "zkwlzb", "btmzvu"], "score": 1.0}
+{"ctx_len": 126513, "pred": "1. qcvbgg 2. zkpjcp 3. zaeklw<|eot_id|>", "needle": ["qcvbgg", "zkpjcp", "bqynif"], "score": 0.6666666666666666}
+{"ctx_len": 120947, "pred": "1. prjojo 2. zmbimv 3. brcjry<|eot_id|>", "needle": ["prjojo", "zmbimv", "brcjry"], "score": 1.0}
+{"ctx_len": 122443, "pred": "1. pubrlw 2. zlhcrf 3. buwazd<|eot_id|>", "needle": ["pubrlw", "zlhcrf", "buwazd"], "score": 1.0}
+{"ctx_len": 121649, "pred": "1. pxhkjk 2. zlqsqm 3. bslkse<|eot_id|>", "needle": ["pxhkjk", "zlqsqm", "bslkse"], "score": 1.0}
+{"ctx_len": 123511, "pred": "1. qgnhsd 2. zkhenr 3. yyqmuv<|eot_id|>", "needle": ["qgnhsd", "zkhenr", "bqjfqc"], "score": 0.6666666666666666}
+{"ctx_len": 128102, "pred": "1. pqzaqy 2. btbhrq 3. yxnxqd<|eot_id|>", "needle": ["pqzaqy", "zivmsg", "btbhrq"], "score": 0.6666666666666666}
+{"ctx_len": 127877, "pred": "1. pznqis 2. zkqpgo 3. bprgwy<|eot_id|>", "needle": ["pznqis", "zkqpgo", "bprgwy"], "score": 1.0}
+{"ctx_len": 124320, "pred": "1. pvpobd 2. zkxjsl 3. brcbcn<|eot_id|>", "needle": ["pvpobd", "zkxjsl", "brcbcn"], "score": 1.0}
+{"ctx_len": 128976, "pred": "1. pumwzt 2. zklcdo 3. ywxrfb<|eot_id|>", "needle": ["pumwzt", "zklcdo", "bqymyt"], "score": 0.6666666666666666}
+{"ctx_len": 130314, "pred": "qczjwe, zhyboh, and yvvyka.<|eot_id|>", "needle": ["qczjwe", "zhyboh", "bqgriu"], "score": 0.6666666666666666}
+{"ctx_len": 120870, "pred": "1. pnqxho 2. zirzec 3. ytmzji<|eot_id|>", "needle": ["pnqxho", "zirzec", "btokrl"], "score": 0.6666666666666666}
+{"ctx_len": 128333, "pred": "1. pzytvq 2. zndfjs 3. brdhkv<|eot_id|>", "needle": ["pzytvq", "zndfjs", "brdhkv"], "score": 1.0}
+{"ctx_len": 123386, "pred": "1. pypzbj 2. bpcfya 3. yyumky<|eot_id|>", "needle": ["pypzbj", "zihpdp", "bpcfya"], "score": 0.6666666666666666}
+{"ctx_len": 114914, "pred": "1. ppktqa 2. brpmnu 3. zigktf<|eot_id|>", "needle": ["ppktqa", "zigktf", "brpmnu"], "score": 1.0}
+{"ctx_len": 113681, "pred": "qbalvj, zlbsat, and bumevc.<|eot_id|>", "needle": ["qbalvj", "zlbsat", "bumevc"], "score": 1.0}
+{"ctx_len": 123614, "pred": "1. qiaahg 2. znmdeh 3. bwhkyv<|eot_id|>", "needle": ["qiaahg", "znmdeh", "bwhkyv"], "score": 1.0}
+{"ctx_len": 126580, "pred": "1. psvdfq 2. zmktdc 3. zaenrt<|eot_id|>", "needle": ["psvdfq", "zmktdc", "bpicwe"], "score": 0.6666666666666666}
+{"ctx_len": 115521, "pred": "1. pwxfhe 2. ziubwk 3. bnrmwd<|eot_id|>", "needle": ["pwxfhe", "ziubwk", "bnrmwd"], "score": 1.0}
+{"ctx_len": 127357, "pred": "1. pwzhtq 2. zfotfj 3. bqazgc<|eot_id|>", "needle": ["pwzhtq", "zfotfj", "bqazgc"], "score": 1.0}
+{"ctx_len": 115019, "pred": "1. pyojfp 2. zkcgkd 3. brdqnx<|eot_id|>", "needle": ["pyojfp", "zkcgkd", "brdqnx"], "score": 1.0}
+{"ctx_len": 120670, "pred": "1. qermvd 2. zmcgyb 3. buixsc<|eot_id|>", "needle": ["qermvd", "zmcgyb", "buixsc"], "score": 1.0}
+{"ctx_len": 130413, "pred": "1. qakqms 2. zjhfsi 3. yxekqh<|eot_id|>", "needle": ["qakqms", "zjhfsi", "bsndhp"], "score": 0.6666666666666666}
+{"ctx_len": 119553, "pred": "1. zlykwe 2. pyljot 3. bscanz<|eot_id|>", "needle": ["pyljot", "zlykwe", "bscanz"], "score": 1.0}
+{"ctx_len": 116573, "pred": "pwusoi, zlumfe, and bvuxsq.<|eot_id|>", "needle": ["pwusoi", "zlumfe", "bvuxsq"], "score": 1.0}
+{"ctx_len": 130141, "pred": "1. qbgvvv 2. zhegke 3. bslezs<|eot_id|>", "needle": ["qbgvvv", "zhegke", "bslezs"], "score": 1.0}
+{"ctx_len": 119042, "pred": "1. pvpnat 2. zjphci 3. bmzmwn<|eot_id|>", "needle": ["pvpnat", "zjphci", "bmzmwn"], "score": 1.0}
+{"ctx_len": 116008, "pred": "1. puhnbb 2. zkooap 3. blpjzo<|eot_id|>", "needle": ["puhnbb", "zkooap", "blpjzo"], "score": 1.0}
+{"ctx_len": 115840, "pred": "prirnu, zggdns, and bnyfux.<|eot_id|>", "needle": ["prirnu", "zggdns", "bnyfux"], "score": 1.0}
+{"ctx_len": 125920, "pred": "prnuph, zjvzjn, and bprarj.<|eot_id|>", "needle": ["prnuph", "zjvzjn", "bprarj"], "score": 1.0}
+{"ctx_len": 122402, "pred": "1. pruaam 2. zhqcrq 3. bovuph<|eot_id|>", "needle": ["pruaam", "zhqcrq", "bovuph"], "score": 1.0}
+{"ctx_len": 125427, "pred": "1. plnheb 2. zjzdlf 3. bpjqmx<|eot_id|>", "needle": ["plnheb", "zjzdlf", "bpjqmx"], "score": 1.0}
+{"ctx_len": 121625, "pred": "1. pnhyoc 2. zjkscs 3. joqjdn<|eot_id|>", "needle": ["pnhyoc", "zjkscs", "bpokll"], "score": 0.6666666666666666}
+{"ctx_len": 119614, "pred": "1. qbooro 2. zjjqsu 3. brjsbs<|eot_id|>", "needle": ["qbooro", "zjjqsu", "brjsbs"], "score": 1.0}
+{"ctx_len": 125715, "pred": "1. ptiwgq 2. zkqnca 3. bmcihr<|eot_id|>", "needle": ["ptiwgq", "zkqnca", "bmcihr"], "score": 1.0}
+{"ctx_len": 113802, "pred": "1. pqmnbs 2. zlipbz 3. bzdbmf<|eot_id|>", "needle": ["pqmnbs", "zlipbz", "bzdbmf"], "score": 1.0}
+{"ctx_len": 121218, "pred": "zhgjoq, bpryyw, and yvpceb.<|eot_id|>", "needle": ["pokxuy", "zhgjoq", "bpryyw"], "score": 0.6666666666666666}
+{"ctx_len": 120025, "pred": "1. pvcjrh 2. bspunj 3. zbvxmp<|eot_id|>", "needle": ["pvcjrh", "znacia", "bspunj"], "score": 0.6666666666666666}
+{"ctx_len": 116140, "pred": "1. zkibtc 2. pxexle 3. buipbe<|eot_id|>", "needle": ["pxexle", "zkibtc", "buipbe"], "score": 1.0}
+{"ctx_len": 128919, "pred": "1. pwtbsg 2. zhsyiw 3. jqzlaq<|eot_id|>", "needle": ["pwtbsg", "zhsyiw", "bspmff"], "score": 0.6666666666666666}
+{"ctx_len": 114271, "pred": "1. zkgoxm 2. qabhur 3. btwwvw<|eot_id|>", "needle": ["qabhur", "zkgoxm", "btwwvw"], "score": 1.0}
+{"ctx_len": 128310, "pred": "1. qdpsyu 2. zlhzrm 3. yznxmm<|eot_id|>", "needle": ["qdpsyu", "zlhzrm", "bqepak"], "score": 0.6666666666666666}
+{"ctx_len": 128692, "pred": "1. ptfwzy 2. zlzhon 3. bopiul<|eot_id|>", "needle": ["ptfwzy", "zlzhon", "bopiul"], "score": 1.0}
+{"ctx_len": 118668, "pred": "1. pnejtu 2. zizhbp 3. bsrcuv<|eot_id|>", "needle": ["pnejtu", "zizhbp", "bsrcuv"], "score": 1.0}
+{"ctx_len": 128931, "pred": "1. qbbjht 2. zkmofk 3. ywfmoq<|eot_id|>", "needle": ["qbbjht", "zkmofk", "brnvnp"], "score": 0.6666666666666666}
+{"ctx_len": 116670, "pred": "qafbfa, zjugtl, and ywulcy.<|eot_id|>", "needle": ["qafbfa", "zjugtl", "bqmmub"], "score": 0.6666666666666666}
+{"ctx_len": 120669, "pred": "1. qandie 2. zogioy 3. bwuecz<|eot_id|>", "needle": ["qandie", "zogioy", "bwuecz"], "score": 1.0}
+{"ctx_len": 126496, "pred": "1. prkqvc 2. zhubpj 3. blrxxl<|eot_id|>", "needle": ["prkqvc", "zhubpj", "blrxxl"], "score": 1.0}
+{"ctx_len": 115010, "pred": "1. ptudzh 2. zkclfi 3. bvknvj<|eot_id|>", "needle": ["ptudzh", "zkclfi", "bvknvj"], "score": 1.0}
+{"ctx_len": 120219, "pred": "1. pwexgn 2. zksqkn 3. brzplv<|eot_id|>", "needle": ["pwexgn", "zksqkn", "brzplv"], "score": 1.0}
+{"ctx_len": 122979, "pred": "1. plvylh 2. zivdci 3. btpcjm<|eot_id|>", "needle": ["plvylh", "zivdci", "btpcjm"], "score": 1.0}
+{"ctx_len": 118273, "pred": "1. qckybm 2. zlccbn 3. bqjnzs<|eot_id|>", "needle": ["qckybm", "zlccbn", "bqjnzs"], "score": 1.0}
+{"ctx_len": 125920, "pred": "1. psngqk 2. zllpin 3. yxjhtx<|eot_id|>", "needle": ["psngqk", "zllpin", "bnthik"], "score": 0.6666666666666666}
+{"ctx_len": 128309, "pred": "1. ptltsb 2. zmdyjs 3. btvaoh<|eot_id|>", "needle": ["ptltsb", "zmdyjs", "btvaoh"], "score": 1.0}
+{"ctx_len": 120958, "pred": "1. pujtim 2. zmdnnc 3. blwckd<|eot_id|>", "needle": ["pujtim", "zmdnnc", "blwckd"], "score": 1.0}
+{"ctx_len": 117283, "pred": "1. qaeenn 2. zingsa 3. buxhus<|eot_id|>", "needle": ["qaeenn", "zingsa", "buxhus"], "score": 1.0}
+{"ctx_len": 117029, "pred": "1. zjnvro 2. pclbyp 3. ywzwgq<|eot_id|>", "needle": ["pclbyp", "zjnvro", "bmiosh"], "score": 0.6666666666666666}
+{"ctx_len": 125399, "pred": "pmtmsa, zhuaub, and bqojxb.<|eot_id|>", "needle": ["pmtmsa", "zhuaub", "bqojxb"], "score": 1.0}
+{"ctx_len": 128731, "pred": "1. pvpjpq 2. zkpqeb 3. boftzo<|eot_id|>", "needle": ["pvpjpq", "zkpqeb", "boftzo"], "score": 1.0}
+{"ctx_len": 122252, "pred": "1. pqwapd 2. zisjvk 3. brqfmq<|eot_id|>", "needle": ["pqwapd", "zisjvk", "brqfmq"], "score": 1.0}
+{"ctx_len": 119092, "pred": "1. ppvpew 2. zkzcmd 3. ywqpbx<|eot_id|>", "needle": ["ppvpew", "zkzcmd", "bsqfys"], "score": 0.6666666666666666}
+{"ctx_len": 121647, "pred": "1. phlnzu 2. zjrfsp 3. yxooeo<|eot_id|>", "needle": ["phlnzu", "zjrfsp", "bqldpo"], "score": 0.6666666666666666}
+{"ctx_len": 122559, "pred": "1. ppzirb 2. zjzkkv 3. zahepn<|eot_id|>", "needle": ["ppzirb", "zjzkkv", "btflvr"], "score": 0.6666666666666666}
+{"ctx_len": 129003, "pred": "1. qgumju 2. zjfrrw 3. yyqdpe<|eot_id|>", "needle": ["qgumju", "zjfrrw", "bqubvd"], "score": 0.6666666666666666}
+{"ctx_len": 125565, "pred": "1. zjxgkn 2. pkirix 3. bpwjwv<|eot_id|>", "needle": ["pkirix", "zjxgkn", "bpwjwv"], "score": 1.0}
+{"ctx_len": 119602, "pred": "1. pqksoc 2. zljdcu 3. bxawjr<|eot_id|>", "needle": ["pqksoc", "zljdcu", "bxawjr"], "score": 1.0}
+{"ctx_len": 125292, "pred": "1. pvxguu 2. zmahea 3. bxdrdn<|eot_id|>", "needle": ["pvxguu", "zmahea", "bxdrdn"], "score": 1.0}
+{"ctx_len": 125593, "pred": "1. pqjceg 2. ziskuv 3. bnwxjq<|eot_id|>", "needle": ["pqjceg", "ziskuv", "bnwxjq"], "score": 1.0}
+{"ctx_len": 118371, "pred": "1. pzipmp 2. zmxpqe 3. borqws<|eot_id|>", "needle": ["pzipmp", "zmxpqe", "borqws"], "score": 1.0}
+{"ctx_len": 119526, "pred": "1. ptaygh 2. zljrqv 3. btjjzk<|eot_id|>", "needle": ["ptaygh", "zljrqv", "btjjzk"], "score": 1.0}
+{"ctx_len": 123401, "pred": "1. psknid 2. zjbofj 3. buzhrq<|eot_id|>", "needle": ["psknid", "zjbofj", "buzhrq"], "score": 1.0}
+{"ctx_len": 120074, "pred": "1. pwelbl 2. zkbzcp 3. bnaabg<|eot_id|>", "needle": ["pwelbl", "zkbzcp", "bnaabg"], "score": 1.0}
+{"ctx_len": 117158, "pred": "1. pwriwi 2. zivbgf 3. yvaexf<|eot_id|>", "needle": ["pwriwi", "zivbgf", "bppgeh"], "score": 0.6666666666666666}
+{"ctx_len": 114115, "pred": "1. zkdgto 2. blezwf 3. ywqqgv<|eot_id|>", "needle": ["pilcxh", "zkdgto", "blezwf"], "score": 0.6666666666666666}
+{"ctx_len": 114032, "pred": "pwbczx, zjbddb, and ywelfo.<|eot_id|>", "needle": ["pwbczx", "zjbddb", "bpnari"], "score": 0.6666666666666666}
+{"ctx_len": 120761, "pred": "1. zkslpr 2. pqrsfl 3. borbxq<|eot_id|>", "needle": ["pqrsfl", "zkslpr", "borbxq"], "score": 1.0}
+{"ctx_len": 122339, "pred": "1. zibmyg 2. pvxsdk 3. brmepn<|eot_id|>", "needle": ["pvxsdk", "zibmyg", "brmepn"], "score": 1.0}
+{"ctx_len": 113376, "pred": "1. prtbjm 2. zliasm 3. bsjsxp<|eot_id|>", "needle": ["prtbjm", "zliasm", "bsjsxp"], "score": 1.0}
+{"ctx_len": 121446, "pred": "1. plluln 2. zkmqib 3. ywofgf<|eot_id|>", "needle": ["plluln", "zkmqib", "bqflqy"], "score": 0.6666666666666666}
+{"ctx_len": 123958, "pred": "1. qdlzni 2. zkuvly 3. bybgri<|eot_id|>", "needle": ["qdlzni", "zkuvly", "bybgri"], "score": 1.0}
+{"ctx_len": 118824, "pred": "1. ptapty 2. zjptsb 3. bohluq<|eot_id|>", "needle": ["ptapty", "zjptsb", "bohluq"], "score": 1.0}
+{"ctx_len": 123736, "pred": "1. zkpvvr 2. qdarrl 3. buogef<|eot_id|>", "needle": ["qdarrl", "zkpvvr", "buogef"], "score": 1.0}
+{"ctx_len": 122996, "pred": "1. qjawlp 2. zlkscv 3. btdyrd<|eot_id|>", "needle": ["qjawlp", "zlkscv", "btdyrd"], "score": 1.0}
+{"ctx_len": 115731, "pred": "1. pyfefm 2. zmjfow 3. bsethr<|eot_id|>", "needle": ["pyfefm", "zmjfow", "bsethr"], "score": 1.0}
+{"ctx_len": 120401, "pred": "1. pwzcpp 2. zijxqo 3. btvdgw<|eot_id|>", "needle": ["pwzcpp", "zijxqo", "btvdgw"], "score": 1.0}
+{"ctx_len": 124530, "pred": "1. puaqvh 2. zlghrq 3. bsozqp<|eot_id|>", "needle": ["puaqvh", "zlghrq", "bsozqp"], "score": 1.0}
+{"ctx_len": 118315, "pred": "1. ptrgqa 2. zkitpt 3. bmbqjs<|eot_id|>", "needle": ["ptrgqa", "zkitpt", "bmbqjs"], "score": 1.0}
+{"ctx_len": 127910, "pred": "1. qanvtc 2. zkbzld 3. btluyl<|eot_id|>", "needle": ["qanvtc", "zkbzld", "btluyl"], "score": 1.0}
+{"ctx_len": 127427, "pred": "1. pmxymh 2. zizdpb 3. boeqdz<|eot_id|>", "needle": ["pmxymh", "zizdpb", "boeqdz"], "score": 1.0}
+{"ctx_len": 114963, "pred": "1. bnbyod 2. pqviam 3. zgkjgy<|eot_id|>", "needle": ["pqviam", "zgkjgy", "bnbyod"], "score": 1.0}
+{"ctx_len": 112991, "pred": "pvjdiz, zmsovc, and bucbxt.<|eot_id|>", "needle": ["pvjdiz", "zmsovc", "bucbxt"], "score": 1.0}
+{"ctx_len": 129955, "pred": "1. qbcewq 2. zmbjnd 3. bmzbqk<|eot_id|>", "needle": ["qbcewq", "zmbjnd", "bmzbqk"], "score": 1.0}
+{"ctx_len": 120166, "pred": "1. prbuca 2. zkvaoi 3. bpofhy<|eot_id|>", "needle": ["prbuca", "zkvaoi", "bpofhy"], "score": 1.0}
+{"ctx_len": 117544, "pred": "pwaxll, zlmlgs, and bplisd.<|eot_id|>", "needle": ["pwaxll", "zlmlgs", "bplisd"], "score": 1.0}
+{"ctx_len": 121768, "pred": "1. psmaci 2. zlnnkx 3. bwdxxt<|eot_id|>", "needle": ["psmaci", "zlnnkx", "bwdxxt"], "score": 1.0}
+{"ctx_len": 118195, "pred": "1. zfkudl 2. pvltvc 3. bqjaei<|eot_id|>", "needle": ["pvltvc", "zfkudl", "bqjaei"], "score": 1.0}
+{"ctx_len": 125012, "pred": "1. pkvbnx 2. zkfmrw 3. yxxdit<|eot_id|>", "needle": ["pkvbnx", "zkfmrw", "brjabi"], "score": 0.6666666666666666}
+{"ctx_len": 126037, "pred": "1. ppejeu 2. zlqxtx 3. brvrvy<|eot_id|>", "needle": ["ppejeu", "zlqxtx", "brvrvy"], "score": 1.0}
+{"ctx_len": 120130, "pred": "1. prokbq 2. zfmahl 3. bnwdeu<|eot_id|>", "needle": ["prokbq", "zfmahl", "bnwdeu"], "score": 1.0}
+{"ctx_len": 121032, "pred": "1. psfbpq 2. zkrslx 3. bqqiyf<|eot_id|>", "needle": ["psfbpq", "zkrslx", "bqqiyf"], "score": 1.0}
+{"ctx_len": 123657, "pred": "qeqwlh, zlboth, and bqewco.<|eot_id|>", "needle": ["qeqwlh", "zlboth", "bqewco"], "score": 1.0}
+{"ctx_len": 127696, "pred": "1. qgcnpc 2. zkmqoy 3. jyekrx<|eot_id|>", "needle": ["qgcnpc", "zkmqoy", "builcp"], "score": 0.6666666666666666}
+{"ctx_len": 124189, "pred": "1. ppqzst 2. zkmpfi 3. btgoau<|eot_id|>", "needle": ["ppqzst", "zkmpfi", "btgoau"], "score": 1.0}
+{"ctx_len": 116381, "pred": "pxovma, znxfkj, and bslsmb.<|eot_id|>", "needle": ["pxovma", "znxfkj", "bslsmb"], "score": 1.0}
+{"ctx_len": 129310, "pred": "1. pquwfd 2. zkkosn 3. bktyjd<|eot_id|>", "needle": ["pquwfd", "zkkosn", "bktyjd"], "score": 1.0}
+{"ctx_len": 118525, "pred": "1. zjyjsr 2. pulisi 3. bsovnz<|eot_id|>", "needle": ["pulisi", "zjyjsr", "bsovnz"], "score": 1.0}
+{"ctx_len": 104760, "pred": "1. zhnmwb 2. bqingq 3. priown<|eot_id|>", "needle": ["priown", "zhnmwb", "bqingq"], "score": 1.0}
+{"ctx_len": 122994, "pred": "1. zlumlh 2. btkfqm 3. pxbeeq<|eot_id|>", "needle": ["pxbeeq", "zlumlh", "btkfqm"], "score": 1.0}
+{"ctx_len": 122372, "pred": "1. zlmnfh 2. pnthcd 3. bopdze<|eot_id|>", "needle": ["pnthcd", "zlmnfh", "bopdze"], "score": 1.0}
+{"ctx_len": 122627, "pred": "1. psqcos 2. zisqns 3. bueovx<|eot_id|>", "needle": ["psqcos", "zisqns", "bueovx"], "score": 1.0}
+{"ctx_len": 124223, "pred": "1. ptpjqn 2. zmkjlh 3. bvehsj<|eot_id|>", "needle": ["ptpjqn", "zmkjlh", "bvehsj"], "score": 1.0}
+{"ctx_len": 124718, "pred": "pqfzko, zieaou, and bmztvl.<|eot_id|>", "needle": ["pqfzko", "zieaou", "bmztvl"], "score": 1.0}
+{"ctx_len": 117337, "pred": "1. pobvmc 2. zkxsve 3. bukbmm<|eot_id|>", "needle": ["pobvmc", "zkxsve", "bukbmm"], "score": 1.0}
+{"ctx_len": 125861, "pred": "1. pxwzyy 2. zhpuly 3. ytydbu<|eot_id|>", "needle": ["pxwzyy", "zhpuly", "bquutc"], "score": 0.6666666666666666}
+{"ctx_len": 130757, "pred": "1. psuqgp 2. zjwbzu 3. bktgod<|eot_id|>", "needle": ["psuqgp", "zjwbzu", "bktgod"], "score": 1.0}
+{"ctx_len": 119790, "pred": "pwzmvy, zhxmtb, and bruyga.<|eot_id|>", "needle": ["pwzmvy", "zhxmtb", "bruyga"], "score": 1.0}
+{"ctx_len": 118246, "pred": "1. zjyfbd 2. pillsv 3. bxdcdy<|eot_id|>", "needle": ["pillsv", "zjyfbd", "bxdcdy"], "score": 1.0}
+{"ctx_len": 112566, "pred": "1. ptbodd 2. zgugxy 3. ytexqu<|eot_id|>", "needle": ["ptbodd", "zgugxy", "bocklo"], "score": 0.6666666666666666}
+{"ctx_len": 126639, "pred": "1. qckuwl 2. zissct 3. brrwjm<|eot_id|>", "needle": ["qckuwl", "zissct", "brrwjm"], "score": 1.0}
+{"ctx_len": 118914, "pred": "1. zlxibq 2. bzunqx 3. yzvorj<|eot_id|>", "needle": ["przpoj", "zlxibq", "bzunqx"], "score": 0.6666666666666666}
+{"ctx_len": 119572, "pred": "1. zjswah 2. pptcic 3. yvkwyf<|eot_id|>", "needle": ["pptcic", "zjswah", "brjssp"], "score": 0.6666666666666666}
+{"ctx_len": 121900, "pred": "1. pezxhv 2. ziuueh 3. bjphtx<|eot_id|>", "needle": ["pezxhv", "ziuueh", "bjphtx"], "score": 1.0}
+{"ctx_len": 117266, "pred": "1. bqqdut 2. zktrae 3. pokldk<|eot_id|>", "needle": ["pokldk", "zktrae", "bqqdut"], "score": 1.0}
+{"ctx_len": 115357, "pred": "1. pzgbwn 2. zmryup 3. bprlst<|eot_id|>", "needle": ["pzgbwn", "zmryup", "bprlst"], "score": 1.0}
+{"ctx_len": 127931, "pred": "1. pqujpy 2. zgkgts 3. bmticu<|eot_id|>", "needle": ["pqujpy", "zgkgts", "bmticu"], "score": 1.0}
+{"ctx_len": 123539, "pred": "1. pvypnt 2. zlsvhj 3. yxgotc<|eot_id|>", "needle": ["pvypnt", "zlsvhj", "brqdwo"], "score": 0.6666666666666666}
+{"ctx_len": 118713, "pred": "1. pwgifu 2. zlnuuq 3. bsqofi<|eot_id|>", "needle": ["pwgifu", "zlnuuq", "bsqofi"], "score": 1.0}
+{"ctx_len": 130879, "pred": "1. qdnnlj 2. zktsvz 3. yzawig<|eot_id|>", "needle": ["qdnnlj", "zktsvz", "bxdaxw"], "score": 0.6666666666666666}
+{"ctx_len": 113741, "pred": "1. zkjozb 2. bwcznk 3. yzapad<|eot_id|>", "needle": ["pkstqv", "zkjozb", "bwcznk"], "score": 0.6666666666666666}
+{"ctx_len": 124583, "pred": "1. pthvbv 2. zjatrb 3. bsdcbh<|eot_id|>", "needle": ["pthvbv", "zjatrb", "bsdcbh"], "score": 1.0}
+{"ctx_len": 121052, "pred": "1. qfnely 2. zjfbcv 3. btggeu<|eot_id|>", "needle": ["qfnely", "zjfbcv", "btggeu"], "score": 1.0}
+{"ctx_len": 127113, "pred": "1. qaumqk 2. zlwvwu 3. yydzga<|eot_id|>", "needle": ["qaumqk", "zlwvwu", "bryles"], "score": 0.6666666666666666}
+{"ctx_len": 115773, "pred": "1. poosnb 2. zjsxgo 3. btjjat<|eot_id|>", "needle": ["poosnb", "zjsxgo", "btjjat"], "score": 1.0}
+{"ctx_len": 117873, "pred": "1. pmravt 2. zmelvx 3. yxkwgm<|eot_id|>", "needle": ["pmravt", "zmelvx", "bqnaxp"], "score": 0.6666666666666666}
+{"ctx_len": 116238, "pred": "1. zmkkfx 2. pinhqn 3. bpnmtn<|eot_id|>", "needle": ["pinhqn", "zmkkfx", "bpnmtn"], "score": 1.0}
+{"ctx_len": 115576, "pred": "1. pvzmzi 2. zipzcg 3. yxspyi<|eot_id|>", "needle": ["pvzmzi", "zipzcg", "bmulpl"], "score": 0.6666666666666666}
+{"ctx_len": 119809, "pred": "1. zjdazj 2. yxoajf 3. pkndrx<|eot_id|>", "needle": ["pkndrx", "zjdazj", "bqabid"], "score": 0.6666666666666666}
+{"ctx_len": 106489, "pred": "1. ptrcem 2. zhxges 3. bwazhw<|eot_id|>", "needle": ["ptrcem", "zhxges", "bwazhw"], "score": 1.0}
+{"ctx_len": 129888, "pred": "1. pmruwq 2. zgtpjx 3. yukgix<|eot_id|>", "needle": ["pmruwq", "zgtpjx", "bqtxfu"], "score": 0.6666666666666666}
+{"ctx_len": 123311, "pred": "1. ptqtrq 2. zhjjkc 3. bqczhr<|eot_id|>", "needle": ["ptqtrq", "zhjjkc", "bqczhr"], "score": 1.0}
+{"ctx_len": 115706, "pred": "1. prnszl 2. zknrch 3. brzsss<|eot_id|>", "needle": ["prnszl", "zknrch", "brzsss"], "score": 1.0}
+{"ctx_len": 124132, "pred": "1. qacmrs 2. zhsfae 3. bqzphs<|eot_id|>", "needle": ["qacmrs", "zhsfae", "bqzphs"], "score": 1.0}
+{"ctx_len": 122255, "pred": "1. zhvkzg 2. btxvbc 3. yvkmjp<|eot_id|>", "needle": ["ptduib", "zhvkzg", "btxvbc"], "score": 0.6666666666666666}
+{"ctx_len": 104154, "pred": "1. bovhxn 2. zgbrpe 3. jipuzr<|eot_id|>", "needle": ["podpul", "zgbrpe", "bovhxn"], "score": 0.6666666666666666}
+{"ctx_len": 106270, "pred": "1. bwzvtf 2. psyfox 3. zigtxr<|eot_id|>", "needle": ["psyfox", "zigtxr", "bwzvtf"], "score": 1.0}
+{"ctx_len": 113040, "pred": "1. zjqcgf 2. polluf 3. ywwnki<|eot_id|>", "needle": ["polluf", "zjqcgf", "brrkac"], "score": 0.6666666666666666}
+{"ctx_len": 118833, "pred": "1. pzdnxz 2. zmejne 3. jpkikl<|eot_id|>", "needle": ["pzdnxz", "zmejne", "bruydt"], "score": 0.6666666666666666}
+{"ctx_len": 120632, "pred": "1. pwmamv 2. zjkgrd 3. yxgjgr<|eot_id|>", "needle": ["pwmamv", "zjkgrd", "bugibh"], "score": 0.6666666666666666}
+{"ctx_len": 118924, "pred": "1. qmakqm 2. zlmeiq 3. byhtdz<|eot_id|>", "needle": ["qmakqm", "zlmeiq", "byhtdz"], "score": 1.0}
+{"ctx_len": 126500, "pred": "pjgqiy, zleptr, and bnmpvs.<|eot_id|>", "needle": ["pjgqiy", "zleptr", "bnmpvs"], "score": 1.0}
+{"ctx_len": 125535, "pred": "1. qhqzgr 2. zkhcad 3. bvziuo<|eot_id|>", "needle": ["qhqzgr", "zkhcad", "bvziuo"], "score": 1.0}
+{"ctx_len": 115453, "pred": "pqmjyz, zmvisu, and zbnqga.<|eot_id|>", "needle": ["pqmjyz", "zmvisu", "bosqio"], "score": 0.6666666666666666}
+{"ctx_len": 115287, "pred": "1. qglyil 2. zkgtzi 3. brvmfg<|eot_id|>", "needle": ["qglyil", "zkgtzi", "brvmfg"], "score": 1.0}
+{"ctx_len": 115707, "pred": "1. powjjw 2. zijlyi 3. ytqixc<|eot_id|>", "needle": ["powjjw", "zijlyi", "borpeq"], "score": 0.6666666666666666}
+{"ctx_len": 127772, "pred": "pyzgoe, zlomiy, and btkzpk.<|eot_id|>", "needle": ["pyzgoe", "zlomiy", "btkzpk"], "score": 1.0}
+{"ctx_len": 118736, "pred": "1. prviml 2. zklmgz 3. bwkoxy<|eot_id|>", "needle": ["prviml", "zklmgz", "bwkoxy"], "score": 1.0}
+{"ctx_len": 124002, "pred": "1. puasvh 2. zlqkgc 3. bxfgym<|eot_id|>", "needle": ["puasvh", "zlqkgc", "bxfgym"], "score": 1.0}
+{"ctx_len": 115161, "pred": "1. pscuno 2. zkrctx 3. brbfkc<|eot_id|>", "needle": ["pscuno", "zkrctx", "brbfkc"], "score": 1.0}
+{"ctx_len": 124261, "pred": "1. pxwtki 2. zmwyxy 3. yzjfoy<|eot_id|>", "needle": ["pxwtki", "zmwyxy", "bpbpos"], "score": 0.6666666666666666}
+{"ctx_len": 126202, "pred": "1. qficqg 2. zjwryp 3. bwrdkp<|eot_id|>", "needle": ["qficqg", "zjwryp", "bwrdkp"], "score": 1.0}
+{"ctx_len": 129567, "pred": "1. qbgdze 2. zggxbw 3. yveaov<|eot_id|>", "needle": ["qbgdze", "zggxbw", "byaxul"], "score": 0.6666666666666666}
+{"ctx_len": 126128, "pred": "1. zjvshl 2. pzolnp 3. bqzgmx<|eot_id|>", "needle": ["pzolnp", "zjvshl", "bqzgmx"], "score": 1.0}
+{"ctx_len": 121269, "pred": "1. ppikdp 2. zliipf 3. bqsdsj<|eot_id|>", "needle": ["ppikdp", "zliipf", "bqsdsj"], "score": 1.0}
+{"ctx_len": 118251, "pred": "1. pwatvf 2. zkppzj 3. bvwozy<|eot_id|>", "needle": ["pwatvf", "zkppzj", "bvwozy"], "score": 1.0}
+{"ctx_len": 112071, "pred": "1. zmgtck 2. brnxvh 3. poplgs<|eot_id|>", "needle": ["poplgs", "zmgtck", "brnxvh"], "score": 1.0}
+{"ctx_len": 124349, "pred": "1. qcxnrb 2. zkrlfb 3. btymap<|eot_id|>", "needle": ["qcxnrb", "zkrlfb", "btymap"], "score": 1.0}
+{"ctx_len": 114763, "pred": "1. qdjens 2. zkdrpn 3. bsmbsd<|eot_id|>", "needle": ["qdjens", "zkdrpn", "bsmbsd"], "score": 1.0}
+{"ctx_len": 117964, "pred": "1. zlvpni 2. pvqrkn 3. bozemh<|eot_id|>", "needle": ["pvqrkn", "zlvpni", "bozemh"], "score": 1.0}
+{"ctx_len": 124560, "pred": "1. qdrduf 2. zksoca 3. bvcjjp<|eot_id|>", "needle": ["qdrduf", "zksoca", "bvcjjp"], "score": 1.0}
+{"ctx_len": 113063, "pred": "1. bvnrsh 2. yvyalf 3. zijplp<|eot_id|>", "needle": ["phirip", "zijplp", "bvnrsh"], "score": 0.6666666666666666}
+{"ctx_len": 125306, "pred": "1. qanopx 2. zktxsw 3. bxwbnz<|eot_id|>", "needle": ["qanopx", "zktxsw", "bxwbnz"], "score": 1.0}
+{"ctx_len": 123558, "pred": "1. pwfndz 2. zltnrt 3. bqgkep<|eot_id|>", "needle": ["pwfndz", "zltnrt", "bqgkep"], "score": 1.0}
+{"ctx_len": 117155, "pred": "1. prukla 2. zissic 3. bkpvaf<|eot_id|>", "needle": ["prukla", "zissic", "bkpvaf"], "score": 1.0}
+{"ctx_len": 129768, "pred": "1. pnjuea 2. zjkdkk 3. yvdpmp<|eot_id|>", "needle": ["pnjuea", "zjkdkk", "bohanq"], "score": 0.6666666666666666}
+{"ctx_len": 123852, "pred": "1. qgdeoy 2. zjrvej 3. bypupf<|eot_id|>", "needle": ["qgdeoy", "zjrvej", "bypupf"], "score": 1.0}
+{"ctx_len": 119537, "pred": "1. pvgnec 2. zlfsrf 3. bqbchh<|eot_id|>", "needle": ["pvgnec", "zlfsrf", "bqbchh"], "score": 1.0}
+{"ctx_len": 112865, "pred": "1. pwikkm 2. zkmyra 3. btuors<|eot_id|>", "needle": ["pwikkm", "zkmyra", "btuors"], "score": 1.0}
+{"ctx_len": 127111, "pred": "1. pxrtpu 2. ziulsa 3. brfobq<|eot_id|>", "needle": ["pxrtpu", "ziulsa", "brfobq"], "score": 1.0}
+{"ctx_len": 119713, "pred": "1. pqvhkp 2. zkgcbu 3. yxgwhv<|eot_id|>", "needle": ["pqvhkp", "zkgcbu", "bsafia"], "score": 0.6666666666666666}
+{"ctx_len": 119604, "pred": "1. zhcqgh 2. prtskn 3. ytihct<|eot_id|>", "needle": ["prtskn", "zhcqgh", "brnbcb"], "score": 0.6666666666666666}
+{"ctx_len": 128591, "pred": "prpplv, zkmcdo, and brrjru.<|eot_id|>", "needle": ["prpplv", "zkmcdo", "brrjru"], "score": 1.0}
+{"ctx_len": 118220, "pred": "1. pujujl 2. zhbsbp 3. bpgndk<|eot_id|>", "needle": ["pujujl", "zhbsbp", "bpgndk"], "score": 1.0}
+{"ctx_len": 126044, "pred": "1. pnfrjo 2. zdsptv 3. btzgjy<|eot_id|>", "needle": ["pnfrjo", "zdsptv", "btzgjy"], "score": 1.0}
+{"ctx_len": 122777, "pred": "1. pkygfh 2. zkfwyf 3. bqwlzk<|eot_id|>", "needle": ["pkygfh", "zkfwyf", "bqwlzk"], "score": 1.0}
+{"ctx_len": 124564, "pred": "1. pswgmu 2. ziyzkq 3. yzdjro<|eot_id|>", "needle": ["pswgmu", "ziyzkq", "bqzmod"], "score": 0.6666666666666666}
+{"ctx_len": 116627, "pred": "1. zjbrkg 2. pxsjej 3. ywhwvc<|eot_id|>", "needle": ["pxsjej", "zjbrkg", "buttqh"], "score": 0.6666666666666666}
+{"ctx_len": 125542, "pred": "1. qhdxii 2. ziqlmc 3. ywyksk<|eot_id|>", "needle": ["qhdxii", "ziqlmc", "bresmm"], "score": 0.6666666666666666}
+{"ctx_len": 123318, "pred": "1. qbpkaj 2. zlvadl 3. bvcnhc<|eot_id|>", "needle": ["qbpkaj", "zlvadl", "bvcnhc"], "score": 1.0}
+{"ctx_len": 124069, "pred": "1. pxyeus 2. zjkiaq 3. ytybsk<|eot_id|>", "needle": ["pxyeus", "zjkiaq", "bpzvcv"], "score": 0.6666666666666666}
+{"ctx_len": 123496, "pred": "1. pmzlgh 2. zjjzuh 3. yxjgjw<|eot_id|>", "needle": ["pmzlgh", "zjjzuh", "blgugc"], "score": 0.6666666666666666}
+{"ctx_len": 127298, "pred": "1. pxpbgm 2. zjbbtn 3. btgpxz<|eot_id|>", "needle": ["pxpbgm", "zjbbtn", "btgpxz"], "score": 1.0}
+{"ctx_len": 125055, "pred": "1. pwhpsw 2. bwvoku 3. zkfanm<|eot_id|>", "needle": ["pwhpsw", "zkfanm", "bwvoku"], "score": 1.0}
+{"ctx_len": 125021, "pred": "1. pwynre 2. zlqfwj 3. bsmled<|eot_id|>", "needle": ["pwynre", "zlqfwj", "bsmled"], "score": 1.0}
+{"ctx_len": 120843, "pred": "1. zhyvgb 2. podhuh 3. bpaqft<|eot_id|>", "needle": ["podhuh", "zhyvgb", "bpaqft"], "score": 1.0}
+{"ctx_len": 117290, "pred": "1. qbniyg 2. zkhtfi 3. yypkoq<|eot_id|>", "needle": ["qbniyg", "zkhtfi", "bqptms"], "score": 0.6666666666666666}
+{"ctx_len": 113442, "pred": "ptkwal, znoffs, and bsnrdi.<|eot_id|>", "needle": ["ptkwal", "znoffs", "bsnrdi"], "score": 1.0}
+{"ctx_len": 120567, "pred": "1. pzcitr 2. ziafmy 3. boyvjm<|eot_id|>", "needle": ["pzcitr", "ziafmy", "boyvjm"], "score": 1.0}
+{"ctx_len": 122903, "pred": "1. pkvzdi 2. bvztxk 3. ywtraq<|eot_id|>", "needle": ["pkvzdi", "ziyucc", "bvztxk"], "score": 0.6666666666666666}
+{"ctx_len": 128158, "pred": "1. qjlwfy 2. zkkakl 3. bwovip<|eot_id|>", "needle": ["qjlwfy", "zkkakl", "bwovip"], "score": 1.0}
+{"ctx_len": 125776, "pred": "1. zjwqxz 2. pvfhag 3. btehaw<|eot_id|>", "needle": ["pvfhag", "zjwqxz", "btehaw"], "score": 1.0}
+{"ctx_len": 125139, "pred": "1. qbqyvf 2. zkbgzw 3. bwrtqp<|eot_id|>", "needle": ["qbqyvf", "zkbgzw", "bwrtqp"], "score": 1.0}
+{"ctx_len": 125571, "pred": "1. pquubc 2. zmmyqa 3. bscbgg<|eot_id|>", "needle": ["pquubc", "zmmyqa", "bscbgg"], "score": 1.0}
+{"ctx_len": 120082, "pred": "1. psouos 2. zduesr 3. yszjwu<|eot_id|>", "needle": ["psouos", "zduesr", "bqldjt"], "score": 0.6666666666666666}
+{"ctx_len": 122622, "pred": "1. pykdrh 2. zgohcr 3. bskxjy<|eot_id|>", "needle": ["pykdrh", "zgohcr", "bskxjy"], "score": 1.0}
+{"ctx_len": 116664, "pred": "ppdcpe, zfitxy, and bpdooe.<|eot_id|>", "needle": ["ppdcpe", "zfitxy", "bpdooe"], "score": 1.0}
+{"ctx_len": 115014, "pred": "1. pzhpdb 2. zlstzb 3. bpngde<|eot_id|>", "needle": ["pzhpdb", "zlstzb", "bpngde"], "score": 1.0}
+{"ctx_len": 123625, "pred": "1. ptwddv 2. zjsbzj 3. bsxnmk<|eot_id|>", "needle": ["ptwddv", "zjsbzj", "bsxnmk"], "score": 1.0}
+{"ctx_len": 118747, "pred": "1. ptumnh 2. zgdvse 3. jewsdm<|eot_id|>", "needle": ["ptumnh", "zgdvse", "boduoq"], "score": 0.6666666666666666}
+{"ctx_len": 127715, "pred": "1. pwybbp 2. znhutd 3. zarkrh<|eot_id|>", "needle": ["pwybbp", "znhutd", "bicifp"], "score": 0.6666666666666666}
+{"ctx_len": 129906, "pred": "1. pskutb 2. zktptn 3. bvypgi<|eot_id|>", "needle": ["pskutb", "zktptn", "bvypgi"], "score": 1.0}
+{"ctx_len": 121064, "pred": "1. puoyss 2. zitrcg 3. bsfqwc<|eot_id|>", "needle": ["puoyss", "zitrcg", "bsfqwc"], "score": 1.0}
+{"ctx_len": 115898, "pred": "1. qbuywb 2. zgarjo 3. bxajwg<|eot_id|>", "needle": ["qbuywb", "zgarjo", "bxajwg"], "score": 1.0}
+{"ctx_len": 118166, "pred": "1. zluifp 2. ptxtwn 3. yxhcpb<|eot_id|>", "needle": ["ptxtwn", "zluifp", "bsfbnb"], "score": 0.6666666666666666}
+{"ctx_len": 126589, "pred": "1. qgzkzt 2. znmgrs 3. bsrlak<|eot_id|>", "needle": ["qgzkzt", "znmgrs", "bsrlak"], "score": 1.0}
+{"ctx_len": 128334, "pred": "1. pceimf 2. zjdjzd 3. bntqii<|eot_id|>", "needle": ["pceimf", "zjdjzd", "bntqii"], "score": 1.0}
+{"ctx_len": 129151, "pred": "1. pyjznl 2. zghlzj 3. brmfqp<|eot_id|>", "needle": ["pyjznl", "zghlzj", "brmfqp"], "score": 1.0}
+{"ctx_len": 123238, "pred": "1. pjzuhk 2. zgsdoi 3. yurnsi<|eot_id|>", "needle": ["pjzuhk", "zgsdoi", "bsrxpz"], "score": 0.6666666666666666}
+{"ctx_len": 110828, "pred": "1. zkqjwm 2. yzhazf 3. bqomlr<|eot_id|>", "needle": ["pltidf", "zkqjwm", "bqomlr"], "score": 0.6666666666666666}
+{"ctx_len": 119688, "pred": "1. prfwbm 2. ziinel 3. bqielp<|eot_id|>", "needle": ["prfwbm", "ziinel", "bqielp"], "score": 1.0}
+{"ctx_len": 127811, "pred": "pwpvfl, zjcjtc, and brzxia.<|eot_id|>", "needle": ["pwpvfl", "zjcjtc", "brzxia"], "score": 1.0}
+{"ctx_len": 124570, "pred": "1. pzxqbb 2. znapcp 3. bpxbde<|eot_id|>", "needle": ["pzxqbb", "znapcp", "bpxbde"], "score": 1.0}
+{"ctx_len": 124408, "pred": "1. pnqgvk 2. zkpdhk 3. bqffmm<|eot_id|>", "needle": ["pnqgvk", "zkpdhk", "bqffmm"], "score": 1.0}
+{"ctx_len": 126318, "pred": "1. pvyecy 2. zlimni 3. bnvmws<|eot_id|>", "needle": ["pvyecy", "zlimni", "bnvmws"], "score": 1.0}
+{"ctx_len": 128552, "pred": "1. zjtsju 2. ptpdnp 3. bvwyxx<|eot_id|>", "needle": ["ptpdnp", "zjtsju", "bvwyxx"], "score": 1.0}
+{"ctx_len": 130224, "pred": "1. psohyj 2. zkyzcw 3. bmkwjd<|eot_id|>", "needle": ["psohyj", "zkyzcw", "bmkwjd"], "score": 1.0}
+{"ctx_len": 120673, "pred": "1. zjaorv 2. bwzbjr 3. yxqtdt<|eot_id|>", "needle": ["ptasql", "zjaorv", "bwzbjr"], "score": 0.6666666666666666}
+{"ctx_len": 125694, "pred": "1. qdzvsu 2. zktvfr 3. bwpbqg<|eot_id|>", "needle": ["qdzvsu", "zktvfr", "bwpbqg"], "score": 1.0}
+{"ctx_len": 130552, "pred": "1. pkavjx 2. bxjndj 3. zgthtq<|eot_id|>", "needle": ["pkavjx", "zgthtq", "bxjndj"], "score": 1.0}
+{"ctx_len": 119111, "pred": "1. pzqeba 2. zllkxe 3. yztuyd<|eot_id|>", "needle": ["pzqeba", "zllkxe", "bvkbpa"], "score": 0.6666666666666666}
+{"ctx_len": 116751, "pred": "1. ppknfb 2. zhesuf 3. brvkpl<|eot_id|>", "needle": ["ppknfb", "zhesuf", "brvkpl"], "score": 1.0}
+{"ctx_len": 123894, "pred": "1. qevqeh 2. zjidhv 3. bycjvx<|eot_id|>", "needle": ["qevqeh", "zjidhv", "bycjvx"], "score": 1.0}
+{"ctx_len": 121022, "pred": "1. pvmpfh 2. zpyihq 3. bvcpiu<|eot_id|>", "needle": ["pvmpfh", "zpyihq", "bvcpiu"], "score": 1.0}
+{"ctx_len": 128751, "pred": "1. pppvtc 2. zlgdmt 3. boxeby<|eot_id|>", "needle": ["pppvtc", "zlgdmt", "boxeby"], "score": 1.0}
+{"ctx_len": 116088, "pred": "1. ziiwas 2. punirw 3. jtdgkx<|eot_id|>", "needle": ["punirw", "ziiwas", "bsfdob"], "score": 0.6666666666666666}
+{"ctx_len": 116765, "pred": "1. prmqbg 2. zhxdyw 3. buhsnh<|eot_id|>", "needle": ["prmqbg", "zhxdyw", "buhsnh"], "score": 1.0}
+{"ctx_len": 123894, "pred": "pwilbi, zkqawx, and ywhadq.<|eot_id|>", "needle": ["pwilbi", "zkqawx", "bnjzft"], "score": 0.6666666666666666}
+{"ctx_len": 123487, "pred": "1. pmnbcj 2. zlfxbp 3. brkyyf<|eot_id|>", "needle": ["pmnbcj", "zlfxbp", "brkyyf"], "score": 1.0}
+{"ctx_len": 126795, "pred": "1. pufsef 2. zhptma 3. yvcbfp<|eot_id|>", "needle": ["pufsef", "zhptma", "bsjmtr"], "score": 0.6666666666666666}
+{"ctx_len": 130552, "pred": "1. pkfjzt 2. zjdmlk 3. bkyhsd<|eot_id|>", "needle": ["pkfjzt", "zjdmlk", "bkyhsd"], "score": 1.0}
+{"ctx_len": 119337, "pred": "1. qcqxjb 2. zjaxgc 3. bwevtv<|eot_id|>", "needle": ["qcqxjb", "zjaxgc", "bwevtv"], "score": 1.0}
+{"ctx_len": 123191, "pred": "1. qfhdrq 2. zjlckb 3. bwvcnq<|eot_id|>", "needle": ["qfhdrq", "zjlckb", "bwvcnq"], "score": 1.0}
+{"ctx_len": 126857, "pred": "1. qeoxvz 2. zliaqr 3. yzqtjj<|eot_id|>", "needle": ["qeoxvz", "zliaqr", "bqyopp"], "score": 0.6666666666666666}
+{"ctx_len": 120130, "pred": "1. pkicfy 2. zjdimj 3. yvypqr<|eot_id|>", "needle": ["pkicfy", "zjdimj", "bnobsa"], "score": 0.6666666666666666}
+{"ctx_len": 115341, "pred": "pulaxk, zjomxo, and bshmox.<|eot_id|>", "needle": ["pulaxk", "zjomxo", "bshmox"], "score": 1.0}
+{"ctx_len": 129231, "pred": "1. qkgqqi 2. zlfioc 3. bvfsak<|eot_id|>", "needle": ["qkgqqi", "zlfioc", "bvfsak"], "score": 1.0}
+{"ctx_len": 122655, "pred": "1. pylesw 2. zmfchm 3. bszzba<|eot_id|>", "needle": ["pylesw", "zmfchm", "bszzba"], "score": 1.0}
+{"ctx_len": 127432, "pred": "1. phbqic 2. zfbnlt 3. ytjuoi<|eot_id|>", "needle": ["phbqic", "zfbnlt", "bqcirg"], "score": 0.6666666666666666}
+{"ctx_len": 113556, "pred": "1. pvfady 2. zemzcn 3. bjyidl<|eot_id|>", "needle": ["pvfady", "zemzcn", "bjyidl"], "score": 1.0}
+{"ctx_len": 126459, "pred": "1. qgixlz 2. zmxjvz 3. bvgoig<|eot_id|>", "needle": ["qgixlz", "zmxjvz", "bvgoig"], "score": 1.0}
+{"ctx_len": 118131, "pred": "1. qdgzek 2. zkbqgu 3. buelfz<|eot_id|>", "needle": ["qdgzek", "zkbqgu", "buelfz"], "score": 1.0}
+{"ctx_len": 120065, "pred": "1. prifhk 2. zizdgo 3. bmrrvj<|eot_id|>", "needle": ["prifhk", "zizdgo", "bmrrvj"], "score": 1.0}
+{"ctx_len": 121011, "pred": "1. pnsgax 2. zheovz 3. bklxpv<|eot_id|>", "needle": ["pnsgax", "zheovz", "bklxpv"], "score": 1.0}
+{"ctx_len": 117937, "pred": "pyisyc, zmnfvv, and bozkhn.<|eot_id|>", "needle": ["pyisyc", "zmnfvv", "bozkhn"], "score": 1.0}
+{"ctx_len": 120144, "pred": "1. plunzc 2. zlhkbi 3. bmovqm<|eot_id|>", "needle": ["plunzc", "zlhkbi", "bmovqm"], "score": 1.0}
+{"ctx_len": 123455, "pred": "1. qdowls 2. zkzyuf 3. bxgdye<|eot_id|>", "needle": ["qdowls", "zkzyuf", "bxgdye"], "score": 1.0}
+{"ctx_len": 130092, "pred": "1. qahipg 2. zjboal 3. bwgthz<|eot_id|>", "needle": ["qahipg", "zjboal", "bwgthz"], "score": 1.0}
+{"ctx_len": 129228, "pred": "1. qbhckp 2. zjowze 3. zaniyu<|eot_id|>", "needle": ["qbhckp", "zjowze", "brzlns"], "score": 0.6666666666666666}
+{"ctx_len": 112530, "pred": "1. qbakay 2. zpjkdu 3. bsrefx<|eot_id|>", "needle": ["qbakay", "zpjkdu", "bsrefx"], "score": 1.0}
+{"ctx_len": 126718, "pred": "1. pqoiwc 2. zidgll 3. ytkvyj<|eot_id|>", "needle": ["pqoiwc", "zidgll", "bpjyqj"], "score": 0.6666666666666666}
+{"ctx_len": 123568, "pred": "1. pmjofl 2. zifjbh 3. brnfxi<|eot_id|>", "needle": ["pmjofl", "zifjbh", "brnfxi"], "score": 1.0}
+{"ctx_len": 118052, "pred": "1. pvvtzt 2. zizxut 3. bnowni<|eot_id|>", "needle": ["pvvtzt", "zizxut", "bnowni"], "score": 1.0}
+{"ctx_len": 124131, "pred": "1. ppqdyj 2. ziskex 3. bqiqno<|eot_id|>", "needle": ["ppqdyj", "ziskex", "bqiqno"], "score": 1.0}
+{"ctx_len": 130440, "pred": "pyoofn, zjhwiq, and bunyhb.<|eot_id|>", "needle": ["pyoofn", "zjhwiq", "bunyhb"], "score": 1.0}
+{"ctx_len": 128023, "pred": "1. pqkktj 2. zizrsu 3. jaoyiw<|eot_id|>", "needle": ["pqkktj", "zizrsu", "bqmqnp"], "score": 0.6666666666666666}
+{"ctx_len": 117360, "pred": "1. qewuja 2. zlacbp 3. buevzv<|eot_id|>", "needle": ["qewuja", "zlacbp", "buevzv"], "score": 1.0}
+{"ctx_len": 129301, "pred": "1. pqqmpf 2. zlwkbv 3. blzfui<|eot_id|>", "needle": ["pqqmpf", "zlwkbv", "blzfui"], "score": 1.0}
+{"ctx_len": 114530, "pred": "1. pmvmwu 2. zkoclw 3. bontsj<|eot_id|>", "needle": ["pmvmwu", "zkoclw", "bontsj"], "score": 1.0}
+{"ctx_len": 118445, "pred": "pqmvqx, zmipbl, and yzvkpt.<|eot_id|>", "needle": ["pqmvqx", "zmipbl", "brljbq"], "score": 0.6666666666666666}
+{"ctx_len": 119572, "pred": "1. pkzmqt 2. zlbzvj 3. yzcbdl<|eot_id|>", "needle": ["pkzmqt", "zlbzvj", "buagcp"], "score": 0.6666666666666666}
+{"ctx_len": 115186, "pred": "1. pztlbl 2. zhbscg 3. btlttl<|eot_id|>", "needle": ["pztlbl", "zhbscg", "btlttl"], "score": 1.0}
+{"ctx_len": 126909, "pred": "1. pshlaj 2. zmhxmr 3. zacrqy<|eot_id|>", "needle": ["pshlaj", "zmhxmr", "boxmdr"], "score": 0.6666666666666666}
+{"ctx_len": 118273, "pred": "1. ptrvdg 2. zmbaju 3. jrqzqt<|eot_id|>", "needle": ["ptrvdg", "zmbaju", "bryerh"], "score": 0.6666666666666666}
+{"ctx_len": 126909, "pred": "1. qfgrvs 2. zgqtez 3. bumsva<|eot_id|>", "needle": ["qfgrvs", "zgqtez", "bumsva"], "score": 1.0}
+{"ctx_len": 114207, "pred": "1. pzostq 2. bqqsdx 3. ywhybt<|eot_id|>", "needle": ["pzostq", "zimkis", "bqqsdx"], "score": 0.6666666666666666}
+{"ctx_len": 130589, "pred": "1. pvhejv 2. zkhmjz 3. bqbakc<|eot_id|>", "needle": ["pvhejv", "zkhmjz", "bqbakc"], "score": 1.0}
+{"ctx_len": 115339, "pred": "1. bpuzgx 2. pyscqq 3. yzbegw<|eot_id|>", "needle": ["pyscqq", "zkuoag", "bpuzgx"], "score": 0.6666666666666666}
+{"ctx_len": 130774, "pred": "1. qaoqpl 2. zncgbc 3. btbfjy<|eot_id|>", "needle": ["qaoqpl", "zncgbc", "btbfjy"], "score": 1.0}
+{"ctx_len": 115639, "pred": "1. pxqiys 2. zjfavr 3. brshkh<|eot_id|>", "needle": ["pxqiys", "zjfavr", "brshkh"], "score": 1.0}
+{"ctx_len": 116690, "pred": "1. qcasrf 2. zmdhra 3. bwgaqz<|eot_id|>", "needle": ["qcasrf", "zmdhra", "bwgaqz"], "score": 1.0}
+{"ctx_len": 117890, "pred": "1. prfiim 2. zkfgjt 3. yzrzbm<|eot_id|>", "needle": ["prfiim", "zkfgjt", "bsbuta"], "score": 0.6666666666666666}
+{"ctx_len": 117286, "pred": "1. pvdopt 2. ziexhj 3. blerkr<|eot_id|>", "needle": ["pvdopt", "ziexhj", "blerkr"], "score": 1.0}
+{"ctx_len": 128380, "pred": "1. puejtd 2. zjbrlu 3. bsyway<|eot_id|>", "needle": ["puejtd", "zjbrlu", "bsyway"], "score": 1.0}
+{"ctx_len": 123512, "pred": "pjkoxr, zhnthz, and ywrfjz.<|eot_id|>", "needle": ["pjkoxr", "zhnthz", "bufxul"], "score": 0.6666666666666666}
+{"ctx_len": 127978, "pred": "1. qcfegp 2. zksyci 3. brlbdb<|eot_id|>", "needle": ["qcfegp", "zksyci", "brlbdb"], "score": 1.0}
+{"ctx_len": 106830, "pred": "1. zigdmc 2. pobude 3. yxgzkt<|eot_id|>", "needle": ["pobude", "zigdmc", "brsiuz"], "score": 0.6666666666666666}
+{"ctx_len": 130734, "pred": "1. qhtzzf 2. zkwjgo 3. yybdtk<|eot_id|>", "needle": ["qhtzzf", "zkwjgo", "brqxnt"], "score": 0.6666666666666666}
+{"ctx_len": 124773, "pred": "1. pyedpo 2. zlpgwf 3. brnnaq<|eot_id|>", "needle": ["pyedpo", "zlpgwf", "brnnaq"], "score": 1.0}
+{"ctx_len": 130028, "pred": "1. zhkqvo 2. pttmqq 3. bucxlu<|eot_id|>", "needle": ["pttmqq", "zhkqvo", "bucxlu"], "score": 1.0}
+{"ctx_len": 127725, "pred": "1. pxqlkq 2. zlyjvl 3. bvcmix<|eot_id|>", "needle": ["pxqlkq", "zlyjvl", "bvcmix"], "score": 1.0}
+{"ctx_len": 127740, "pred": "1. pxxeeg 2. zmhwqo 3. bwgrvt<|eot_id|>", "needle": ["pxxeeg", "zmhwqo", "bwgrvt"], "score": 1.0}
+{"ctx_len": 118711, "pred": "1. zfmido 2. prtihj 3. bviimr<|eot_id|>", "needle": ["prtihj", "zfmido", "bviimr"], "score": 1.0}
+{"ctx_len": 125209, "pred": "1. qdlwvr 2. zjoiid 3. yxixoy<|eot_id|>", "needle": ["qdlwvr", "zjoiid", "bulkii"], "score": 0.6666666666666666}
+{"ctx_len": 122281, "pred": "1. pspynt 2. zmlmni 3. buwvkh<|eot_id|>", "needle": ["pspynt", "zmlmni", "buwvkh"], "score": 1.0}
+{"ctx_len": 112084, "pred": "1. pwheup 2. zkzkvt 3. brhnub<|eot_id|>", "needle": ["pwheup", "zkzkvt", "brhnub"], "score": 1.0}
+{"ctx_len": 129486, "pred": "1. pzuqhf 2. zlgkgi 3. bqtwog<|eot_id|>", "needle": ["pzuqhf", "zlgkgi", "bqtwog"], "score": 1.0}
+{"ctx_len": 119034, "pred": "1. puauiv 2. zjguam 3. btwlmu<|eot_id|>", "needle": ["puauiv", "zjguam", "btwlmu"], "score": 1.0}
+{"ctx_len": 120262, "pred": "pzbbhl, zkmjxy, and blwsvv.<|eot_id|>", "needle": ["pzbbhl", "zkmjxy", "blwsvv"], "score": 1.0}
+{"ctx_len": 124375, "pred": "1. pgxiyv 2. zgclut 3. yucsui<|eot_id|>", "needle": ["pgxiyv", "zgclut", "bpaoth"], "score": 0.6666666666666666}
+{"ctx_len": 115944, "pred": "1. ptanlv 2. zioukm 3. ywwsqh<|eot_id|>", "needle": ["ptanlv", "zioukm", "brtlbk"], "score": 0.6666666666666666}
+{"ctx_len": 127468, "pred": "1. qckupf 2. zfuuao 3. btbmzm<|eot_id|>", "needle": ["qckupf", "zfuuao", "btbmzm"], "score": 1.0}
+{"ctx_len": 122406, "pred": "pzbfpf, zfslsr, and yvzzck.<|eot_id|>", "needle": ["pzbfpf", "zfslsr", "brulta"], "score": 0.6666666666666666}
+{"ctx_len": 123120, "pred": "1. qfanvf 2. bygxyb 3. zhrhne<|eot_id|>", "needle": ["qfanvf", "zhrhne", "bygxyb"], "score": 1.0}
+{"ctx_len": 122616, "pred": "1. pukrqu 2. zkdyfm 3. yulwva<|eot_id|>", "needle": ["pukrqu", "zkdyfm", "bpucas"], "score": 0.6666666666666666}
+{"ctx_len": 109673, "pred": "1. zmfzcs 2. psterg 3. yzfsek<|eot_id|>", "needle": ["psterg", "zmfzcs", "bqrrbn"], "score": 0.6666666666666666}
+{"ctx_len": 126987, "pred": "1. qccshx 2. zkmdxd 3. yywzwl<|eot_id|>", "needle": ["qccshx", "zkmdxd", "bvdabq"], "score": 0.6666666666666666}
+{"ctx_len": 111076, "pred": "1. zlbqln 2. purero 3. yzzwjh<|eot_id|>", "needle": ["purero", "zlbqln", "bslvoo"], "score": 0.6666666666666666}
+{"ctx_len": 122471, "pred": "prtvkz, zmtzek, and bpjmwx.<|eot_id|>", "needle": ["prtvkz", "zmtzek", "bpjmwx"], "score": 1.0}
+{"ctx_len": 124866, "pred": "1. qajnfc 2. zifqjn 3. btxewm<|eot_id|>", "needle": ["qajnfc", "zifqjn", "btxewm"], "score": 1.0}
+{"ctx_len": 126524, "pred": "1. pvlbae 2. zkhxvs 3. bvspps<|eot_id|>", "needle": ["pvlbae", "zkhxvs", "bvspps"], "score": 1.0}
+{"ctx_len": 112362, "pred": "1. zhvpan 2. puuejq 3. yyclyg<|eot_id|>", "needle": ["puuejq", "zhvpan", "brufoo"], "score": 0.6666666666666666}
+{"ctx_len": 129812, "pred": "1. psmmgb 2. zlwvvw 3. bluqcd<|eot_id|>", "needle": ["psmmgb", "zlwvvw", "bluqcd"], "score": 1.0}
+{"ctx_len": 116522, "pred": "1. btawus 2. zkrgfu 3. pwdtio<|eot_id|>", "needle": ["pwdtio", "zkrgfu", "btawus"], "score": 1.0}
+{"ctx_len": 114368, "pred": "1. pxleev 2. ziqrpn 3. yvtdyz<|eot_id|>", "needle": ["pxleev", "ziqrpn", "burcgy"], "score": 0.6666666666666666}
+{"ctx_len": 123682, "pred": "1. prmnzd 2. zjhsoh 3. blgdbw<|eot_id|>", "needle": ["prmnzd", "zjhsoh", "blgdbw"], "score": 1.0}
+{"ctx_len": 119731, "pred": "1. pqhaey 2. zjxsdf 3. bmysgc<|eot_id|>", "needle": ["pqhaey", "zjxsdf", "bmysgc"], "score": 1.0}
+{"ctx_len": 118430, "pred": "1. ppldwq 2. zocqtg 3. jfvoiv<|eot_id|>", "needle": ["ppldwq", "zocqtg", "bojook"], "score": 0.6666666666666666}
+{"ctx_len": 116033, "pred": "1. qfnupe 2. ziuczg 3. bnvrxh<|eot_id|>", "needle": ["qfnupe", "ziuczg", "bnvrxh"], "score": 1.0}
+{"ctx_len": 127353, "pred": "1. pmnqti 2. ziwwnz 3. bmekcz<|eot_id|>", "needle": ["pmnqti", "ziwwnz", "bmekcz"], "score": 1.0}
+{"ctx_len": 126242, "pred": "1. pwoecv 2. ziuwvz 3. bpptpe<|eot_id|>", "needle": ["pwoecv", "ziuwvz", "bpptpe"], "score": 1.0}
+{"ctx_len": 128819, "pred": "1. pvzrdi 2. zjndsh 3. yvfpbb<|eot_id|>", "needle": ["pvzrdi", "zjndsh", "brvdaw"], "score": 0.6666666666666666}
+{"ctx_len": 116495, "pred": "pxkgxb, yxqjmz, and zigztl.<|eot_id|>", "needle": ["pxkgxb", "zigztl", "bqivgp"], "score": 0.6666666666666666}
+{"ctx_len": 124042, "pred": "1. qqqnlv 2. zmjyel 3. bqxzgd<|eot_id|>", "needle": ["qqqnlv", "zmjyel", "bqxzgd"], "score": 1.0}
+{"ctx_len": 120879, "pred": "1. zkjumr 2. pqshdr 3. bxnvtc<|eot_id|>", "needle": ["pqshdr", "zkjumr", "bxnvtc"], "score": 1.0}
+{"ctx_len": 121330, "pred": "1. pzvrdc 2. zkvxwh 3. buxxrp<|eot_id|>", "needle": ["pzvrdc", "zkvxwh", "buxxrp"], "score": 1.0}
+{"ctx_len": 116923, "pred": "1. zlnuby 2. pupjqc 3. btixfh<|eot_id|>", "needle": ["pupjqc", "zlnuby", "btixfh"], "score": 1.0}
+{"ctx_len": 121206, "pred": "1. pxnixz 2. bvoiml 3. yygpkr<|eot_id|>", "needle": ["pxnixz", "zlibhp", "bvoiml"], "score": 0.6666666666666666}
+{"ctx_len": 121041, "pred": "1. zhqhpw 2. buwvfc 3. yybwcj<|eot_id|>", "needle": ["pzefzl", "zhqhpw", "buwvfc"], "score": 0.6666666666666666}
+{"ctx_len": 124356, "pred": "1. qjzxzg 2. zlduqy 3. buvsjs<|eot_id|>", "needle": ["qjzxzg", "zlduqy", "buvsjs"], "score": 1.0}
+{"ctx_len": 122218, "pred": "1. ppufyw 2. zjczok 3. bnxrtr<|eot_id|>", "needle": ["ppufyw", "zjczok", "bnxrtr"], "score": 1.0}
+{"ctx_len": 124429, "pred": "1. puzcxl 2. zmcdlh 3. bwechu<|eot_id|>", "needle": ["puzcxl", "zmcdlh", "bwechu"], "score": 1.0}
+{"ctx_len": 125360, "pred": "1. qagjld 2. zlmjhy 3. bvcdfz<|eot_id|>", "needle": ["qagjld", "zlmjhy", "bvcdfz"], "score": 1.0}
+{"ctx_len": 122409, "pred": "1. pxkggg 2. zlaqms 3. bpdccj<|eot_id|>", "needle": ["pxkggg", "zlaqms", "bpdccj"], "score": 1.0}
+{"ctx_len": 122169, "pred": "1. pycoip 2. zmjznk 3. bvnqov<|eot_id|>", "needle": ["pycoip", "zmjznk", "bvnqov"], "score": 1.0}
+{"ctx_len": 120934, "pred": "1. qcbabh 2. zkazxw 3. yzevae<|eot_id|>", "needle": ["qcbabh", "zkazxw", "bswzwc"], "score": 0.6666666666666666}
+{"ctx_len": 124884, "pred": "1. puwpsm 2. bnpqvd 3. yxhwhf<|eot_id|>", "needle": ["puwpsm", "ziykea", "bnpqvd"], "score": 0.6666666666666666}
+{"ctx_len": 123142, "pred": "puzhux, zhjblx, and bxxvyx.<|eot_id|>", "needle": ["puzhux", "zhjblx", "bxxvyx"], "score": 1.0}
+{"ctx_len": 129075, "pred": "1. pznzgr 2. zkxeyz 3. zaohqw<|eot_id|>", "needle": ["pznzgr", "zkxeyz", "bsewrj"], "score": 0.6666666666666666}
+{"ctx_len": 127031, "pred": "1. pvdqmx 2. zhrlyj 3. bujlwn<|eot_id|>", "needle": ["pvdqmx", "zhrlyj", "bujlwn"], "score": 1.0}
+{"ctx_len": 123655, "pred": "1. ptyiok 2. zlpvyb 3. bocplm<|eot_id|>", "needle": ["ptyiok", "zlpvyb", "bocplm"], "score": 1.0}
+{"ctx_len": 129194, "pred": "1. ppyrqr 2. zkgzpj 3. bqsyvv<|eot_id|>", "needle": ["ppyrqr", "zkgzpj", "bqsyvv"], "score": 1.0}
+{"ctx_len": 121830, "pred": "1. qbrawh 2. zmxpwk 3. bujdgz<|eot_id|>", "needle": ["qbrawh", "zmxpwk", "bujdgz"], "score": 1.0}
+{"ctx_len": 123065, "pred": "1. qayurr 2. zhepbh 3. bvoomc<|eot_id|>", "needle": ["qayurr", "zhepbh", "bvoomc"], "score": 1.0}
+{"ctx_len": 122678, "pred": "pvgdvz, zjkdmj, and brkxrt.<|eot_id|>", "needle": ["pvgdvz", "zjkdmj", "brkxrt"], "score": 1.0}
+{"ctx_len": 118943, "pred": "1. zkyxge 2. ptokha 3. zaqwyq<|eot_id|>", "needle": ["ptokha", "zkyxge", "bqrebx"], "score": 0.6666666666666666}
+{"ctx_len": 124427, "pred": "1. ptekgp 2. zkqawe 3. yvrlzv<|eot_id|>", "needle": ["ptekgp", "zkqawe", "bpufjb"], "score": 0.6666666666666666}
+{"ctx_len": 117006, "pred": "1. poymmx 2. zibanr 3. yvpzeo<|eot_id|>", "needle": ["poymmx", "zibanr", "bsxlaq"], "score": 0.6666666666666666}
+{"ctx_len": 127068, "pred": "1. pzxujz 2. znoirj 3. bpeubb<|eot_id|>", "needle": ["pzxujz", "znoirj", "bpeubb"], "score": 1.0}
+{"ctx_len": 117357, "pred": "1. zisvha 2. pwdadg 3. yvyket<|eot_id|>", "needle": ["pwdadg", "zisvha", "bqcgii"], "score": 0.6666666666666666}
+{"ctx_len": 122809, "pred": "1. qfvknk 2. zlkqhj 3. bsxhzm<|eot_id|>", "needle": ["qfvknk", "zlkqhj", "bsxhzm"], "score": 1.0}
+{"ctx_len": 113834, "pred": "1. puqlre 2. zlingf 3. brsbpx<|eot_id|>", "needle": ["puqlre", "zlingf", "brsbpx"], "score": 1.0}
+{"ctx_len": 118177, "pred": "1. pyihgn 2. ziwxfe 3. bnuvma<|eot_id|>", "needle": ["pyihgn", "ziwxfe", "bnuvma"], "score": 1.0}
+{"ctx_len": 119008, "pred": "1. pjewhk 2. zjzejz 3. bnziwx<|eot_id|>", "needle": ["pjewhk", "zjzejz", "bnziwx"], "score": 1.0}
+{"ctx_len": 119338, "pred": "1. pttxwr 2. zlxnij 3. yxlufy<|eot_id|>", "needle": ["pttxwr", "zlxnij", "bkmtsc"], "score": 0.6666666666666666}
+{"ctx_len": 120600, "pred": "1. qcafna 2. zlgfwi 3. bnydcu<|eot_id|>", "needle": ["qcafna", "zlgfwi", "bnydcu"], "score": 1.0}
+{"ctx_len": 124733, "pred": "1. pxyoeg 2. zjsapi 3. yxjbqa<|eot_id|>", "needle": ["pxyoeg", "zjsapi", "bogvgl"], "score": 0.6666666666666666}
+{"ctx_len": 118833, "pred": "prmkcc, zkyrps, and yyhjlh.<|eot_id|>", "needle": ["prmkcc", "zkyrps", "bocepa"], "score": 0.6666666666666666}
+{"ctx_len": 119861, "pred": "1. pzagfr 2. zltaap 3. bwngmv<|eot_id|>", "needle": ["pzagfr", "zltaap", "bwngmv"], "score": 1.0}
+{"ctx_len": 125045, "pred": "1. zjzqsc 2. qcoplx 3. bppxfq<|eot_id|>", "needle": ["qcoplx", "zjzqsc", "bppxfq"], "score": 1.0}
+{"ctx_len": 126146, "pred": "1. qaxscb 2. zhshvw 3. btjvhj<|eot_id|>", "needle": ["qaxscb", "zhshvw", "btjvhj"], "score": 1.0}
+{"ctx_len": 123327, "pred": "1. prplgw 2. zjqnyj 3. bmbhjc<|eot_id|>", "needle": ["prplgw", "zjqnyj", "bmbhjc"], "score": 1.0}
+{"ctx_len": 115666, "pred": "zkzyxe, pobefy, and yzzevi.<|eot_id|>", "needle": ["pobefy", "zkzyxe", "brlcwh"], "score": 0.6666666666666666}
+{"ctx_len": 125562, "pred": "1. pqoipw 2. zkpmpi 3. ywhqjo<|eot_id|>", "needle": ["pqoipw", "zkpmpi", "binifd"], "score": 0.6666666666666666}
+{"ctx_len": 123889, "pred": "1. pupqun 2. zmlrlb 3. yxkuxi<|eot_id|>", "needle": ["pupqun", "zmlrlb", "buspvn"], "score": 0.6666666666666666}
+{"ctx_len": 128092, "pred": "1. qavsoh 2. zlwyhd 3. bolclm<|eot_id|>", "needle": ["qavsoh", "zlwyhd", "bolclm"], "score": 1.0}
+{"ctx_len": 113796, "pred": "1. pzsnhk 2. zkubcp 3. bwcupt<|eot_id|>", "needle": ["pzsnhk", "zkubcp", "bwcupt"], "score": 1.0}
+{"ctx_len": 124328, "pred": "1. pumvbk 2. zmdbag 3. jtttzq<|eot_id|>", "needle": ["pumvbk", "zmdbag", "brfgil"], "score": 0.6666666666666666}
+{"ctx_len": 120662, "pred": "1. psjqwr 2. zkebgh 3. btzfhi<|eot_id|>", "needle": ["psjqwr", "zkebgh", "btzfhi"], "score": 1.0}
+{"ctx_len": 127810, "pred": "pfhccs, bphuzf, and jbpwxu.<|eot_id|>", "needle": ["pfhccs", "ziyntv", "bphuzf"], "score": 0.6666666666666666}
+{"ctx_len": 119131, "pred": "zkagwq, pqseza, and jlzmhp.<|eot_id|>", "needle": ["pqseza", "zkagwq", "bpzunf"], "score": 0.6666666666666666}
+{"ctx_len": 130437, "pred": "1. pwlprp 2. zjcwrx 3. boipmn<|eot_id|>", "needle": ["pwlprp", "zjcwrx", "boipmn"], "score": 1.0}
+{"ctx_len": 118126, "pred": "1. pyvyxz 2. zlyjkv 3. bruaol<|eot_id|>", "needle": ["pyvyxz", "zlyjkv", "bruaol"], "score": 1.0}
+{"ctx_len": 115287, "pred": "qcjujc, bwabjj, and znipoi.<|eot_id|>", "needle": ["qcjujc", "znipoi", "bwabjj"], "score": 1.0}
+{"ctx_len": 120334, "pred": "1. zlkvsd 2. pseqyz 3. yxixbk<|eot_id|>", "needle": ["pseqyz", "zlkvsd", "bqzeie"], "score": 0.6666666666666666}
+{"ctx_len": 115106, "pred": "1. pyaxra 2. zkbail 3. yxijhl<|eot_id|>", "needle": ["pyaxra", "zkbail", "bvvned"], "score": 0.6666666666666666}
+{"ctx_len": 120735, "pred": "1. zkdshv 2. prclxb 3. bmjggx<|eot_id|>", "needle": ["prclxb", "zkdshv", "bmjggx"], "score": 1.0}
+{"ctx_len": 123351, "pred": "1. pcxppq 2. zkwitk 3. bnvpoa<|eot_id|>", "needle": ["pcxppq", "zkwitk", "bnvpoa"], "score": 1.0}
+{"ctx_len": 118248, "pred": "1. zjlzkj 2. pnileg 3. brlhgi<|eot_id|>", "needle": ["pnileg", "zjlzkj", "brlhgi"], "score": 1.0}
+{"ctx_len": 123798, "pred": "1. pyikqf 2. zngoob 3. bwmgre<|eot_id|>", "needle": ["pyikqf", "zngoob", "bwmgre"], "score": 1.0}
+{"ctx_len": 118876, "pred": "1. pwikbb 2. zkkuxs 3. boaqqe<|eot_id|>", "needle": ["pwikbb", "zkkuxs", "boaqqe"], "score": 1.0}
+{"ctx_len": 117151, "pred": "pzymdn, zlflee, and bqyuaz.<|eot_id|>", "needle": ["pzymdn", "zlflee", "bqyuaz"], "score": 1.0}
+{"ctx_len": 117071, "pred": "1. zjbhua 2. pokntz 3. bspqtk<|eot_id|>", "needle": ["pokntz", "zjbhua", "bspqtk"], "score": 1.0}
+{"ctx_len": 128149, "pred": "1. qbgxwo 2. zlyarx 3. zahqmz<|eot_id|>", "needle": ["qbgxwo", "zlyarx", "brarsp"], "score": 0.6666666666666666}
+{"ctx_len": 120318, "pred": "1. psldht 2. zgwfxo 3. yvndik<|eot_id|>", "needle": ["psldht", "zgwfxo", "bpktzm"], "score": 0.6666666666666666}
+{"ctx_len": 115533, "pred": "1. pybolf 2. zkqxhu 3. btnkxi<|eot_id|>", "needle": ["pybolf", "zkqxhu", "btnkxi"], "score": 1.0}
+{"ctx_len": 122261, "pred": "1. pwagdn 2. zklmxv 3. bngdgk<|eot_id|>", "needle": ["pwagdn", "zklmxv", "bngdgk"], "score": 1.0}
+{"ctx_len": 129035, "pred": "1. pvvdlh 2. zlebsn 3. breyfn<|eot_id|>", "needle": ["pvvdlh", "zlebsn", "breyfn"], "score": 1.0}
+avg:0.8980000000000021

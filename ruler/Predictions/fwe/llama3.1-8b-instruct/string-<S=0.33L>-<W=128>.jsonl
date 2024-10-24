@@ -1,0 +1,1001 @@
+step 0, ctx len 129603, avg score 0.6666666666666666
+step 1, ctx len 117016, avg score 0.6666666666666666
+step 2, ctx len 124928, avg score 0.6666666666666666
+step 3, ctx len 124183, avg score 0.75
+step 4, ctx len 122891, avg score 0.8
+step 5, ctx len 129517, avg score 0.7222222222222222
+step 6, ctx len 124972, avg score 0.7142857142857143
+step 7, ctx len 121855, avg score 0.7083333333333334
+step 8, ctx len 115730, avg score 0.7037037037037037
+step 9, ctx len 117533, avg score 0.7000000000000001
+step 10, ctx len 127186, avg score 0.7272727272727273
+step 11, ctx len 125916, avg score 0.6944444444444445
+step 12, ctx len 121110, avg score 0.6666666666666667
+step 13, ctx len 123312, avg score 0.6904761904761906
+step 14, ctx len 120103, avg score 0.6888888888888889
+step 15, ctx len 122490, avg score 0.6875
+step 16, ctx len 130646, avg score 0.6862745098039216
+step 17, ctx len 122235, avg score 0.7037037037037037
+step 18, ctx len 128124, avg score 0.7192982456140351
+step 19, ctx len 117632, avg score 0.7166666666666666
+step 20, ctx len 126139, avg score 0.7301587301587301
+step 21, ctx len 119476, avg score 0.7272727272727272
+step 22, ctx len 126789, avg score 0.7246376811594202
+step 23, ctx len 119896, avg score 0.736111111111111
+step 24, ctx len 119973, avg score 0.7333333333333333
+step 25, ctx len 122672, avg score 0.7435897435897435
+step 26, ctx len 128915, avg score 0.7530864197530863
+step 27, ctx len 118444, avg score 0.75
+step 28, ctx len 119129, avg score 0.7471264367816093
+step 29, ctx len 119513, avg score 0.7555555555555556
+step 30, ctx len 130860, avg score 0.7634408602150538
+step 31, ctx len 130399, avg score 0.7708333333333334
+step 32, ctx len 119612, avg score 0.7676767676767677
+step 33, ctx len 115774, avg score 0.7647058823529412
+step 34, ctx len 128727, avg score 0.7714285714285716
+step 35, ctx len 117560, avg score 0.7685185185185186
+step 36, ctx len 125870, avg score 0.7657657657657659
+step 37, ctx len 113277, avg score 0.7631578947368423
+step 38, ctx len 115811, avg score 0.7606837606837609
+step 39, ctx len 123470, avg score 0.7583333333333335
+step 40, ctx len 123889, avg score 0.75609756097561
+step 41, ctx len 113603, avg score 0.7539682539682543
+step 42, ctx len 114984, avg score 0.7519379844961243
+step 43, ctx len 117903, avg score 0.7500000000000001
+step 44, ctx len 121825, avg score 0.7481481481481482
+step 45, ctx len 130713, avg score 0.746376811594203
+step 46, ctx len 128356, avg score 0.7446808510638298
+step 47, ctx len 128475, avg score 0.7430555555555555
+step 48, ctx len 131036, avg score 0.7414965986394557
+step 49, ctx len 123812, avg score 0.7399999999999999
+step 50, ctx len 115993, avg score 0.7385620915032678
+step 51, ctx len 119529, avg score 0.737179487179487
+step 52, ctx len 130681, avg score 0.7421383647798739
+step 53, ctx len 129232, avg score 0.7407407407407405
+step 54, ctx len 116734, avg score 0.739393939393939
+step 55, ctx len 123491, avg score 0.7380952380952378
+step 56, ctx len 126001, avg score 0.7368421052631575
+step 57, ctx len 117323, avg score 0.7356321839080455
+step 58, ctx len 131010, avg score 0.7401129943502821
+step 59, ctx len 120226, avg score 0.7388888888888885
+step 60, ctx len 128949, avg score 0.7377049180327864
+step 61, ctx len 114865, avg score 0.7365591397849457
+step 62, ctx len 119962, avg score 0.7354497354497349
+step 63, ctx len 129513, avg score 0.7395833333333328
+step 64, ctx len 124952, avg score 0.738461538461538
+step 65, ctx len 115969, avg score 0.7373737373737368
+step 66, ctx len 113600, avg score 0.7412935323383079
+step 67, ctx len 121731, avg score 0.7401960784313719
+step 68, ctx len 116703, avg score 0.7439613526570042
+step 69, ctx len 120033, avg score 0.7428571428571422
+step 70, ctx len 112504, avg score 0.7464788732394361
+step 71, ctx len 126359, avg score 0.7453703703703698
+step 72, ctx len 119852, avg score 0.7488584474885839
+step 73, ctx len 129133, avg score 0.7477477477477471
+step 74, ctx len 114525, avg score 0.746666666666666
+step 75, ctx len 130514, avg score 0.7456140350877186
+step 76, ctx len 130203, avg score 0.7445887445887439
+step 77, ctx len 109266, avg score 0.7350427350427343
+step 78, ctx len 128903, avg score 0.7383966244725731
+step 79, ctx len 125581, avg score 0.7374999999999993
+step 80, ctx len 122142, avg score 0.7366255144032915
+step 81, ctx len 119703, avg score 0.739837398373983
+step 82, ctx len 121017, avg score 0.7429718875502
+step 83, ctx len 123388, avg score 0.7420634920634913
+step 84, ctx len 121047, avg score 0.7450980392156855
+step 85, ctx len 123496, avg score 0.7441860465116271
+step 86, ctx len 125954, avg score 0.7432950191570874
+step 87, ctx len 124842, avg score 0.7424242424242418
+step 88, ctx len 124668, avg score 0.7453183520599244
+step 89, ctx len 122869, avg score 0.7444444444444438
+step 90, ctx len 126709, avg score 0.7435897435897431
+step 91, ctx len 117774, avg score 0.7391304347826081
+step 92, ctx len 110000, avg score 0.7383512544802862
+step 93, ctx len 119634, avg score 0.7411347517730491
+step 94, ctx len 123886, avg score 0.7438596491228064
+step 95, ctx len 125009, avg score 0.7465277777777772
+step 96, ctx len 126591, avg score 0.7457044673539514
+step 97, ctx len 115389, avg score 0.7448979591836731
+step 98, ctx len 123491, avg score 0.7441077441077437
+step 99, ctx len 118791, avg score 0.7466666666666663
+step 100, ctx len 128654, avg score 0.7425742574257421
+step 101, ctx len 118320, avg score 0.7418300653594767
+step 102, ctx len 124402, avg score 0.7443365695792876
+step 103, ctx len 111078, avg score 0.7467948717948715
+step 104, ctx len 127335, avg score 0.7460317460317457
+step 105, ctx len 114902, avg score 0.7452830188679243
+step 106, ctx len 127520, avg score 0.7476635514018689
+step 107, ctx len 118251, avg score 0.7499999999999998
+step 108, ctx len 107469, avg score 0.749235474006116
+step 109, ctx len 123755, avg score 0.7484848484848483
+step 110, ctx len 126632, avg score 0.7477477477477477
+step 111, ctx len 130941, avg score 0.7499999999999999
+step 112, ctx len 115470, avg score 0.7492625368731562
+step 113, ctx len 115843, avg score 0.7485380116959064
+step 114, ctx len 117165, avg score 0.7478260869565218
+step 115, ctx len 126513, avg score 0.7471264367816093
+step 116, ctx len 120947, avg score 0.7492877492877493
+step 117, ctx len 122443, avg score 0.7514124293785311
+step 118, ctx len 121649, avg score 0.7535014005602241
+step 119, ctx len 123511, avg score 0.7527777777777779
+step 120, ctx len 128102, avg score 0.7548209366391185
+step 121, ctx len 127877, avg score 0.7540983606557379
+step 122, ctx len 124320, avg score 0.7533875338753389
+step 123, ctx len 128976, avg score 0.752688172043011
+step 124, ctx len 130314, avg score 0.7520000000000002
+step 125, ctx len 120870, avg score 0.7513227513227516
+step 126, ctx len 128333, avg score 0.7532808398950134
+step 127, ctx len 123386, avg score 0.752604166666667
+step 128, ctx len 114914, avg score 0.7519379844961244
+step 129, ctx len 113681, avg score 0.7538461538461542
+step 130, ctx len 123614, avg score 0.7531806615776085
+step 131, ctx len 126580, avg score 0.7550505050505054
+step 132, ctx len 115521, avg score 0.754385964912281
+step 133, ctx len 127357, avg score 0.7512437810945277
+step 134, ctx len 115019, avg score 0.7530864197530868
+step 135, ctx len 120670, avg score 0.754901960784314
+step 136, ctx len 130413, avg score 0.7566909975669103
+step 137, ctx len 119553, avg score 0.7584541062801936
+step 138, ctx len 116573, avg score 0.75779376498801
+step 139, ctx len 130141, avg score 0.7571428571428576
+step 140, ctx len 119042, avg score 0.7565011820330974
+step 141, ctx len 116008, avg score 0.7558685446009394
+step 142, ctx len 115840, avg score 0.757575757575758
+step 143, ctx len 125920, avg score 0.7592592592592597
+step 144, ctx len 122402, avg score 0.7586206896551729
+step 145, ctx len 125427, avg score 0.7579908675799092
+step 146, ctx len 121625, avg score 0.7596371882086173
+step 147, ctx len 119614, avg score 0.7612612612612618
+step 148, ctx len 125715, avg score 0.7606263982102913
+step 149, ctx len 113802, avg score 0.7600000000000006
+step 150, ctx len 121218, avg score 0.7593818984547467
+step 151, ctx len 120025, avg score 0.7609649122807024
+step 152, ctx len 116140, avg score 0.7603485838779963
+step 153, ctx len 128919, avg score 0.7597402597402604
+step 154, ctx len 114271, avg score 0.7612903225806458
+step 155, ctx len 128310, avg score 0.7606837606837613
+step 156, ctx len 128692, avg score 0.7622080679405527
+step 157, ctx len 118668, avg score 0.763713080168777
+step 158, ctx len 128931, avg score 0.763102725366877
+step 159, ctx len 116670, avg score 0.7625000000000007
+step 160, ctx len 120669, avg score 0.7639751552795038
+step 161, ctx len 126496, avg score 0.7633744855967085
+step 162, ctx len 115010, avg score 0.7627811860940703
+step 163, ctx len 120219, avg score 0.7642276422764235
+step 164, ctx len 122979, avg score 0.7656565656565664
+step 165, ctx len 118273, avg score 0.7650602409638562
+step 166, ctx len 125920, avg score 0.7644710578842323
+step 167, ctx len 128309, avg score 0.7658730158730167
+step 168, ctx len 120958, avg score 0.7652859960552275
+step 169, ctx len 117283, avg score 0.7666666666666674
+step 170, ctx len 117029, avg score 0.7641325536062386
+step 171, ctx len 125399, avg score 0.7635658914728689
+step 172, ctx len 128731, avg score 0.7630057803468214
+step 173, ctx len 122252, avg score 0.762452107279694
+step 174, ctx len 119092, avg score 0.7619047619047624
+step 175, ctx len 121647, avg score 0.7613636363636368
+step 176, ctx len 122559, avg score 0.7627118644067802
+step 177, ctx len 129003, avg score 0.7621722846441952
+step 178, ctx len 125565, avg score 0.7616387337057732
+step 179, ctx len 119602, avg score 0.7629629629629633
+step 180, ctx len 125292, avg score 0.7642725598526707
+step 181, ctx len 125593, avg score 0.765567765567766
+step 182, ctx len 118371, avg score 0.7650273224043719
+step 183, ctx len 119526, avg score 0.7644927536231887
+step 184, ctx len 123401, avg score 0.7639639639639642
+step 185, ctx len 120074, avg score 0.7634408602150539
+step 186, ctx len 117158, avg score 0.7629233511586454
+step 187, ctx len 114115, avg score 0.7624113475177305
+step 188, ctx len 114032, avg score 0.7619047619047619
+step 189, ctx len 120761, avg score 0.7614035087719297
+step 190, ctx len 122339, avg score 0.7609075043630017
+step 191, ctx len 113376, avg score 0.7604166666666665
+step 192, ctx len 121446, avg score 0.7599309153713297
+step 193, ctx len 123958, avg score 0.7594501718213056
+step 194, ctx len 118824, avg score 0.7589743589743587
+step 195, ctx len 123736, avg score 0.7585034013605438
+step 196, ctx len 122996, avg score 0.7597292724196274
+step 197, ctx len 115731, avg score 0.7592592592592589
+step 198, ctx len 120401, avg score 0.7587939698492459
+step 199, ctx len 124530, avg score 0.7599999999999996
+step 200, ctx len 118315, avg score 0.7595356550580427
+step 201, ctx len 127910, avg score 0.7590759075907586
+step 202, ctx len 127427, avg score 0.7586206896551718
+step 203, ctx len 114963, avg score 0.7581699346405223
+step 204, ctx len 112991, avg score 0.7593495934959343
+step 205, ctx len 129955, avg score 0.7588996763754039
+step 206, ctx len 120166, avg score 0.7584541062801925
+step 207, ctx len 117544, avg score 0.7596153846153839
+step 208, ctx len 121768, avg score 0.7591706539074953
+step 209, ctx len 118195, avg score 0.7587301587301579
+step 210, ctx len 125012, avg score 0.7582938388625584
+step 211, ctx len 126037, avg score 0.7594339622641502
+step 212, ctx len 120130, avg score 0.7589984350547723
+step 213, ctx len 121032, avg score 0.7585669781931456
+step 214, ctx len 123657, avg score 0.75813953488372
+step 215, ctx len 127696, avg score 0.7577160493827151
+step 216, ctx len 124189, avg score 0.7588325652841772
+step 217, ctx len 116381, avg score 0.7584097859327207
+step 218, ctx len 129310, avg score 0.7579908675799076
+step 219, ctx len 118525, avg score 0.759090909090908
+step 220, ctx len 104760, avg score 0.7586726998491694
+step 221, ctx len 122994, avg score 0.7582582582582571
+step 222, ctx len 122372, avg score 0.7578475336322859
+step 223, ctx len 122627, avg score 0.757440476190475
+step 224, ctx len 124223, avg score 0.7585185185185174
+step 225, ctx len 124718, avg score 0.7566371681415918
+step 226, ctx len 117337, avg score 0.7547723935389122
+step 227, ctx len 125861, avg score 0.7543859649122796
+step 228, ctx len 130757, avg score 0.7540029112081502
+step 229, ctx len 119790, avg score 0.7536231884057959
+step 230, ctx len 118246, avg score 0.7546897546897535
+step 231, ctx len 112566, avg score 0.754310344827585
+step 232, ctx len 126639, avg score 0.7539341917024308
+step 233, ctx len 118914, avg score 0.7535612535612523
+step 234, ctx len 119572, avg score 0.7531914893617008
+step 235, ctx len 121900, avg score 0.7528248587570607
+step 236, ctx len 117266, avg score 0.7524613220815739
+step 237, ctx len 115357, avg score 0.752100840336133
+step 238, ctx len 127931, avg score 0.7517433751743361
+step 239, ctx len 123539, avg score 0.7513888888888874
+step 240, ctx len 118713, avg score 0.7524204702627925
+step 241, ctx len 130879, avg score 0.7520661157024778
+step 242, ctx len 113741, avg score 0.751714677640602
+step 243, ctx len 124583, avg score 0.7513661202185776
+step 244, ctx len 121052, avg score 0.7523809523809508
+step 245, ctx len 127113, avg score 0.7533875338753372
+step 246, ctx len 115773, avg score 0.7543859649122792
+step 247, ctx len 117873, avg score 0.7540322580645146
+step 248, ctx len 116238, avg score 0.7536813922356075
+step 249, ctx len 115576, avg score 0.7533333333333316
+step 250, ctx len 119809, avg score 0.7529880478087633
+step 251, ctx len 106489, avg score 0.7539682539682523
+step 252, ctx len 129888, avg score 0.7536231884057953
+step 253, ctx len 123311, avg score 0.7532808398950114
+step 254, ctx len 115706, avg score 0.7529411764705864
+step 255, ctx len 124132, avg score 0.7526041666666649
+step 256, ctx len 122255, avg score 0.7522697795071317
+step 257, ctx len 104154, avg score 0.7519379844961221
+step 258, ctx len 106270, avg score 0.7516087516087497
+step 259, ctx len 113040, avg score 0.7512820512820494
+step 260, ctx len 118833, avg score 0.752234993614302
+step 261, ctx len 120632, avg score 0.751908396946563
+step 262, ctx len 118924, avg score 0.7528517110266141
+step 263, ctx len 126500, avg score 0.7525252525252506
+step 264, ctx len 125535, avg score 0.7522012578616332
+step 265, ctx len 115453, avg score 0.7506265664160381
+step 266, ctx len 115287, avg score 0.7503121098626697
+step 267, ctx len 115707, avg score 0.7487562189054707
+step 268, ctx len 127772, avg score 0.7496902106567515
+step 269, ctx len 118736, avg score 0.7493827160493808
+step 270, ctx len 124002, avg score 0.7490774907749057
+step 271, ctx len 115161, avg score 0.7487745098039196
+step 272, ctx len 124261, avg score 0.7484737484737465
+step 273, ctx len 126202, avg score 0.7481751824817497
+step 274, ctx len 129567, avg score 0.749090909090907
+step 275, ctx len 126128, avg score 0.7487922705313989
+step 276, ctx len 121269, avg score 0.7496991576413938
+step 277, ctx len 118251, avg score 0.7494004796163048
+step 278, ctx len 112071, avg score 0.7491039426523276
+step 279, ctx len 124349, avg score 0.7499999999999979
+step 280, ctx len 114763, avg score 0.749703440094897
+step 281, ctx len 117964, avg score 0.7505910165484612
+step 282, ctx len 124560, avg score 0.7514723203769119
+step 283, ctx len 113063, avg score 0.7511737089201856
+step 284, ctx len 125306, avg score 0.7508771929824539
+step 285, ctx len 123558, avg score 0.7505827505827484
+step 286, ctx len 117155, avg score 0.7502903600464553
+step 287, ctx len 129768, avg score 0.7488425925925903
+step 288, ctx len 123852, avg score 0.7497116493656264
+step 289, ctx len 119537, avg score 0.7505747126436759
+step 290, ctx len 112865, avg score 0.7514318442153471
+step 291, ctx len 127111, avg score 0.7511415525114133
+step 292, ctx len 119713, avg score 0.7508532423208168
+step 293, ctx len 119604, avg score 0.750566893424034
+step 294, ctx len 128591, avg score 0.7502824858757039
+step 295, ctx len 118220, avg score 0.7499999999999977
+step 296, ctx len 126044, avg score 0.7508417508417485
+step 297, ctx len 122777, avg score 0.7494407158836667
+step 298, ctx len 124564, avg score 0.7480490523968762
+step 299, ctx len 116627, avg score 0.7477777777777755
+step 300, ctx len 125542, avg score 0.7475083056478382
+step 301, ctx len 123318, avg score 0.7483443708609249
+step 302, ctx len 124069, avg score 0.7491749174917469
+step 303, ctx len 123496, avg score 0.7499999999999978
+step 304, ctx len 127298, avg score 0.7497267759562819
+step 305, ctx len 125055, avg score 0.7494553376906296
+step 306, ctx len 125021, avg score 0.7502714440825167
+step 307, ctx len 120843, avg score 0.7510822510822488
+step 308, ctx len 117290, avg score 0.7497303128371067
+step 309, ctx len 113442, avg score 0.7494623655913956
+step 310, ctx len 120567, avg score 0.7491961414790974
+step 311, ctx len 122903, avg score 0.7489316239316216
+step 312, ctx len 128158, avg score 0.7497337593184216
+step 313, ctx len 125776, avg score 0.749469214437365
+step 314, ctx len 125139, avg score 0.7481481481481459
+step 315, ctx len 125571, avg score 0.7489451476793226
+step 316, ctx len 120082, avg score 0.7486855941114593
+step 317, ctx len 122622, avg score 0.7484276729559726
+step 318, ctx len 116664, avg score 0.7481713688610216
+step 319, ctx len 115014, avg score 0.7479166666666643
+step 320, ctx len 123625, avg score 0.7476635514018668
+step 321, ctx len 118747, avg score 0.7474120082815711
+step 322, ctx len 127715, avg score 0.7471620227038159
+step 323, ctx len 129906, avg score 0.7479423868312733
+step 324, ctx len 121064, avg score 0.7476923076923052
+step 325, ctx len 115898, avg score 0.7474437627811836
+step 326, ctx len 118166, avg score 0.7471967380224236
+step 327, ctx len 126589, avg score 0.7469512195121926
+step 328, ctx len 128334, avg score 0.7477203647416388
+step 329, ctx len 129151, avg score 0.747474747474745
+step 330, ctx len 123238, avg score 0.7472306143000982
+step 331, ctx len 110828, avg score 0.7469879518072263
+step 332, ctx len 119688, avg score 0.7457457457457433
+step 333, ctx len 127811, avg score 0.7455089820359256
+step 334, ctx len 124570, avg score 0.7462686567164154
+step 335, ctx len 124408, avg score 0.74503968253968
+step 336, ctx len 126318, avg score 0.7438180019782369
+step 337, ctx len 128552, avg score 0.7445759368836268
+step 338, ctx len 130224, avg score 0.7443461160275294
+step 339, ctx len 120673, avg score 0.744117647058821
+step 340, ctx len 125694, avg score 0.7448680351906133
+step 341, ctx len 130552, avg score 0.7436647173489254
+step 342, ctx len 119111, avg score 0.7434402332361492
+step 343, ctx len 116751, avg score 0.7441860465116255
+step 344, ctx len 123894, avg score 0.7449275362318816
+step 345, ctx len 121022, avg score 0.7456647398843906
+step 346, ctx len 128751, avg score 0.7463976945244932
+step 347, ctx len 116088, avg score 0.7471264367816067
+step 348, ctx len 116765, avg score 0.7468958930276958
+step 349, ctx len 123894, avg score 0.7476190476190452
+step 350, ctx len 123487, avg score 0.7473884140550784
+step 351, ctx len 126795, avg score 0.7471590909090886
+step 352, ctx len 130552, avg score 0.7469310670443793
+step 353, ctx len 119337, avg score 0.7467043314500921
+step 354, ctx len 123191, avg score 0.7464788732394345
+step 355, ctx len 126857, avg score 0.7462546816479381
+step 356, ctx len 120130, avg score 0.746031746031744
+step 357, ctx len 115341, avg score 0.7458100558659199
+step 358, ctx len 129231, avg score 0.7465181058495802
+step 359, ctx len 122655, avg score 0.7462962962962945
+step 360, ctx len 127432, avg score 0.7460757156047997
+step 361, ctx len 113556, avg score 0.7458563535911585
+step 362, ctx len 126459, avg score 0.745638200183653
+step 363, ctx len 118131, avg score 0.7463369963369947
+step 364, ctx len 120065, avg score 0.747031963470318
+step 365, ctx len 121011, avg score 0.7468123861566468
+step 366, ctx len 117937, avg score 0.7465940054495898
+step 367, ctx len 120144, avg score 0.7472826086956507
+step 368, ctx len 123455, avg score 0.7470641373080382
+step 369, ctx len 130092, avg score 0.7468468468468454
+step 370, ctx len 129228, avg score 0.7475292003593876
+step 371, ctx len 112530, avg score 0.7473118279569879
+step 372, ctx len 126718, avg score 0.7479892761394088
+step 373, ctx len 123568, avg score 0.7477718360071288
+step 374, ctx len 118052, avg score 0.7475555555555543
+step 375, ctx len 124131, avg score 0.7473404255319137
+step 376, ctx len 130440, avg score 0.7471264367816081
+step 377, ctx len 128023, avg score 0.7469135802469125
+step 378, ctx len 117360, avg score 0.7475813544415116
+step 379, ctx len 129301, avg score 0.7482456140350866
+step 380, ctx len 114530, avg score 0.7480314960629911
+step 381, ctx len 118445, avg score 0.7478184991273986
+step 382, ctx len 119572, avg score 0.7484769364664916
+step 383, ctx len 115186, avg score 0.7473958333333323
+step 384, ctx len 126909, avg score 0.748051948051947
+step 385, ctx len 118273, avg score 0.7469775474956811
+step 386, ctx len 126909, avg score 0.7467700258397922
+step 387, ctx len 114207, avg score 0.7448453608247413
+step 388, ctx len 130589, avg score 0.7455012853470426
+step 389, ctx len 115339, avg score 0.7452991452991443
+step 390, ctx len 130774, avg score 0.7459505541346964
+step 391, ctx len 115639, avg score 0.7465986394557813
+step 392, ctx len 116690, avg score 0.7463952502120432
+step 393, ctx len 117890, avg score 0.7461928934010144
+step 394, ctx len 117286, avg score 0.7468354430379738
+step 395, ctx len 128380, avg score 0.7466329966329959
+step 396, ctx len 123512, avg score 0.7464315701091512
+step 397, ctx len 127978, avg score 0.7462311557788938
+step 398, ctx len 106830, avg score 0.7443609022556383
+step 399, ctx len 130734, avg score 0.744166666666666
+step 400, ctx len 124773, avg score 0.7448046550290933
+step 401, ctx len 130028, avg score 0.7446102819237141
+step 402, ctx len 127725, avg score 0.7452440033085188
+step 403, ctx len 127740, avg score 0.7458745874587452
+step 404, ctx len 118711, avg score 0.7465020576131681
+step 405, ctx len 125209, avg score 0.7463054187192113
+step 406, ctx len 122281, avg score 0.7469287469287463
+step 407, ctx len 112084, avg score 0.7467320261437903
+step 408, ctx len 129486, avg score 0.746536267318663
+step 409, ctx len 119034, avg score 0.7463414634146337
+step 410, ctx len 120262, avg score 0.7469586374695859
+step 411, ctx len 124375, avg score 0.746763754045307
+step 412, ctx len 115944, avg score 0.7465698143664242
+step 413, ctx len 127468, avg score 0.7471819645732686
+step 414, ctx len 122406, avg score 0.7469879518072287
+step 415, ctx len 123120, avg score 0.7475961538461535
+step 416, ctx len 122616, avg score 0.7466027178257391
+step 417, ctx len 109673, avg score 0.745614035087719
+step 418, ctx len 126987, avg score 0.7462211614956241
+step 419, ctx len 111076, avg score 0.7452380952380948
+step 420, ctx len 122471, avg score 0.7450514647664288
+step 421, ctx len 124866, avg score 0.7448657187993678
+step 422, ctx len 126524, avg score 0.7446808510638295
+step 423, ctx len 112362, avg score 0.7444968553459117
+step 424, ctx len 129812, avg score 0.7450980392156861
+step 425, ctx len 116522, avg score 0.7441314553990608
+step 426, ctx len 114368, avg score 0.7439500390320061
+step 427, ctx len 123682, avg score 0.7437694704049842
+step 428, ctx len 119731, avg score 0.7443667443667442
+step 429, ctx len 118430, avg score 0.7434108527131781
+step 430, ctx len 116033, avg score 0.7432327919566897
+step 431, ctx len 127353, avg score 0.7430555555555555
+step 432, ctx len 126242, avg score 0.7428791377983063
+step 433, ctx len 128819, avg score 0.7427035330261136
+step 434, ctx len 116495, avg score 0.7425287356321839
+step 435, ctx len 124042, avg score 0.7431192660550459
+step 436, ctx len 120879, avg score 0.7437070938215103
+step 437, ctx len 121330, avg score 0.7442922374429224
+step 438, ctx len 116923, avg score 0.744874715261959
+step 439, ctx len 121206, avg score 0.7446969696969697
+step 440, ctx len 121041, avg score 0.744520030234316
+step 441, ctx len 124356, avg score 0.7450980392156864
+step 442, ctx len 122218, avg score 0.7456734386756961
+step 443, ctx len 124429, avg score 0.7462462462462464
+step 444, ctx len 125360, avg score 0.7468164794007491
+step 445, ctx len 122409, avg score 0.7466367713004486
+step 446, ctx len 122169, avg score 0.7464578672632366
+step 447, ctx len 120934, avg score 0.7462797619047621
+step 448, ctx len 124884, avg score 0.7461024498886417
+step 449, ctx len 123142, avg score 0.7466666666666669
+step 450, ctx len 129075, avg score 0.7472283813747231
+step 451, ctx len 127031, avg score 0.7477876106194693
+step 452, ctx len 123655, avg score 0.7483443708609274
+step 453, ctx len 129194, avg score 0.7481644640234951
+step 454, ctx len 121830, avg score 0.7479853479853483
+step 455, ctx len 123065, avg score 0.7485380116959067
+step 456, ctx len 122678, avg score 0.7483588621444205
+step 457, ctx len 118943, avg score 0.7489082969432318
+step 458, ctx len 124427, avg score 0.7480029048656502
+step 459, ctx len 117006, avg score 0.7478260869565221
+step 460, ctx len 127068, avg score 0.748373101952278
+step 461, ctx len 117357, avg score 0.7481962481962486
+step 462, ctx len 122809, avg score 0.7487401007919371
+step 463, ctx len 113834, avg score 0.7492816091954027
+step 464, ctx len 118177, avg score 0.7498207885304664
+step 465, ctx len 119008, avg score 0.7496423462088703
+step 466, ctx len 119338, avg score 0.7501784439685943
+step 467, ctx len 120600, avg score 0.7507122507122511
+step 468, ctx len 124733, avg score 0.7505330490405122
+step 469, ctx len 118833, avg score 0.7503546099290785
+step 470, ctx len 119861, avg score 0.7501769285208781
+step 471, ctx len 125045, avg score 0.7507062146892661
+step 472, ctx len 126146, avg score 0.7505285412262163
+step 473, ctx len 123327, avg score 0.7510548523206757
+step 474, ctx len 115666, avg score 0.7501754385964918
+step 475, ctx len 125562, avg score 0.7500000000000006
+step 476, ctx len 123889, avg score 0.7498252969951089
+step 477, ctx len 128092, avg score 0.7503486750348681
+step 478, ctx len 113796, avg score 0.7501739735560201
+step 479, ctx len 124328, avg score 0.7506944444444451
+step 480, ctx len 120662, avg score 0.7505197505197513
+step 481, ctx len 127810, avg score 0.7503457814661142
+step 482, ctx len 119131, avg score 0.7501725327812292
+step 483, ctx len 130437, avg score 0.7500000000000008
+step 484, ctx len 118126, avg score 0.7505154639175265
+step 485, ctx len 115287, avg score 0.7503429355281216
+step 486, ctx len 120334, avg score 0.7501711156741967
+step 487, ctx len 115106, avg score 0.7500000000000009
+step 488, ctx len 120735, avg score 0.7498295841854133
+step 489, ctx len 123351, avg score 0.7503401360544227
+step 490, ctx len 118248, avg score 0.7501697216564843
+step 491, ctx len 123798, avg score 0.7506775067750687
+step 492, ctx len 118876, avg score 0.7505070993914817
+step 493, ctx len 117151, avg score 0.7503373819163304
+step 494, ctx len 117071, avg score 0.7501683501683513
+step 495, ctx len 128149, avg score 0.7506720430107537
+step 496, ctx len 120318, avg score 0.750503018108653
+step 497, ctx len 115533, avg score 0.7510040160642582
+step 498, ctx len 122261, avg score 0.7508350033400145
+step 499, ctx len 129035, avg score 0.7513333333333345
+{"ctx_len": 129603, "pred": "1. pslpqi (appears 234 times) 2. zjtonc (appears 193 times) 3. yxmqmv (appears 184 times)<|eot_id|>", "needle": ["pslpqi", "zjtonc", "bopdfy"], "score": 0.6666666666666666}
+{"ctx_len": 117016, "pred": "1. qdemvl (appears 134 times) 2. yxvxuv (appears 93 times) 3. bstvjz (appears 83 times)<|eot_id|>", "needle": ["qdemvl", "zkaykb", "bstvjz"], "score": 0.6666666666666666}
+{"ctx_len": 124928, "pred": "pvhmta, zkfppw, and yvtqyl.<|eot_id|>", "needle": ["pvhmta", "zkfppw", "burluq"], "score": 0.6666666666666666}
+{"ctx_len": 124183, "pred": "pukhhi, zmlmfr, and bshbza.<|eot_id|>", "needle": ["pukhhi", "zmlmfr", "bshbza"], "score": 1.0}
+{"ctx_len": 122891, "pred": "1. pqueid (appears 73 times) 2. zjciig (appears 69 times) 3. bsdssm (appears 64 times)<|eot_id|>", "needle": ["pqueid", "zjciig", "bsdssm"], "score": 1.0}
+{"ctx_len": 129517, "pred": "1. ptgbvz (appeared 134 times) 2. jfzrje (appeared 93 times) 3. zbwbcv (appeared 83 times)<|eot_id|>", "needle": ["ptgbvz", "zmoyrz", "bsxdtg"], "score": 0.3333333333333333}
+{"ctx_len": 124972, "pred": "1. pwkxva (appears 134 times) 2. yvddnt (appears 128 times) 3. zjcism (appears 126 times)<|eot_id|>", "needle": ["pwkxva", "zjcism", "bolxtb"], "score": 0.6666666666666666}
+{"ctx_len": 121855, "pred": "1. pzenql (appears 134 times) 2. zjzyyl (appears 127 times) 3. ywekqc (appears 124 times)<|eot_id|>", "needle": ["pzenql", "zjzyyl", "buwgyu"], "score": 0.6666666666666666}
+{"ctx_len": 115730, "pred": "1. pqpvdc (appears 134 times) 2. zhvtcm (appears 128 times) 3. ywmmjr (appears 124 times)<|eot_id|>", "needle": ["pqpvdc", "zhvtcm", "bmizjd"], "score": 0.6666666666666666}
+{"ctx_len": 117533, "pred": "1. prgfxq (appears 134 times) 2. zinzoi (appears 128 times) 3. yyivtf (appears 124 times)<|eot_id|>", "needle": ["prgfxq", "zinzoi", "bqxahb"], "score": 0.6666666666666666}
+{"ctx_len": 127186, "pred": "1. pwndqt (appears 134 times) 2. zlzvqy (appears 128 times) 3. bsqcrx (appears 124 times)<|eot_id|>", "needle": ["pwndqt", "zlzvqy", "bsqcrx"], "score": 1.0}
+{"ctx_len": 125916, "pred": "pxcjqg (appears 134 times), zbhvwb (appears 93 times), and ihkdtd (appears 83 times).<|eot_id|>", "needle": ["pxcjqg", "zkuymj", "bolxcw"], "score": 0.3333333333333333}
+{"ctx_len": 121110, "pred": "1. ptehoo (appears 134 times) 2. yudulp (appears 93 times) 3. jpyxbx (appears 83 times)<|eot_id|>", "needle": ["ptehoo", "zhjzvn", "btlhaa"], "score": 0.3333333333333333}
+{"ctx_len": 123312, "pred": "qcvwqh (appears 234 times), zltmhz (appears 194 times), and brqkth (appears 184 times).<|eot_id|>", "needle": ["qcvwqh", "zltmhz", "brqkth"], "score": 1.0}
+{"ctx_len": 120103, "pred": "1. zixdyq (appears 134 times) 2. pxbrse (appears 128 times) 3. yxxloj (appears 64 times)<|eot_id|>", "needle": ["pxbrse", "zixdyq", "bvauyp"], "score": 0.6666666666666666}
+{"ctx_len": 122490, "pred": "qfhrvn (appears 134 times), zalmrc (appears 93 times), and bnsesf (appears 83 times).<|eot_id|>", "needle": ["qfhrvn", "zkelvq", "bnsesf"], "score": 0.6666666666666666}
+{"ctx_len": 130646, "pred": "1. pwkqox (appears 246 times) 2. zkzylk (appears 234 times) 3. yxdqmu (appears 194 times)<|eot_id|>", "needle": ["pwkqox", "zkzylk", "bqjsmt"], "score": 0.6666666666666666}
+{"ctx_len": 122235, "pred": "1. pswhxe (appeared 134 times) 2. zjkxsv (appeared 127 times) 3. bqsqkd (appeared 124 times)<|eot_id|>", "needle": ["pswhxe", "zjkxsv", "bqsqkd"], "score": 1.0}
+{"ctx_len": 128124, "pred": "1. qdvsib (appeared 134 times) 2. zlhhvr (appeared 128 times) 3. brnrnj (appeared 124 times)<|eot_id|>", "needle": ["qdvsib", "zlhhvr", "brnrnj"], "score": 1.0}
+{"ctx_len": 117632, "pred": "1. ptscry (appears 134 times) 2. ywvflh (appears 93 times) 3. zhvieq (appears 92 times)<|eot_id|>", "needle": ["ptscry", "zhvieq", "bpauka"], "score": 0.6666666666666666}
+{"ctx_len": 126139, "pred": "1. pvnuww (appears 234 times) 2. zlqaoz (appears 194 times) 3. bpxdcq (appears 184 times)<|eot_id|>", "needle": ["pvnuww", "zlqaoz", "bpxdcq"], "score": 1.0}
+{"ctx_len": 119476, "pred": "1. ptbtba (appeared 134 times) 2. zizbrc (appeared 128 times) 3. ywhmzf (appeared 124 times)<|eot_id|>", "needle": ["ptbtba", "zizbrc", "bnawko"], "score": 0.6666666666666666}
+{"ctx_len": 126789, "pred": "qazypn (appears 246 times), jlxqjz (appears 144 times), and bxxmye (appears 134 times).<|eot_id|>", "needle": ["qazypn", "zkxfis", "bxxmye"], "score": 0.6666666666666666}
+{"ctx_len": 119896, "pred": "qmegcq (appears 134 times), zmbazh (appears 134 times), and bthifb (appears 134 times).<|eot_id|>", "needle": ["qmegcq", "zmbazh", "bthifb"], "score": 1.0}
+{"ctx_len": 119973, "pred": "1. zjvbwm (appears 234 times) 2. bumcxn (appears 194 times) 3. ueomre (appears 184 times)<|eot_id|>", "needle": ["qbcdht", "zjvbwm", "bumcxn"], "score": 0.6666666666666666}
+{"ctx_len": 122672, "pred": "qewuol, zlwqse, and bsmuii.<|eot_id|>", "needle": ["qewuol", "zlwqse", "bsmuii"], "score": 1.0}
+{"ctx_len": 128915, "pred": "qinigq (appears 134 times), zkbxex (appears 123 times), and bsjbwa (appears 114 times).<|eot_id|>", "needle": ["qinigq", "zkbxex", "bsjbwa"], "score": 1.0}
+{"ctx_len": 118444, "pred": "1. zhyzyf (appears 134 times) 2. ywossu (appears 128 times) 3. bqquyb (appears 126 times)<|eot_id|>", "needle": ["pzvnce", "zhyzyf", "bqquyb"], "score": 0.6666666666666666}
+{"ctx_len": 119129, "pred": "znjlkv (appears 134 times), buarcd (appears 127 times), and zconpa (appears 124 times).<|eot_id|>", "needle": ["qlcmwl", "znjlkv", "buarcd"], "score": 0.6666666666666666}
+{"ctx_len": 119513, "pred": "1. zlacqi (appeared 134 times) 2. prmugm (appeared 128 times) 3. btaolq (appeared 124 times)<|eot_id|>", "needle": ["prmugm", "zlacqi", "btaolq"], "score": 1.0}
+{"ctx_len": 130860, "pred": "1. zlvswu (appeared 134 times) 2. pnbrxv (appeared 134 times) 3. bsbbmv (appeared 127 times)<|eot_id|>", "needle": ["pnbrxv", "zlvswu", "bsbbmv"], "score": 1.0}
+{"ctx_len": 130399, "pred": "1. pmsvjy (appeared 134 times) 2. zkrnbx (appeared 127 times) 3. ccqjrp (appeared 124 times)<|eot_id|>", "needle": ["pmsvjy", "zkrnbx", "ccqjrp"], "score": 1.0}
+{"ctx_len": 119612, "pred": "1. pjmjev (34 times) 2. zlwmgd (32 times) 3. yygxte (29 times)<|eot_id|>", "needle": ["pjmjev", "zlwmgd", "brzlci"], "score": 0.6666666666666666}
+{"ctx_len": 115774, "pred": "1. ptbger (appears 134 times) 2. yxklij (appears 93 times) 3. bnvnox (appears 83 times)<|eot_id|>", "needle": ["ptbger", "zkduiq", "bnvnox"], "score": 0.6666666666666666}
+{"ctx_len": 128727, "pred": "1. pufkdj (appears 234 times) 2. zjduhm (appears 194 times) 3. caagtw (appears 184 times)<|eot_id|>", "needle": ["pufkdj", "zjduhm", "caagtw"], "score": 1.0}
+{"ctx_len": 117560, "pred": "1. qducpg (appeared 73 times) 2. zlhgid (appeared 69 times) 3. yzszsd (appeared 64 times)<|eot_id|>", "needle": ["qducpg", "zlhgid", "bulpxo"], "score": 0.6666666666666666}
+{"ctx_len": 125870, "pred": "pscrmh (appears 134 times), zhsiwx (appears 128 times), and yvgcga (appears 126 times).<|eot_id|>", "needle": ["pscrmh", "zhsiwx", "bpntzc"], "score": 0.6666666666666666}
+{"ctx_len": 113277, "pred": "1. pqtnss (appears 134 times) 2. bsiaki (appears 93 times) 3. txujft (appears 83 times)<|eot_id|>", "needle": ["pqtnss", "zoabkr", "bsiaki"], "score": 0.6666666666666666}
+{"ctx_len": 115811, "pred": "ziwydi (34 times), psfaxz (33 times), and jgscei (32 times).<|eot_id|>", "needle": ["psfaxz", "ziwydi", "bkdsuv"], "score": 0.6666666666666666}
+{"ctx_len": 123470, "pred": "qddwgd (appears 134 times), yvbpzi (appears 93 times), and ziqxxn (appears 92 times).<|eot_id|>", "needle": ["qddwgd", "ziqxxn", "bwbsxg"], "score": 0.6666666666666666}
+{"ctx_len": 123889, "pred": "pnxocm (appears 134 times), zkyyir (appears 127 times), and yykbrm (appears 124 times).<|eot_id|>", "needle": ["pnxocm", "zkyyir", "boslef"], "score": 0.6666666666666666}
+{"ctx_len": 113603, "pred": "1. yzvkmj (appears 73 times) 2. zkzjez (appears 72 times) 3. bomcss (appears 69 times)<|eot_id|>", "needle": ["ptrrnk", "zkzjez", "bomcss"], "score": 0.6666666666666666}
+{"ctx_len": 114984, "pred": "1. pnrrez (appears 134 times) 2. bugpxe (appears 93 times) 3. yyitla (appears 83 times)<|eot_id|>", "needle": ["pnrrez", "zkuuyi", "bugpxe"], "score": 0.6666666666666666}
+{"ctx_len": 117903, "pred": "1. zjamcd (appears 134 times) 2. yufjwt (appears 127 times) 3. bpvmqy (appears 124 times)<|eot_id|>", "needle": ["pxuhno", "zjamcd", "bpvmqy"], "score": 0.6666666666666666}
+{"ctx_len": 121825, "pred": "pqebqb (appears 73 times), zffrjk (appears 69 times), and yrbiet (appears 64 times).<|eot_id|>", "needle": ["pqebqb", "zffrjk", "bvpavh"], "score": 0.6666666666666666}
+{"ctx_len": 130713, "pred": "1. pshljy (appears 134 times) 2. zjifih (appears 128 times) 3. ywrmmu (appears 124 times)<|eot_id|>", "needle": ["pshljy", "zjifih", "bwqqfx"], "score": 0.6666666666666666}
+{"ctx_len": 128356, "pred": "1. qdxhdz (appears 134 times) 2. zjfbzn (appears 127 times) 3. yvbeit (appears 124 times)<|eot_id|>", "needle": ["qdxhdz", "zjfbzn", "bqaysf"], "score": 0.6666666666666666}
+{"ctx_len": 128475, "pred": "1. pmkzgs (appears 234 times) 2. zfvohw (appears 193 times) 3. ytlwje (appears 184 times)<|eot_id|>", "needle": ["pmkzgs", "zfvohw", "bqjjkj"], "score": 0.6666666666666666}
+{"ctx_len": 131036, "pred": "1. ppkhxw (appears 246 times) 2. zlxtai (appears 234 times) 3. jgiqlo (appears 194 times)<|eot_id|>", "needle": ["ppkhxw", "zlxtai", "bpzkez"], "score": 0.6666666666666666}
+{"ctx_len": 123812, "pred": "qjgbnx (appears 134 times), ziychx (appears 127 times), and yymxwd (appears 124 times).<|eot_id|>", "needle": ["qjgbnx", "ziychx", "buryiu"], "score": 0.6666666666666666}
+{"ctx_len": 115993, "pred": "1. zliajm (appears 134 times) 2. yvbibj (appears 128 times) 3. bomlho (appears 126 times)<|eot_id|>", "needle": ["pjwetc", "zliajm", "bomlho"], "score": 0.6666666666666666}
+{"ctx_len": 119529, "pred": "1. zkmqdi (appeared 73 times) 2. bqeblr (appeared 69 times) 3. ywdumo (appeared 64 times)<|eot_id|>", "needle": ["ptjhfe", "zkmqdi", "bqeblr"], "score": 0.6666666666666666}
+{"ctx_len": 130681, "pred": "1. pqjttu (appears 246 times) 2. zhfqng (appears 234 times) 3. boammh (appears 226 times)<|eot_id|>", "needle": ["pqjttu", "zhfqng", "boammh"], "score": 1.0}
+{"ctx_len": 129232, "pred": "1. zlmvuh (appeared 246 times) 2. pqgduo (appeared 246 times) 3. yxqsvc (appeared 234 times)<|eot_id|>", "needle": ["pqgduo", "zlmvuh", "bpcauv"], "score": 0.6666666666666666}
+{"ctx_len": 116734, "pred": "1. plkrvr (appeared 134 times) 2. bjvlvy (appeared 128 times) 3. zbdmmj (appeared 124 times)<|eot_id|>", "needle": ["plkrvr", "zmtpie", "bjvlvy"], "score": 0.6666666666666666}
+{"ctx_len": 123491, "pred": "1. pzuajq (appears 134 times) 2. zcteep (appears 93 times) 3. zoccvs (appears 92 times)<|eot_id|>", "needle": ["pzuajq", "zoccvs", "bnmeuj"], "score": 0.6666666666666666}
+{"ctx_len": 126001, "pred": "1. pukbwy (appeared 234 times) 2. zivmzc (appeared 194 times) 3. yvzlws (appeared 184 times)<|eot_id|>", "needle": ["pukbwy", "zivmzc", "buenjm"], "score": 0.6666666666666666}
+{"ctx_len": 117323, "pred": "1. pznvet (appears 134 times) 2. zglcgo (appears 127 times) 3. ywtmge (appears 124 times)<|eot_id|>", "needle": ["pznvet", "zglcgo", "bsitra"], "score": 0.6666666666666666}
+{"ctx_len": 131010, "pred": "1. ptbhzj (appeared 134 times) 2. zjmkim (appeared 127 times) 3. bpgsps (appeared 124 times)<|eot_id|>", "needle": ["ptbhzj", "zjmkim", "bpgsps"], "score": 1.0}
+{"ctx_len": 120226, "pred": "1. pxfypy (appears 134 times) 2. zjukuz (appears 128 times) 3. yxwqtt (appears 124 times)<|eot_id|>", "needle": ["pxfypy", "zjukuz", "bwcekr"], "score": 0.6666666666666666}
+{"ctx_len": 128949, "pred": "1. pwgcnw (appears 246 times) 2. zklhny (appears 234 times) 3. ywsbaf (appears 223 times)<|eot_id|>", "needle": ["pwgcnw", "zklhny", "btndqn"], "score": 0.6666666666666666}
+{"ctx_len": 114865, "pred": "qianri (appears 134 times), bsmcoi (appears 93 times), and juktjd (appears 64 times).<|eot_id|>", "needle": ["qianri", "zkisal", "bsmcoi"], "score": 0.6666666666666666}
+{"ctx_len": 119962, "pred": "1. zfwxro (appears 134 times) 2. btgews (appears 128 times) 3. ytycbw (appears 124 times)<|eot_id|>", "needle": ["pqgthi", "zfwxro", "btgews"], "score": 0.6666666666666666}
+{"ctx_len": 129513, "pred": "1. pndvkc (appears 234 times) 2. zlpqms (appears 193 times) 3. bxyraf (appears 184 times)<|eot_id|>", "needle": ["pndvkc", "zlpqms", "bxyraf"], "score": 1.0}
+{"ctx_len": 124952, "pred": "pzcqgq, zmcttl, and jlcgfn.<|eot_id|>", "needle": ["pzcqgq", "zmcttl", "brhwvc"], "score": 0.6666666666666666}
+{"ctx_len": 115969, "pred": "1. punnui (appears 134 times) 2. yxvsvi (appears 93 times) 3. zkrauc (appears 92 times)<|eot_id|>", "needle": ["punnui", "zkrauc", "bmfsfa"], "score": 0.6666666666666666}
+{"ctx_len": 113600, "pred": "1. psiqbb (appears 134 times) 2. btqnva (appears 123 times) 3. zkizip (appears 114 times)<|eot_id|>", "needle": ["psiqbb", "zkizip", "btqnva"], "score": 1.0}
+{"ctx_len": 121731, "pred": "1. puwpln (appeared 134 times) 2. bnrjyp (appeared 93 times) 3. yvmajc (appeared 83 times)<|eot_id|>", "needle": ["puwpln", "zigapl", "bnrjyp"], "score": 0.6666666666666666}
+{"ctx_len": 116703, "pred": "1. ptzmve (appears 134 times) 2. znfbvk (appears 128 times) 3. bpxtxb (appears 124 times)<|eot_id|>", "needle": ["ptzmve", "znfbvk", "bpxtxb"], "score": 1.0}
+{"ctx_len": 120033, "pred": "1. pwzxwr (appears 134 times) 2. yvzugt (appears 93 times) 3. zjnswx (appears 83 times)<|eot_id|>", "needle": ["pwzxwr", "zjnswx", "burucb"], "score": 0.6666666666666666}
+{"ctx_len": 112504, "pred": "1. pufoud (appears 134 times) 2. bozlkl (appears 93 times) 3. zkxirc (appears 83 times)<|eot_id|>", "needle": ["pufoud", "zkxirc", "bozlkl"], "score": 1.0}
+{"ctx_len": 126359, "pred": "1. pqfamc (appeared 134 times) 2. zmirgg (appeared 128 times) 3. yxdnfn (appeared 126 times)<|eot_id|>", "needle": ["pqfamc", "zmirgg", "bmzeaf"], "score": 0.6666666666666666}
+{"ctx_len": 119852, "pred": "1. pqddvw (appears 134 times) 2. zklpdz (appears 128 times) 3. bzjgpz (appears 124 times)<|eot_id|>", "needle": ["pqddvw", "zklpdz", "bzjgpz"], "score": 1.0}
+{"ctx_len": 129133, "pred": "1. zjlujo (appears 73 times) 2. ptwqdk (appears 72 times) 3. ywsjsi (appears 69 times)<|eot_id|>", "needle": ["ptwqdk", "zjlujo", "boffje"], "score": 0.6666666666666666}
+{"ctx_len": 114525, "pred": "1. zkpabd (appeared 134 times) 2. ywhgxc (appeared 128 times) 3. bruzgd (appeared 126 times)<|eot_id|>", "needle": ["qlhgxc", "zkpabd", "bruzgd"], "score": 0.6666666666666666}
+{"ctx_len": 130514, "pred": "1. pcrqln (appears 134 times) 2. zjphfb (appears 128 times) 3. yxeuwh (appears 124 times)<|eot_id|>", "needle": ["pcrqln", "zjphfb", "bnmpkn"], "score": 0.6666666666666666}
+{"ctx_len": 130203, "pred": "1. puarjg (appears 134 times) 2. zhhpio (appears 127 times) 3. yswupb (appears 124 times)<|eot_id|>", "needle": ["puarjg", "zhhpio", "btlzqf"], "score": 0.6666666666666666}
+{"ctx_len": 109266, "pred": "1. yswznu (appeared 73 times) 2. lqwjvr (appeared 67 times) 3. iugyul (appeared 64 times)<|eot_id|>", "needle": ["pnlmon", "zfphko", "bnkvyu"], "score": 0.0}
+{"ctx_len": 128903, "pred": "1. pyhcgk (appeared 246 times) 2. bukash (appeared 234 times) 3. zjqggg (appeared 226 times)<|eot_id|>", "needle": ["pyhcgk", "zjqggg", "bukash"], "score": 1.0}
+{"ctx_len": 125581, "pred": "1. pmqyvh (appeared 134 times) 2. zhzhym (appeared 128 times) 3. yuttqq (appeared 124 times)<|eot_id|>", "needle": ["pmqyvh", "zhzhym", "bpzqfl"], "score": 0.6666666666666666}
+{"ctx_len": 122142, "pred": "1. zjvrzb (appears 134 times) 2. pmumct (appears 133 times) 3. yvmssr (appears 128 times)<|eot_id|>", "needle": ["pmumct", "zjvrzb", "bprgnl"], "score": 0.6666666666666666}
+{"ctx_len": 119703, "pred": "1. zjwkfa (appeared 134 times) 2. ptqxkd (appeared 128 times) 3. bsugxy (appeared 124 times)<|eot_id|>", "needle": ["ptqxkd", "zjwkfa", "bsugxy"], "score": 1.0}
+{"ctx_len": 121017, "pred": "1. pqemyr (appears 134 times) 2. zfkwyw (appears 128 times) 3. bvbhqr (appears 124 times)<|eot_id|>", "needle": ["pqemyr", "zfkwyw", "bvbhqr"], "score": 1.0}
+{"ctx_len": 123388, "pred": "1. zibwta (appeared 73 times) 2. psbgvb (appeared 72 times) 3. ywfyov (appeared 69 times)<|eot_id|>", "needle": ["psbgvb", "zibwta", "bnhvvj"], "score": 0.6666666666666666}
+{"ctx_len": 121047, "pred": "1. prthct (appeared 73 times) 2. bsydeb (appeared 69 times) 3. zmozwq (appeared 66 times)<|eot_id|>", "needle": ["prthct", "zmozwq", "bsydeb"], "score": 1.0}
+{"ctx_len": 123496, "pred": "1. pvdnvm (appeared 246 times) 2. zkglem (appeared 234 times) 3. yyhkds (appeared 226 times)<|eot_id|>", "needle": ["pvdnvm", "zkglem", "btqhwl"], "score": 0.6666666666666666}
+{"ctx_len": 125954, "pred": "1. pyxwyz (appeared 134 times) 2. bwwrka (appeared 93 times) 3. yzanik (appeared 83 times)<|eot_id|>", "needle": ["pyxwyz", "zkmggt", "bwwrka"], "score": 0.6666666666666666}
+{"ctx_len": 124842, "pred": "1. puoivq (appears 134 times) 2. zmutry (appears 127 times) 3. jfwddq (appears 124 times)<|eot_id|>", "needle": ["puoivq", "zmutry", "bofabp"], "score": 0.6666666666666666}
+{"ctx_len": 124668, "pred": "1. pxbnnw (appeared 134 times) 2. zkegri (appeared 127 times) 3. brmxbk (appeared 124 times)<|eot_id|>", "needle": ["pxbnnw", "zkegri", "brmxbk"], "score": 1.0}
+{"ctx_len": 122869, "pred": "pweovq (appears 134 times), yxvmta (appears 123 times), and zkkkyv (appears 114 times).<|eot_id|>", "needle": ["pweovq", "zkkkyv", "bqqmie"], "score": 0.6666666666666666}
+{"ctx_len": 126709, "pred": "1. pxxlqb (appears 134 times) 2. zlgbio (appears 128 times) 3. ifyisl (appears 124 times)<|eot_id|>", "needle": ["pxxlqb", "zlgbio", "bkwmwg"], "score": 0.6666666666666666}
+{"ctx_len": 117774, "pred": "1. jpfyxk (appears 73 times) 2. bocwvu (appears 69 times) 3. ytrvjr (appears 68 times)<|eot_id|>", "needle": ["pkgcfo", "ziybvw", "bocwvu"], "score": 0.3333333333333333}
+{"ctx_len": 110000, "pred": "1. yxeqyw (appears 134 times) 2. zlhcum (appears 128 times) 3. pusuck (appears 126 times)<|eot_id|>", "needle": ["pusuck", "zlhcum", "bwtpko"], "score": 0.6666666666666666}
+{"ctx_len": 119634, "pred": "pwanwb (appears 134 times), zjodct (appears 128 times), and bqhjur (appears 126 times).<|eot_id|>", "needle": ["pwanwb", "zjodct", "bqhjur"], "score": 1.0}
+{"ctx_len": 123886, "pred": "ppuvyz, zliglo, and bseyjc.<|eot_id|>", "needle": ["ppuvyz", "zliglo", "bseyjc"], "score": 1.0}
+{"ctx_len": 125009, "pred": "1. pqjozg (appeared 73 times) 2. zndtmx (appeared 69 times) 3. bsgtmq (appeared 64 times)<|eot_id|>", "needle": ["pqjozg", "zndtmx", "bsgtmq"], "score": 1.0}
+{"ctx_len": 126591, "pred": "pulefz (appears 134 times), zjyxma (appears 127 times), and yxltqe (appears 124 times).<|eot_id|>", "needle": ["pulefz", "zjyxma", "bxmqjs"], "score": 0.6666666666666666}
+{"ctx_len": 115389, "pred": "1. qautjn (appears 73 times) 2. bywuig (appears 69 times) 3. ywctyu (appears 64 times)<|eot_id|>", "needle": ["qautjn", "zkmyub", "bywuig"], "score": 0.6666666666666666}
+{"ctx_len": 123491, "pred": "1. btsnan (appeared 134 times) 2. yuaqxj (appeared 128 times) 3. ziguxe (appeared 126 times)<|eot_id|>", "needle": ["pzqjta", "ziguxe", "btsnan"], "score": 0.6666666666666666}
+{"ctx_len": 118791, "pred": "1. zkeieq (appears 134 times) 2. poenhg (appears 128 times) 3. bqdoaq (appears 124 times)<|eot_id|>", "needle": ["poenhg", "zkeieq", "bqdoaq"], "score": 1.0}
+{"ctx_len": 128654, "pred": "qakbiq (appears 134 times), yvmnlp (appears 93 times), and jqqiak (appears 73 times).<|eot_id|>", "needle": ["qakbiq", "ziwxda", "bnznxj"], "score": 0.3333333333333333}
+{"ctx_len": 118320, "pred": "1. prveoj (appears 134 times) 2. ziuokq (appears 128 times) 3. ifzfjt (appears 124 times)<|eot_id|>", "needle": ["prveoj", "ziuokq", "bpbdwe"], "score": 0.6666666666666666}
+{"ctx_len": 124402, "pred": "pqyxbh (appears 73 times), zgrkwz (appears 69 times), and bprycg (appears 64 times).<|eot_id|>", "needle": ["pqyxbh", "zgrkwz", "bprycg"], "score": 1.0}
+{"ctx_len": 111078, "pred": "1. pqijps (appeared 63 times) 2. znacna (appeared 56 times) 3. bogati (appeared 55 times)<|eot_id|>", "needle": ["pqijps", "znacna", "bogati"], "score": 1.0}
+{"ctx_len": 127335, "pred": "qakobx (appears 134 times), ziuasa (appears 128 times), and yuqbxo (appears 124 times).<|eot_id|>", "needle": ["qakobx", "ziuasa", "btqcmw"], "score": 0.6666666666666666}
+{"ctx_len": 114902, "pred": "1. zlhslo (appeared 134 times) 2. yzdeba (appeared 128 times) 3. bttomo (appeared 124 times)<|eot_id|>", "needle": ["posxjl", "zlhslo", "bttomo"], "score": 0.6666666666666666}
+{"ctx_len": 127520, "pred": "1. qdlocc (appeared 134 times) 2. zklpyd (appeared 128 times) 3. btflzb (appeared 124 times)<|eot_id|>", "needle": ["qdlocc", "zklpyd", "btflzb"], "score": 1.0}
+{"ctx_len": 118251, "pred": "1. zjriaq (appears 234 times) 2. pxjjzt (appears 234 times) 3. brkupk (appears 234 times)<|eot_id|>", "needle": ["pxjjzt", "zjriaq", "brkupk"], "score": 1.0}
+{"ctx_len": 107469, "pred": "1. ziidua (appeared 134 times) 2. pgcome (appeared 128 times) 3. yvqlnt (appeared 124 times)<|eot_id|>", "needle": ["pgcome", "ziidua", "blvgkq"], "score": 0.6666666666666666}
+{"ctx_len": 123755, "pred": "1. prxtgz (appeared 134 times) 2. yvddmz (appeared 93 times) 3. bnsfyu (appeared 83 times)<|eot_id|>", "needle": ["prxtgz", "zgqkjk", "bnsfyu"], "score": 0.6666666666666666}
+{"ctx_len": 126632, "pred": "1. pvyzfe (appeared 134 times) 2. zluzwk (appeared 128 times) 3. yvzrdf (appeared 124 times)<|eot_id|>", "needle": ["pvyzfe", "zluzwk", "brrbqz"], "score": 0.6666666666666666}
+{"ctx_len": 130941, "pred": "1. qfghby (appears 134 times) 2. zjwaru (appears 127 times) 3. brzayb (appears 124 times)<|eot_id|>", "needle": ["qfghby", "zjwaru", "brzayb"], "score": 1.0}
+{"ctx_len": 115470, "pred": "1. zkrjar (appeared 134 times) 2. bqukmt (appeared 128 times) 3. iffiwr (appeared 124 times)<|eot_id|>", "needle": ["pxgvnt", "zkrjar", "bqukmt"], "score": 0.6666666666666666}
+{"ctx_len": 115843, "pred": "1. pdpasa (appears 134 times) 2. ysynyz (appears 93 times) 3. bphvpw (appears 83 times)<|eot_id|>", "needle": ["pdpasa", "ziyssk", "bphvpw"], "score": 0.6666666666666666}
+{"ctx_len": 117165, "pred": "qfxeza (34 times), btmzvu (32 times), and yzksce (29 times).<|eot_id|>", "needle": ["qfxeza", "zkwlzb", "btmzvu"], "score": 0.6666666666666666}
+{"ctx_len": 126513, "pred": "1. qcvbgg (appears 134 times) 2. zkpjcp (appears 128 times) 3. zaeklw (appears 124 times)<|eot_id|>", "needle": ["qcvbgg", "zkpjcp", "bqynif"], "score": 0.6666666666666666}
+{"ctx_len": 120947, "pred": "1. zmbimv (appeared 134 times) 2. prjojo (appeared 133 times) 3. brcjry (appeared 128 times)<|eot_id|>", "needle": ["prjojo", "zmbimv", "brcjry"], "score": 1.0}
+{"ctx_len": 122443, "pred": "1. zlhcrf (appeared 134 times) 2. pubrlw (appeared 128 times) 3. buwazd (appeared 124 times)<|eot_id|>", "needle": ["pubrlw", "zlhcrf", "buwazd"], "score": 1.0}
+{"ctx_len": 121649, "pred": "1. zlqsqm (appears 134 times) 2. pxhkjk (appears 128 times) 3. bslkse (appears 124 times)<|eot_id|>", "needle": ["pxhkjk", "zlqsqm", "bslkse"], "score": 1.0}
+{"ctx_len": 123511, "pred": "1. qgnhsd (appeared 134 times) 2. jcrnjt (appeared 93 times) 3. zkhenr (appeared 92 times)<|eot_id|>", "needle": ["qgnhsd", "zkhenr", "bqjfqc"], "score": 0.6666666666666666}
+{"ctx_len": 128102, "pred": "1. zivmsg (appears 134 times) 2. pqzaqy (appears 134 times) 3. btbhrq (appears 127 times)<|eot_id|>", "needle": ["pqzaqy", "zivmsg", "btbhrq"], "score": 1.0}
+{"ctx_len": 127877, "pred": "pznqis, bprgwy, and zaxswb.<|eot_id|>", "needle": ["pznqis", "zkqpgo", "bprgwy"], "score": 0.6666666666666666}
+{"ctx_len": 124320, "pred": "pvpobd (appears 73 times), brcbcn (appears 69 times), and jeoewg (appears 64 times).<|eot_id|>", "needle": ["pvpobd", "zkxjsl", "brcbcn"], "score": 0.6666666666666666}
+{"ctx_len": 128976, "pred": "1. pumwzt (appears 134 times) 2. zklcdo (appears 127 times) 3. ywxrfb (appears 124 times)<|eot_id|>", "needle": ["pumwzt", "zklcdo", "bqymyt"], "score": 0.6666666666666666}
+{"ctx_len": 130314, "pred": "1. qczjwe (appeared 134 times) 2. yvvyka (appeared 127 times) 3. zhyboh (appeared 124 times)<|eot_id|>", "needle": ["qczjwe", "zhyboh", "bqgriu"], "score": 0.6666666666666666}
+{"ctx_len": 120870, "pred": "1. zirzec (appeared 134 times) 2. pnqxho (appeared 133 times) 3. ytmzji (appeared 64 times)<|eot_id|>", "needle": ["pnqxho", "zirzec", "btokrl"], "score": 0.6666666666666666}
+{"ctx_len": 128333, "pred": "pzytvq (appears 134 times), zndfjs (appears 128 times), and brdhkv (appears 126 times).<|eot_id|>", "needle": ["pzytvq", "zndfjs", "brdhkv"], "score": 1.0}
+{"ctx_len": 123386, "pred": "1. pypzbj (appeared 234 times) 2. uawlow (appeared 134 times) 3. bpcfya (appeared 128 times)<|eot_id|>", "needle": ["pypzbj", "zihpdp", "bpcfya"], "score": 0.6666666666666666}
+{"ctx_len": 114914, "pred": "1. ppktqa (appears 134 times) 2. brpmnu (appears 123 times) 3. ytiama (appears 114 times)<|eot_id|>", "needle": ["ppktqa", "zigktf", "brpmnu"], "score": 0.6666666666666666}
+{"ctx_len": 113681, "pred": "1. qbalvj (appeared 73 times) 2. zlbsat (appeared 69 times) 3. bumevc (appeared 64 times)<|eot_id|>", "needle": ["qbalvj", "zlbsat", "bumevc"], "score": 1.0}
+{"ctx_len": 123614, "pred": "qiaahg (appears 134 times), znmdeh (appears 128 times), and yzkjlt (appears 124 times).<|eot_id|>", "needle": ["qiaahg", "znmdeh", "bwhkyv"], "score": 0.6666666666666666}
+{"ctx_len": 126580, "pred": "1. psvdfq (appears 134 times) 2. zmktdc (appears 128 times) 3. bpicwe (appears 124 times)<|eot_id|>", "needle": ["psvdfq", "zmktdc", "bpicwe"], "score": 1.0}
+{"ctx_len": 115521, "pred": "1. pwxfhe (appears 134 times) 2. ziubwk (appears 128 times) 3. ywhmmb (appears 124 times)<|eot_id|>", "needle": ["pwxfhe", "ziubwk", "bnrmwd"], "score": 0.6666666666666666}
+{"ctx_len": 127357, "pred": "1. pwzhtq (appears 246 times) 2. jilspw (appears 144 times) 3. ytfggf (appears 134 times)<|eot_id|>", "needle": ["pwzhtq", "zfotfj", "bqazgc"], "score": 0.3333333333333333}
+{"ctx_len": 115019, "pred": "1. pyojfp (appeared 134 times) 2. brdqnx (appeared 93 times) 3. zkcgkd (appeared 83 times)<|eot_id|>", "needle": ["pyojfp", "zkcgkd", "brdqnx"], "score": 1.0}
+{"ctx_len": 120670, "pred": "1. qermvd (appears 234 times) 2. zmcgyb (appears 134 times) 3. buixsc (appears 128 times)<|eot_id|>", "needle": ["qermvd", "zmcgyb", "buixsc"], "score": 1.0}
+{"ctx_len": 130413, "pred": "1. qakqms (appeared 134 times) 2. zjhfsi (appeared 128 times) 3. bsndhp (appeared 124 times)<|eot_id|>", "needle": ["qakqms", "zjhfsi", "bsndhp"], "score": 1.0}
+{"ctx_len": 119553, "pred": "pyljot (34 times), zlykwe (32 times), and bscanz (29 times).<|eot_id|>", "needle": ["pyljot", "zlykwe", "bscanz"], "score": 1.0}
+{"ctx_len": 116573, "pred": "1. pwusoi (appeared 134 times) 2. zlumfe (appeared 128 times) 3. ywydui (appeared 124 times)<|eot_id|>", "needle": ["pwusoi", "zlumfe", "bvuxsq"], "score": 0.6666666666666666}
+{"ctx_len": 130141, "pred": "1. qbgvvv (appeared 234 times) 2. zhegke (appeared 194 times) 3. yvcxha (appeared 184 times)<|eot_id|>", "needle": ["qbgvvv", "zhegke", "bslezs"], "score": 0.6666666666666666}
+{"ctx_len": 119042, "pred": "pvpnat (appears 134 times), zjphci (appears 127 times), and yxifme (appears 124 times).<|eot_id|>", "needle": ["pvpnat", "zjphci", "bmzmwn"], "score": 0.6666666666666666}
+{"ctx_len": 116008, "pred": "puhnbb (appears 134 times), yzpgug (appears 93 times), and zkooap (appears 92 times).<|eot_id|>", "needle": ["puhnbb", "zkooap", "blpjzo"], "score": 0.6666666666666666}
+{"ctx_len": 115840, "pred": "1. prirnu (appears 234 times) 2. zggdns (appears 184 times) 3. bnyfux (appears 173 times)<|eot_id|>", "needle": ["prirnu", "zggdns", "bnyfux"], "score": 1.0}
+{"ctx_len": 125920, "pred": "1. prnuph (appeared 73 times) 2. zjvzjn (appeared 72 times) 3. bprarj (appeared 69 times)<|eot_id|>", "needle": ["prnuph", "zjvzjn", "bprarj"], "score": 1.0}
+{"ctx_len": 122402, "pred": "1. pruaam (appears 134 times) 2. zhqcrq (appears 127 times) 3. ywsokw (appears 124 times)<|eot_id|>", "needle": ["pruaam", "zhqcrq", "bovuph"], "score": 0.6666666666666666}
+{"ctx_len": 125427, "pred": "1. plnheb (appeared 69 times) 2. zjzdlf (appeared 64 times) 3. yzcdpx (appeared 56 times)<|eot_id|>", "needle": ["plnheb", "zjzdlf", "bpjqmx"], "score": 0.6666666666666666}
+{"ctx_len": 121625, "pred": "1. zjkscs (appeared 73 times) 2. pnhyoc (appeared 72 times) 3. bpokll (appeared 69 times)<|eot_id|>", "needle": ["pnhyoc", "zjkscs", "bpokll"], "score": 1.0}
+{"ctx_len": 119614, "pred": "qbooro (34 times), zjjqsu (32 times), and brjsbs (29 times).<|eot_id|>", "needle": ["qbooro", "zjjqsu", "brjsbs"], "score": 1.0}
+{"ctx_len": 125715, "pred": "ptiwgq (appears 134 times), yxgdyc (appears 128 times), and bmcihr (appears 124 times).<|eot_id|>", "needle": ["ptiwgq", "zkqnca", "bmcihr"], "score": 0.6666666666666666}
+{"ctx_len": 113802, "pred": "1. zlipbz (appears 134 times) 2. pqmnbs (appears 128 times) 3. zafijh (appears 124 times)<|eot_id|>", "needle": ["pqmnbs", "zlipbz", "bzdbmf"], "score": 0.6666666666666666}
+{"ctx_len": 121218, "pred": "1. bpryyw (appears 134 times) 2. yvpceb (appears 127 times) 3. zhgjoq (appears 124 times)<|eot_id|>", "needle": ["pokxuy", "zhgjoq", "bpryyw"], "score": 0.6666666666666666}
+{"ctx_len": 120025, "pred": "pvcjrh, znacia, and bspunj.<|eot_id|>", "needle": ["pvcjrh", "znacia", "bspunj"], "score": 1.0}
+{"ctx_len": 116140, "pred": "1. pxexle (appears 134 times) 2. yxwina (appears 93 times) 3. zkibtc (appears 92 times)<|eot_id|>", "needle": ["pxexle", "zkibtc", "buipbe"], "score": 0.6666666666666666}
+{"ctx_len": 128919, "pred": "1. pwtbsg (appears 134 times) 2. zhsyiw (appears 128 times) 3. jqzlaq (appears 124 times)<|eot_id|>", "needle": ["pwtbsg", "zhsyiw", "bspmff"], "score": 0.6666666666666666}
+{"ctx_len": 114271, "pred": "1. qabhur (appeared 73 times) 2. btwwvw (appeared 69 times) 3. zkgoxm (appeared 64 times)<|eot_id|>", "needle": ["qabhur", "zkgoxm", "btwwvw"], "score": 1.0}
+{"ctx_len": 128310, "pred": "1. qdpsyu (appears 246 times) 2. zlhzrm (appears 234 times) 3. yznxmm (appears 194 times)<|eot_id|>", "needle": ["qdpsyu", "zlhzrm", "bqepak"], "score": 0.6666666666666666}
+{"ctx_len": 128692, "pred": "1. ptfwzy (appeared 246 times) 2. zlzhon (appeared 234 times) 3. bopiul (appeared 194 times)<|eot_id|>", "needle": ["ptfwzy", "zlzhon", "bopiul"], "score": 1.0}
+{"ctx_len": 118668, "pred": "1. zizhbp (appeared 134 times) 2. pnejtu (appeared 134 times) 3. bsrcuv (appeared 127 times)<|eot_id|>", "needle": ["pnejtu", "zizhbp", "bsrcuv"], "score": 1.0}
+{"ctx_len": 128931, "pred": "1. qbbjht (appeared 123 times) 2. zkmofk (appeared 114 times) 3. ywfmoq (appeared 93 times)<|eot_id|>", "needle": ["qbbjht", "zkmofk", "brnvnp"], "score": 0.6666666666666666}
+{"ctx_len": 116670, "pred": "1. qafbfa (appeared 134 times) 2. zjugtl (appeared 128 times) 3. ywulcy (appeared 124 times)<|eot_id|>", "needle": ["qafbfa", "zjugtl", "bqmmub"], "score": 0.6666666666666666}
+{"ctx_len": 120669, "pred": "qandie (appears 134 times), zogioy (appears 128 times), and bwuecz (appears 126 times).<|eot_id|>", "needle": ["qandie", "zogioy", "bwuecz"], "score": 1.0}
+{"ctx_len": 126496, "pred": "1. prkqvc (appears 234 times) 2. zhubpj (appears 193 times) 3. ytorph (appears 184 times)<|eot_id|>", "needle": ["prkqvc", "zhubpj", "blrxxl"], "score": 0.6666666666666666}
+{"ctx_len": 115010, "pred": "1. yzjfib (appeared 73 times) 2. zkclfi (appeared 72 times) 3. ptudzh (appeared 71 times)<|eot_id|>", "needle": ["ptudzh", "zkclfi", "bvknvj"], "score": 0.6666666666666666}
+{"ctx_len": 120219, "pred": "1. zksqkn (appears 234 times) 2. pwexgn (appears 234 times) 3. brzplv (appears 123 times)<|eot_id|>", "needle": ["pwexgn", "zksqkn", "brzplv"], "score": 1.0}
+{"ctx_len": 122979, "pred": "1. plvylh (appeared 134 times) 2. zivdci (appeared 128 times) 3. btpcjm (appeared 124 times)<|eot_id|>", "needle": ["plvylh", "zivdci", "btpcjm"], "score": 1.0}
+{"ctx_len": 118273, "pred": "1. qckybm (appeared 134 times) 2. zlccbn (appeared 134 times) 3. yyszir (appeared 134 times)<|eot_id|>", "needle": ["qckybm", "zlccbn", "bqjnzs"], "score": 0.6666666666666666}
+{"ctx_len": 125920, "pred": "1. zllpin (appears 134 times) 2. yxjhtx (appears 127 times) 3. psngqk (appears 126 times)<|eot_id|>", "needle": ["psngqk", "zllpin", "bnthik"], "score": 0.6666666666666666}
+{"ctx_len": 128309, "pred": "1. ptltsb (appeared 134 times) 2. zmdyjs (appeared 128 times) 3. btvaoh (appeared 124 times)<|eot_id|>", "needle": ["ptltsb", "zmdyjs", "btvaoh"], "score": 1.0}
+{"ctx_len": 120958, "pred": "1. pujtim (appears 134 times) 2. yzisbf (appears 93 times) 3. zmdnnc (appears 83 times)<|eot_id|>", "needle": ["pujtim", "zmdnnc", "blwckd"], "score": 0.6666666666666666}
+{"ctx_len": 117283, "pred": "1. qaeenn (appears 134 times) 2. buxhus (appears 93 times) 3. zingsa (appears 83 times)<|eot_id|>", "needle": ["qaeenn", "zingsa", "buxhus"], "score": 1.0}
+{"ctx_len": 117029, "pred": "1. ywzwgq (appeared 74 times) 2. zjnvro (appeared 73 times) 3. jauklz (appeared 67 times)<|eot_id|>", "needle": ["pclbyp", "zjnvro", "bmiosh"], "score": 0.3333333333333333}
+{"ctx_len": 125399, "pred": "1. pmtmsa (appeared 234 times) 2. zhuaub (appeared 194 times) 3. jltfih (appeared 184 times)<|eot_id|>", "needle": ["pmtmsa", "zhuaub", "bqojxb"], "score": 0.6666666666666666}
+{"ctx_len": 128731, "pred": "1. zkpqeb (appears 234 times) 2. yxycxc (appears 194 times) 3. pvpjpq (appears 184 times)<|eot_id|>", "needle": ["pvpjpq", "zkpqeb", "boftzo"], "score": 0.6666666666666666}
+{"ctx_len": 122252, "pred": "1. zisjvk (appeared 134 times) 2. pqwapd (appeared 128 times) 3. yxfrad (appeared 124 times)<|eot_id|>", "needle": ["pqwapd", "zisjvk", "brqfmq"], "score": 0.6666666666666666}
+{"ctx_len": 119092, "pred": "1. ppvpew (appears 134 times) 2. ywqpbx (appears 93 times) 3. zkzcmd (appears 83 times)<|eot_id|>", "needle": ["ppvpew", "zkzcmd", "bsqfys"], "score": 0.6666666666666666}
+{"ctx_len": 121647, "pred": "1. zjrfsp (appears 73 times) 2. phlnzu (appears 72 times) 3. yxooeo (appears 69 times)<|eot_id|>", "needle": ["phlnzu", "zjrfsp", "bqldpo"], "score": 0.6666666666666666}
+{"ctx_len": 122559, "pred": "1. ppzirb (appears 134 times) 2. zjzkkv (appears 128 times) 3. btflvr (appears 124 times)<|eot_id|>", "needle": ["ppzirb", "zjzkkv", "btflvr"], "score": 1.0}
+{"ctx_len": 129003, "pred": "1. qgumju (appears 246 times) 2. zjfrrw (appears 234 times) 3. tyaepl (appears 194 times)<|eot_id|>", "needle": ["qgumju", "zjfrrw", "bqubvd"], "score": 0.6666666666666666}
+{"ctx_len": 125565, "pred": "1. zjxgkn (appeared 134 times) 2. pkirix (appeared 128 times) 3. zaqdog (appeared 124 times)<|eot_id|>", "needle": ["pkirix", "zjxgkn", "bpwjwv"], "score": 0.6666666666666666}
+{"ctx_len": 119602, "pred": "1. pqksoc (appears 73 times) 2. zljdcu (appears 69 times) 3. bxawjr (appears 64 times)<|eot_id|>", "needle": ["pqksoc", "zljdcu", "bxawjr"], "score": 1.0}
+{"ctx_len": 125292, "pred": "1. pvxguu (appeared 73 times) 2. zmahea (appeared 69 times) 3. bxdrdn (appeared 64 times)<|eot_id|>", "needle": ["pvxguu", "zmahea", "bxdrdn"], "score": 1.0}
+{"ctx_len": 125593, "pred": "1. ziskuv (appears 134 times) 2. pqjceg (appears 128 times) 3. bnwxjq (appears 124 times)<|eot_id|>", "needle": ["pqjceg", "ziskuv", "bnwxjq"], "score": 1.0}
+{"ctx_len": 118371, "pred": "1. zmxpqe (appears 134 times) 2. pzipmp (appears 133 times) 3. yzlegm (appears 128 times)<|eot_id|>", "needle": ["pzipmp", "zmxpqe", "borqws"], "score": 0.6666666666666666}
+{"ctx_len": 119526, "pred": "1. ptaygh (appeared 73 times) 2. zljrqv (appeared 69 times) 3. jeihzd (appeared 64 times)<|eot_id|>", "needle": ["ptaygh", "zljrqv", "btjjzk"], "score": 0.6666666666666666}
+{"ctx_len": 123401, "pred": "1. zjbofj (appears 134 times) 2. yweajy (appears 127 times) 3. psknid (appears 124 times)<|eot_id|>", "needle": ["psknid", "zjbofj", "buzhrq"], "score": 0.6666666666666666}
+{"ctx_len": 120074, "pred": "1. pwelbl (appears 234 times) 2. zkbzcp (appears 193 times) 3. judiep (appears 184 times)<|eot_id|>", "needle": ["pwelbl", "zkbzcp", "bnaabg"], "score": 0.6666666666666666}
+{"ctx_len": 117158, "pred": "1. pwriwi (appears 134 times) 2. zivbgf (appears 127 times) 3. yvaexf (appears 124 times)<|eot_id|>", "needle": ["pwriwi", "zivbgf", "bppgeh"], "score": 0.6666666666666666}
+{"ctx_len": 114115, "pred": "1. pilcxh (appears 134 times) 2. ywqqgv (appears 127 times) 3. zkdgto (appears 124 times)<|eot_id|>", "needle": ["pilcxh", "zkdgto", "blezwf"], "score": 0.6666666666666666}
+{"ctx_len": 114032, "pred": "1. pwbczx (appears 134 times) 2. zjbddb (appears 128 times) 3. ywelfo (appears 124 times)<|eot_id|>", "needle": ["pwbczx", "zjbddb", "bpnari"], "score": 0.6666666666666666}
+{"ctx_len": 120761, "pred": "1. pqrsfl (appears 134 times) 2. zkslpr (appears 127 times) 3. uacuzi (appears 124 times)<|eot_id|>", "needle": ["pqrsfl", "zkslpr", "borbxq"], "score": 0.6666666666666666}
+{"ctx_len": 122339, "pred": "1. zibmyg (appeared 73 times) 2. pvxsdk (appeared 72 times) 3. yxkqrt (appeared 69 times)<|eot_id|>", "needle": ["pvxsdk", "zibmyg", "brmepn"], "score": 0.6666666666666666}
+{"ctx_len": 113376, "pred": "1. prtbjm (appears 134 times) 2. zliasm (appears 127 times) 3. icugrt (appears 124 times)<|eot_id|>", "needle": ["prtbjm", "zliasm", "bsjsxp"], "score": 0.6666666666666666}
+{"ctx_len": 121446, "pred": "zkmqib, ywofgf, and plluln.<|eot_id|>", "needle": ["plluln", "zkmqib", "bqflqy"], "score": 0.6666666666666666}
+{"ctx_len": 123958, "pred": "1. qdlzni (appeared 134 times) 2. bybgri (appeared 123 times) 3. uaqidw (appeared 114 times)<|eot_id|>", "needle": ["qdlzni", "zkuvly", "bybgri"], "score": 0.6666666666666666}
+{"ctx_len": 118824, "pred": "1. ptapty (appears 73 times) 2. zjptsb (appears 69 times) 3. yzwtuz (appears 64 times)<|eot_id|>", "needle": ["ptapty", "zjptsb", "bohluq"], "score": 0.6666666666666666}
+{"ctx_len": 123736, "pred": "1. qdarrl (appeared 134 times) 2. buogef (appeared 93 times) 3. jtmvks (appeared 83 times)<|eot_id|>", "needle": ["qdarrl", "zkpvvr", "buogef"], "score": 0.6666666666666666}
+{"ctx_len": 122996, "pred": "1. qjawlp (appears 234 times) 2. zlkscv (appears 193 times) 3. btdyrd (appears 184 times)<|eot_id|>", "needle": ["qjawlp", "zlkscv", "btdyrd"], "score": 1.0}
+{"ctx_len": 115731, "pred": "1. pyfefm (appeared 134 times) 2. zcrrvx (appeared 93 times) 3. bsethr (appeared 83 times)<|eot_id|>", "needle": ["pyfefm", "zmjfow", "bsethr"], "score": 0.6666666666666666}
+{"ctx_len": 120401, "pred": "1. pwzcpp (appears 246 times) 2. yuvyoe (appears 144 times) 3. btvdgw (appears 134 times)<|eot_id|>", "needle": ["pwzcpp", "zijxqo", "btvdgw"], "score": 0.6666666666666666}
+{"ctx_len": 124530, "pred": "puaqvh, zlghrq, and bsozqp.<|eot_id|>", "needle": ["puaqvh", "zlghrq", "bsozqp"], "score": 1.0}
+{"ctx_len": 118315, "pred": "1. bmbqjs (appears 73 times) 2. zkitpt (appears 72 times) 3. hyygez (appears 69 times)<|eot_id|>", "needle": ["ptrgqa", "zkitpt", "bmbqjs"], "score": 0.6666666666666666}
+{"ctx_len": 127910, "pred": "qanvtc, zkbzld, and yxabph.<|eot_id|>", "needle": ["qanvtc", "zkbzld", "btluyl"], "score": 0.6666666666666666}
+{"ctx_len": 127427, "pred": "1. pmxymh (appeared 134 times) 2. zizdpb (appeared 128 times) 3. yvdaje (appeared 124 times)<|eot_id|>", "needle": ["pmxymh", "zizdpb", "boeqdz"], "score": 0.6666666666666666}
+{"ctx_len": 114963, "pred": "1. pqviam (appears 134 times) 2. yswrwi (appears 93 times) 3. zgkjgy (appears 92 times)<|eot_id|>", "needle": ["pqviam", "zgkjgy", "bnbyod"], "score": 0.6666666666666666}
+{"ctx_len": 112991, "pred": "1. pvjdiz (appears 134 times) 2. bucbxt (appears 93 times) 3. zmsovc (appears 83 times)<|eot_id|>", "needle": ["pvjdiz", "zmsovc", "bucbxt"], "score": 1.0}
+{"ctx_len": 129955, "pred": "1. zmbjnd (appears 134 times) 2. bmzbqk (appears 127 times) 3. ioknet (appears 124 times)<|eot_id|>", "needle": ["qbcewq", "zmbjnd", "bmzbqk"], "score": 0.6666666666666666}
+{"ctx_len": 120166, "pred": "1. prbuca (appears 134 times) 2. zkvaoi (appears 128 times) 3. ywqhgt (appears 124 times)<|eot_id|>", "needle": ["prbuca", "zkvaoi", "bpofhy"], "score": 0.6666666666666666}
+{"ctx_len": 117544, "pred": "1. zlmlgs (appears 234 times) 2. pwaxll (appears 234 times) 3. bplisd (appears 234 times)<|eot_id|>", "needle": ["pwaxll", "zlmlgs", "bplisd"], "score": 1.0}
+{"ctx_len": 121768, "pred": "psmaci (appears 134 times), ytkrmg (appears 93 times), and zlnnkx (appears 83 times).<|eot_id|>", "needle": ["psmaci", "zlnnkx", "bwdxxt"], "score": 0.6666666666666666}
+{"ctx_len": 118195, "pred": "1. zfkudl (appears 134 times) 2. pvltvc (appears 128 times) 3. ifhpia (appears 64 times)<|eot_id|>", "needle": ["pvltvc", "zfkudl", "bqjaei"], "score": 0.6666666666666666}
+{"ctx_len": 125012, "pred": "1. zkfmrw (appears 134 times) 2. yxxdit (appears 128 times) 3. pkvbnx (appears 127 times)<|eot_id|>", "needle": ["pkvbnx", "zkfmrw", "brjabi"], "score": 0.6666666666666666}
+{"ctx_len": 126037, "pred": "ppejeu (appears 134 times), zlqxtx (appears 128 times), and brvrvy (appears 124 times).<|eot_id|>", "needle": ["ppejeu", "zlqxtx", "brvrvy"], "score": 1.0}
+{"ctx_len": 120130, "pred": "1. zfmahl (appeared 134 times) 2. yvkgvz (appeared 128 times) 3. prokbq (appeared 126 times)<|eot_id|>", "needle": ["prokbq", "zfmahl", "bnwdeu"], "score": 0.6666666666666666}
+{"ctx_len": 121032, "pred": "1. psfbpq (appears 134 times) 2. zkrslx (appears 128 times) 3. yxnsue (appears 124 times)<|eot_id|>", "needle": ["psfbpq", "zkrslx", "bqqiyf"], "score": 0.6666666666666666}
+{"ctx_len": 123657, "pred": "1. qeqwlh (appears 134 times) 2. zlboth (appears 128 times) 3. jrwvix (appears 124 times)<|eot_id|>", "needle": ["qeqwlh", "zlboth", "bqewco"], "score": 0.6666666666666666}
+{"ctx_len": 127696, "pred": "1. qgcnpc (appeared 246 times) 2. zkmqoy (appeared 234 times) 3. jyekrx (appeared 194 times)<|eot_id|>", "needle": ["qgcnpc", "zkmqoy", "builcp"], "score": 0.6666666666666666}
+{"ctx_len": 124189, "pred": "1. ppqzst (appears 134 times) 2. zkmpfi (appears 127 times) 3. btgoau (appears 124 times)<|eot_id|>", "needle": ["ppqzst", "zkmpfi", "btgoau"], "score": 1.0}
+{"ctx_len": 116381, "pred": "1. pxovma (appeared 134 times) 2. jlvokm (appeared 64 times) 3. bslsmb (appeared 63 times)<|eot_id|>", "needle": ["pxovma", "znxfkj", "bslsmb"], "score": 0.6666666666666666}
+{"ctx_len": 129310, "pred": "1. pquwfd (appeared 134 times) 2. zkkosn (appeared 128 times) 3. ibhnoz (appeared 124 times)<|eot_id|>", "needle": ["pquwfd", "zkkosn", "bktyjd"], "score": 0.6666666666666666}
+{"ctx_len": 118525, "pred": "1. zjyjsr (appears 134 times) 2. pulisi (appears 128 times) 3. bsovnz (appears 124 times)<|eot_id|>", "needle": ["pulisi", "zjyjsr", "bsovnz"], "score": 1.0}
+{"ctx_len": 104760, "pred": "1. bqingq (appears 134 times) 2. zhnmwb (appears 128 times) 3. jhytun (appears 124 times)<|eot_id|>", "needle": ["priown", "zhnmwb", "bqingq"], "score": 0.6666666666666666}
+{"ctx_len": 122994, "pred": "1. zlumlh (appears 134 times) 2. pxbeeq (appears 128 times) 3. jgxbfy (appears 64 times)<|eot_id|>", "needle": ["pxbeeq", "zlumlh", "btkfqm"], "score": 0.6666666666666666}
+{"ctx_len": 122372, "pred": "1. bopdze (appears 73 times) 2. zlmnfh (appears 69 times) 3. yzzclz (appears 64 times)<|eot_id|>", "needle": ["pnthcd", "zlmnfh", "bopdze"], "score": 0.6666666666666666}
+{"ctx_len": 122627, "pred": "1. zisqns (appears 134 times) 2. bueovx (appears 127 times) 3. ywueue (appears 124 times)<|eot_id|>", "needle": ["psqcos", "zisqns", "bueovx"], "score": 0.6666666666666666}
+{"ctx_len": 124223, "pred": "1. ptpjqn (appears 234 times) 2. zmkjlh (appears 193 times) 3. bvehsj (appears 184 times)<|eot_id|>", "needle": ["ptpjqn", "zmkjlh", "bvehsj"], "score": 1.0}
+{"ctx_len": 124718, "pred": "1. pqfzko (appeared 134 times) 2. ywdqjh (appeared 93 times) 3. jfojcb (appeared 83 times)<|eot_id|>", "needle": ["pqfzko", "zieaou", "bmztvl"], "score": 0.3333333333333333}
+{"ctx_len": 117337, "pred": "1. pobvmc (appears 134 times) 2. zbkglh (appears 93 times) 3. jphmkh (appears 83 times)<|eot_id|>", "needle": ["pobvmc", "zkxsve", "bukbmm"], "score": 0.3333333333333333}
+{"ctx_len": 125861, "pred": "1. zhpuly (appeared 134 times) 2. bquutc (appeared 128 times) 3. ytydbu (appeared 124 times)<|eot_id|>", "needle": ["pxwzyy", "zhpuly", "bquutc"], "score": 0.6666666666666666}
+{"ctx_len": 130757, "pred": "1. psuqgp (appears 134 times) 2. zjwbzu (appears 128 times) 3. yxyiay (appears 124 times)<|eot_id|>", "needle": ["psuqgp", "zjwbzu", "bktgod"], "score": 0.6666666666666666}
+{"ctx_len": 119790, "pred": "1. pwzmvy (appeared 134 times) 2. zhxmtb (appeared 128 times) 3. ytdagc (appeared 124 times)<|eot_id|>", "needle": ["pwzmvy", "zhxmtb", "bruyga"], "score": 0.6666666666666666}
+{"ctx_len": 118246, "pred": "1. zjyfbd (appears 134 times) 2. pillsv (appears 128 times) 3. bxdcdy (appears 124 times)<|eot_id|>", "needle": ["pillsv", "zjyfbd", "bxdcdy"], "score": 1.0}
+{"ctx_len": 112566, "pred": "1. ptbodd (appears 134 times) 2. zgugxy (appears 128 times) 3. ytexqu (appears 124 times)<|eot_id|>", "needle": ["ptbodd", "zgugxy", "bocklo"], "score": 0.6666666666666666}
+{"ctx_len": 126639, "pred": "1. qckuwl (appears 134 times) 2. zissct (appears 128 times) 3. yvwgbw (appears 124 times)<|eot_id|>", "needle": ["qckuwl", "zissct", "brrwjm"], "score": 0.6666666666666666}
+{"ctx_len": 118914, "pred": "1. zlxibq (appears 134 times) 2. przpoj (appears 128 times) 3. yzvorj (appears 124 times)<|eot_id|>", "needle": ["przpoj", "zlxibq", "bzunqx"], "score": 0.6666666666666666}
+{"ctx_len": 119572, "pred": "1. zjswah (appeared 134 times) 2. yvkwyf (appeared 127 times) 3. brjssp (appeared 124 times)<|eot_id|>", "needle": ["pptcic", "zjswah", "brjssp"], "score": 0.6666666666666666}
+{"ctx_len": 121900, "pred": "1. pezxhv (appeared 134 times) 2. bjphtx (appeared 93 times) 3. yxjbji (appeared 83 times)<|eot_id|>", "needle": ["pezxhv", "ziuueh", "bjphtx"], "score": 0.6666666666666666}
+{"ctx_len": 117266, "pred": "1. bqqdut (appears 73 times) 2. ywbwan (appears 69 times) 3. zktrae (appears 68 times)<|eot_id|>", "needle": ["pokldk", "zktrae", "bqqdut"], "score": 0.6666666666666666}
+{"ctx_len": 115357, "pred": "1. zcwixf (appears 134 times) 2. bprlst (appears 128 times) 3. zmryup (appears 126 times)<|eot_id|>", "needle": ["pzgbwn", "zmryup", "bprlst"], "score": 0.6666666666666666}
+{"ctx_len": 127931, "pred": "1. pqujpy (appeared 134 times) 2. yvsmpd (appeared 93 times) 3. bmticu (appeared 83 times)<|eot_id|>", "needle": ["pqujpy", "zgkgts", "bmticu"], "score": 0.6666666666666666}
+{"ctx_len": 123539, "pred": "1. zlsvhj (appeared 134 times) 2. yxgotc (appeared 128 times) 3. brqdwo (appeared 124 times)<|eot_id|>", "needle": ["pvypnt", "zlsvhj", "brqdwo"], "score": 0.6666666666666666}
+{"ctx_len": 118713, "pred": "1. pwgifu (appears 134 times) 2. zlnuuq (appears 128 times) 3. bsqofi (appears 124 times)<|eot_id|>", "needle": ["pwgifu", "zlnuuq", "bsqofi"], "score": 1.0}
+{"ctx_len": 130879, "pred": "1. qdnnlj (appears 246 times) 2. yzawig (appears 144 times) 3. zktsvz (appears 134 times)<|eot_id|>", "needle": ["qdnnlj", "zktsvz", "bxdaxw"], "score": 0.6666666666666666}
+{"ctx_len": 113741, "pred": "1. pkstqv (appears 134 times) 2. yzapad (appears 93 times) 3. bwcznk (appears 83 times)<|eot_id|>", "needle": ["pkstqv", "zkjozb", "bwcznk"], "score": 0.6666666666666666}
+{"ctx_len": 124583, "pred": "1. pthvbv (appears 134 times) 2. zjatrb (appears 127 times) 3. yzmqrq (appears 124 times)<|eot_id|>", "needle": ["pthvbv", "zjatrb", "bsdcbh"], "score": 0.6666666666666666}
+{"ctx_len": 121052, "pred": "1. qfnely (appears 134 times) 2. zjfbcv (appears 128 times) 3. btggeu (appears 124 times)<|eot_id|>", "needle": ["qfnely", "zjfbcv", "btggeu"], "score": 1.0}
+{"ctx_len": 127113, "pred": "1. zlwvwu (appears 134 times) 2. bryles (appears 127 times) 3. qaumqk (appears 126 times)<|eot_id|>", "needle": ["qaumqk", "zlwvwu", "bryles"], "score": 1.0}
+{"ctx_len": 115773, "pred": "1. poosnb (appeared 73 times) 2. zjsxgo (appeared 69 times) 3. btjjat (appeared 64 times)<|eot_id|>", "needle": ["poosnb", "zjsxgo", "btjjat"], "score": 1.0}
+{"ctx_len": 117873, "pred": "1. pmravt (appears 234 times) 2. zmelvx (appears 193 times) 3. yxkwgm (appears 134 times)<|eot_id|>", "needle": ["pmravt", "zmelvx", "bqnaxp"], "score": 0.6666666666666666}
+{"ctx_len": 116238, "pred": "1. pinhqn (appears 134 times) 2. zmkkfx (appears 128 times) 3. yzgbyl (appears 124 times)<|eot_id|>", "needle": ["pinhqn", "zmkkfx", "bpnmtn"], "score": 0.6666666666666666}
+{"ctx_len": 115576, "pred": "bmulpl, yxspyi, and zipzcg.<|eot_id|>", "needle": ["pvzmzi", "zipzcg", "bmulpl"], "score": 0.6666666666666666}
+{"ctx_len": 119809, "pred": "1. zjdazj (appears 134 times) 2. yxoajf (appears 127 times) 3. pkndrx (appears 126 times)<|eot_id|>", "needle": ["pkndrx", "zjdazj", "bqabid"], "score": 0.6666666666666666}
+{"ctx_len": 106489, "pred": "1. ptrcem (appears 134 times) 2. zhxges (appears 127 times) 3. bwazhw (appears 124 times)<|eot_id|>", "needle": ["ptrcem", "zhxges", "bwazhw"], "score": 1.0}
+{"ctx_len": 129888, "pred": "1. pmruwq (appeared 134 times) 2. yukgix (appeared 127 times) 3. zgtpjx (appeared 124 times)<|eot_id|>", "needle": ["pmruwq", "zgtpjx", "bqtxfu"], "score": 0.6666666666666666}
+{"ctx_len": 123311, "pred": "1. ptqtrq (appears 234 times) 2. jldiim (appears 134 times) 3. zhjjkc (appears 128 times)<|eot_id|>", "needle": ["ptqtrq", "zhjjkc", "bqczhr"], "score": 0.6666666666666666}
+{"ctx_len": 115706, "pred": "1. prnszl (appeared 134 times) 2. zknrch (appeared 128 times) 3. yxqlpp (appeared 124 times)<|eot_id|>", "needle": ["prnszl", "zknrch", "brzsss"], "score": 0.6666666666666666}
+{"ctx_len": 124132, "pred": "1. qacmrs (appears 134 times) 2. zhsfae (appears 128 times) 3. yurdtc (appears 124 times)<|eot_id|>", "needle": ["qacmrs", "zhsfae", "bqzphs"], "score": 0.6666666666666666}
+{"ctx_len": 122255, "pred": "1. ptduib (appeared 134 times) 2. zhvkzg (appeared 128 times) 3. yvkmjp (appeared 124 times)<|eot_id|>", "needle": ["ptduib", "zhvkzg", "btxvbc"], "score": 0.6666666666666666}
+{"ctx_len": 104154, "pred": "1. zgbrpe (appeared 134 times) 2. jipuzr (appeared 128 times) 3. bovhxn (appeared 126 times)<|eot_id|>", "needle": ["podpul", "zgbrpe", "bovhxn"], "score": 0.6666666666666666}
+{"ctx_len": 106270, "pred": "1. yutrdn (appears 73 times) 2. bwzvtf (appears 69 times) 3. psyfox (appears 68 times)<|eot_id|>", "needle": ["psyfox", "zigtxr", "bwzvtf"], "score": 0.6666666666666666}
+{"ctx_len": 113040, "pred": "1. zjqcgf (appears 234 times) 2. polluf (appears 228 times) 3. ifctbe (appears 143 times)<|eot_id|>", "needle": ["polluf", "zjqcgf", "brrkac"], "score": 0.6666666666666666}
+{"ctx_len": 118833, "pred": "1. pzdnxz (appears 234 times) 2. zmejne (appears 173 times) 3. bruydt (appears 164 times)<|eot_id|>", "needle": ["pzdnxz", "zmejne", "bruydt"], "score": 1.0}
+{"ctx_len": 120632, "pred": "1. zjkgrd (appears 234 times) 2. yxgjgr (appears 193 times) 3. pwmamv (appears 186 times)<|eot_id|>", "needle": ["pwmamv", "zjkgrd", "bugibh"], "score": 0.6666666666666666}
+{"ctx_len": 118924, "pred": "qmakqm (appears 123 times), zlmeiq (appears 122 times), and byhtdz (appears 114 times).<|eot_id|>", "needle": ["qmakqm", "zlmeiq", "byhtdz"], "score": 1.0}
+{"ctx_len": 126500, "pred": "1. zleptr (appears 134 times) 2. ywtuwj (appears 127 times) 3. bnmpvs (appears 124 times)<|eot_id|>", "needle": ["pjgqiy", "zleptr", "bnmpvs"], "score": 0.6666666666666666}
+{"ctx_len": 125535, "pred": "1. qhqzgr (appeared 134 times) 2. zkhcad (appeared 128 times) 3. yzrltn (appeared 126 times)<|eot_id|>", "needle": ["qhqzgr", "zkhcad", "bvziuo"], "score": 0.6666666666666666}
+{"ctx_len": 115453, "pred": "1. pqmjyz (appeared 234 times) 2. zbnqga (appeared 134 times) 3. jkygry (appeared 128 times)<|eot_id|>", "needle": ["pqmjyz", "zmvisu", "bosqio"], "score": 0.3333333333333333}
+{"ctx_len": 115287, "pred": "qglyil (appears 134 times), zbezxa (appears 93 times), and brvmfg (appears 83 times).<|eot_id|>", "needle": ["qglyil", "zkgtzi", "brvmfg"], "score": 0.6666666666666666}
+{"ctx_len": 115707, "pred": "1. powjjw (appears 134 times) 2. jfckwv (appears 93 times) 3. idnspn (appears 83 times)<|eot_id|>", "needle": ["powjjw", "zijlyi", "borpeq"], "score": 0.3333333333333333}
+{"ctx_len": 127772, "pred": "1. pyzgoe (appeared 134 times) 2. zlomiy (appeared 128 times) 3. btkzpk (appeared 126 times)<|eot_id|>", "needle": ["pyzgoe", "zlomiy", "btkzpk"], "score": 1.0}
+{"ctx_len": 118736, "pred": "1. zklmgz (appears 134 times) 2. prviml (appears 133 times) 3. jqduik (appears 64 times)<|eot_id|>", "needle": ["prviml", "zklmgz", "bwkoxy"], "score": 0.6666666666666666}
+{"ctx_len": 124002, "pred": "1. puasvh (appears 134 times) 2. zlqkgc (appears 128 times) 3. yxukks (appears 124 times)<|eot_id|>", "needle": ["puasvh", "zlqkgc", "bxfgym"], "score": 0.6666666666666666}
+{"ctx_len": 115161, "pred": "1. pscuno (appears 134 times) 2. zkrctx (appears 128 times) 3. ywremi (appears 124 times)<|eot_id|>", "needle": ["pscuno", "zkrctx", "brbfkc"], "score": 0.6666666666666666}
+{"ctx_len": 124261, "pred": "1. pxwtki (appears 246 times) 2. zmwyxy (appears 234 times) 3. yzjfoy (appears 194 times)<|eot_id|>", "needle": ["pxwtki", "zmwyxy", "bpbpos"], "score": 0.6666666666666666}
+{"ctx_len": 126202, "pred": "1. qficqg (appears 73 times) 2. zjwryp (appears 69 times) 3. yxbojf (appears 64 times)<|eot_id|>", "needle": ["qficqg", "zjwryp", "bwrdkp"], "score": 0.6666666666666666}
+{"ctx_len": 129567, "pred": "1. qbgdze (appears 134 times) 2. byaxul (appears 93 times) 3. zggxbw (appears 92 times)<|eot_id|>", "needle": ["qbgdze", "zggxbw", "byaxul"], "score": 1.0}
+{"ctx_len": 126128, "pred": "1. zjvshl (appeared 134 times) 2. pzolnp (appeared 133 times) 3. ifkhat (appeared 64 times)<|eot_id|>", "needle": ["pzolnp", "zjvshl", "bqzgmx"], "score": 0.6666666666666666}
+{"ctx_len": 121269, "pred": "1. ppikdp (appears 134 times) 2. zliipf (appears 128 times) 3. bqsdsj (appears 124 times)<|eot_id|>", "needle": ["ppikdp", "zliipf", "bqsdsj"], "score": 1.0}
+{"ctx_len": 118251, "pred": "1. pwatvf (appears 134 times) 2. zkppzj (appears 127 times) 3. iyeozp (appears 124 times)<|eot_id|>", "needle": ["pwatvf", "zkppzj", "bvwozy"], "score": 0.6666666666666666}
+{"ctx_len": 112071, "pred": "1. poplgs (appeared 73 times) 2. zmgtck (appeared 69 times) 3. tsufiu (appeared 64 times)<|eot_id|>", "needle": ["poplgs", "zmgtck", "brnxvh"], "score": 0.6666666666666666}
+{"ctx_len": 124349, "pred": "1. qcxnrb (appeared 134 times) 2. zkrlfb (appeared 127 times) 3. btymap (appeared 124 times)<|eot_id|>", "needle": ["qcxnrb", "zkrlfb", "btymap"], "score": 1.0}
+{"ctx_len": 114763, "pred": "qdjens (appears 134 times), bsmbsd (appears 127 times), and impxzd (appears 124 times).<|eot_id|>", "needle": ["qdjens", "zkdrpn", "bsmbsd"], "score": 0.6666666666666666}
+{"ctx_len": 117964, "pred": "1. pvqrkn (appears 234 times) 2. zlvpni (appears 193 times) 3. bozemh (appears 134 times)<|eot_id|>", "needle": ["pvqrkn", "zlvpni", "bozemh"], "score": 1.0}
+{"ctx_len": 124560, "pred": "qdrduf (appears 134 times), zksoca (appears 93 times), and bvcjjp (appears 83 times).<|eot_id|>", "needle": ["qdrduf", "zksoca", "bvcjjp"], "score": 1.0}
+{"ctx_len": 113063, "pred": "1. phirip (appeared 73 times) 2. yvyalf (appeared 69 times) 3. bvnrsh (appeared 68 times)<|eot_id|>", "needle": ["phirip", "zijplp", "bvnrsh"], "score": 0.6666666666666666}
+{"ctx_len": 125306, "pred": "1. qanopx (appeared 134 times) 2. zktxsw (appeared 127 times) 3. itvtop (appeared 124 times)<|eot_id|>", "needle": ["qanopx", "zktxsw", "bxwbnz"], "score": 0.6666666666666666}
+{"ctx_len": 123558, "pred": "1. pwfndz (appears 73 times) 2. zltnrt (appears 69 times) 3. ifoqfv (appears 64 times)<|eot_id|>", "needle": ["pwfndz", "zltnrt", "bqgkep"], "score": 0.6666666666666666}
+{"ctx_len": 117155, "pred": "prukla (appears 134 times), zissic (appears 127 times), and yymhda (appears 124 times).<|eot_id|>", "needle": ["prukla", "zissic", "bkpvaf"], "score": 0.6666666666666666}
+{"ctx_len": 129768, "pred": "1. zjkdkk (appeared 134 times) 2. yvdpmp (appeared 128 times) 3. tjrxtz (appeared 124 times)<|eot_id|>", "needle": ["pnjuea", "zjkdkk", "bohanq"], "score": 0.3333333333333333}
+{"ctx_len": 123852, "pred": "1. qgdeoy (appeared 134 times) 2. zjrvej (appeared 128 times) 3. bypupf (appeared 124 times)<|eot_id|>", "needle": ["qgdeoy", "zjrvej", "bypupf"], "score": 1.0}
+{"ctx_len": 119537, "pred": "1. zlfsrf (appears 134 times) 2. bqbchh (appears 128 times) 3. pvgnec (appears 127 times)<|eot_id|>", "needle": ["pvgnec", "zlfsrf", "bqbchh"], "score": 1.0}
+{"ctx_len": 112865, "pred": "1. pwikkm (appears 134 times) 2. zkmyra (appears 93 times) 3. btuors (appears 83 times)<|eot_id|>", "needle": ["pwikkm", "zkmyra", "btuors"], "score": 1.0}
+{"ctx_len": 127111, "pred": "1. brfobq (appeared 134 times) 2. yzfqjd (appeared 128 times) 3. pxrtpu (appeared 126 times)<|eot_id|>", "needle": ["pxrtpu", "ziulsa", "brfobq"], "score": 0.6666666666666666}
+{"ctx_len": 119713, "pred": "1. zkgcbu (appears 134 times) 2. yxgwhv (appears 127 times) 3. pqvhkp (appears 126 times)<|eot_id|>", "needle": ["pqvhkp", "zkgcbu", "bsafia"], "score": 0.6666666666666666}
+{"ctx_len": 119604, "pred": "1. prtskn (appears 134 times) 2. zhcqgh (appears 128 times) 3. ytihct (appears 124 times)<|eot_id|>", "needle": ["prtskn", "zhcqgh", "brnbcb"], "score": 0.6666666666666666}
+{"ctx_len": 128591, "pred": "prpplv (appears 123 times), yyyuyw (appears 93 times), and brrjru (appears 83 times).<|eot_id|>", "needle": ["prpplv", "zkmcdo", "brrjru"], "score": 0.6666666666666666}
+{"ctx_len": 118220, "pred": "1. pujujl (appears 234 times) 2. ywfjdu (appears 134 times) 3. bpgndk (appears 128 times)<|eot_id|>", "needle": ["pujujl", "zhbsbp", "bpgndk"], "score": 0.6666666666666666}
+{"ctx_len": 126044, "pred": "1. zdsptv (appeared 134 times) 2. pnfrjo (appeared 133 times) 3. btzgjy (appeared 127 times)<|eot_id|>", "needle": ["pnfrjo", "zdsptv", "btzgjy"], "score": 1.0}
+{"ctx_len": 122777, "pred": "1. pkygfh (appeared 73 times) 2. yzaqxd (appeared 69 times) 3. trnrfi (appeared 64 times)<|eot_id|>", "needle": ["pkygfh", "zkfwyf", "bqwlzk"], "score": 0.3333333333333333}
+{"ctx_len": 124564, "pred": "pswgmu (appears 134 times), yzdjro (appears 93 times), and jiekwb (appears 83 times).<|eot_id|>", "needle": ["pswgmu", "ziyzkq", "bqzmod"], "score": 0.3333333333333333}
+{"ctx_len": 116627, "pred": "1. pxsjej (appears 234 times) 2. zjbrkg (appears 194 times) 3. ywhwvc (appears 184 times)<|eot_id|>", "needle": ["pxsjej", "zjbrkg", "buttqh"], "score": 0.6666666666666666}
+{"ctx_len": 125542, "pred": "1. qhdxii (appeared 234 times) 2. ywyksk (appeared 193 times) 3. bresmm (appeared 184 times)<|eot_id|>", "needle": ["qhdxii", "ziqlmc", "bresmm"], "score": 0.6666666666666666}
+{"ctx_len": 123318, "pred": "qbpkaj (appears 73 times), zlvadl (appears 69 times), and bvcnhc (appears 64 times).<|eot_id|>", "needle": ["qbpkaj", "zlvadl", "bvcnhc"], "score": 1.0}
+{"ctx_len": 124069, "pred": "pxyeus (appears 134 times), zjkiaq (appears 128 times), and bpzvcv (appears 126 times).<|eot_id|>", "needle": ["pxyeus", "zjkiaq", "bpzvcv"], "score": 1.0}
+{"ctx_len": 123496, "pred": "1. blgugc (appears 73 times) 2. zjjzuh (appears 72 times) 3. pmzlgh (appears 71 times)<|eot_id|>", "needle": ["pmzlgh", "zjjzuh", "blgugc"], "score": 1.0}
+{"ctx_len": 127298, "pred": "1. zjbbtn (appears 134 times) 2. pxpbgm (appears 128 times) 3. ytudrl (appears 124 times)<|eot_id|>", "needle": ["pxpbgm", "zjbbtn", "btgpxz"], "score": 0.6666666666666666}
+{"ctx_len": 125055, "pred": "1. pwhpsw (appears 134 times) 2. yvrxzp (appears 93 times) 3. zkfanm (appears 83 times)<|eot_id|>", "needle": ["pwhpsw", "zkfanm", "bwvoku"], "score": 0.6666666666666666}
+{"ctx_len": 125021, "pred": "pwynre (appears 134 times), zlqfwj (appears 128 times), and bsmled (appears 124 times).<|eot_id|>", "needle": ["pwynre", "zlqfwj", "bsmled"], "score": 1.0}
+{"ctx_len": 120843, "pred": "1. bpaqft (appears 134 times) 2. zhyvgb (appears 128 times) 3. podhuh (appears 126 times)<|eot_id|>", "needle": ["podhuh", "zhyvgb", "bpaqft"], "score": 1.0}
+{"ctx_len": 117290, "pred": "1. yypkoq (appeared 73 times) 2. jofvcr (appeared 64 times) 3. zkhtfi (appeared 63 times)<|eot_id|>", "needle": ["qbniyg", "zkhtfi", "bqptms"], "score": 0.3333333333333333}
+{"ctx_len": 113442, "pred": "ptkwal (appears 134 times), yujbni (appears 93 times), and bsnrdi (appears 92 times).<|eot_id|>", "needle": ["ptkwal", "znoffs", "bsnrdi"], "score": 0.6666666666666666}
+{"ctx_len": 120567, "pred": "1. pzcitr (appears 134 times) 2. ziafmy (appears 128 times) 3. yvdyia (appears 124 times)<|eot_id|>", "needle": ["pzcitr", "ziafmy", "boyvjm"], "score": 0.6666666666666666}
+{"ctx_len": 122903, "pred": "1. ywtraq (appears 73 times) 2. bvztxk (appears 69 times) 3. pkvzdi (appears 68 times)<|eot_id|>", "needle": ["pkvzdi", "ziyucc", "bvztxk"], "score": 0.6666666666666666}
+{"ctx_len": 128158, "pred": "1. qjlwfy (appears 246 times) 2. zkkakl (appears 234 times) 3. bwovip (appears 194 times)<|eot_id|>", "needle": ["qjlwfy", "zkkakl", "bwovip"], "score": 1.0}
+{"ctx_len": 125776, "pred": "1. zjwqxz (appeared 134 times) 2. btehaw (appeared 127 times) 3. yxckuf (appeared 124 times)<|eot_id|>", "needle": ["pvfhag", "zjwqxz", "btehaw"], "score": 0.6666666666666666}
+{"ctx_len": 125139, "pred": "1. jomohx (appeared 73 times) 2. bwrtqp (appeared 72 times) 3. ywpyol (appeared 71 times)<|eot_id|>", "needle": ["qbqyvf", "zkbgzw", "bwrtqp"], "score": 0.3333333333333333}
+{"ctx_len": 125571, "pred": "1. pquubc (appeared 134 times) 2. bscbgg (appeared 93 times) 3. zmmyqa (appeared 83 times)<|eot_id|>", "needle": ["pquubc", "zmmyqa", "bscbgg"], "score": 1.0}
+{"ctx_len": 120082, "pred": "1. psouos (appears 73 times) 2. zduesr (appears 69 times) 3. jkcwhe (appears 64 times)<|eot_id|>", "needle": ["psouos", "zduesr", "bqldjt"], "score": 0.6666666666666666}
+{"ctx_len": 122622, "pred": "1. pykdrh (appeared 73 times) 2. yvxihg (appeared 69 times) 3. bskxjy (appeared 66 times)<|eot_id|>", "needle": ["pykdrh", "zgohcr", "bskxjy"], "score": 0.6666666666666666}
+{"ctx_len": 116664, "pred": "ppdcpe (appears 96 times), zfitxy (appears 64 times), and jgqvuh (appears 56 times).<|eot_id|>", "needle": ["ppdcpe", "zfitxy", "bpdooe"], "score": 0.6666666666666666}
+{"ctx_len": 115014, "pred": "1. bpngde (appears 134 times) 2. zlstzb (appears 128 times) 3. ywxueu (appears 124 times)<|eot_id|>", "needle": ["pzhpdb", "zlstzb", "bpngde"], "score": 0.6666666666666666}
+{"ctx_len": 123625, "pred": "ptwddv, zjsbzj, and ifqrdg.<|eot_id|>", "needle": ["ptwddv", "zjsbzj", "bsxnmk"], "score": 0.6666666666666666}
+{"ctx_len": 118747, "pred": "1. ptumnh (appeared 134 times) 2. zgdvse (appeared 128 times) 3. ysmdkf (appeared 124 times)<|eot_id|>", "needle": ["ptumnh", "zgdvse", "boduoq"], "score": 0.6666666666666666}
+{"ctx_len": 127715, "pred": "1. pwybbp (appeared 134 times) 2. znhutd (appeared 128 times) 3. jnkjit (appeared 64 times)<|eot_id|>", "needle": ["pwybbp", "znhutd", "bicifp"], "score": 0.6666666666666666}
+{"ctx_len": 129906, "pred": "1. pskutb (appeared 123 times) 2. zktptn (appeared 114 times) 3. bvypgi (appeared 93 times)<|eot_id|>", "needle": ["pskutb", "zktptn", "bvypgi"], "score": 1.0}
+{"ctx_len": 121064, "pred": "1. zitrcg (appeared 134 times) 2. puoyss (appeared 128 times) 3. ywpzmk (appeared 64 times)<|eot_id|>", "needle": ["puoyss", "zitrcg", "bsfqwc"], "score": 0.6666666666666666}
+{"ctx_len": 115898, "pred": "qbuywb (appears 73 times), zgarjo (appears 69 times), and yvhzvy (appears 64 times).<|eot_id|>", "needle": ["qbuywb", "zgarjo", "bxajwg"], "score": 0.6666666666666666}
+{"ctx_len": 118166, "pred": "1. ptxtwn (appears 134 times) 2. zluifp (appears 128 times) 3. yxhcpb (appears 124 times)<|eot_id|>", "needle": ["ptxtwn", "zluifp", "bsfbnb"], "score": 0.6666666666666666}
+{"ctx_len": 126589, "pred": "1. qgzkzt (appeared 234 times) 2. znmgrs (appeared 184 times) 3. uhqnrb (appeared 143 times)<|eot_id|>", "needle": ["qgzkzt", "znmgrs", "bsrlak"], "score": 0.6666666666666666}
+{"ctx_len": 128334, "pred": "1. pceimf (appears 246 times) 2. zjdjzd (appears 234 times) 3. bntqii (appears 194 times)<|eot_id|>", "needle": ["pceimf", "zjdjzd", "bntqii"], "score": 1.0}
+{"ctx_len": 129151, "pred": "1. pyjznl (appeared 134 times) 2. yvunxp (appeared 128 times) 3. brmfqp (appeared 124 times)<|eot_id|>", "needle": ["pyjznl", "zghlzj", "brmfqp"], "score": 0.6666666666666666}
+{"ctx_len": 123238, "pred": "1. bsrxpz (appears 134 times) 2. yurnsi (appears 127 times) 3. zgsdoi (appears 124 times)<|eot_id|>", "needle": ["pjzuhk", "zgsdoi", "bsrxpz"], "score": 0.6666666666666666}
+{"ctx_len": 110828, "pred": "1. pltidf (appeared 134 times) 2. yzhazf (appeared 93 times) 3. zkqjwm (appeared 83 times)<|eot_id|>", "needle": ["pltidf", "zkqjwm", "bqomlr"], "score": 0.6666666666666666}
+{"ctx_len": 119688, "pred": "1. bqielp (appears 134 times) 2. jgessd (appears 128 times) 3. yuwere (appears 126 times)<|eot_id|>", "needle": ["prfwbm", "ziinel", "bqielp"], "score": 0.3333333333333333}
+{"ctx_len": 127811, "pred": "1. pwpvfl (appeared 234 times) 2. zjcjtc (appeared 194 times) 3. ywjakh (appeared 184 times)<|eot_id|>", "needle": ["pwpvfl", "zjcjtc", "brzxia"], "score": 0.6666666666666666}
+{"ctx_len": 124570, "pred": "pzxqbb (appears 234 times), znapcp (appears 194 times), and bpxbde (appears 184 times).<|eot_id|>", "needle": ["pzxqbb", "znapcp", "bpxbde"], "score": 1.0}
+{"ctx_len": 124408, "pred": "1. yzkuse (appears 73 times) 2. jkvigg (appears 64 times) 3. zkpdhk (appears 63 times)<|eot_id|>", "needle": ["pnqgvk", "zkpdhk", "bqffmm"], "score": 0.3333333333333333}
+{"ctx_len": 126318, "pred": "pvyecy (appears 123 times), zanqxn (appears 93 times), and jghvuh (appears 73 times).<|eot_id|>", "needle": ["pvyecy", "zlimni", "bnvmws"], "score": 0.3333333333333333}
+{"ctx_len": 128552, "pred": "1. ptpdnp (appears 234 times) 2. bvwyxx (appears 194 times) 3. zjtsju (appears 184 times)<|eot_id|>", "needle": ["ptpdnp", "zjtsju", "bvwyxx"], "score": 1.0}
+{"ctx_len": 130224, "pred": "1. psohyj (appears 134 times) 2. yxftyu (appears 128 times) 3. bmkwjd (appears 124 times)<|eot_id|>", "needle": ["psohyj", "zkyzcw", "bmkwjd"], "score": 0.6666666666666666}
+{"ctx_len": 120673, "pred": "1. ptasql (appears 134 times) 2. zjaorv (appears 128 times) 3. yxqtdt (appears 124 times)<|eot_id|>", "needle": ["ptasql", "zjaorv", "bwzbjr"], "score": 0.6666666666666666}
+{"ctx_len": 125694, "pred": "qdzvsu, zktvfr, and bwpbqg.<|eot_id|>", "needle": ["qdzvsu", "zktvfr", "bwpbqg"], "score": 1.0}
+{"ctx_len": 130552, "pred": "1. pkavjx (appears 134 times) 2. yrrvfa (appears 123 times) 3. jidvhp (appears 114 times)<|eot_id|>", "needle": ["pkavjx", "zgthtq", "bxjndj"], "score": 0.3333333333333333}
+{"ctx_len": 119111, "pred": "1. pzqeba (appears 134 times) 2. zllkxe (appears 128 times) 3. yztuyd (appears 124 times)<|eot_id|>", "needle": ["pzqeba", "zllkxe", "bvkbpa"], "score": 0.6666666666666666}
+{"ctx_len": 116751, "pred": "1. zhesuf (appears 134 times) 2. ppknfb (appears 128 times) 3. brvkpl (appears 124 times)<|eot_id|>", "needle": ["ppknfb", "zhesuf", "brvkpl"], "score": 1.0}
+{"ctx_len": 123894, "pred": "qevqeh (appears 134 times), bycjvx (appears 123 times), and zjidhv (appears 122 times).<|eot_id|>", "needle": ["qevqeh", "zjidhv", "bycjvx"], "score": 1.0}
+{"ctx_len": 121022, "pred": "1. pvmpfh (appeared 134 times) 2. zpyihq (appeared 128 times) 3. bvcpiu (appeared 124 times)<|eot_id|>", "needle": ["pvmpfh", "zpyihq", "bvcpiu"], "score": 1.0}
+{"ctx_len": 128751, "pred": "1. boxeby (appeared 73 times) 2. zlgdmt (appeared 72 times) 3. pppvtc (appeared 71 times)<|eot_id|>", "needle": ["pppvtc", "zlgdmt", "boxeby"], "score": 1.0}
+{"ctx_len": 116088, "pred": "1. ziiwas (appears 234 times) 2. punirw (appears 224 times) 3. bsfdob (appears 173 times)<|eot_id|>", "needle": ["punirw", "ziiwas", "bsfdob"], "score": 1.0}
+{"ctx_len": 116765, "pred": "1. prmqbg (appears 134 times) 2. zhxdyw (appears 128 times) 3. ywmbzn (appears 124 times)<|eot_id|>", "needle": ["prmqbg", "zhxdyw", "buhsnh"], "score": 0.6666666666666666}
+{"ctx_len": 123894, "pred": "1. pwilbi (appeared 73 times) 2. zkqawx (appeared 69 times) 3. bnjzft (appeared 64 times)<|eot_id|>", "needle": ["pwilbi", "zkqawx", "bnjzft"], "score": 1.0}
+{"ctx_len": 123487, "pred": "1. pmnbcj (appeared 134 times) 2. zlfxbp (appeared 127 times) 3. yxvxkg (appeared 124 times)<|eot_id|>", "needle": ["pmnbcj", "zlfxbp", "brkyyf"], "score": 0.6666666666666666}
+{"ctx_len": 126795, "pred": "1. pufsef (appeared 134 times) 2. yvcbfp (appeared 93 times) 3. zhptma (appeared 83 times)<|eot_id|>", "needle": ["pufsef", "zhptma", "bsjmtr"], "score": 0.6666666666666666}
+{"ctx_len": 130552, "pred": "1. pkfjzt (appears 134 times) 2. zjdmlk (appears 127 times) 3. ywgzzn (appears 124 times)<|eot_id|>", "needle": ["pkfjzt", "zjdmlk", "bkyhsd"], "score": 0.6666666666666666}
+{"ctx_len": 119337, "pred": "1. zjaxgc (appears 134 times) 2. bwevtv (appears 128 times) 3. itxanq (appears 64 times)<|eot_id|>", "needle": ["qcqxjb", "zjaxgc", "bwevtv"], "score": 0.6666666666666666}
+{"ctx_len": 123191, "pred": "1. qfhdrq (appears 134 times) 2. zjlckb (appears 128 times) 3. yxpyfx (appears 124 times)<|eot_id|>", "needle": ["qfhdrq", "zjlckb", "bwvcnq"], "score": 0.6666666666666666}
+{"ctx_len": 126857, "pred": "1. qeoxvz (appears 246 times) 2. zliaqr (appears 234 times) 3. yzqtjj (appears 194 times)<|eot_id|>", "needle": ["qeoxvz", "zliaqr", "bqyopp"], "score": 0.6666666666666666}
+{"ctx_len": 120130, "pred": "1. pkicfy (appears 134 times) 2. zjdimj (appears 128 times) 3. yvypqr (appears 124 times)<|eot_id|>", "needle": ["pkicfy", "zjdimj", "bnobsa"], "score": 0.6666666666666666}
+{"ctx_len": 115341, "pred": "1. pulaxk (appears 234 times) 2. zjomxo (appears 173 times) 3. zaarcj (appears 134 times)<|eot_id|>", "needle": ["pulaxk", "zjomxo", "bshmox"], "score": 0.6666666666666666}
+{"ctx_len": 129231, "pred": "1. zlfioc (appears 134 times) 2. qkgqqi (appears 133 times) 3. bvfsak (appears 128 times)<|eot_id|>", "needle": ["qkgqqi", "zlfioc", "bvfsak"], "score": 1.0}
+{"ctx_len": 122655, "pred": "pylesw (appears 134 times), zmfchm (appears 128 times), and yzjefg (appears 124 times).<|eot_id|>", "needle": ["pylesw", "zmfchm", "bszzba"], "score": 0.6666666666666666}
+{"ctx_len": 127432, "pred": "1. phbqic (appears 134 times) 2. zfbnlt (appears 128 times) 3. ytjuoi (appears 126 times)<|eot_id|>", "needle": ["phbqic", "zfbnlt", "bqcirg"], "score": 0.6666666666666666}
+{"ctx_len": 113556, "pred": "1. pvfady (appears 134 times) 2. zemzcn (appears 128 times) 3. ifmblj (appears 64 times)<|eot_id|>", "needle": ["pvfady", "zemzcn", "bjyidl"], "score": 0.6666666666666666}
+{"ctx_len": 126459, "pred": "1. qgixlz (appeared 134 times) 2. zmxjvz (appeared 128 times) 3. ywomhd (appeared 124 times)<|eot_id|>", "needle": ["qgixlz", "zmxjvz", "bvgoig"], "score": 0.6666666666666666}
+{"ctx_len": 118131, "pred": "1. qdgzek (appears 134 times) 2. buelfz (appears 127 times) 3. zkbqgu (appears 124 times)<|eot_id|>", "needle": ["qdgzek", "zkbqgu", "buelfz"], "score": 1.0}
+{"ctx_len": 120065, "pred": "1. prifhk (appeared 134 times) 2. zizdgo (appeared 128 times) 3. bmrrvj (appeared 124 times)<|eot_id|>", "needle": ["prifhk", "zizdgo", "bmrrvj"], "score": 1.0}
+{"ctx_len": 121011, "pred": "1. zheovz (appeared 134 times) 2. bklxpv (appeared 128 times) 3. yunqej (appeared 124 times)<|eot_id|>", "needle": ["pnsgax", "zheovz", "bklxpv"], "score": 0.6666666666666666}
+{"ctx_len": 117937, "pred": "pyisyc (appears 134 times), zmnfvv (appears 128 times), and jkxxhg (appears 124 times).<|eot_id|>", "needle": ["pyisyc", "zmnfvv", "bozkhn"], "score": 0.6666666666666666}
+{"ctx_len": 120144, "pred": "1. plunzc (appeared 73 times) 2. zlhkbi (appeared 69 times) 3. bmovqm (appeared 64 times)<|eot_id|>", "needle": ["plunzc", "zlhkbi", "bmovqm"], "score": 1.0}
+{"ctx_len": 123455, "pred": "qdowls (34 times), ywqber (32 times), and zkzyuf (31 times).<|eot_id|>", "needle": ["qdowls", "zkzyuf", "bxgdye"], "score": 0.6666666666666666}
+{"ctx_len": 130092, "pred": "1. qahipg (appeared 73 times) 2. zjboal (appeared 69 times) 3. ywexoy (appeared 64 times)<|eot_id|>", "needle": ["qahipg", "zjboal", "bwgthz"], "score": 0.6666666666666666}
+{"ctx_len": 129228, "pred": "1. qbhckp (appeared 134 times) 2. zjowze (appeared 128 times) 3. brzlns (appeared 126 times)<|eot_id|>", "needle": ["qbhckp", "zjowze", "brzlns"], "score": 1.0}
+{"ctx_len": 112530, "pred": "1. qbakay (appeared 73 times) 2. bsrefx (appeared 44 times) 3. ikvrae (appeared 43 times)<|eot_id|>", "needle": ["qbakay", "zpjkdu", "bsrefx"], "score": 0.6666666666666666}
+{"ctx_len": 126718, "pred": "1. pqoiwc (appears 246 times) 2. zidgll (appears 234 times) 3. bpjyqj (appears 226 times)<|eot_id|>", "needle": ["pqoiwc", "zidgll", "bpjyqj"], "score": 1.0}
+{"ctx_len": 123568, "pred": "1. pmjofl (appeared 134 times) 2. zifjbh (appeared 128 times) 3. ywbijy (appeared 124 times)<|eot_id|>", "needle": ["pmjofl", "zifjbh", "brnfxi"], "score": 0.6666666666666666}
+{"ctx_len": 118052, "pred": "1. pvvtzt (appears 134 times) 2. zizxut (appears 128 times) 3. ywwwri (appears 124 times)<|eot_id|>", "needle": ["pvvtzt", "zizxut", "bnowni"], "score": 0.6666666666666666}
+{"ctx_len": 124131, "pred": "1. ppqdyj (appears 246 times) 2. ziskex (appears 234 times) 3. yuxrcy (appears 194 times)<|eot_id|>", "needle": ["ppqdyj", "ziskex", "bqiqno"], "score": 0.6666666666666666}
+{"ctx_len": 130440, "pred": "1. pyoofn (appeared 96 times) 2. yvnglw (appeared 64 times) 3. zjhwiq (appeared 63 times)<|eot_id|>", "needle": ["pyoofn", "zjhwiq", "bunyhb"], "score": 0.6666666666666666}
+{"ctx_len": 128023, "pred": "1. pqkktj (appears 134 times) 2. zizrsu (appears 127 times) 3. yxmuhn (appears 124 times)<|eot_id|>", "needle": ["pqkktj", "zizrsu", "bqmqnp"], "score": 0.6666666666666666}
+{"ctx_len": 117360, "pred": "qewuja (appears 134 times), zlacbp (appears 127 times), and buevzv (appears 124 times).<|eot_id|>", "needle": ["qewuja", "zlacbp", "buevzv"], "score": 1.0}
+{"ctx_len": 129301, "pred": "1. pqqmpf (appeared 134 times) 2. zlwkbv (appeared 128 times) 3. blzfui (appeared 124 times)<|eot_id|>", "needle": ["pqqmpf", "zlwkbv", "blzfui"], "score": 1.0}
+{"ctx_len": 114530, "pred": "1. pmvmwu (appears 134 times) 2. yzsnts (appears 93 times) 3. bontsj (appears 83 times)<|eot_id|>", "needle": ["pmvmwu", "zkoclw", "bontsj"], "score": 0.6666666666666666}
+{"ctx_len": 118445, "pred": "1. pqmvqx (appears 134 times) 2. brljbq (appears 127 times) 3. yzvkpt (appears 124 times)<|eot_id|>", "needle": ["pqmvqx", "zmipbl", "brljbq"], "score": 0.6666666666666666}
+{"ctx_len": 119572, "pred": "1. pkzmqt (appears 134 times) 2. zlbzvj (appears 128 times) 3. buagcp (appears 124 times)<|eot_id|>", "needle": ["pkzmqt", "zlbzvj", "buagcp"], "score": 1.0}
+{"ctx_len": 115186, "pred": "1. zhbscg (appears 234 times) 2. yuljlv (appears 194 times) 3. ucwbyk (appears 184 times)<|eot_id|>", "needle": ["pztlbl", "zhbscg", "btlttl"], "score": 0.3333333333333333}
+{"ctx_len": 126909, "pred": "1. pshlaj (appears 134 times) 2. zmhxmr (appears 127 times) 3. boxmdr (appears 124 times)<|eot_id|>", "needle": ["pshlaj", "zmhxmr", "boxmdr"], "score": 1.0}
+{"ctx_len": 118273, "pred": "zanxlw, jrqzqt, and bryerh.<|eot_id|>", "needle": ["ptrvdg", "zmbaju", "bryerh"], "score": 0.3333333333333333}
+{"ctx_len": 126909, "pred": "1. qfgrvs (appears 234 times) 2. jormrq (appears 134 times) 3. bumsva (appears 128 times)<|eot_id|>", "needle": ["qfgrvs", "zgqtez", "bumsva"], "score": 0.6666666666666666}
+{"ctx_len": 114207, "pred": "1. ywhybt (appears 73 times) 2. tyeibj (appears 69 times) 3. pqostq (appears 68 times)<|eot_id|>", "needle": ["pzostq", "zimkis", "bqqsdx"], "score": 0.0}
+{"ctx_len": 130589, "pred": "1. zkhmjz (appeared 134 times) 2. pvhejv (appeared 134 times) 3. bqbakc (appeared 127 times)<|eot_id|>", "needle": ["pvhejv", "zkhmjz", "bqbakc"], "score": 1.0}
+{"ctx_len": 115339, "pred": "1. bpuzgx (appeared 73 times) 2. yzbegw (appeared 72 times) 3. pyscqq (appeared 71 times)<|eot_id|>", "needle": ["pyscqq", "zkuoag", "bpuzgx"], "score": 0.6666666666666666}
+{"ctx_len": 130774, "pred": "1. qaoqpl (appeared 73 times) 2. zncgbc (appeared 69 times) 3. btbfjy (appeared 64 times)<|eot_id|>", "needle": ["qaoqpl", "zncgbc", "btbfjy"], "score": 1.0}
+{"ctx_len": 115639, "pred": "1. zjfavr (appears 234 times) 2. pxqiys (appears 234 times) 3. brshkh (appears 123 times)<|eot_id|>", "needle": ["pxqiys", "zjfavr", "brshkh"], "score": 1.0}
+{"ctx_len": 116690, "pred": "1. qcasrf (appears 134 times) 2. zmdhra (appears 93 times) 3. ioyxwv (appears 64 times)<|eot_id|>", "needle": ["qcasrf", "zmdhra", "bwgaqz"], "score": 0.6666666666666666}
+{"ctx_len": 117890, "pred": "1. bsbuta (appeared 73 times) 2. yzrzbm (appeared 69 times) 3. zkfgjt (appeared 68 times)<|eot_id|>", "needle": ["prfiim", "zkfgjt", "bsbuta"], "score": 0.6666666666666666}
+{"ctx_len": 117286, "pred": "1. pvdopt (appears 134 times) 2. ziexhj (appears 128 times) 3. blerkr (appears 124 times)<|eot_id|>", "needle": ["pvdopt", "ziexhj", "blerkr"], "score": 1.0}
+{"ctx_len": 128380, "pred": "1. puejtd (appears 134 times) 2. zjbrlu (appears 128 times) 3. yxpqoi (appears 124 times)<|eot_id|>", "needle": ["puejtd", "zjbrlu", "bsyway"], "score": 0.6666666666666666}
+{"ctx_len": 123512, "pred": "1. pjkoxr (appears 134 times) 2. zhnthz (appears 127 times) 3. ywrfjz (appears 124 times)<|eot_id|>", "needle": ["pjkoxr", "zhnthz", "bufxul"], "score": 0.6666666666666666}
+{"ctx_len": 127978, "pred": "qcfegp (appears 134 times), zksyci (appears 127 times), and zarujt (appears 124 times).<|eot_id|>", "needle": ["qcfegp", "zksyci", "brlbdb"], "score": 0.6666666666666666}
+{"ctx_len": 106830, "pred": "1. jfqdkw (appeared 73 times) 2. yxgzkt (appeared 69 times) 3. tvaqoa (appeared 64 times)<|eot_id|>", "needle": ["pobude", "zigdmc", "brsiuz"], "score": 0.0}
+{"ctx_len": 130734, "pred": "1. qhtzzf (appeared 123 times) 2. zkwjgo (appeared 114 times) 3. yybdtk (appeared 104 times)<|eot_id|>", "needle": ["qhtzzf", "zkwjgo", "brqxnt"], "score": 0.6666666666666666}
+{"ctx_len": 124773, "pred": "1. zlpgwf (appeared 134 times) 2. pyedpo (appeared 134 times) 3. brnnaq (appeared 128 times)<|eot_id|>", "needle": ["pyedpo", "zlpgwf", "brnnaq"], "score": 1.0}
+{"ctx_len": 130028, "pred": "1. pttmqq (appears 134 times) 2. bucxlu (appears 127 times) 3. yuthdi (appears 124 times)<|eot_id|>", "needle": ["pttmqq", "zhkqvo", "bucxlu"], "score": 0.6666666666666666}
+{"ctx_len": 127725, "pred": "1. pxqlkq (appeared 134 times) 2. zlyjvl (appeared 128 times) 3. bvcmix (appeared 124 times)<|eot_id|>", "needle": ["pxqlkq", "zlyjvl", "bvcmix"], "score": 1.0}
+{"ctx_len": 127740, "pred": "1. pxxeeg (appeared 134 times) 2. bwgrvt (appeared 128 times) 3. zmhwqo (appeared 127 times)<|eot_id|>", "needle": ["pxxeeg", "zmhwqo", "bwgrvt"], "score": 1.0}
+{"ctx_len": 118711, "pred": "1. zfmido (appeared 134 times) 2. prtihj (appeared 128 times) 3. bviimr (appeared 124 times)<|eot_id|>", "needle": ["prtihj", "zfmido", "bviimr"], "score": 1.0}
+{"ctx_len": 125209, "pred": "1. qdlwvr (appears 134 times) 2. zjoiid (appears 127 times) 3. yxixoy (appears 124 times)<|eot_id|>", "needle": ["qdlwvr", "zjoiid", "bulkii"], "score": 0.6666666666666666}
+{"ctx_len": 122281, "pred": "1. pspynt (appears 134 times) 2. zmlmni (appears 128 times) 3. buwvkh (appears 124 times)<|eot_id|>", "needle": ["pspynt", "zmlmni", "buwvkh"], "score": 1.0}
+{"ctx_len": 112084, "pred": "1. pwheup (appears 134 times) 2. jidxjr (appears 64 times) 3. brhnub (appears 63 times)<|eot_id|>", "needle": ["pwheup", "zkzkvt", "brhnub"], "score": 0.6666666666666666}
+{"ctx_len": 129486, "pred": "pzuqhf (appears 134 times), zlgkgi (appears 128 times), and jpbdkx (appears 64 times).<|eot_id|>", "needle": ["pzuqhf", "zlgkgi", "bqtwog"], "score": 0.6666666666666666}
+{"ctx_len": 119034, "pred": "1. zjguam (appears 134 times) 2. yutbob (appears 128 times) 3. puauiv (appears 126 times)<|eot_id|>", "needle": ["puauiv", "zjguam", "btwlmu"], "score": 0.6666666666666666}
+{"ctx_len": 120262, "pred": "1. zkmjxy (appears 134 times) 2. blwsvv (appears 128 times) 3. pzbbhl (appears 127 times)<|eot_id|>", "needle": ["pzbbhl", "zkmjxy", "blwsvv"], "score": 1.0}
+{"ctx_len": 124375, "pred": "1. pgxiyv (appeared 134 times) 2. zgclut (appeared 128 times) 3. thnrmt (appeared 64 times)<|eot_id|>", "needle": ["pgxiyv", "zgclut", "bpaoth"], "score": 0.6666666666666666}
+{"ctx_len": 115944, "pred": "1. ptanlv (appears 134 times), 2. ywwsqh (appears 93 times), 3. brtlbk (appears 83 times).<|eot_id|>", "needle": ["ptanlv", "zioukm", "brtlbk"], "score": 0.6666666666666666}
+{"ctx_len": 127468, "pred": "1. qckupf (appeared 134 times) 2. zfuuao (appeared 128 times) 3. btbmzm (appeared 124 times)<|eot_id|>", "needle": ["qckupf", "zfuuao", "btbmzm"], "score": 1.0}
+{"ctx_len": 122406, "pred": "1. pzbfpf (appeared 134 times) 2. yvzzck (appeared 93 times) 3. zfslsr (appeared 83 times)<|eot_id|>", "needle": ["pzbfpf", "zfslsr", "brulta"], "score": 0.6666666666666666}
+{"ctx_len": 123120, "pred": "1. qfanvf (appears 246 times) 2. zhrhne (appears 234 times) 3. bygxyb (appears 194 times)<|eot_id|>", "needle": ["qfanvf", "zhrhne", "bygxyb"], "score": 1.0}
+{"ctx_len": 122616, "pred": "pukrqu (appears 134 times), yulwva (appears 93 times), and ifqmvn (appears 83 times).<|eot_id|>", "needle": ["pukrqu", "zkdyfm", "bpucas"], "score": 0.3333333333333333}
+{"ctx_len": 109673, "pred": "1. zmfzcs (appeared 134 times) 2. yzfsek (appeared 128 times) 3. twhnhu (appeared 124 times)<|eot_id|>", "needle": ["psterg", "zmfzcs", "bqrrbn"], "score": 0.3333333333333333}
+{"ctx_len": 126987, "pred": "qccshx (appears 123 times), bvdabq (appears 93 times), and zkmdxd (appears 83 times).<|eot_id|>", "needle": ["qccshx", "zkmdxd", "bvdabq"], "score": 1.0}
+{"ctx_len": 111076, "pred": "1. zlbqln (appears 134 times) 2. yzzwjh (appears 127 times) 3. txxmvj (appears 124 times)<|eot_id|>", "needle": ["purero", "zlbqln", "bslvoo"], "score": 0.3333333333333333}
+{"ctx_len": 122471, "pred": "1. prtvkz (appears 134 times) 2. zmtzek (appears 128 times) 3. jokrox (appears 124 times)<|eot_id|>", "needle": ["prtvkz", "zmtzek", "bpjmwx"], "score": 0.6666666666666666}
+{"ctx_len": 124866, "pred": "1. qajnfc (appears 134 times) 2. zifqjn (appears 128 times) 3. yxqbsb (appears 124 times)<|eot_id|>", "needle": ["qajnfc", "zifqjn", "btxewm"], "score": 0.6666666666666666}
+{"ctx_len": 126524, "pred": "pvlbae (appears 134 times), zkhxvs (appears 123 times), and yyukxp (appears 114 times).<|eot_id|>", "needle": ["pvlbae", "zkhxvs", "bvspps"], "score": 0.6666666666666666}
+{"ctx_len": 112362, "pred": "1. puuejq (appears 73 times) 2. zhvpan (appears 69 times) 3. jopytk (appears 64 times)<|eot_id|>", "needle": ["puuejq", "zhvpan", "brufoo"], "score": 0.6666666666666666}
+{"ctx_len": 129812, "pred": "psmmgb (appears 246 times), zlwvvw (appears 234 times), and bluqcd (appears 194 times).<|eot_id|>", "needle": ["psmmgb", "zlwvvw", "bluqcd"], "score": 1.0}
+{"ctx_len": 116522, "pred": "1. btawus (appears 73 times) 2. jkqhlj (appears 64 times) 3. ucjpmd (appears 63 times)<|eot_id|>", "needle": ["pwdtio", "zkrgfu", "btawus"], "score": 0.3333333333333333}
+{"ctx_len": 114368, "pred": "1. pxleev (34 times) 2. yvtdyz (24 times) 3. ziqrpn (23 times)<|eot_id|>", "needle": ["pxleev", "ziqrpn", "burcgy"], "score": 0.6666666666666666}
+{"ctx_len": 123682, "pred": "1. prmnzd (appears 134 times) 2. zjhsoh (appears 128 times) 3. yxtvyu (appears 124 times)<|eot_id|>", "needle": ["prmnzd", "zjhsoh", "blgdbw"], "score": 0.6666666666666666}
+{"ctx_len": 119731, "pred": "1. pqhaey (appears 134 times) 2. zjxsdf (appears 128 times) 3. bmysgc (appears 124 times)<|eot_id|>", "needle": ["pqhaey", "zjxsdf", "bmysgc"], "score": 1.0}
+{"ctx_len": 118430, "pred": "1. zocqtg (appears 134 times) 2. icbjcx (appears 93 times) 3. jfvoiv (appears 83 times)<|eot_id|>", "needle": ["ppldwq", "zocqtg", "bojook"], "score": 0.3333333333333333}
+{"ctx_len": 116033, "pred": "1. qfnupe (appears 134 times) 2. bnvrxh (appears 93 times) 3. yubbur (appears 73 times)<|eot_id|>", "needle": ["qfnupe", "ziuczg", "bnvrxh"], "score": 0.6666666666666666}
+{"ctx_len": 127353, "pred": "1. pmnqti (appears 246 times) 2. ziwwnz (appears 234 times) 3. yxidmz (appears 194 times)<|eot_id|>", "needle": ["pmnqti", "ziwwnz", "bmekcz"], "score": 0.6666666666666666}
+{"ctx_len": 126242, "pred": "pwoecv (appears 134 times), yvricf (appears 127 times), and ziuwvz (appears 126 times).<|eot_id|>", "needle": ["pwoecv", "ziuwvz", "bpptpe"], "score": 0.6666666666666666}
+{"ctx_len": 128819, "pred": "1. zjndsh (appeared 134 times) 2. yvfpbb (appeared 128 times) 3. brvdaw (appeared 124 times)<|eot_id|>", "needle": ["pvzrdi", "zjndsh", "brvdaw"], "score": 0.6666666666666666}
+{"ctx_len": 116495, "pred": "1. pxkgxb (appeared 134 times) 2. yxqjmz (appeared 93 times) 3. zigztl (appeared 92 times)<|eot_id|>", "needle": ["pxkgxb", "zigztl", "bqivgp"], "score": 0.6666666666666666}
+{"ctx_len": 124042, "pred": "1. qqqnlv (appears 134 times) 2. zmjyel (appears 128 times) 3. bqxzgd (appears 124 times)<|eot_id|>", "needle": ["qqqnlv", "zmjyel", "bqxzgd"], "score": 1.0}
+{"ctx_len": 120879, "pred": "1. pqshdr (appeared 63 times) 2. zkjumr (appeared 56 times) 3. bxnvtc (appeared 55 times)<|eot_id|>", "needle": ["pqshdr", "zkjumr", "bxnvtc"], "score": 1.0}
+{"ctx_len": 121330, "pred": "1. buxxrp (appears 73 times) 2. zkvxwh (appears 72 times) 3. pzvrdc (appears 71 times)<|eot_id|>", "needle": ["pzvrdc", "zkvxwh", "buxxrp"], "score": 1.0}
+{"ctx_len": 116923, "pred": "1. zlnuby (appears 134 times) 2. btixfh (appears 128 times) 3. pupjqc (appears 126 times)<|eot_id|>", "needle": ["pupjqc", "zlnuby", "btixfh"], "score": 1.0}
+{"ctx_len": 121206, "pred": "1. bvoiml (appeared 73 times) 2. pxnixz (appeared 72 times) 3. ifpdnf (appeared 69 times)<|eot_id|>", "needle": ["pxnixz", "zlibhp", "bvoiml"], "score": 0.6666666666666666}
+{"ctx_len": 121041, "pred": "1. tyirdm (appeared 34 times) 2. buwvfc (appeared 33 times) 3. zhqhpw (appeared 32 times)<|eot_id|>", "needle": ["pzefzl", "zhqhpw", "buwvfc"], "score": 0.6666666666666666}
+{"ctx_len": 124356, "pred": "1. qjzxzg (appeared 246 times) 2. zlduqy (appeared 234 times) 3. buvsjs (appeared 223 times)<|eot_id|>", "needle": ["qjzxzg", "zlduqy", "buvsjs"], "score": 1.0}
+{"ctx_len": 122218, "pred": "1. ppufyw (appears 134 times) 2. zjczok (appears 127 times) 3. bnxrtr (appears 124 times)<|eot_id|>", "needle": ["ppufyw", "zjczok", "bnxrtr"], "score": 1.0}
+{"ctx_len": 124429, "pred": "1. puzcxl (appears 134 times) 2. bwechu (appears 127 times) 3. zmcdlh (appears 124 times)<|eot_id|>", "needle": ["puzcxl", "zmcdlh", "bwechu"], "score": 1.0}
+{"ctx_len": 125360, "pred": "1. qagjld (appeared 73 times) 2. zlmjhy (appeared 69 times) 3. bvcdfz (appeared 64 times)<|eot_id|>", "needle": ["qagjld", "zlmjhy", "bvcdfz"], "score": 1.0}
+{"ctx_len": 122409, "pred": "1. zlaqms (appears 134 times) 2. yvwueb (appears 128 times) 3. bpdccj (appears 124 times)<|eot_id|>", "needle": ["pxkggg", "zlaqms", "bpdccj"], "score": 0.6666666666666666}
+{"ctx_len": 122169, "pred": "1. pycoip (appeared 73 times) 2. jhufyv (appeared 64 times) 3. bvnqov (appeared 63 times)<|eot_id|>", "needle": ["pycoip", "zmjznk", "bvnqov"], "score": 0.6666666666666666}
+{"ctx_len": 120934, "pred": "1. qcbabh (appeared 134 times) 2. zkazxw (appeared 128 times) 3. yzevae (appeared 124 times)<|eot_id|>", "needle": ["qcbabh", "zkazxw", "bswzwc"], "score": 0.6666666666666666}
+{"ctx_len": 124884, "pred": "1. puwpsm (appears 134 times) 2. bnpqvd (appears 93 times) 3. yxhwhf (appears 83 times)<|eot_id|>", "needle": ["puwpsm", "ziykea", "bnpqvd"], "score": 0.6666666666666666}
+{"ctx_len": 123142, "pred": "puzhux (appears 134 times), bxxvyx (appears 127 times), and zhjblx (appears 124 times).<|eot_id|>", "needle": ["puzhux", "zhjblx", "bxxvyx"], "score": 1.0}
+{"ctx_len": 129075, "pred": "1. pznzgr (appears 234 times) 2. bsewrj (appears 194 times) 3. zkxeyz (appears 184 times)<|eot_id|>", "needle": ["pznzgr", "zkxeyz", "bsewrj"], "score": 1.0}
+{"ctx_len": 127031, "pred": "1. pvdqmx (appears 134 times) 2. zhrlyj (appears 128 times) 3. bujlwn (appears 124 times)<|eot_id|>", "needle": ["pvdqmx", "zhrlyj", "bujlwn"], "score": 1.0}
+{"ctx_len": 123655, "pred": "1. ptyiok (appears 134 times) 2. zlpvyb (appears 128 times) 3. bocplm (appears 124 times)<|eot_id|>", "needle": ["ptyiok", "zlpvyb", "bocplm"], "score": 1.0}
+{"ctx_len": 129194, "pred": "1. ppyrqr (appears 134 times) 2. zkgzpj (appears 127 times) 3. hyvfcv (appears 124 times)<|eot_id|>", "needle": ["ppyrqr", "zkgzpj", "bqsyvv"], "score": 0.6666666666666666}
+{"ctx_len": 121830, "pred": "1. zmxpwk (appears 134 times) 2. jvcwss (appears 128 times) 3. qbrawh (appears 127 times)<|eot_id|>", "needle": ["qbrawh", "zmxpwk", "bujdgz"], "score": 0.6666666666666666}
+{"ctx_len": 123065, "pred": "1. qayurr (appears 134 times) 2. zhepbh (appears 128 times) 3. bvoomc (appears 126 times)<|eot_id|>", "needle": ["qayurr", "zhepbh", "bvoomc"], "score": 1.0}
+{"ctx_len": 122678, "pred": "1. pvgdvz (appears 73 times) 2. zjkdmj (appears 69 times) 3. yurclv (appears 64 times)<|eot_id|>", "needle": ["pvgdvz", "zjkdmj", "brkxrt"], "score": 0.6666666666666666}
+{"ctx_len": 118943, "pred": "1. ptokha (appears 134 times) 2. zkyxge (appears 128 times) 3. bqrebx (appears 124 times)<|eot_id|>", "needle": ["ptokha", "zkyxge", "bqrebx"], "score": 1.0}
+{"ctx_len": 124427, "pred": "1. ptekgp (appears 134 times) 2. yvrlzv (appears 93 times) 3. jityjz (appears 83 times)<|eot_id|>", "needle": ["ptekgp", "zkqawe", "bpufjb"], "score": 0.3333333333333333}
+{"ctx_len": 117006, "pred": "1. yvpzeo (appeared 73 times) 2. zibanr (appeared 72 times) 3. poymmx (appeared 71 times)<|eot_id|>", "needle": ["poymmx", "zibanr", "bsxlaq"], "score": 0.6666666666666666}
+{"ctx_len": 127068, "pred": "1. pzxujz (appears 234 times) 2. znoirj (appears 193 times) 3. bpeubb (appears 184 times)<|eot_id|>", "needle": ["pzxujz", "znoirj", "bpeubb"], "score": 1.0}
+{"ctx_len": 117357, "pred": "1. zisvha (appeared 73 times) 2. yvyket (appeared 69 times) 3. pwdadg (appeared 68 times)<|eot_id|>", "needle": ["pwdadg", "zisvha", "bqcgii"], "score": 0.6666666666666666}
+{"ctx_len": 122809, "pred": "qfvknk, zlkqhj, and bsxhzm.<|eot_id|>", "needle": ["qfvknk", "zlkqhj", "bsxhzm"], "score": 1.0}
+{"ctx_len": 113834, "pred": "1. puqlre (appears 134 times) 2. zlingf (appears 128 times) 3. brsbpx (appears 124 times)<|eot_id|>", "needle": ["puqlre", "zlingf", "brsbpx"], "score": 1.0}
+{"ctx_len": 118177, "pred": "1. pyihgn (appeared 73 times) 2. ziwxfe (appeared 69 times) 3. bnuvma (appeared 64 times)<|eot_id|>", "needle": ["pyihgn", "ziwxfe", "bnuvma"], "score": 1.0}
+{"ctx_len": 119008, "pred": "1. zjzejz (appears 134 times) 2. pjewhk (appears 128 times) 3. yvdvmw (appears 124 times)<|eot_id|>", "needle": ["pjewhk", "zjzejz", "bnziwx"], "score": 0.6666666666666666}
+{"ctx_len": 119338, "pred": "1. pttxwr (appears 134 times) 2. zlxnij (appears 128 times) 3. bkmtsc (appears 124 times)<|eot_id|>", "needle": ["pttxwr", "zlxnij", "bkmtsc"], "score": 1.0}
+{"ctx_len": 120600, "pred": "qcafna (appears 134 times), zlgfwi (appears 127 times), and bnydcu (appears 124 times).<|eot_id|>", "needle": ["qcafna", "zlgfwi", "bnydcu"], "score": 1.0}
+{"ctx_len": 124733, "pred": "1. pxyoeg (appeared 134 times) 2. zjsapi (appeared 128 times) 3. yxjbqa (appeared 124 times)<|eot_id|>", "needle": ["pxyoeg", "zjsapi", "bogvgl"], "score": 0.6666666666666666}
+{"ctx_len": 118833, "pred": "1. zkyrps (appeared 134 times) 2. bocepa (appeared 128 times) 3. jdsble (appeared 124 times)<|eot_id|>", "needle": ["prmkcc", "zkyrps", "bocepa"], "score": 0.6666666666666666}
+{"ctx_len": 119861, "pred": "zltaap, pzagfr, and yzrabf.<|eot_id|>", "needle": ["pzagfr", "zltaap", "bwngmv"], "score": 0.6666666666666666}
+{"ctx_len": 125045, "pred": "1. qcoplx (appears 134 times) 2. zjzqsc (appears 128 times) 3. bppxfq (appears 124 times)<|eot_id|>", "needle": ["qcoplx", "zjzqsc", "bppxfq"], "score": 1.0}
+{"ctx_len": 126146, "pred": "qaxscb (appears 134 times), yxbmor (appears 93 times), and zhshvw (appears 92 times).<|eot_id|>", "needle": ["qaxscb", "zhshvw", "btjvhj"], "score": 0.6666666666666666}
+{"ctx_len": 123327, "pred": "1. prplgw (appears 134 times) 2. zjqnyj (appears 128 times) 3. bmbhjc (appears 124 times)<|eot_id|>", "needle": ["prplgw", "zjqnyj", "bmbhjc"], "score": 1.0}
+{"ctx_len": 115666, "pred": "1. yzzevi (appeared 73 times) 2. jkyzqu (appeared 69 times) 3. brlcwh (appeared 66 times)<|eot_id|>", "needle": ["pobefy", "zkzyxe", "brlcwh"], "score": 0.3333333333333333}
+{"ctx_len": 125562, "pred": "1. pqoipw (appeared 134 times) 2. zkpmpi (appeared 127 times) 3. ywhqjo (appeared 124 times)<|eot_id|>", "needle": ["pqoipw", "zkpmpi", "binifd"], "score": 0.6666666666666666}
+{"ctx_len": 123889, "pred": "1. zmlrlb (appeared 134 times) 2. yxkuxi (appeared 127 times) 3. pupqun (appeared 124 times)<|eot_id|>", "needle": ["pupqun", "zmlrlb", "buspvn"], "score": 0.6666666666666666}
+{"ctx_len": 128092, "pred": "1. qavsoh (appears 134 times) 2. zlwyhd (appears 128 times) 3. bolclm (appears 126 times)<|eot_id|>", "needle": ["qavsoh", "zlwyhd", "bolclm"], "score": 1.0}
+{"ctx_len": 113796, "pred": "1. bwcupt (appears 73 times) 2. yuerin (appears 69 times) 3. zkubcp (appears 68 times)<|eot_id|>", "needle": ["pzsnhk", "zkubcp", "bwcupt"], "score": 0.6666666666666666}
+{"ctx_len": 124328, "pred": "1. pumvbk (appeared 134 times) 2. zmdbag (appeared 127 times) 3. brfgil (appeared 124 times)<|eot_id|>", "needle": ["pumvbk", "zmdbag", "brfgil"], "score": 1.0}
+{"ctx_len": 120662, "pred": "1. psjqwr (appears 134 times) 2. zkebgh (appears 127 times) 3. yvjieo (appears 124 times)<|eot_id|>", "needle": ["psjqwr", "zkebgh", "btzfhi"], "score": 0.6666666666666666}
+{"ctx_len": 127810, "pred": "1. pfhccs (appeared 134 times) 2. yudqph (appeared 93 times) 3. bphuzf (appeared 83 times)<|eot_id|>", "needle": ["pfhccs", "ziyntv", "bphuzf"], "score": 0.6666666666666666}
+{"ctx_len": 119131, "pred": "1. pqseza (appears 134 times) 2. zkagwq (appears 127 times) 3. yxzeee (appears 124 times)<|eot_id|>", "needle": ["pqseza", "zkagwq", "bpzunf"], "score": 0.6666666666666666}
+{"ctx_len": 130437, "pred": "1. pwlprp (appears 134 times) 2. zjcwrx (appears 128 times) 3. yypftg (appears 124 times)<|eot_id|>", "needle": ["pwlprp", "zjcwrx", "boipmn"], "score": 0.6666666666666666}
+{"ctx_len": 118126, "pred": "1. pyvyxz (appears 134 times) 2. zlyjkv (appears 128 times) 3. bruaol (appears 124 times)<|eot_id|>", "needle": ["pyvyxz", "zlyjkv", "bruaol"], "score": 1.0}
+{"ctx_len": 115287, "pred": "1. znipoi (appeared 73 times) 2. bwabjj (appeared 69 times) 3. zcguzf (appeared 64 times)<|eot_id|>", "needle": ["qcjujc", "znipoi", "bwabjj"], "score": 0.6666666666666666}
+{"ctx_len": 120334, "pred": "pseqyz (appears 134 times), zlkvsd (appears 128 times), and yxixbk (appears 124 times).<|eot_id|>", "needle": ["pseqyz", "zlkvsd", "bqzeie"], "score": 0.6666666666666666}
+{"ctx_len": 115106, "pred": "1. pyaxra (appears 73 times) 2. zkbail (appears 69 times) 3. yxijhl (appears 64 times)<|eot_id|>", "needle": ["pyaxra", "zkbail", "bvvned"], "score": 0.6666666666666666}
+{"ctx_len": 120735, "pred": "prclxb (appears 234 times), zkdshv (appears 193 times), and jemada (appears 134 times).<|eot_id|>", "needle": ["prclxb", "zkdshv", "bmjggx"], "score": 0.6666666666666666}
+{"ctx_len": 123351, "pred": "1. pcxppq (appears 134 times) 2. zkwitk (appears 128 times) 3. bnvpoa (appears 124 times)<|eot_id|>", "needle": ["pcxppq", "zkwitk", "bnvpoa"], "score": 1.0}
+{"ctx_len": 118248, "pred": "1. zjlzkj (appeared 134 times) 2. yxsgvs (appeared 127 times) 3. pnileg (appeared 124 times)<|eot_id|>", "needle": ["pnileg", "zjlzkj", "brlhgi"], "score": 0.6666666666666666}
+{"ctx_len": 123798, "pred": "1. pyikqf (appears 134 times) 2. zngoob (appears 128 times) 3. bwmgre (appears 124 times)<|eot_id|>", "needle": ["pyikqf", "zngoob", "bwmgre"], "score": 1.0}
+{"ctx_len": 118876, "pred": "pwikbb (appears 134 times), zkkuxs (appears 127 times), and jtntbq (appears 124 times).<|eot_id|>", "needle": ["pwikbb", "zkkuxs", "boaqqe"], "score": 0.6666666666666666}
+{"ctx_len": 117151, "pred": "1. zlflee (appears 73 times) 2. pzymdn (appears 72 times) 3. yxgkmj (appears 69 times)<|eot_id|>", "needle": ["pzymdn", "zlflee", "bqyuaz"], "score": 0.6666666666666666}
+{"ctx_len": 117071, "pred": "1. zjbhua (appears 234 times) 2. yyncdl (appears 194 times) 3. bspqtk (appears 184 times)<|eot_id|>", "needle": ["pokntz", "zjbhua", "bspqtk"], "score": 0.6666666666666666}
+{"ctx_len": 128149, "pred": "1. qbgxwo (appeared 134 times) 2. zlyarx (appeared 128 times) 3. brarsp (appeared 124 times)<|eot_id|>", "needle": ["qbgxwo", "zlyarx", "brarsp"], "score": 1.0}
+{"ctx_len": 120318, "pred": "1. zgwfxo (appears 73 times) 2. yvndik (appears 69 times) 3. psldht (appears 68 times)<|eot_id|>", "needle": ["psldht", "zgwfxo", "bpktzm"], "score": 0.6666666666666666}
+{"ctx_len": 115533, "pred": "1. pybolf (appeared 73 times) 2. btnkxi (appeared 69 times) 3. zkqxhu (appeared 68 times)<|eot_id|>", "needle": ["pybolf", "zkqxhu", "btnkxi"], "score": 1.0}
+{"ctx_len": 122261, "pred": "1. pwagdn (appears 134 times) 2. zklmxv (appears 127 times) 3. yyssoq (appears 124 times)<|eot_id|>", "needle": ["pwagdn", "zklmxv", "bngdgk"], "score": 0.6666666666666666}
+{"ctx_len": 129035, "pred": "1. pvvdlh (appears 134 times) 2. breyfn (appears 127 times) 3. zlebsn (appears 124 times)<|eot_id|>", "needle": ["pvvdlh", "zlebsn", "breyfn"], "score": 1.0}
+avg:0.7513333333333345

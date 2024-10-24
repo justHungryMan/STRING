@@ -1,0 +1,1001 @@
+step 0, ctx len 130522, avg score 1.0
+step 1, ctx len 130522, avg score 1.0
+step 2, ctx len 130528, avg score 1.0
+step 3, ctx len 130522, avg score 1.0
+step 4, ctx len 130522, avg score 1.0
+step 5, ctx len 130534, avg score 1.0
+step 6, ctx len 130528, avg score 1.0
+step 7, ctx len 130534, avg score 1.0
+step 8, ctx len 130528, avg score 1.0
+step 9, ctx len 130528, avg score 1.0
+step 10, ctx len 130522, avg score 1.0
+step 11, ctx len 130528, avg score 0.9791666666666666
+step 12, ctx len 130522, avg score 0.9615384615384616
+step 13, ctx len 130534, avg score 0.9642857142857143
+step 14, ctx len 130510, avg score 0.9666666666666667
+step 15, ctx len 130516, avg score 0.96875
+step 16, ctx len 130516, avg score 0.9558823529411765
+step 17, ctx len 130522, avg score 0.9583333333333334
+step 18, ctx len 130522, avg score 0.9605263157894737
+step 19, ctx len 130522, avg score 0.9625
+step 20, ctx len 130522, avg score 0.9642857142857143
+step 21, ctx len 130528, avg score 0.9659090909090909
+step 22, ctx len 130516, avg score 0.967391304347826
+step 23, ctx len 130516, avg score 0.9583333333333334
+step 24, ctx len 130516, avg score 0.96
+step 25, ctx len 130516, avg score 0.9519230769230769
+step 26, ctx len 130522, avg score 0.9537037037037037
+step 27, ctx len 130522, avg score 0.9553571428571429
+step 28, ctx len 130516, avg score 0.9568965517241379
+step 29, ctx len 130522, avg score 0.9583333333333334
+step 30, ctx len 130534, avg score 0.9596774193548387
+step 31, ctx len 130528, avg score 0.9609375
+step 32, ctx len 130510, avg score 0.9621212121212122
+step 33, ctx len 130528, avg score 0.9632352941176471
+step 34, ctx len 130528, avg score 0.9642857142857143
+step 35, ctx len 130522, avg score 0.9652777777777778
+step 36, ctx len 130516, avg score 0.9662162162162162
+step 37, ctx len 130516, avg score 0.9671052631578947
+step 38, ctx len 130516, avg score 0.967948717948718
+step 39, ctx len 130516, avg score 0.96875
+step 40, ctx len 130522, avg score 0.9695121951219512
+step 41, ctx len 130528, avg score 0.9702380952380952
+step 42, ctx len 130516, avg score 0.9709302325581395
+step 43, ctx len 130522, avg score 0.9659090909090909
+step 44, ctx len 130522, avg score 0.9666666666666667
+step 45, ctx len 130516, avg score 0.9619565217391305
+step 46, ctx len 130522, avg score 0.9627659574468085
+step 47, ctx len 130528, avg score 0.9635416666666666
+step 48, ctx len 130528, avg score 0.9642857142857143
+step 49, ctx len 130510, avg score 0.965
+step 50, ctx len 130528, avg score 0.9607843137254902
+step 51, ctx len 130522, avg score 0.9615384615384616
+step 52, ctx len 130522, avg score 0.9622641509433962
+step 53, ctx len 130522, avg score 0.9629629629629629
+step 54, ctx len 130516, avg score 0.9636363636363636
+step 55, ctx len 130516, avg score 0.9642857142857143
+step 56, ctx len 130528, avg score 0.9605263157894737
+step 57, ctx len 130528, avg score 0.9612068965517241
+step 58, ctx len 130522, avg score 0.961864406779661
+step 59, ctx len 130516, avg score 0.9625
+step 60, ctx len 130510, avg score 0.9631147540983607
+step 61, ctx len 130528, avg score 0.9637096774193549
+step 62, ctx len 130522, avg score 0.9642857142857143
+step 63, ctx len 130516, avg score 0.96484375
+step 64, ctx len 130516, avg score 0.9653846153846154
+step 65, ctx len 130522, avg score 0.9659090909090909
+step 66, ctx len 130528, avg score 0.9664179104477612
+step 67, ctx len 130528, avg score 0.9669117647058824
+step 68, ctx len 130516, avg score 0.967391304347826
+step 69, ctx len 130522, avg score 0.9642857142857143
+step 70, ctx len 130528, avg score 0.9647887323943662
+step 71, ctx len 130522, avg score 0.9652777777777778
+step 72, ctx len 130516, avg score 0.9657534246575342
+step 73, ctx len 130522, avg score 0.9662162162162162
+step 74, ctx len 130522, avg score 0.9666666666666667
+step 75, ctx len 130522, avg score 0.9671052631578947
+step 76, ctx len 130528, avg score 0.9642857142857143
+step 77, ctx len 130534, avg score 0.9647435897435898
+step 78, ctx len 130528, avg score 0.9651898734177216
+step 79, ctx len 130516, avg score 0.965625
+step 80, ctx len 130528, avg score 0.9660493827160493
+step 81, ctx len 130516, avg score 0.9664634146341463
+step 82, ctx len 130522, avg score 0.9668674698795181
+step 83, ctx len 130516, avg score 0.9642857142857143
+step 84, ctx len 130534, avg score 0.9647058823529412
+step 85, ctx len 130522, avg score 0.9622093023255814
+step 86, ctx len 130516, avg score 0.9626436781609196
+step 87, ctx len 130522, avg score 0.9630681818181818
+step 88, ctx len 130516, avg score 0.9634831460674157
+step 89, ctx len 130516, avg score 0.9638888888888889
+step 90, ctx len 130516, avg score 0.9642857142857143
+step 91, ctx len 130516, avg score 0.9646739130434783
+step 92, ctx len 130522, avg score 0.9650537634408602
+step 93, ctx len 130528, avg score 0.9654255319148937
+step 94, ctx len 130522, avg score 0.9657894736842105
+step 95, ctx len 130516, avg score 0.9661458333333334
+step 96, ctx len 130522, avg score 0.9664948453608248
+step 97, ctx len 130522, avg score 0.9668367346938775
+step 98, ctx len 130528, avg score 0.9671717171717171
+step 99, ctx len 130516, avg score 0.9675
+step 100, ctx len 130522, avg score 0.9678217821782178
+step 101, ctx len 130528, avg score 0.9681372549019608
+step 102, ctx len 130510, avg score 0.9684466019417476
+step 103, ctx len 130522, avg score 0.96875
+step 104, ctx len 130516, avg score 0.969047619047619
+step 105, ctx len 130534, avg score 0.9669811320754716
+step 106, ctx len 130522, avg score 0.9672897196261683
+step 107, ctx len 130516, avg score 0.9675925925925926
+step 108, ctx len 130516, avg score 0.9678899082568807
+step 109, ctx len 130516, avg score 0.9681818181818181
+step 110, ctx len 130510, avg score 0.9684684684684685
+step 111, ctx len 130510, avg score 0.96875
+step 112, ctx len 130516, avg score 0.9690265486725663
+step 113, ctx len 130522, avg score 0.9692982456140351
+step 114, ctx len 130534, avg score 0.9695652173913043
+step 115, ctx len 130522, avg score 0.9698275862068966
+step 116, ctx len 130516, avg score 0.9700854700854701
+step 117, ctx len 130528, avg score 0.9703389830508474
+step 118, ctx len 130522, avg score 0.9705882352941176
+step 119, ctx len 130528, avg score 0.9708333333333333
+step 120, ctx len 130516, avg score 0.96900826446281
+step 121, ctx len 130522, avg score 0.9692622950819673
+step 122, ctx len 130522, avg score 0.9695121951219512
+step 123, ctx len 130528, avg score 0.969758064516129
+step 124, ctx len 130522, avg score 0.97
+step 125, ctx len 130522, avg score 0.9702380952380952
+step 126, ctx len 130528, avg score 0.9704724409448819
+step 127, ctx len 130522, avg score 0.970703125
+step 128, ctx len 130510, avg score 0.9689922480620154
+step 129, ctx len 130516, avg score 0.9692307692307692
+step 130, ctx len 130516, avg score 0.9694656488549618
+step 131, ctx len 130516, avg score 0.9696969696969697
+step 132, ctx len 130522, avg score 0.9699248120300752
+step 133, ctx len 130528, avg score 0.9701492537313433
+step 134, ctx len 130516, avg score 0.9685185185185186
+step 135, ctx len 130528, avg score 0.9669117647058824
+step 136, ctx len 130528, avg score 0.9671532846715328
+step 137, ctx len 130522, avg score 0.967391304347826
+step 138, ctx len 130528, avg score 0.9676258992805755
+step 139, ctx len 130522, avg score 0.9678571428571429
+step 140, ctx len 130528, avg score 0.9680851063829787
+step 141, ctx len 130522, avg score 0.9683098591549296
+step 142, ctx len 130522, avg score 0.9685314685314685
+step 143, ctx len 130522, avg score 0.96875
+step 144, ctx len 130516, avg score 0.9689655172413794
+step 145, ctx len 130540, avg score 0.9691780821917808
+step 146, ctx len 130516, avg score 0.9693877551020408
+step 147, ctx len 130522, avg score 0.9695945945945946
+step 148, ctx len 130528, avg score 0.9697986577181208
+step 149, ctx len 130516, avg score 0.9683333333333334
+step 150, ctx len 130528, avg score 0.9685430463576159
+step 151, ctx len 130528, avg score 0.96875
+step 152, ctx len 130522, avg score 0.9689542483660131
+step 153, ctx len 130522, avg score 0.9691558441558441
+step 154, ctx len 130516, avg score 0.9693548387096774
+step 155, ctx len 130540, avg score 0.969551282051282
+step 156, ctx len 130516, avg score 0.9697452229299363
+step 157, ctx len 130528, avg score 0.9683544303797469
+step 158, ctx len 130528, avg score 0.9685534591194969
+step 159, ctx len 130522, avg score 0.96875
+step 160, ctx len 130516, avg score 0.968944099378882
+step 161, ctx len 130528, avg score 0.9691358024691358
+step 162, ctx len 130522, avg score 0.9677914110429447
+step 163, ctx len 130516, avg score 0.9679878048780488
+step 164, ctx len 130516, avg score 0.9681818181818181
+step 165, ctx len 130522, avg score 0.9683734939759037
+step 166, ctx len 130528, avg score 0.968562874251497
+step 167, ctx len 130516, avg score 0.96875
+step 168, ctx len 130516, avg score 0.9689349112426036
+step 169, ctx len 130534, avg score 0.9691176470588235
+step 170, ctx len 130516, avg score 0.9692982456140351
+step 171, ctx len 130522, avg score 0.9694767441860465
+step 172, ctx len 130534, avg score 0.9696531791907514
+step 173, ctx len 130522, avg score 0.9683908045977011
+step 174, ctx len 130516, avg score 0.9685714285714285
+step 175, ctx len 130516, avg score 0.96875
+step 176, ctx len 130516, avg score 0.9675141242937854
+step 177, ctx len 130516, avg score 0.9676966292134831
+step 178, ctx len 130528, avg score 0.9664804469273743
+step 179, ctx len 130516, avg score 0.9666666666666667
+step 180, ctx len 130522, avg score 0.9654696132596685
+step 181, ctx len 130516, avg score 0.9656593406593407
+step 182, ctx len 130516, avg score 0.9658469945355191
+step 183, ctx len 130516, avg score 0.9660326086956522
+step 184, ctx len 130516, avg score 0.9662162162162162
+step 185, ctx len 130516, avg score 0.9663978494623656
+step 186, ctx len 130522, avg score 0.9665775401069518
+step 187, ctx len 130516, avg score 0.9667553191489362
+step 188, ctx len 130528, avg score 0.966931216931217
+step 189, ctx len 130522, avg score 0.9671052631578947
+step 190, ctx len 130522, avg score 0.9672774869109948
+step 191, ctx len 130510, avg score 0.9674479166666666
+step 192, ctx len 130516, avg score 0.9676165803108808
+step 193, ctx len 130522, avg score 0.9677835051546392
+step 194, ctx len 130510, avg score 0.967948717948718
+step 195, ctx len 130522, avg score 0.9681122448979592
+step 196, ctx len 130516, avg score 0.9682741116751269
+step 197, ctx len 130516, avg score 0.9684343434343434
+step 198, ctx len 130522, avg score 0.9673366834170855
+step 199, ctx len 130510, avg score 0.9675
+step 200, ctx len 130528, avg score 0.9676616915422885
+step 201, ctx len 130516, avg score 0.9678217821782178
+step 202, ctx len 130528, avg score 0.9679802955665024
+step 203, ctx len 130522, avg score 0.9681372549019608
+step 204, ctx len 130522, avg score 0.9682926829268292
+step 205, ctx len 130528, avg score 0.9672330097087378
+step 206, ctx len 130528, avg score 0.967391304347826
+step 207, ctx len 130516, avg score 0.9663461538461539
+step 208, ctx len 130528, avg score 0.9665071770334929
+step 209, ctx len 130522, avg score 0.9654761904761905
+step 210, ctx len 130510, avg score 0.9656398104265402
+step 211, ctx len 130522, avg score 0.9658018867924528
+step 212, ctx len 130516, avg score 0.9647887323943662
+step 213, ctx len 130534, avg score 0.9649532710280374
+step 214, ctx len 130516, avg score 0.9651162790697675
+step 215, ctx len 130528, avg score 0.9641203703703703
+step 216, ctx len 130522, avg score 0.9642857142857143
+step 217, ctx len 130522, avg score 0.9644495412844036
+step 218, ctx len 130522, avg score 0.9646118721461188
+step 219, ctx len 130522, avg score 0.9647727272727272
+step 220, ctx len 130522, avg score 0.9649321266968326
+step 221, ctx len 130522, avg score 0.9650900900900901
+step 222, ctx len 130510, avg score 0.9652466367713004
+step 223, ctx len 130516, avg score 0.9654017857142857
+step 224, ctx len 130528, avg score 0.9655555555555555
+step 225, ctx len 130528, avg score 0.9657079646017699
+step 226, ctx len 130516, avg score 0.9658590308370044
+step 227, ctx len 130534, avg score 0.9660087719298246
+step 228, ctx len 130516, avg score 0.9661572052401747
+step 229, ctx len 130522, avg score 0.966304347826087
+step 230, ctx len 130528, avg score 0.9664502164502164
+step 231, ctx len 130516, avg score 0.9665948275862069
+step 232, ctx len 130516, avg score 0.9667381974248928
+step 233, ctx len 130510, avg score 0.9668803418803419
+step 234, ctx len 130522, avg score 0.9670212765957447
+step 235, ctx len 130528, avg score 0.9671610169491526
+step 236, ctx len 130516, avg score 0.9672995780590717
+step 237, ctx len 130516, avg score 0.967436974789916
+step 238, ctx len 130516, avg score 0.9675732217573222
+step 239, ctx len 130522, avg score 0.9677083333333333
+step 240, ctx len 130516, avg score 0.9678423236514523
+step 241, ctx len 130510, avg score 0.9679752066115702
+step 242, ctx len 130528, avg score 0.9681069958847737
+step 243, ctx len 130510, avg score 0.9682377049180327
+step 244, ctx len 130516, avg score 0.9683673469387755
+step 245, ctx len 130522, avg score 0.9684959349593496
+step 246, ctx len 130516, avg score 0.9686234817813765
+step 247, ctx len 130516, avg score 0.96875
+step 248, ctx len 130522, avg score 0.9688755020080321
+step 249, ctx len 130516, avg score 0.969
+step 250, ctx len 130522, avg score 0.9691235059760956
+step 251, ctx len 130528, avg score 0.9692460317460317
+step 252, ctx len 130528, avg score 0.9693675889328063
+step 253, ctx len 130516, avg score 0.969488188976378
+step 254, ctx len 130528, avg score 0.9696078431372549
+step 255, ctx len 130516, avg score 0.9697265625
+step 256, ctx len 130522, avg score 0.9698443579766537
+step 257, ctx len 130522, avg score 0.9699612403100775
+step 258, ctx len 130528, avg score 0.9700772200772201
+step 259, ctx len 130516, avg score 0.9701923076923077
+step 260, ctx len 130522, avg score 0.9703065134099617
+step 261, ctx len 130522, avg score 0.9704198473282443
+step 262, ctx len 130516, avg score 0.970532319391635
+step 263, ctx len 130522, avg score 0.9706439393939394
+step 264, ctx len 130522, avg score 0.970754716981132
+step 265, ctx len 130516, avg score 0.9708646616541353
+step 266, ctx len 130522, avg score 0.9709737827715356
+step 267, ctx len 130522, avg score 0.9710820895522388
+step 268, ctx len 130522, avg score 0.9711895910780669
+step 269, ctx len 130534, avg score 0.9712962962962963
+step 270, ctx len 130516, avg score 0.9714022140221402
+step 271, ctx len 130516, avg score 0.9715073529411765
+step 272, ctx len 130528, avg score 0.9706959706959707
+step 273, ctx len 130516, avg score 0.9698905109489051
+step 274, ctx len 130522, avg score 0.97
+step 275, ctx len 130516, avg score 0.970108695652174
+step 276, ctx len 130516, avg score 0.9693140794223827
+step 277, ctx len 130522, avg score 0.9694244604316546
+step 278, ctx len 130516, avg score 0.9695340501792115
+step 279, ctx len 130522, avg score 0.9696428571428571
+step 280, ctx len 130516, avg score 0.9688612099644128
+step 281, ctx len 130516, avg score 0.9680851063829787
+step 282, ctx len 130522, avg score 0.9681978798586572
+step 283, ctx len 130516, avg score 0.9683098591549296
+step 284, ctx len 130522, avg score 0.968421052631579
+step 285, ctx len 130528, avg score 0.9685314685314685
+step 286, ctx len 130516, avg score 0.9686411149825784
+step 287, ctx len 130516, avg score 0.96875
+step 288, ctx len 130522, avg score 0.9688581314878892
+step 289, ctx len 130510, avg score 0.9689655172413794
+step 290, ctx len 130522, avg score 0.968213058419244
+step 291, ctx len 130528, avg score 0.9674657534246576
+step 292, ctx len 130510, avg score 0.9675767918088737
+step 293, ctx len 130522, avg score 0.967687074829932
+step 294, ctx len 130516, avg score 0.9677966101694915
+step 295, ctx len 130522, avg score 0.9679054054054054
+step 296, ctx len 130522, avg score 0.968013468013468
+step 297, ctx len 130510, avg score 0.9681208053691275
+step 298, ctx len 130516, avg score 0.9682274247491639
+step 299, ctx len 130510, avg score 0.9683333333333334
+step 300, ctx len 130516, avg score 0.96843853820598
+step 301, ctx len 130528, avg score 0.9677152317880795
+step 302, ctx len 130522, avg score 0.9678217821782178
+step 303, ctx len 130516, avg score 0.9679276315789473
+step 304, ctx len 130516, avg score 0.9680327868852459
+step 305, ctx len 130522, avg score 0.9681372549019608
+step 306, ctx len 130528, avg score 0.9674267100977199
+step 307, ctx len 130522, avg score 0.9675324675324676
+step 308, ctx len 130534, avg score 0.9676375404530745
+step 309, ctx len 130522, avg score 0.967741935483871
+step 310, ctx len 130516, avg score 0.9678456591639871
+step 311, ctx len 130522, avg score 0.967948717948718
+step 312, ctx len 130516, avg score 0.9680511182108626
+step 313, ctx len 130516, avg score 0.9681528662420382
+step 314, ctx len 130528, avg score 0.9682539682539683
+step 315, ctx len 130528, avg score 0.9683544303797469
+step 316, ctx len 130522, avg score 0.9684542586750788
+step 317, ctx len 130516, avg score 0.9685534591194969
+step 318, ctx len 130516, avg score 0.9686520376175548
+step 319, ctx len 130510, avg score 0.96796875
+step 320, ctx len 130516, avg score 0.9680685358255452
+step 321, ctx len 130522, avg score 0.968167701863354
+step 322, ctx len 130528, avg score 0.968266253869969
+step 323, ctx len 130516, avg score 0.9683641975308642
+step 324, ctx len 130516, avg score 0.9676923076923077
+step 325, ctx len 130516, avg score 0.9670245398773006
+step 326, ctx len 130522, avg score 0.9671253822629969
+step 327, ctx len 130522, avg score 0.9672256097560976
+step 328, ctx len 130522, avg score 0.9673252279635258
+step 329, ctx len 130516, avg score 0.9674242424242424
+step 330, ctx len 130522, avg score 0.9675226586102719
+step 331, ctx len 130528, avg score 0.9676204819277109
+step 332, ctx len 130522, avg score 0.9677177177177178
+step 333, ctx len 130516, avg score 0.967814371257485
+step 334, ctx len 130522, avg score 0.9679104477611941
+step 335, ctx len 130516, avg score 0.9680059523809523
+step 336, ctx len 130516, avg score 0.9681008902077152
+step 337, ctx len 130522, avg score 0.9681952662721893
+step 338, ctx len 130522, avg score 0.9682890855457227
+step 339, ctx len 130528, avg score 0.9683823529411765
+step 340, ctx len 130522, avg score 0.968475073313783
+step 341, ctx len 130528, avg score 0.9685672514619883
+step 342, ctx len 130516, avg score 0.9686588921282799
+step 343, ctx len 130516, avg score 0.96875
+step 344, ctx len 130516, avg score 0.9688405797101449
+step 345, ctx len 130528, avg score 0.9689306358381503
+step 346, ctx len 130522, avg score 0.9690201729106628
+step 347, ctx len 130522, avg score 0.9683908045977011
+step 348, ctx len 130522, avg score 0.9684813753581661
+step 349, ctx len 130522, avg score 0.9685714285714285
+step 350, ctx len 130528, avg score 0.9686609686609686
+step 351, ctx len 130516, avg score 0.96875
+step 352, ctx len 130522, avg score 0.9681303116147308
+step 353, ctx len 130522, avg score 0.9682203389830508
+step 354, ctx len 130522, avg score 0.9683098591549296
+step 355, ctx len 130516, avg score 0.9683988764044944
+step 356, ctx len 130534, avg score 0.9684873949579832
+step 357, ctx len 130510, avg score 0.9685754189944135
+step 358, ctx len 130540, avg score 0.9686629526462396
+step 359, ctx len 130522, avg score 0.96875
+step 360, ctx len 130516, avg score 0.9688365650969529
+step 361, ctx len 130516, avg score 0.9689226519337016
+step 362, ctx len 130522, avg score 0.96900826446281
+step 363, ctx len 130510, avg score 0.9690934065934066
+step 364, ctx len 130516, avg score 0.9691780821917808
+step 365, ctx len 130510, avg score 0.9692622950819673
+step 366, ctx len 130522, avg score 0.9693460490463215
+step 367, ctx len 130510, avg score 0.9694293478260869
+step 368, ctx len 130522, avg score 0.9695121951219512
+step 369, ctx len 130522, avg score 0.9695945945945946
+step 370, ctx len 130522, avg score 0.9696765498652291
+step 371, ctx len 130528, avg score 0.969758064516129
+step 372, ctx len 130534, avg score 0.9698391420911529
+step 373, ctx len 130516, avg score 0.9699197860962567
+step 374, ctx len 130516, avg score 0.97
+step 375, ctx len 130510, avg score 0.9694148936170213
+step 376, ctx len 130522, avg score 0.9694960212201591
+step 377, ctx len 130522, avg score 0.9695767195767195
+step 378, ctx len 130516, avg score 0.9689973614775725
+step 379, ctx len 130516, avg score 0.969078947368421
+step 380, ctx len 130522, avg score 0.9691601049868767
+step 381, ctx len 130510, avg score 0.9692408376963351
+step 382, ctx len 130510, avg score 0.9693211488250653
+step 383, ctx len 130528, avg score 0.9694010416666666
+step 384, ctx len 130522, avg score 0.9694805194805195
+step 385, ctx len 130534, avg score 0.969559585492228
+step 386, ctx len 130528, avg score 0.9696382428940569
+step 387, ctx len 130516, avg score 0.9690721649484536
+step 388, ctx len 130516, avg score 0.9691516709511568
+step 389, ctx len 130516, avg score 0.9685897435897436
+step 390, ctx len 130528, avg score 0.9680306905370843
+step 391, ctx len 130516, avg score 0.9681122448979592
+step 392, ctx len 130516, avg score 0.9681933842239185
+step 393, ctx len 130516, avg score 0.9676395939086294
+step 394, ctx len 130528, avg score 0.9677215189873418
+step 395, ctx len 130516, avg score 0.9678030303030303
+step 396, ctx len 130522, avg score 0.9672544080604534
+step 397, ctx len 130522, avg score 0.9673366834170855
+step 398, ctx len 130522, avg score 0.9674185463659147
+step 399, ctx len 130516, avg score 0.9675
+step 400, ctx len 130534, avg score 0.9675810473815462
+step 401, ctx len 130522, avg score 0.9676616915422885
+step 402, ctx len 130516, avg score 0.967741935483871
+step 403, ctx len 130516, avg score 0.9678217821782178
+step 404, ctx len 130516, avg score 0.9679012345679012
+step 405, ctx len 130528, avg score 0.9679802955665024
+step 406, ctx len 130516, avg score 0.9680589680589681
+step 407, ctx len 130510, avg score 0.9675245098039216
+step 408, ctx len 130516, avg score 0.96760391198044
+step 409, ctx len 130528, avg score 0.9676829268292683
+step 410, ctx len 130516, avg score 0.9677615571776156
+step 411, ctx len 130510, avg score 0.9678398058252428
+step 412, ctx len 130522, avg score 0.9679176755447942
+step 413, ctx len 130522, avg score 0.9679951690821256
+step 414, ctx len 130528, avg score 0.9680722891566265
+step 415, ctx len 130528, avg score 0.9675480769230769
+step 416, ctx len 130516, avg score 0.9676258992805755
+step 417, ctx len 130528, avg score 0.9677033492822966
+step 418, ctx len 130528, avg score 0.9677804295942721
+step 419, ctx len 130522, avg score 0.9678571428571429
+step 420, ctx len 130516, avg score 0.9679334916864608
+step 421, ctx len 130516, avg score 0.9680094786729858
+step 422, ctx len 130522, avg score 0.9680851063829787
+step 423, ctx len 130528, avg score 0.9681603773584906
+step 424, ctx len 130516, avg score 0.9670588235294117
+step 425, ctx len 130516, avg score 0.9671361502347418
+step 426, ctx len 130522, avg score 0.9672131147540983
+step 427, ctx len 130510, avg score 0.9667056074766355
+step 428, ctx len 130528, avg score 0.9667832167832168
+step 429, ctx len 130522, avg score 0.9668604651162791
+step 430, ctx len 130516, avg score 0.9669373549883991
+step 431, ctx len 130516, avg score 0.9664351851851852
+step 432, ctx len 130534, avg score 0.9665127020785219
+step 433, ctx len 130528, avg score 0.966589861751152
+step 434, ctx len 130516, avg score 0.9666666666666667
+step 435, ctx len 130522, avg score 0.966743119266055
+step 436, ctx len 130522, avg score 0.9668192219679634
+step 437, ctx len 130528, avg score 0.9668949771689498
+step 438, ctx len 130528, avg score 0.9669703872437357
+step 439, ctx len 130522, avg score 0.9670454545454545
+step 440, ctx len 130516, avg score 0.9671201814058957
+step 441, ctx len 130516, avg score 0.9671945701357466
+step 442, ctx len 130522, avg score 0.9672686230248307
+step 443, ctx len 130522, avg score 0.9667792792792793
+step 444, ctx len 130516, avg score 0.9668539325842697
+step 445, ctx len 130528, avg score 0.9669282511210763
+step 446, ctx len 130534, avg score 0.9670022371364653
+step 447, ctx len 130510, avg score 0.9670758928571429
+step 448, ctx len 130522, avg score 0.9671492204899778
+step 449, ctx len 130522, avg score 0.9672222222222222
+step 450, ctx len 130516, avg score 0.9672949002217295
+step 451, ctx len 130516, avg score 0.9673672566371682
+step 452, ctx len 130522, avg score 0.967439293598234
+step 453, ctx len 130522, avg score 0.9669603524229075
+step 454, ctx len 130522, avg score 0.967032967032967
+step 455, ctx len 130528, avg score 0.9665570175438597
+step 456, ctx len 130516, avg score 0.9666301969365426
+step 457, ctx len 130522, avg score 0.9667030567685589
+step 458, ctx len 130516, avg score 0.9662309368191722
+step 459, ctx len 130516, avg score 0.966304347826087
+step 460, ctx len 130528, avg score 0.9663774403470716
+step 461, ctx len 130516, avg score 0.9664502164502164
+step 462, ctx len 130516, avg score 0.9665226781857451
+step 463, ctx len 130522, avg score 0.9665948275862069
+step 464, ctx len 130510, avg score 0.9666666666666667
+step 465, ctx len 130522, avg score 0.9667381974248928
+step 466, ctx len 130528, avg score 0.9668094218415417
+step 467, ctx len 130534, avg score 0.9668803418803419
+step 468, ctx len 130516, avg score 0.9669509594882729
+step 469, ctx len 130510, avg score 0.9664893617021276
+step 470, ctx len 130528, avg score 0.9665605095541401
+step 471, ctx len 130516, avg score 0.9666313559322034
+step 472, ctx len 130516, avg score 0.9667019027484144
+step 473, ctx len 130522, avg score 0.9667721518987342
+step 474, ctx len 130516, avg score 0.966842105263158
+step 475, ctx len 130528, avg score 0.9669117647058824
+step 476, ctx len 130516, avg score 0.9669811320754716
+step 477, ctx len 130516, avg score 0.9670502092050209
+step 478, ctx len 130528, avg score 0.9671189979123174
+step 479, ctx len 130516, avg score 0.9671875
+step 480, ctx len 130522, avg score 0.9672557172557172
+step 481, ctx len 130528, avg score 0.9673236514522822
+step 482, ctx len 130528, avg score 0.967391304347826
+step 483, ctx len 130522, avg score 0.9669421487603306
+step 484, ctx len 130522, avg score 0.9670103092783505
+step 485, ctx len 130516, avg score 0.9670781893004116
+step 486, ctx len 130522, avg score 0.9671457905544147
+step 487, ctx len 130516, avg score 0.9667008196721312
+step 488, ctx len 130516, avg score 0.9667689161554193
+step 489, ctx len 130534, avg score 0.9668367346938775
+step 490, ctx len 130522, avg score 0.9663951120162932
+step 491, ctx len 130522, avg score 0.9664634146341463
+step 492, ctx len 130516, avg score 0.9665314401622718
+step 493, ctx len 130516, avg score 0.9660931174089069
+step 494, ctx len 130516, avg score 0.9661616161616161
+step 495, ctx len 130522, avg score 0.9662298387096774
+step 496, ctx len 130522, avg score 0.96579476861167
+step 497, ctx len 130528, avg score 0.9658634538152611
+step 498, ctx len 130522, avg score 0.9659318637274549
+step 499, ctx len 130522, avg score 0.966
+{"ctx_len": 130522, "pred": ": 2969909, 6217344, 5949909, and 9430894.<|eot_id|>", "needle": ["9430894", "6217344", "2969909", "5949909"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7976731, 7268384, 8899184, and 8633275.<|eot_id|>", "needle": ["8633275", "7268384", "7976731", "8899184"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 7069742, 9861274, 8495187, and 2310346.<|eot_id|>", "needle": ["8495187", "9861274", "7069742", "2310346"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6504900, 3760475, 9729882, 3514105.<|eot_id|>", "needle": ["3514105", "3760475", "6504900", "9729882"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1933413, 8607331, 9562677, and 8473959.<|eot_id|>", "needle": ["9562677", "8473959", "1933413", "8607331"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 1365247, 6170227, 7642917, and 8757420.<|eot_id|>", "needle": ["8757420", "6170227", "1365247", "7642917"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2069713, 6780235, 2010921, and 8108462.<|eot_id|>", "needle": ["8108462", "6780235", "2069713", "2010921"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 7282411, 7416943, and 8052503, and 3272119.<|eot_id|>", "needle": ["3272119", "8052503", "7282411", "7416943"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3994290, 6834610, 7594429, 2990334.<|eot_id|>", "needle": ["6834610", "2990334", "3994290", "7594429"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9924365, 8115687, 8767916, and 7363203.<|eot_id|>", "needle": ["8767916", "8115687", "9924365", "7363203"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1540516, 2893218, 8033690, and 4162177.<|eot_id|>", "needle": ["4162177", "2893218", "1540516", "8033690"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1816653, 1563316, and 5105957.<|eot_id|>", "needle": ["1563316", "8490038", "1816653", "5105957"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 5853035, 4928578, and 3351084.<|eot_id|>", "needle": ["3351084", "9453969", "5853035", "4928578"], "score": 0.75}
+{"ctx_len": 130534, "pred": ": 7938388, 4708481, 6041569, 9745141.<|eot_id|>", "needle": ["9745141", "4708481", "7938388", "6041569"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 1786584, 8167236, 9315137, 6778321, and 8167236.<|eot_id|>", "needle": ["8167236", "9315137", "1786584", "6778321"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4084977, 8944327, 7315953, 6031294, and 1.<|eot_id|>", "needle": ["6031294", "7315953", "4084977", "8944327"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9891787, 7987842, 3249703.<|eot_id|>", "needle": ["7923579", "7987842", "9891787", "3249703"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 7225647, 2551288, 8546170, 2326581, and 7225647.<|eot_id|>", "needle": ["2326581", "8546170", "7225647", "2551288"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4156856, 2221118, 1663497, 4640933.<|eot_id|>", "needle": ["1663497", "2221118", "4156856", "4640933"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9034958, 2968239, 5070038, 4188068, and 2968239<|eot_id|>", "needle": ["4188068", "2968239", "9034958", "5070038"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9953163, 8822384, 7027375, 7386444.<|eot_id|>", "needle": ["7386444", "8822384", "9953163", "7027375"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 6372622, 8876742, 4407913, and 2654371.<|eot_id|>", "needle": ["2654371", "8876742", "6372622", "4407913"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8005797, 5375063, 5952504, 1.235, 1272124, and 6.<|eot_id|>", "needle": ["1272124", "5375063", "8005797", "5952504"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6663388, 5317226, and 9376888.<|eot_id|>", "needle": ["5122665", "9376888", "6663388", "5317226"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 1985360, 4087809, and 9192588, and 9790328.<|eot_id|>", "needle": ["9192588", "4087809", "1985360", "9790328"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3533857, 1153368, and 2140312.<|eot_id|>", "needle": ["4882808", "2140312", "3533857", "1153368"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 1263935, 1110936, 9106820, and 9184838.<|eot_id|>", "needle": ["9106820", "9184838", "1263935", "1110936"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5809835, 9988193, 1287605, and 5609384.<|eot_id|>", "needle": ["5609384", "9988193", "5809835", "1287605"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4220085, 5042786, 9832465, and 3498085.<|eot_id|>", "needle": ["3498085", "5042786", "4220085", "9832465"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5080351, 8700704, 4789255, and 7812009.<|eot_id|>", "needle": ["7812009", "8700704", "5080351", "4789255"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 1158547, 3875339, 1941452, and 8986040.<|eot_id|>", "needle": ["8986040", "1941452", "1158547", "3875339"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 4546989, 4854842, 8977571, 1713900.<|eot_id|>", "needle": ["1713900", "4854842", "4546989", "8977571"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 4475536, 1262699, 3419132, and 6276177.<|eot_id|>", "needle": ["6276177", "1262699", "4475536", "3419132"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 7439870, 6565503, 3347981, and 7528964.<|eot_id|>", "needle": ["7528964", "6565503", "7439870", "3347981"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 6714198, 7655572, 2275374, 4894730.<|eot_id|>", "needle": ["4894730", "2275374", "6714198", "7655572"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8245206, 7298619, 4116163, 6969521.<|eot_id|>", "needle": ["6969521", "7298619", "8245206", "4116163"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5495824, 3587398, 2233237, and 2376369.<|eot_id|>", "needle": ["2233237", "2376369", "5495824", "3587398"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8461429, 6171869, 7038413, 1087161.<|eot_id|>", "needle": ["1087161", "6171869", "8461429", "7038413"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7845845, 9597330, 8530347, and 2732967.<|eot_id|>", "needle": ["8530347", "9597330", "7845845", "2732967"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1207041, 7463219, 5896386, and 6443037.<|eot_id|>", "needle": ["6443037", "7463219", "1207041", "5896386"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7387623, 3845129, 3843767, 9742683.<|eot_id|>", "needle": ["9742683", "3845129", "7387623", "3843767"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5629871, 8292657, 3805274, 8064924.<|eot_id|>", "needle": ["3805274", "8292657", "5629871", "8064924"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8681643, 4280754, 2794698, 9318184, and 1,235.<|eot_id|>", "needle": ["9318184", "4280754", "8681643", "2794698"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8385715, 6615941, and 6528792.<|eot_id|>", "needle": ["7373495", "6528792", "8385715", "6615941"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 6271120, 4369728, 3980258, and 9036449.<|eot_id|>", "needle": ["4369728", "9036449", "6271120", "3980258"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5702656, 7123944, and 7309161.<|eot_id|>", "needle": ["7309161", "5702656", "7592357", "7123944"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 4517316, 8744735, 1451577, and 8356053.<|eot_id|>", "needle": ["1451577", "8744735", "4517316", "8356053"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5239295, 3586094, 5060441, and 6080688.<|eot_id|>", "needle": ["6080688", "5060441", "5239295", "3586094"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9499549, 9965197, 8017921, and 7724393.<|eot_id|>", "needle": ["7724393", "9965197", "9499549", "8017921"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 3790696, 1743175, 5164624, and 6956059.<|eot_id|>", "needle": ["5164624", "6956059", "3790696", "1743175"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5340909, 9567725, and 2654343.<|eot_id|>", "needle": ["2654343", "5340909", "4724560", "9567725"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 8768911, 7562142, 7276684, 9396422.<|eot_id|>", "needle": ["7276684", "7562142", "8768911", "9396422"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2947320, 7978909, 3376915, 2440404.<|eot_id|>", "needle": ["7978909", "2440404", "2947320", "3376915"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8988681, 6843509, 9102153, and 2637842.<|eot_id|>", "needle": ["9102153", "6843509", "8988681", "2637842"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6755892, 1378915, 2834801, and 2930810.<|eot_id|>", "needle": ["2930810", "1378915", "6755892", "2834801"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4889890, 8751982, 8153291, and 7795568.<|eot_id|>", "needle": ["8153291", "8751982", "4889890", "7795568"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1074659, 4603680, 8206700.<|eot_id|>", "needle": ["8206700", "7523581", "1074659", "4603680"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 6469119, 7136988, 4306357, and 4136665.<|eot_id|>", "needle": ["4136665", "7136988", "6469119", "4306357"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2916496, 6837206, 7585795, and 7520284.<|eot_id|>", "needle": ["7520284", "7585795", "2916496", "6837206"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6254384, 3247270, 2977390, and 2421902.<|eot_id|>", "needle": ["2421902", "3247270", "6254384", "2977390"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 7517332, 9570219, 8016887, and 3371602.<|eot_id|>", "needle": ["3371602", "9570219", "7517332", "8016887"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3799538, 3906397, 9214830, and 9164971.<|eot_id|>", "needle": ["9164971", "3906397", "3799538", "9214830"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1160783, 7023677, 9130388, and 1899447.<|eot_id|>", "needle": ["1899447", "7023677", "1160783", "9130388"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8446596, 7973121, 9199017, and 9249791.<|eot_id|>", "needle": ["9249791", "7973121", "8446596", "9199017"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4772246, 5611266, 1548532, and 5843084.<|eot_id|>", "needle": ["1548532", "5611266", "4772246", "5843084"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7154919, 5494430, 1698108, 2916069, and 5494430.<|eot_id|>", "needle": ["2916069", "5494430", "7154919", "1698108"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1540736, 5994727, 5152891, and 8545256.<|eot_id|>", "needle": ["5152891", "5994727", "1540736", "8545256"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 8183451, 6882609, 3784709, and 4521171.<|eot_id|>", "needle": ["4521171", "6882609", "8183451", "3784709"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6430006, 3824903, 5715824, and 5909595.<|eot_id|>", "needle": ["5715824", "3824903", "6430006", "5909595"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5652716, 1994652, and 3128830.<|eot_id|>", "needle": ["7905438", "1994652", "5652716", "3128830"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 3385244, 7588425, 9211754, and 5508325.<|eot_id|>", "needle": ["7588425", "9211754", "3385244", "5508325"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7191986, 9650558, 8628527, and 5667852.<|eot_id|>", "needle": ["9650558", "5667852", "7191986", "8628527"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2062512, 9966154, 8691502, 7009980, and 8691502.<|eot_id|>", "needle": ["8691502", "7009980", "2062512", "9966154"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3191007, 9142618, and 5757902, and 6666591.<|eot_id|>", "needle": ["5757902", "6666591", "3191007", "9142618"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8403549, 8659103, 3650523, and 3084353.<|eot_id|>", "needle": ["3084353", "3650523", "8403549", "8659103"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7047102, 2565985, 5200835, and 5597283.<|eot_id|>", "needle": ["5597283", "2565985", "7047102", "5200835"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 8201300, 4928281, and 6125594.<|eot_id|>", "needle": ["6125594", "4928281", "8201300", "2530068"], "score": 0.75}
+{"ctx_len": 130534, "pred": ": 8466983, 9714828, 4794852, 1155809, and 4794852.<|eot_id|>", "needle": ["4794852", "9714828", "8466983", "1155809"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 7426846, 4841091, 2498726, 2188301, and 2188301.<|eot_id|>", "needle": ["2188301", "4841091", "7426846", "2498726"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2147756, 3396676, 9900451, and 3233823.<|eot_id|>", "needle": ["3233823", "3396676", "2147756", "9900451"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 7907345, 3539636, 8421969, 4574477, and 2.5 x 4 in.<|eot_id|>", "needle": ["4574477", "3539636", "7907345", "8421969"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8203947, 6897789, 6276495, and 7442986.<|eot_id|>", "needle": ["7442986", "6897789", "8203947", "6276495"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6060836, 1450038, 4446807, and 5780177.<|eot_id|>", "needle": ["5780177", "1450038", "6060836", "4446807"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9302838, 5015476, and 7474085.<|eot_id|>", "needle": ["1915518", "5015476", "9302838", "7474085"], "score": 0.75}
+{"ctx_len": 130534, "pred": ": 6309530, 7058222, 1202450, and 3214305.<|eot_id|>", "needle": ["1202450", "7058222", "6309530", "3214305"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2133008, 1280001, and 1231415.<|eot_id|>", "needle": ["2224599", "1280001", "2133008", "1231415"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 7969792, 8106413, 9406206, and 5806467.<|eot_id|>", "needle": ["5806467", "9406206", "7969792", "8106413"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2325761, 6199374, 9578269, 2402526, and 6199374.<|eot_id|>", "needle": ["2402526", "6199374", "2325761", "9578269"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8339797, 6203780, 5003671, and 2109227.<|eot_id|>", "needle": ["2109227", "6203780", "8339797", "5003671"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3946849, 6189026, 3003921, and 1923227.<|eot_id|>", "needle": ["1923227", "6189026", "3946849", "3003921"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3801173, 5349442, and 7238933, and 9677559.<|eot_id|>", "needle": ["9677559", "5349442", "3801173", "7238933"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2071594, 9788815, 5411563, and 5563077.<|eot_id|>", "needle": ["5563077", "9788815", "2071594", "5411563"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7168777, 3799805, 3639223, 9382064.<|eot_id|>", "needle": ["9382064", "3799805", "7168777", "3639223"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1206159, 1738833, 1043092, 5102892, and 1738833<|eot_id|>", "needle": ["1043092", "1738833", "1206159", "5102892"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4766741, 8035849, 6398941, 1593302, and 2.5 x 4 in.<|eot_id|>", "needle": ["1593302", "8035849", "4766741", "6398941"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9422849, 3003215, 7254683, and 1883692.<|eot_id|>", "needle": ["7254683", "3003215", "9422849", "1883692"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6212643, 5736323, 6491198, and 8802985.<|eot_id|>", "needle": ["8802985", "5736323", "6212643", "6491198"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5069884, 6098752, 8783398, 5892153.<|eot_id|>", "needle": ["5892153", "6098752", "5069884", "8783398"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1401147, 4909053, 7879264, 1107003, and 1107003<|eot_id|>", "needle": ["1107003", "7879264", "1401147", "4909053"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2743975, 4442590, 7312844, 6159172, and 4.<|eot_id|>", "needle": ["7312844", "6159172", "2743975", "4442590"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1736524, 5694689, 2560728, and 4883465.<|eot_id|>", "needle": ["5694689", "2560728", "1736524", "4883465"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3239990, 9479670, 7616116, and 2603516.<|eot_id|>", "needle": ["2603516", "9479670", "3239990", "7616116"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 5893511, 4972370, 3192921, and 5378701.<|eot_id|>", "needle": ["3192921", "4972370", "5893511", "5378701"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2828260, 3283577, 4400953, and 3607356.<|eot_id|>", "needle": ["4400953", "3283577", "2828260", "3607356"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7011065, 4483557, 9991321, and 3025626.<|eot_id|>", "needle": ["3025626", "9991321", "7011065", "4483557"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 1676621, 6103880, 4607450.<|eot_id|>", "needle": ["3644347", "6103880", "1676621", "4607450"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 6013715, 1821255, 9614423, and 5364874.<|eot_id|>", "needle": ["9614423", "1821255", "6013715", "5364874"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3345338, 2709721, 3037647, and 8751799.<|eot_id|>", "needle": ["8751799", "2709721", "3345338", "3037647"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5342289, 2409947, 2258076, and 7245146.<|eot_id|>", "needle": ["7245146", "2409947", "5342289", "2258076"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1716325, 3055673, 8734211, and 6562484.<|eot_id|>", "needle": ["6562484", "3055673", "1716325", "8734211"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 8158234, 3899223, 7421134, 1494630<|eot_id|>", "needle": ["1494630", "7421134", "8158234", "3899223"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 1581321, 5951043, 3493621, and 5123584.<|eot_id|>", "needle": ["3493621", "1581321", "5123584", "5951043"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3302438, 7425930, 8033593, and 5693862.<|eot_id|>", "needle": ["5693862", "7425930", "3302438", "8033593"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9131572, 6771934, 9047769, and 7024901.<|eot_id|>", "needle": ["7024901", "9047769", "9131572", "6771934"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 4674549, 6349877, 1491630, and 1437264.<|eot_id|>", "needle": ["1437264", "6349877", "4674549", "1491630"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2679975, 5158351, 3678059, 4905100.<|eot_id|>", "needle": ["4905100", "3678059", "2679975", "5158351"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3914404, 7516648, 6952633, 3954473, and 7516648.<|eot_id|>", "needle": ["7516648", "6952633", "3914404", "3954473"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 4158036, 3384080, 6900247, 9258194, and 3384080.<|eot_id|>", "needle": ["6900247", "3384080", "4158036", "9258194"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4671004, 4902772, 1334336, and 1942342.<|eot_id|>", "needle": ["1942342", "4902772", "4671004", "1334336"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 6428919, 1999183, 3977282, and 6716988.<|eot_id|>", "needle": ["6716988", "3977282", "6428919", "1999183"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2695038, 7636992, and 6646557.<|eot_id|>", "needle": ["7267813", "7636992", "2695038", "6646557"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 3922635, 6323132, 6986539, 9173859, and 9173859.<|eot_id|>", "needle": ["9173859", "6323132", "3922635", "6986539"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3981450, 3136551, 5941179, and 1030163.<|eot_id|>", "needle": ["5941179", "3136551", "3981450", "1030163"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9324603, 2746679, 4706007, 3359604, and 4706007.<|eot_id|>", "needle": ["4706007", "2746679", "9324603", "3359604"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8493206, 6632941, 1191186, and 2488575.<|eot_id|>", "needle": ["2488575", "6632941", "8493206", "1191186"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1807780, 7474950, 2812519, and 1021494.<|eot_id|>", "needle": ["2812519", "1021494", "1807780", "7474950"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9044494, 2701688, 4784650, and 7297287.<|eot_id|>", "needle": ["7297287", "2701688", "9044494", "4784650"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2756994, 5380995, 6347182, 2244876, and 6347182.<|eot_id|>", "needle": ["6347182", "5380995", "2756994", "2244876"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 8236404, 1519979, and 3768193.<|eot_id|>", "needle": ["9098979", "1519979", "8236404", "3768193"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 7866576, 5450404, 4187406, 4448564.<|eot_id|>", "needle": ["4448564", "4187406", "7866576", "5450404"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1914439, 3576811, 7053704, 9236745.<|eot_id|>", "needle": ["9236745", "3576811", "1914439", "7053704"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4472094, 1431773, 2627170, and 3866088.<|eot_id|>", "needle": ["2627170", "1431773", "4472094", "3866088"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5446036, 9205682, 2529023, and 8901136.<|eot_id|>", "needle": ["8901136", "9205682", "5446036", "2529023"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1748547, 8478868, 5417373, and 4130342.<|eot_id|>", "needle": ["4130342", "8478868", "1748547", "5417373"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2622400, 2034137, 3535551.<|eot_id|>", "needle": ["2034137", "3535551", "2622400", "2437930"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 9767475, 8023480, and 2023137.<|eot_id|>", "needle": ["2023137", "7494562", "9767475", "8023480"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 1582647, 7623718, 9423864, and 2324645.<|eot_id|>", "needle": ["2324645", "7623718", "1582647", "9423864"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4554926, 3804559, 4233407, and 3900427.<|eot_id|>", "needle": ["3900427", "3804559", "4554926", "4233407"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 6364506, 5326615, 3480985, and 2124274.<|eot_id|>", "needle": ["3480985", "5326615", "6364506", "2124274"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1207430, 8686601, 9718920, and 9767135.<|eot_id|>", "needle": ["9718920", "8686601", "1207430", "9767135"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9986438, 2694338, 5799841, and 6769167.<|eot_id|>", "needle": ["2694338", "5799841", "9986438", "6769167"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7760781, 5620682, 3413447, and 3889032.<|eot_id|>", "needle": ["3889032", "5620682", "7760781", "3413447"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8972838, 1826965, 4985919, 5506097, and 1.<|eot_id|>", "needle": ["4985919", "1826965", "8972838", "5506097"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4824490, 2647814, 3254614, and 9248001.<|eot_id|>", "needle": ["9248001", "2647814", "4824490", "3254614"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8410774, 2497984, 4546544, and 4153037.<|eot_id|>", "needle": ["2497984", "4153037", "8410774", "4546544"], "score": 1.0}
+{"ctx_len": 130540, "pred": ": 6219779, 9502613, 3667115, and 2100870.<|eot_id|>", "needle": ["3667115", "2100870", "6219779", "9502613"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1966829, 4367636, 4234033, and 5185752.<|eot_id|>", "needle": ["4234033", "4367636", "1966829", "5185752"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9474614, 8788293, 7659586, and 7179919.<|eot_id|>", "needle": ["7179919", "8788293", "9474614", "7659586"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 8962169, 3979359, 6867997, and 8484373.<|eot_id|>", "needle": ["8484373", "3979359", "8962169", "6867997"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3733132, 1833006, 4595669.<|eot_id|>", "needle": ["7485495", "1833006", "3733132", "4595669"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 3219862, 3905824, 1149283, and 8954031.<|eot_id|>", "needle": ["1149283", "8954031", "3219862", "3905824"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5620085, 8110298, 6850369, and 7316209.<|eot_id|>", "needle": ["5620085", "8110298", "7316209", "6850369"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9581776, 1123271, 7278533, 2716512, and 1.<|eot_id|>", "needle": ["2716512", "1123271", "9581776", "7278533"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5638619, 6641903, 6454894, and 2071008.<|eot_id|>", "needle": ["2071008", "6641903", "5638619", "6454894"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7779646, 1952520, 6361758, and 5031599.<|eot_id|>", "needle": ["5031599", "1952520", "7779646", "6361758"], "score": 1.0}
+{"ctx_len": 130540, "pred": ": 1592554, 4186247, 7788043, and 7514172.<|eot_id|>", "needle": ["7788043", "7514172", "1592554", "4186247"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4038955, 3851902, 5928878, 6036433.<|eot_id|>", "needle": ["6036433", "3851902", "4038955", "5928878"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 4728795, 2498202, 6960666, and 2498202<|eot_id|>", "needle": ["6630978", "2498202", "4728795", "6960666"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 2976045, 8780612, 8894293, and 5933359.<|eot_id|>", "needle": ["5933359", "8780612", "2976045", "8894293"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7403346, 3010177, 9889215, and 9396617.<|eot_id|>", "needle": ["9396617", "3010177", "7403346", "9889215"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8676774 and 7865099 and 3402902 and 6749046.<|eot_id|>", "needle": ["6749046", "7865099", "8676774", "3402902"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1973306, 1079079, 6258215, and 3966618.<|eot_id|>", "needle": ["3966618", "6258215", "1973306", "1079079"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8276470, 8204299, and 3171071.<|eot_id|>", "needle": ["2477088", "3171071", "8276470", "8204299"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 7259602, 4345615, 1236174, 9955386.<|eot_id|>", "needle": ["9955386", "4345615", "7259602", "1236174"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6777230, 4796108, 6236039, 5174559, and 6236039<|eot_id|>", "needle": ["5174559", "4796108", "6777230", "6236039"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6003003, 1767026, 5879280, and 2095334.<|eot_id|>", "needle": ["2095334", "1767026", "6003003", "5879280"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9223833, 6750102, 7027229, and 3244614.<|eot_id|>", "needle": ["3244614", "6750102", "9223833", "7027229"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1367643, 4543184, 9466346, 3201267.<|eot_id|>", "needle": ["3201267", "4543184", "1367643", "9466346"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1815153, 1804641, 9971338, and 5291430.<|eot_id|>", "needle": ["5291430", "9971338", "1815153", "1804641"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 5240244, 3073581, 8959049, and 7379599.<|eot_id|>", "needle": ["7379599", "3073581", "5240244", "8959049"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5529464, 3301222, 9729340, and 2694160.<|eot_id|>", "needle": ["2694160", "9729340", "5529464", "3301222"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9350675, 2782809, 4332737, and 2912813.<|eot_id|>", "needle": ["2912813", "2782809", "9350675", "4332737"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 3690622, 5955170, 1661118, 7874568.<|eot_id|>", "needle": ["7874568", "5955170", "3690622", "1661118"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2493219, 1213899, and 1045936.<|eot_id|>", "needle": ["1045936", "1213899", "2493219", "2852723"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 4878226, 2699372, 8663014, 5293157, and 4.<|eot_id|>", "needle": ["2699372", "5293157", "4878226", "8663014"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7043399, 5874908, 6246354, and 1661769.<|eot_id|>", "needle": ["1661769", "5874908", "7043399", "6246354"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6998314, 6514013, 8343630, and 8343630.<|eot_id|>", "needle": ["3860721", "6514013", "6998314", "8343630"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 7715084, 2909784, 7723930, 8659448, 5050, 6, 100, 300, 4, 10, 20, 50, 100, 1000, 2000, 5000, 10000, 20000, 50000, 100000, 200000, 500000, 1000000, 2000000, 5000000, 10000000, 20000000, 8659448, 2909784, 7715084, 772393", "needle": ["2909784", "7723930", "7715084", "8659448"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2740017, 3674211, and 3223175.<|eot_id|>", "needle": ["3223175", "1983923", "3674211", "2740017"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 1483456, 3192032, 7371160, and 7016291.<|eot_id|>", "needle": ["7371160", "7016291", "1483456", "3192032"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6272037, 1207369, and 2062602.<|eot_id|>", "needle": ["2062602", "5389135", "6272037", "1207369"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 6800713, 9085438, 7457158, and 5170429.<|eot_id|>", "needle": ["5170429", "9085438", "6800713", "7457158"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8873361, 9482016, 3632804, and 9318729.<|eot_id|>", "needle": ["3632804", "9482016", "8873361", "9318729"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9504862, 1844744, 4736395, and 5666702.<|eot_id|>", "needle": ["5666702", "1844744", "9504862", "4736395"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2476728, 9362706, 8517846, and 8452252.<|eot_id|>", "needle": ["8452252", "8517846", "2476728", "9362706"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1601160, 7917892, 1002847, and 7768594.<|eot_id|>", "needle": ["7768594", "7917892", "1601160", "1002847"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7095875, 1910586, 8653898, and 6718584.<|eot_id|>", "needle": ["8653898", "6718584", "7095875", "1910586"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2912994, 7095071, 2634721, 8592234, 1,235, and 7095071.<|eot_id|>", "needle": ["7095071", "8592234", "2912994", "2634721"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2783791, 7272839, 9757456, and 1768029.<|eot_id|>", "needle": ["9757456", "7272839", "2783791", "1768029"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3025778, 4146456, 4287016, 7591709.<|eot_id|>", "needle": ["4287016", "4146456", "3025778", "7591709"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8558212, 3067274, 8673695, and 1780146.<|eot_id|>", "needle": ["1780146", "3067274", "8558212", "8673695"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 9102253, 9528410, 8261353, and 1814896.<|eot_id|>", "needle": ["1814896", "8261353", "9102253", "9528410"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7453568, 9457564, 8024028, and 6399642.<|eot_id|>", "needle": ["6399642", "9457564", "7453568", "8024028"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3318275, 3237608, 7924719, and 8597490.<|eot_id|>", "needle": ["8597490", "3237608", "3318275", "7924719"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 4518395, 4370359, 5875114, 4646403, and 5875114.<|eot_id|>", "needle": ["4646403", "4370359", "4518395", "5875114"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9059269, 8004117, 2936178, 6909569, 1, 6, 100, 200, 500, 1000, 2000, 3000, 5000, 8000, 10000, 20000, 50000, 70000, 100000, 150000, 200000, 220000, 250000, 300000, 350000, 400000, 500000, 122000, 150 million, 1970, 1974, 1980,", "needle": ["2936178", "6909569", "9059269", "8004117"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1890282, 3438177, 1949670, and 7389943.<|eot_id|>", "needle": ["7389943", "3438177", "1890282", "1949670"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4422567, 1542011, 5951637, and 2040738.<|eot_id|>", "needle": ["2040738", "5951637", "4422567", "1542011"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9571853, 5825775, 4986190, and 5825775.<|eot_id|>", "needle": ["7524435", "4986190", "9571853", "5825775"], "score": 0.75}
+{"ctx_len": 130510, "pred": ": 8433377, 4784075, 5216804, and 4407238.<|eot_id|>", "needle": ["5216804", "4407238", "8433377", "4784075"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 8529864, 3976712, 5935483, and 4246352.<|eot_id|>", "needle": ["4246352", "5935483", "8529864", "3976712"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5433204, 5682726, 3182154, and 8189168.<|eot_id|>", "needle": ["8189168", "5682726", "5433204", "3182154"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3578714, 1670091, and 6412833, 3597208.<|eot_id|>", "needle": ["3597208", "1670091", "3578714", "6412833"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6332789, 2222736, 9814666, and 7007679.<|eot_id|>", "needle": ["7007679", "2222736", "6332789", "9814666"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6862008, 2542590, 7768215, 4711087, and 6862008<|eot_id|>", "needle": ["7768215", "2542590", "6862008", "4711087"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1147701, 2924714, 8966781.<|eot_id|>", "needle": ["9900294", "8966781", "1147701", "2924714"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 2902100, 7398370, 7473923, 6384429, and 6384429.<|eot_id|>", "needle": ["6384429", "7398370", "2902100", "7473923"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9167227, 8475204, and 9535166.<|eot_id|>", "needle": ["9535166", "8475204", "9167227", "1735708"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 1122986, 2098434, 9945709, 3808418.<|eot_id|>", "needle": ["3808418", "9945709", "1122986", "2098434"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1398508, 3579573, and 8704520.<|eot_id|>", "needle": ["2209981", "3579573", "1398508", "8704520"], "score": 0.75}
+{"ctx_len": 130510, "pred": ": 4819259, 5226314, 2181822, 5339392, and 6.<|eot_id|>", "needle": ["5226314", "2181822", "4819259", "5339392"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2984841, 7534756, and 9973031, and 1283383.<|eot_id|>", "needle": ["1283383", "7534756", "2984841", "9973031"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9436204, 7001212, 2780658.<|eot_id|>", "needle": ["2217848", "7001212", "9436204", "2780658"], "score": 0.75}
+{"ctx_len": 130534, "pred": ": 1517059, 7628900, 8952193, and 7399057.<|eot_id|>", "needle": ["7399057", "7628900", "1517059", "8952193"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6000558, 3417186, and 7260091, and 5948917.<|eot_id|>", "needle": ["5948917", "3417186", "6000558", "7260091"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 6111869, 7611593, 2428191<|eot_id|>", "needle": ["7611593", "2428191", "6111869", "4524102"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 5240303 and 4260252 and 4086885 and 4704207.<|eot_id|>", "needle": ["4086885", "4704207", "5240303", "4260252"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2130159, 5876342, 5205840, and 2227162.<|eot_id|>", "needle": ["2227162", "5876342", "2130159", "5205840"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2678477, 4934808, 5783807, and 3151093.<|eot_id|>", "needle": ["3151093", "4934808", "2678477", "5783807"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3556763, 6128383, 6508733, and 7115185.<|eot_id|>", "needle": ["6508733", "6128383", "3556763", "7115185"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5641917, 7031174, 8316947, 4716584, and 8316947.<|eot_id|>", "needle": ["4716584", "8316947", "5641917", "7031174"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2825908, 9170024, 3948933, and 6124966.<|eot_id|>", "needle": ["6124966", "9170024", "2825908", "3948933"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 1312564, 2265001, 2282825, and 9509040.<|eot_id|>", "needle": ["2282825", "2265001", "1312564", "9509040"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3493647, 8920589, 5372416, 7137418, and 8920589.<|eot_id|>", "needle": ["5372416", "8920589", "3493647", "7137418"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2519244, 9563292, 7656950, 9407451, and 7656950.<|eot_id|>", "needle": ["9407451", "9563292", "2519244", "7656950"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3671308, 4005557, 8486336, and 3355029.<|eot_id|>", "needle": ["3355029", "8486336", "3671308", "4005557"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2054635, 4888118, 5435176, 9181277.<|eot_id|>", "needle": ["9181277", "4888118", "2054635", "5435176"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 1779091, 8627651, 1669489, 8879825, and 4.<|eot_id|>", "needle": ["8879825", "8627651", "1779091", "1669489"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7350486, 7319298, 7128662, 3916715.<|eot_id|>", "needle": ["3916715", "7319298", "7350486", "7128662"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6920646, 7808902, 6788681, and 9663280.<|eot_id|>", "needle": ["9663280", "7808902", "6920646", "6788681"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2293325, 4858604, 3778404, and 9632570.<|eot_id|>", "needle": ["3778404", "4858604", "2293325", "9632570"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7956063, 4864570, 6540252, 2985251.<|eot_id|>", "needle": ["2985251", "4864570", "7956063", "6540252"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5088109, 1376582, 1723841, and 7893744.<|eot_id|>", "needle": ["7893744", "1376582", "5088109", "1723841"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 3463987, 1657513, 1938047, and 9600719.<|eot_id|>", "needle": ["9600719", "1657513", "3463987", "1938047"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2438621, 5755579, 4633834, and 1312392.<|eot_id|>", "needle": ["1312392", "5755579", "2438621", "4633834"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9569884, 5437920, 4051509, and 3394312.<|eot_id|>", "needle": ["3394312", "4051509", "9569884", "5437920"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3218169, 7466977, 7345333, and 2821504.<|eot_id|>", "needle": ["7345333", "7466977", "3218169", "2821504"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8983760, 3976650, 1654924, and 2615622.<|eot_id|>", "needle": ["2615622", "3976650", "8983760", "1654924"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8239315, 1020136, 3186555, and 9758448.<|eot_id|>", "needle": ["3186555", "1020136", "8239315", "9758448"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6880713, 2639417, 7396087, 9088689.<|eot_id|>", "needle": ["9088689", "7396087", "6880713", "2639417"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5325249, 7855954, 5752426, 4171246, and 5752426.<|eot_id|>", "needle": ["5752426", "7855954", "5325249", "4171246"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 7859282, 6299951, 7077878, and 4446353.<|eot_id|>", "needle": ["4446353", "6299951", "7859282", "7077878"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5623138, 8106183, 7134489, 9994347, and 2.<|eot_id|>", "needle": ["9994347", "8106183", "7134489", "5623138"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 5257682, 9116148, 6144785, and 7211142.<|eot_id|>", "needle": ["7211142", "9116148", "5257682", "6144785"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2682396, 8492618, 3714471, and 4598010.<|eot_id|>", "needle": ["8492618", "3714471", "2682396", "4598010"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2528212, 1088762, and 3438206, and 7528076.<|eot_id|>", "needle": ["7528076", "1088762", "2528212", "3438206"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2342843, 1633429, and 7221581, and 4720687.<|eot_id|>", "needle": ["4720687", "7221581", "2342843", "1633429"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9294125, 3940561, 8364728, 1964069.<|eot_id|>", "needle": ["1964069", "3940561", "9294125", "8364728"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4886793, 9653916, 3843451, and 9565571.<|eot_id|>", "needle": ["9565571", "9653916", "4886793", "3843451"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6924499, 7701385, 5629452, and 7629401.<|eot_id|>", "needle": ["5629452", "7701385", "6924499", "7629401"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5773013, 2512732, 6840069, and 2151205.<|eot_id|>", "needle": ["2151205", "2512732", "5773013", "6840069"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5380657, 7777264, 1078038, and 3936596.<|eot_id|>", "needle": ["7777264", "1078038", "5380657", "3936596"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2963085, 6703681, 5936726, 9611521.<|eot_id|>", "needle": ["5936726", "6703681", "2963085", "9611521"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6698561, 5081447, 8698199, 9113963.<|eot_id|>", "needle": ["9113963", "5081447", "6698561", "8698199"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 4697401, 7420191, 2133372, 4857587.<|eot_id|>", "needle": ["2133372", "7420191", "4697401", "4857587"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5819919, 5418274, 2560439, and 5165071.<|eot_id|>", "needle": ["5418274", "5165071", "5819919", "2560439"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4666931, 6931382, 5514342, and 6265911.<|eot_id|>", "needle": ["6265911", "6931382", "4666931", "5514342"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4401858, 4845464, 5189194, and 4469169.<|eot_id|>", "needle": ["4469169", "4845464", "4401858", "5189194"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1709057, 1111126, and 9091518, 9265544, and 1111126.<|eot_id|>", "needle": ["9265544", "1111126", "1709057", "9091518"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5702093 and 9575399 and 7675310 and 4068080.<|eot_id|>", "needle": ["4068080", "9575399", "5702093", "7675310"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6826541, 9430135, 1546310, and 7605473.<|eot_id|>", "needle": ["1546310", "9430135", "6826541", "7605473"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4535838, 1198306, 7365745, 1141240.<|eot_id|>", "needle": ["1141240", "1198306", "4535838", "7365745"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5519920, 8907862, 4978534, and 5409875.<|eot_id|>", "needle": ["5409875", "4978534", "5519920", "8907862"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7246319, 8031212, 4532148, and 7124992.<|eot_id|>", "needle": ["4532148", "8031212", "7246319", "7124992"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5528994, 4956154, 2675536, and 4834713.<|eot_id|>", "needle": ["4834713", "2675536", "5528994", "4956154"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3962978, 1163448, 8935405, and 8071943.<|eot_id|>", "needle": ["8935405", "1163448", "3962978", "8071943"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1800429, 5210645, 7684074, and 6033738.<|eot_id|>", "needle": ["6033738", "5210645", "1800429", "7684074"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6614605, 8547311, 5358202, and 2615677.<|eot_id|>", "needle": ["2615677", "8547311", "6614605", "5358202"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4337963, 3034027, 6890320, 3928275, and 3928275.<|eot_id|>", "needle": ["3034027", "6890320", "4337963", "3928275"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 5807067, 7393310, 8780468, and 2315459.<|eot_id|>", "needle": ["2315459", "7393310", "5807067", "8780468"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6765079, 3717900, 4828861, and 2327277.<|eot_id|>", "needle": ["2327277", "3717900", "6765079", "4828861"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9739850, 8554590, 7092894, 8464156.<|eot_id|>", "needle": ["8464156", "7092894", "9739850", "8554590"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2343263, 5221936, 4532803.<|eot_id|>", "needle": ["4936391", "5221936", "2343263", "4532803"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 7660764, 1442329, and 1903041.<|eot_id|>", "needle": ["1903041", "1442329", "7660764", "9790972"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 4847954, 5150624, 6190378, and 7540534.<|eot_id|>", "needle": ["7540534", "6190378", "4847954", "5150624"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6455972, 6986802, 8988550, and 1589802.<|eot_id|>", "needle": ["1589802", "6986802", "6455972", "8988550"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8297709, 3970181, 8659527, and 8659527<|eot_id|>", "needle": ["3970181", "8659527", "8297709", "9782198"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 7136825, 6165171, 7915632, 8413185, and 1337333.<|eot_id|>", "needle": ["8413185", "6165171", "7136825", "7915632"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5811072, 6769431, 8871835, and 3286742.<|eot_id|>", "needle": ["3286742", "6769431", "5811072", "8871835"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4879150, 5914425, 8221506, and 1121097.<|eot_id|>", "needle": ["8221506", "5914425", "4879150", "1121097"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7538471, 5192561, and 7347794.<|eot_id|>", "needle": ["5192561", "3739207", "7538471", "7347794"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 9924543, 5510085, 5776085, and 5510085.<|eot_id|>", "needle": ["5561139", "5776085", "9924543", "5510085"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 8596173, 5565653, 8639388, and 2851472.<|eot_id|>", "needle": ["2851472", "8639388", "8596173", "5565653"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1371294, 9975319, 4119515, and 1832687.<|eot_id|>", "needle": ["1832687", "9975319", "1371294", "4119515"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2513254, 4905912, 1137641, and 3528052.<|eot_id|>", "needle": ["1137641", "4905912", "2513254", "3528052"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 8779334, 7231009, 1532460, 9361693, and 9361693.<|eot_id|>", "needle": ["9361693", "7231009", "8779334", "1532460"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4046805, 8887754, 4224451, and 2197636.<|eot_id|>", "needle": ["2197636", "8887754", "4046805", "4224451"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1562209, 5146693, 4341683, and 8431651.<|eot_id|>", "needle": ["8431651", "5146693", "1562209", "4341683"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3661058, 6420100, 1707762, and 6236326.<|eot_id|>", "needle": ["6236326", "6420100", "3661058", "1707762"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 7046955, 6013251, 1873883, 4334029, and 1.<|eot_id|>", "needle": ["6013251", "4334029", "7046955", "1873883"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3007387, 5632190, and 7640561.<|eot_id|>", "needle": ["3807840", "5632190", "3007387", "7640561"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 2501223, 7231035, 5172867.<|eot_id|>", "needle": ["3600333", "7231035", "2501223", "5172867"], "score": 0.75}
+{"ctx_len": 130510, "pred": ": 6964596, 2002860, 3582322, and 2007511, and 2002860<|eot_id|>", "needle": ["2007511", "2002860", "6964596", "3582322"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4237420, 8360481, 6827024, 1358241.<|eot_id|>", "needle": ["6827024", "8360481", "4237420", "1358241"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9222379, 5944490, 8340032, 4183910.<|eot_id|>", "needle": ["8340032", "5944490", "9222379", "4183910"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3690116, 5619177, 2155557, and 8858359.<|eot_id|>", "needle": ["8858359", "5619177", "3690116", "2155557"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1012076, 8618181, 9488562, and 7159129.<|eot_id|>", "needle": ["7159129", "8618181", "1012076", "9488562"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 2062698, 6380354, 7501017, and 5006173.<|eot_id|>", "needle": ["5006173", "6380354", "2062698", "7501017"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7875379, 6412330, 5750117, and 6402667.<|eot_id|>", "needle": ["5750117", "6412330", "7875379", "6402667"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 4390323, 1524686, 2796087, and 3997061.<|eot_id|>", "needle": ["3997061", "1524686", "4390323", "2796087"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5293936, 9821818, 1823520, and 9219319.<|eot_id|>", "needle": ["9219319", "9821818", "5293936", "1823520"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 8852729, 2341452, and 2018380.<|eot_id|>", "needle": ["9244416", "2341452", "8852729", "2018380"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 6098672, 2180916, 2307538, 1682046.<|eot_id|>", "needle": ["1682046", "2180916", "6098672", "2307538"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5173551, 4001408, 4240006, and 9828037.<|eot_id|>", "needle": ["4240006", "9828037", "5173551", "4001408"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2746548, 8696054, 8165129, and 3798595.<|eot_id|>", "needle": ["8696054", "8165129", "2746548", "3798595"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8432510, 9957363, 3653760, and 6911017.<|eot_id|>", "needle": ["3653760", "9957363", "8432510", "6911017"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 4589118, 7292514, 5038654.<|eot_id|>", "needle": ["6426605", "5038654", "4589118", "7292514"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 5772818, 1581546, 1003282, 1273509<|eot_id|>", "needle": ["1003282", "1581546", "5772818", "1273509"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 1364088, 5629792, 4604128, and 6283223.<|eot_id|>", "needle": ["4604128", "6283223", "1364088", "5629792"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3619042, 6966913, 3322104, and 8723723.<|eot_id|>", "needle": ["8723723", "6966913", "3619042", "3322104"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7707501, 2541912, 6038238, and 4647992.<|eot_id|>", "needle": ["6038238", "2541912", "7707501", "4647992"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1626991, 6039762, 7401281, and 2599943.<|eot_id|>", "needle": ["2599943", "6039762", "1626991", "7401281"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1191837, 4803691, 7417066, and 3022334.<|eot_id|>", "needle": ["3022334", "4803691", "1191837", "7417066"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9428900, 6483324, 3509536, and 4704361.<|eot_id|>", "needle": ["3509536", "6483324", "9428900", "4704361"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 7615632, 5861752, 8246678, and 3483236.<|eot_id|>", "needle": ["8246678", "5861752", "7615632", "3483236"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2427388, 5404991, 7686174, and 7697318.<|eot_id|>", "needle": ["7697318", "5404991", "2427388", "7686174"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9795418, 4290000, 5131319, and 7632348.<|eot_id|>", "needle": ["7632348", "4290000", "9795418", "5131319"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7938755, 2887937, 8105832, 2503148, and 2887937<|eot_id|>", "needle": ["2503148", "2887937", "7938755", "8105832"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3839632, 6114011, and 6867267, and 1406123.<|eot_id|>", "needle": ["1406123", "6114011", "3839632", "6867267"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 2439727, 3617098, 2885284.<|eot_id|>", "needle": ["7271672", "3617098", "2439727", "2885284"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 6119031, 2866934, 6759137, and 8550780.<|eot_id|>", "needle": ["6759137", "2866934", "6119031", "8550780"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9103837, 5339561, 3371416, and 9778944.<|eot_id|>", "needle": ["9778944", "5339561", "9103837", "3371416"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5764956, 2008479, 4367121, and 3857489.<|eot_id|>", "needle": ["3857489", "2008479", "5764956", "4367121"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7043474, 5551832, 2810117, and 7520383.<|eot_id|>", "needle": ["7520383", "5551832", "7043474", "2810117"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6292472, 9918107, and 9131281.<|eot_id|>", "needle": ["2671072", "6292472", "9131281", "9918107"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 5150551, 1666934, and 1360516.<|eot_id|>", "needle": ["1360516", "1666934", "5150551", "9882115"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 6962255, 6072192, 6904121, 6818001.<|eot_id|>", "needle": ["6818001", "6904121", "6962255", "6072192"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4784649, 5700872, 3545240, 1494355, and 2.5 million.<|eot_id|>", "needle": ["1494355", "5700872", "4784649", "3545240"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5032585, 3562705, 8001691, and 4815608.<|eot_id|>", "needle": ["4815608", "8001691", "5032585", "3562705"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3324928, 4394202, 3210769, and 4468811.<|eot_id|>", "needle": ["3210769", "4468811", "3324928", "4394202"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2137730, 9941610, 6326702, and 3651604.<|eot_id|>", "needle": ["3651604", "6326702", "2137730", "9941610"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 6089336, 7899659, 8432381, and 7946441.<|eot_id|>", "needle": ["7946441", "7899659", "6089336", "8432381"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4874049, 5477211, 1439533, and 4895376.<|eot_id|>", "needle": ["1439533", "5477211", "4874049", "4895376"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7273997, 4086613, 9427608, and 8864546.<|eot_id|>", "needle": ["9427608", "8864546", "7273997", "4086613"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7854988, 1540722, 1251897, and 4796232.<|eot_id|>", "needle": ["4796232", "1540722", "7854988", "1251897"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9219877, 6450844, 3970879, and 8369982.<|eot_id|>", "needle": ["3970879", "8369982", "9219877", "6450844"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7612751, 6249548, 9995261, and 7381619.<|eot_id|>", "needle": ["7381619", "6249548", "7612751", "9995261"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7637254, 9702386, 1658532, and 5122525.<|eot_id|>", "needle": ["5122525", "9702386", "7637254", "1658532"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6109570, 5796850, 7678001, and 8374490.<|eot_id|>", "needle": ["8374490", "7678001", "6109570", "5796850"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 8777564, 3386384, 8578236, 9673311.<|eot_id|>", "needle": ["9673311", "3386384", "8777564", "8578236"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6426773, 8564609, 1417955, and 7938373.<|eot_id|>", "needle": ["7938373", "6426773", "8564609", "1417955"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3751363, 6437072, 3072728, 5195684, and 3072728.<|eot_id|>", "needle": ["5195684", "6437072", "3751363", "3072728"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3682671, 9584338, 7443916, and 7353173.<|eot_id|>", "needle": ["7443916", "9584338", "3682671", "7353173"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3426109, 3719990, 3518087, and 4000886.<|eot_id|>", "needle": ["3518087", "3719990", "3426109", "4000886"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3207395, 2972228, 4403286, and 4031576.<|eot_id|>", "needle": ["4031576", "2972228", "3207395", "4403286"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9278999, 4638539, 1096478, and 4990936.<|eot_id|>", "needle": ["1096478", "9278999", "4990936", "4638539"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5665960, 5105605, 4483580, 1110277.<|eot_id|>", "needle": ["1110277", "5105605", "5665960", "4483580"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6555122, 6007018, and 1544120.<|eot_id|>", "needle": ["1544120", "6007018", "6555122", "2471406"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 8639301, 3976601, 7042962, and 5771113.<|eot_id|>", "needle": ["5771113", "3976601", "8639301", "7042962"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2089275, 8169304, 5912917, and 2135258.<|eot_id|>", "needle": ["2135258", "8169304", "2089275", "5912917"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 4520621, 9802102, and 4507293, and 7941705.<|eot_id|>", "needle": ["7941705", "9802102", "4520621", "4507293"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6309796, 8164770, 5356372, and 5818203.<|eot_id|>", "needle": ["5818203", "8164770", "6309796", "5356372"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9350710, 9262853, 9719216, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 9262853, 926", "needle": ["9328158", "9719216", "9350710", "9262853"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 8799486, 1402431, 2978465, and 2983186.<|eot_id|>", "needle": ["2983186", "1402431", "8799486", "2978465"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4375360, 1189536, 5724912, 4562439, and 4562439<|eot_id|>", "needle": ["4562439", "1189536", "4375360", "5724912"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6727097, 6591559, 7644605, and 2909863.<|eot_id|>", "needle": ["2909863", "6591559", "6727097", "7644605"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 8960796, 9038102, 1596568, and 6669639.<|eot_id|>", "needle": ["6669639", "9038102", "8960796", "1596568"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 9742158, 6022154, 1939897, and 7944979.<|eot_id|>", "needle": ["7944979", "1939897", "9742158", "6022154"], "score": 1.0}
+{"ctx_len": 130540, "pred": ": 2110870, 6932348, 6565326, and 3504920.<|eot_id|>", "needle": ["6565326", "6932348", "2110870", "3504920"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2960327, 4143696, 6172103, 7535837, and 2.5 x 4 in.<|eot_id|>", "needle": ["7535837", "4143696", "2960327", "6172103"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7234137, 6077267, 4986975, and 8581730.<|eot_id|>", "needle": ["4986975", "7234137", "8581730", "6077267"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2553639, 4390648, 8445293, and 1627384.<|eot_id|>", "needle": ["1627384", "4390648", "2553639", "8445293"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6206955, 9785019, 6491819, 9111313, and 4.<|eot_id|>", "needle": ["9111313", "9785019", "6206955", "6491819"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 7502651, 8706923, 9763492, and 1613249.<|eot_id|>", "needle": ["1613249", "8706923", "7502651", "9763492"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2729778, 1774096, 9733844, and 8832877.<|eot_id|>", "needle": ["8832877", "1774096", "2729778", "9733844"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 5641409, 9930106, 4230379, and 5807802.<|eot_id|>", "needle": ["4230379", "5807802", "5641409", "9930106"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1255965, 2920326, 5590865, and 9624506.<|eot_id|>", "needle": ["5590865", "2920326", "1255965", "9624506"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 5107483, 5752443, 3374929, and 3873517.<|eot_id|>", "needle": ["3374929", "5752443", "5107483", "3873517"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8897632, 1486416, 1846511, and 3182279.<|eot_id|>", "needle": ["3182279", "1486416", "8897632", "1846511"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6966385, 8479891, 6241884, 4002836, and 6241884.<|eot_id|>", "needle": ["4002836", "8479891", "6966385", "6241884"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8856366, 2631802, 3211157, 2558874.<|eot_id|>", "needle": ["3211157", "2558874", "8856366", "2631802"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 7577959, 4076154, 7097668, 5329406.<|eot_id|>", "needle": ["5329406", "7097668", "7577959", "4076154"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 6896198, 2893930, 8974787, and 9030449.<|eot_id|>", "needle": ["8974787", "2893930", "6896198", "9030449"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2794848, 7806281, 6467186, 2726915, and 133,733.<|eot_id|>", "needle": ["2726915", "7806281", "2794848", "6467186"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5088457, 5002629, 7936404, and 3667917.<|eot_id|>", "needle": ["7936404", "5002629", "5088457", "3667917"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 6741177, 8304023, 8233471.<|eot_id|>", "needle": ["8233471", "8304023", "6741177", "4962012"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 2638360, 6458938, 8469488, 8766314, and 8469488.<|eot_id|>", "needle": ["8766314", "6458938", "2638360", "8469488"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9292896, 2031500, 6492998, 7357071, and 1,235.<|eot_id|>", "needle": ["7357071", "6492998", "9292896", "2031500"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8599649, 5890613, and 3503436.<|eot_id|>", "needle": ["3503436", "8599649", "9912993", "5890613"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 6109503, 6028724, 8293509, and 6311628.<|eot_id|>", "needle": ["6311628", "6028724", "6109503", "8293509"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7194532, 2047075, 5935599, and 1891328.<|eot_id|>", "needle": ["5935599", "2047075", "7194532", "1891328"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 6337290, 4946691, 7614724, and 8242984.<|eot_id|>", "needle": ["4946691", "8242984", "7614724", "6337290"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 3333188, 8967020, 3909338, and 4157922.<|eot_id|>", "needle": ["3909338", "8967020", "3333188", "4157922"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1194661, 3252801, 2203698, 3106365, and 2203698.<|eot_id|>", "needle": ["3106365", "3252801", "1194661", "2203698"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8650891, 7976896, 8142130, and 3302174.<|eot_id|>", "needle": ["3302174", "7976896", "8650891", "8142130"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 6961066, 7454441, 4787304, and 8550515.<|eot_id|>", "needle": ["8550515", "7454441", "6961066", "4787304"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5517272, 9417612, 7892714, 4972005.<|eot_id|>", "needle": ["4972005", "9417612", "5517272", "7892714"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2898583, 7183722, and 9078781.<|eot_id|>", "needle": ["9107893", "7183722", "2898583", "9078781"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 2483883, 9780469, 5114298, and 2312558.<|eot_id|>", "needle": ["2312558", "9780469", "2483883", "5114298"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9976368, 6763748, and 1885405.<|eot_id|>", "needle": ["1885405", "6763748", "9976368", "1180915"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 5852112, 5942868, 3810320.<|eot_id|>", "needle": ["6920923", "5942868", "5852112", "3810320"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 1866037, 3836678, 5894806, and 8938316.<|eot_id|>", "needle": ["8938316", "3836678", "1866037", "5894806"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5661529, 5228713, 2289534, and 9482495.<|eot_id|>", "needle": ["9482495", "2289534", "5661529", "5228713"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2.5 x 4 in, 7203657, 3535634, and 3929534.<|eot_id|>", "needle": ["3929534", "3535634", "8493596", "7203657"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 2416021, 3433874, 6752034, and 1555166.<|eot_id|>", "needle": ["1555166", "6752034", "2416021", "3433874"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4537589, 3806547, 6789409, and 8385078.<|eot_id|>", "needle": ["8385078", "3806547", "4537589", "6789409"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8990421, 6056101, 9934217, and 9934217.<|eot_id|>", "needle": ["8989846", "6056101", "8990421", "9934217"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 5845129, 1199028, 8293631, and 8529960.<|eot_id|>", "needle": ["8293631", "1199028", "5845129", "8529960"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5573311, 8244164, 6619820, and 6936250.<|eot_id|>", "needle": ["6936250", "8244164", "5573311", "6619820"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9723352, 4270310, 5056679, and 6660743.<|eot_id|>", "needle": ["5056679", "4270310", "9723352", "6660743"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 2639113, 1200679, 7899609, and 9812472.<|eot_id|>", "needle": ["1200679", "7899609", "2639113", "9812472"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1397627, 1571126, 2542518, and 4239337.<|eot_id|>", "needle": ["4239337", "1571126", "1397627", "2542518"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4099902, 7307535, 2859671, and 3179482.<|eot_id|>", "needle": ["3179482", "7307535", "4099902", "2859671"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8163592, 5636946, 6425820, and 8607523.<|eot_id|>", "needle": ["8607523", "5636946", "8163592", "6425820"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2007616, 6581020, 5332524, 7519465.<|eot_id|>", "needle": ["7519465", "6581020", "2007616", "5332524"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9255351, 3993762, and 2819161, and 7587312.<|eot_id|>", "needle": ["7587312", "3993762", "9255351", "2819161"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1584868, 2732870, 2223386, and 5345236.<|eot_id|>", "needle": ["5345236", "2732870", "1584868", "2223386"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 1634776, 1014556, 7551231.<|eot_id|>", "needle": ["3497360", "1014556", "1634776", "7551231"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 8315833, 9021848, 7776531, 9232235.<|eot_id|>", "needle": ["9232235", "9021848", "8315833", "7776531"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 9980912, 3033459, 7021650, and 9087731.<|eot_id|>", "needle": ["9087731", "3033459", "9980912", "7021650"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2349840, 6705306, 8711468, and 9969540.<|eot_id|>", "needle": ["9969540", "6705306", "2349840", "8711468"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 7544871, 6014212, and 2791270, and 4204501.<|eot_id|>", "needle": ["4204501", "6014212", "7544871", "2791270"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1425547, 4239558, 1598917, 5001116, and 4239558.<|eot_id|>", "needle": ["1598917", "4239558", "1425547", "5001116"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1275453, 8538125, 1621473, 9958027, and 9958027.<|eot_id|>", "needle": ["9958027", "8538125", "1275453", "1621473"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3499027, 8690178, 4908850, and 9776491.<|eot_id|>", "needle": ["9776491", "8690178", "3499027", "4908850"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3190059, 5071537, and 1241008.<|eot_id|>", "needle": ["1768424", "5071537", "3190059", "1241008"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 2783941, 2073030, 2915617, and 3863692.<|eot_id|>", "needle": ["3863692", "2073030", "2783941", "2915617"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 7744585, 6659678, 6439759, 8150641.<|eot_id|>", "needle": ["8150641", "6659678", "7744585", "6439759"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 6628818, 3909968, 2060687, and 1764815.<|eot_id|>", "needle": ["1764815", "3909968", "6628818", "2060687"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 8359513, 5087678, 3768343, and 7206350.<|eot_id|>", "needle": ["7206350", "3768343", "8359513", "5087678"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2354300, 9169958, 1106528, and 1262233.<|eot_id|>", "needle": ["1262233", "9169958", "2354300", "1106528"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4458794, 3400615, 8986164, and 3128901.<|eot_id|>", "needle": ["8986164", "3128901", "4458794", "3400615"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9386722, 4019906, 2476750, 1631179.<|eot_id|>", "needle": ["1631179", "4019906", "9386722", "2476750"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2605308, 9895263, 2971454, 7071696.<|eot_id|>", "needle": ["2971454", "9895263", "2605308", "7071696"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2890441, 4250065.<|eot_id|>", "needle": ["1890350", "4250065", "2890441", "3503452"], "score": 0.5}
+{"ctx_len": 130516, "pred": ": 4516332, 8292580, 5782589, and 7110145.<|eot_id|>", "needle": ["7110145", "5782589", "4516332", "8292580"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3651565, 3950904, 1487633, and 1880075.<|eot_id|>", "needle": ["1880075", "3950904", "3651565", "1487633"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 8030765, 6468907, and 4334495.<|eot_id|>", "needle": ["8462856", "6468907", "8030765", "4334495"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 4702106, 7300387, 2233623, and 4354702.<|eot_id|>", "needle": ["4354702", "7300387", "4702106", "2233623"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3987363, 8633480, 7498324, and 4626649.<|eot_id|>", "needle": ["4626649", "8633480", "3987363", "7498324"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3134259, 6635321, 1538457, and 4392535.<|eot_id|>", "needle": ["4392535", "6635321", "3134259", "1538457"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3872281, 8016631, 6764248.<|eot_id|>", "needle": ["8693677", "8016631", "3872281", "6764248"], "score": 0.75}
+{"ctx_len": 130534, "pred": ": 7907115, 2450798, 9753827, 4853765.<|eot_id|>", "needle": ["4853765", "2450798", "7907115", "9753827"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5138170, 5157921, 1243334, and 8182500.<|eot_id|>", "needle": ["1243334", "8182500", "5138170", "5157921"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 1741958, 8009048, 1672073, 1085187.<|eot_id|>", "needle": ["1085187", "8009048", "1741958", "1672073"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9309504, 8590706, 2644153, and 5035113.<|eot_id|>", "needle": ["2644153", "8590706", "9309504", "5035113"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5010801, 5962539, 2522188, and 7013049.<|eot_id|>", "needle": ["7013049", "5962539", "5010801", "2522188"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 8780612, 1409590, 8630962, 3325723.<|eot_id|>", "needle": ["1409590", "8630962", "8780612", "3325723"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 6585238, 2186125, 7457202, 9907365.<|eot_id|>", "needle": ["2186125", "7457202", "6585238", "9907365"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1919587, 6632022, 9635845, 2358267.<|eot_id|>", "needle": ["2358267", "6632022", "1919587", "9635845"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 7147725, 7133266, 1685757, 3940499.<|eot_id|>", "needle": ["1685757", "7133266", "7147725", "3940499"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4519758, 2905181, 4782209, 9027788, and 4782209<|eot_id|>", "needle": ["2905181", "9027788", "4519758", "4782209"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7254777, 2063158, 6791940, and 1913687.<|eot_id|>", "needle": ["1913687", "2063158", "7254777", "6791940"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5903382, 9939831, 8582938, and 8582938.<|eot_id|>", "needle": ["9923876", "9939831", "5903382", "8582938"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 3999964, 7554564, 5838090, 2345036, and 2.5 x 4 in.<|eot_id|>", "needle": ["2345036", "7554564", "3999964", "5838090"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3524938, 9327014, 4426849, 3482256, and 4426849.<|eot_id|>", "needle": ["3482256", "9327014", "3524938", "4426849"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 8446735, 8048611, 1360413, 6816664, and 8446735<|eot_id|>", "needle": ["6816664", "8048611", "8446735", "1360413"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 6474513, 6635087, 7907041, 6751103, and 6474513.<|eot_id|>", "needle": ["6635087", "7907041", "6751103", "6474513"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6142132, 3213824, 6101655, 3881270.<|eot_id|>", "needle": ["6101655", "3213824", "6142132", "3881270"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5771138, 6924385, 8649177, and 3488704.<|eot_id|>", "needle": ["3488704", "6924385", "5771138", "8649177"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4991389, 3705405, 2961547, and 3575047.<|eot_id|>", "needle": ["3575047", "3705405", "4991389", "2961547"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4441935, 7202069, 4095339, 1581986, and 7202069.<|eot_id|>", "needle": ["7202069", "4095339", "4441935", "1581986"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6059333, 9953043, 3038264, 3727935.<|eot_id|>", "needle": ["3727935", "9953043", "6059333", "3038264"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9512910, 1072046, 3618139.<|eot_id|>", "needle": ["3618139", "1072046", "9512910", "6557966"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 1672446, 9035971, 2884343, and 3339134.<|eot_id|>", "needle": ["2884343", "9035971", "1672446", "3339134"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 6996068, 8482180, 2551575.<|eot_id|>", "needle": ["4697107", "8482180", "6996068", "2551575"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 2402399, 1378303, 8473546, 4283564, and 8473546.<|eot_id|>", "needle": ["4283564", "1378303", "2402399", "8473546"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7057663, 9582482, 1940322, and 7669916.<|eot_id|>", "needle": ["9582482", "1940322", "7057663", "7669916"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6894759, 6786800, 6168814.<|eot_id|>", "needle": ["5775640", "6786800", "6894759", "6168814"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 3747945, 8110724, 5842475, and 8423991.<|eot_id|>", "needle": ["8423991", "5842475", "3747945", "8110724"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 8962686, 9813089, 4486033, 6087374.<|eot_id|>", "needle": ["4486033", "6087374", "8962686", "9813089"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5585697, 3934217, 7869609, and 7954391.<|eot_id|>", "needle": ["7869609", "5585697", "7954391", "3934217"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 9230660, 5856386, 1708550, and 7405029.<|eot_id|>", "needle": ["7405029", "5856386", "9230660", "1708550"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3584093, 1041048, 5406989, 1450300, and 1.<|eot_id|>", "needle": ["1450300", "1041048", "3584093", "5406989"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 1477187, 5106228, 9252486, and 3002438.<|eot_id|>", "needle": ["9252486", "5106228", "1477187", "3002438"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 5327037, 8316015, 9061215, and 8986637.<|eot_id|>", "needle": ["9061215", "8316015", "5327037", "8986637"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 3451774, 1981641, 3732123, and 6363359.<|eot_id|>", "needle": ["3732123", "1981641", "3451774", "6363359"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 6972425, 8038277, 1817300, and 7059317.<|eot_id|>", "needle": ["7059317", "8038277", "6972425", "1817300"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3804075, 2585592, 4074382, and 6412444.<|eot_id|>", "needle": ["4074382", "2585592", "3804075", "6412444"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": 1216386, 3411179, and 6899361.<|eot_id|>", "needle": ["6899361", "3411179", "1216386", "3297630"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 4655356, 2718286, 3593001, and 3735175.<|eot_id|>", "needle": ["3735175", "2718286", "4655356", "3593001"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2955647, 3201710, 2281784, 8725762, 8725762, 3201710, and 1.<|eot_id|>", "needle": ["8725762", "2281784", "2955647", "3201710"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6738565, 9776515, 8414487, 3889156.<|eot_id|>", "needle": ["8414487", "9776515", "6738565", "3889156"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6157791, 4801288, 3388393, and 3102926.<|eot_id|>", "needle": ["3388393", "4801288", "6157791", "3102926"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8235132, 9124448, 1713315, and 1315519.<|eot_id|>", "needle": ["1315519", "9124448", "8235132", "1713315"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 1726143, 5244844, 2111446, and 2995183.<|eot_id|>", "needle": ["2995183", "5244844", "1726143", "2111446"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 6897756, 4100124, and 4355853, and 1490886.<|eot_id|>", "needle": ["4355853", "4100124", "6897756", "1490886"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5057108, 9399251, 3693705, and 9470971.<|eot_id|>", "needle": ["3693705", "9399251", "5057108", "9470971"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 5728772, 4213634, 3881880, 4640623.<|eot_id|>", "needle": ["4640623", "4213634", "5728772", "3881880"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 2800606, 4105895, 8376368, and 4034134.<|eot_id|>", "needle": ["4105895", "8376368", "2800606", "4034134"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 3073922, 6272748, 8816533, and 2893232.<|eot_id|>", "needle": ["2893232", "6272748", "3073922", "8816533"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 2379891, 1681298, 6504863, 5836389, and 6504863.<|eot_id|>", "needle": ["5836389", "1681298", "2379891", "6504863"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": 4789527, 8448343, 6234607, and 7833061.<|eot_id|>", "needle": ["6234607", "8448343", "4789527", "7833061"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 1214510, 9248490, and 4008109.<|eot_id|>", "needle": ["7164643", "4008109", "1214510", "9248490"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 7721360, 7623837, 2706614, 3405308<|eot_id|>", "needle": ["3405308", "7623837", "7721360", "2706614"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 4906904, 8125354, 7782844, 3059607, and 8125354.<|eot_id|>", "needle": ["7782844", "3059607", "4906904", "8125354"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9580111, 9129112, 5679008, and 7785437.<|eot_id|>", "needle": ["7785437", "9129112", "9580111", "5679008"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 3258353, 4872547, and 1498677.<|eot_id|>", "needle": ["9342869", "4872547", "3258353", "1498677"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 3562495, 6485409, 6079345, and 7419516.<|eot_id|>", "needle": ["7419516", "6485409", "3562495", "6079345"], "score": 1.0}
+{"ctx_len": 130534, "pred": ": 9353359, 5925168, 4387852, and 9225036.<|eot_id|>", "needle": ["4387852", "5925168", "9353359", "9225036"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 7436241, 8551685, and 2998738.<|eot_id|>", "needle": ["8221021", "2998738", "7436241", "8551685"], "score": 0.75}
+{"ctx_len": 130522, "pred": ": 3753883, 3967372, 6084244, 9245659.<|eot_id|>", "needle": ["3967372", "6084244", "3753883", "9245659"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 8984462, 8882244, 9230125, and 3622462.<|eot_id|>", "needle": ["9230125", "8882244", "8984462", "3622462"], "score": 1.0}
+{"ctx_len": 130516, "pred": ": 5772070, 6918393, and 6376808.<|eot_id|>", "needle": ["7338393", "6918393", "5772070", "6376808"], "score": 0.75}
+{"ctx_len": 130516, "pred": ": 6725334, 6853181, 1451304, 7384961.<|eot_id|>", "needle": ["6853181", "1451304", "6725334", "7384961"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 4936305, 5154272, 5097480, 6236161.<|eot_id|>", "needle": ["5097480", "5154272", "4936305", "6236161"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 6471332, 1330712, and 3848423.<|eot_id|>", "needle": ["3848423", "1330712", "6471332", "1627092"], "score": 0.75}
+{"ctx_len": 130528, "pred": ": 1373065, 8880256, 6310229, 1342293.<|eot_id|>", "needle": ["1342293", "8880256", "1373065", "6310229"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 9333769, 6636598, 9435056, and 4454568.<|eot_id|>", "needle": ["4454568", "6636598", "9333769", "9435056"], "score": 1.0}
+{"ctx_len": 130522, "pred": ": 2263679, 9337466, 9989803, 4384948.<|eot_id|>", "needle": ["4384948", "9337466", "2263679", "9989803"], "score": 1.0}
+avg:0.966

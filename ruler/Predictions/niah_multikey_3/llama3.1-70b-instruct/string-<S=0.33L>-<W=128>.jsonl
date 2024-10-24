@@ -1,0 +1,1001 @@
+step 0, ctx len 130246, avg score 1.0
+step 1, ctx len 130349, avg score 1.0
+step 2, ctx len 130393, avg score 1.0
+step 3, ctx len 130471, avg score 0.75
+step 4, ctx len 130216, avg score 0.6
+step 5, ctx len 130400, avg score 0.6666666666666666
+step 6, ctx len 130440, avg score 0.7142857142857143
+step 7, ctx len 130394, avg score 0.75
+step 8, ctx len 130373, avg score 0.7777777777777778
+step 9, ctx len 130291, avg score 0.8
+step 10, ctx len 130391, avg score 0.8181818181818182
+step 11, ctx len 130563, avg score 0.8333333333333334
+step 12, ctx len 130373, avg score 0.8461538461538461
+step 13, ctx len 130518, avg score 0.8571428571428571
+step 14, ctx len 130576, avg score 0.8666666666666667
+step 15, ctx len 130469, avg score 0.8125
+step 16, ctx len 130271, avg score 0.8235294117647058
+step 17, ctx len 130274, avg score 0.8333333333333334
+step 18, ctx len 130440, avg score 0.8421052631578947
+step 19, ctx len 130394, avg score 0.8
+step 20, ctx len 130474, avg score 0.7619047619047619
+step 21, ctx len 130317, avg score 0.7727272727272727
+step 22, ctx len 130534, avg score 0.782608695652174
+step 23, ctx len 130603, avg score 0.7916666666666666
+step 24, ctx len 130425, avg score 0.8
+step 25, ctx len 130250, avg score 0.8076923076923077
+step 26, ctx len 130597, avg score 0.8148148148148148
+step 27, ctx len 130409, avg score 0.8214285714285714
+step 28, ctx len 130146, avg score 0.8275862068965517
+step 29, ctx len 130468, avg score 0.8333333333333334
+step 30, ctx len 130307, avg score 0.8387096774193549
+step 31, ctx len 130280, avg score 0.8125
+step 32, ctx len 130594, avg score 0.8181818181818182
+step 33, ctx len 130462, avg score 0.8235294117647058
+step 34, ctx len 130324, avg score 0.8285714285714286
+step 35, ctx len 130311, avg score 0.8333333333333334
+step 36, ctx len 130265, avg score 0.8378378378378378
+step 37, ctx len 130312, avg score 0.8421052631578947
+step 38, ctx len 130424, avg score 0.8461538461538461
+step 39, ctx len 130194, avg score 0.825
+step 40, ctx len 130556, avg score 0.8048780487804879
+step 41, ctx len 130400, avg score 0.8095238095238095
+step 42, ctx len 130251, avg score 0.813953488372093
+step 43, ctx len 130512, avg score 0.8181818181818182
+step 44, ctx len 130250, avg score 0.8222222222222222
+step 45, ctx len 130171, avg score 0.8260869565217391
+step 46, ctx len 130483, avg score 0.8085106382978723
+step 47, ctx len 130318, avg score 0.8125
+step 48, ctx len 130316, avg score 0.8163265306122449
+step 49, ctx len 130546, avg score 0.82
+step 50, ctx len 130373, avg score 0.8235294117647058
+step 51, ctx len 130317, avg score 0.8076923076923077
+step 52, ctx len 130527, avg score 0.8113207547169812
+step 53, ctx len 130413, avg score 0.7962962962962963
+step 54, ctx len 130280, avg score 0.8
+step 55, ctx len 130258, avg score 0.8035714285714286
+step 56, ctx len 130448, avg score 0.8070175438596491
+step 57, ctx len 130663, avg score 0.8103448275862069
+step 58, ctx len 130782, avg score 0.8135593220338984
+step 59, ctx len 130204, avg score 0.8166666666666667
+step 60, ctx len 130541, avg score 0.819672131147541
+step 61, ctx len 130162, avg score 0.8225806451612904
+step 62, ctx len 130328, avg score 0.8253968253968254
+step 63, ctx len 130426, avg score 0.828125
+step 64, ctx len 130581, avg score 0.8307692307692308
+step 65, ctx len 130481, avg score 0.8333333333333334
+step 66, ctx len 130517, avg score 0.835820895522388
+step 67, ctx len 130385, avg score 0.8382352941176471
+step 68, ctx len 130177, avg score 0.8260869565217391
+step 69, ctx len 130190, avg score 0.8285714285714286
+step 70, ctx len 130493, avg score 0.8309859154929577
+step 71, ctx len 130271, avg score 0.8194444444444444
+step 72, ctx len 130505, avg score 0.8082191780821918
+step 73, ctx len 130474, avg score 0.8108108108108109
+step 74, ctx len 130348, avg score 0.8133333333333334
+step 75, ctx len 130383, avg score 0.8157894736842105
+step 76, ctx len 130194, avg score 0.8181818181818182
+step 77, ctx len 130211, avg score 0.8205128205128205
+step 78, ctx len 130100, avg score 0.8227848101265823
+step 79, ctx len 130180, avg score 0.825
+step 80, ctx len 130441, avg score 0.8271604938271605
+step 81, ctx len 130198, avg score 0.8170731707317073
+step 82, ctx len 130438, avg score 0.8192771084337349
+step 83, ctx len 130150, avg score 0.8214285714285714
+step 84, ctx len 130363, avg score 0.8235294117647058
+step 85, ctx len 130503, avg score 0.8255813953488372
+step 86, ctx len 130571, avg score 0.8275862068965517
+step 87, ctx len 130354, avg score 0.8295454545454546
+step 88, ctx len 130742, avg score 0.8202247191011236
+step 89, ctx len 130413, avg score 0.8111111111111111
+step 90, ctx len 130446, avg score 0.8131868131868132
+step 91, ctx len 130322, avg score 0.8152173913043478
+step 92, ctx len 130604, avg score 0.8064516129032258
+step 93, ctx len 130185, avg score 0.8085106382978723
+step 94, ctx len 130276, avg score 0.8105263157894737
+step 95, ctx len 130264, avg score 0.8125
+step 96, ctx len 130408, avg score 0.8144329896907216
+step 97, ctx len 130271, avg score 0.8061224489795918
+step 98, ctx len 130770, avg score 0.8080808080808081
+step 99, ctx len 130118, avg score 0.8
+step 100, ctx len 130320, avg score 0.801980198019802
+step 101, ctx len 130313, avg score 0.803921568627451
+step 102, ctx len 130348, avg score 0.8058252427184466
+step 103, ctx len 130441, avg score 0.7980769230769231
+step 104, ctx len 130622, avg score 0.7904761904761904
+step 105, ctx len 130316, avg score 0.7924528301886793
+step 106, ctx len 130123, avg score 0.794392523364486
+step 107, ctx len 130432, avg score 0.7962962962962963
+step 108, ctx len 130414, avg score 0.7981651376146789
+step 109, ctx len 130600, avg score 0.8
+step 110, ctx len 130469, avg score 0.8018018018018018
+step 111, ctx len 130393, avg score 0.8035714285714286
+step 112, ctx len 130610, avg score 0.8053097345132744
+step 113, ctx len 130137, avg score 0.8070175438596491
+step 114, ctx len 130793, avg score 0.808695652173913
+step 115, ctx len 130440, avg score 0.8103448275862069
+step 116, ctx len 130277, avg score 0.8034188034188035
+step 117, ctx len 130302, avg score 0.8050847457627118
+step 118, ctx len 130390, avg score 0.8067226890756303
+step 119, ctx len 130017, avg score 0.8083333333333333
+step 120, ctx len 130283, avg score 0.8099173553719008
+step 121, ctx len 130400, avg score 0.8114754098360656
+step 122, ctx len 130228, avg score 0.8130081300813008
+step 123, ctx len 130422, avg score 0.8064516129032258
+step 124, ctx len 130440, avg score 0.808
+step 125, ctx len 130752, avg score 0.8095238095238095
+step 126, ctx len 130265, avg score 0.8110236220472441
+step 127, ctx len 130398, avg score 0.8046875
+step 128, ctx len 130362, avg score 0.8062015503875969
+step 129, ctx len 130339, avg score 0.8076923076923077
+step 130, ctx len 130446, avg score 0.8091603053435115
+step 131, ctx len 130302, avg score 0.8106060606060606
+step 132, ctx len 130447, avg score 0.8120300751879699
+step 133, ctx len 130258, avg score 0.8134328358208955
+step 134, ctx len 130362, avg score 0.8148148148148148
+step 135, ctx len 130429, avg score 0.8161764705882353
+step 136, ctx len 130383, avg score 0.8175182481751825
+step 137, ctx len 130287, avg score 0.8188405797101449
+step 138, ctx len 130528, avg score 0.8201438848920863
+step 139, ctx len 130614, avg score 0.8214285714285714
+step 140, ctx len 130224, avg score 0.8226950354609929
+step 141, ctx len 130440, avg score 0.823943661971831
+step 142, ctx len 130385, avg score 0.8251748251748252
+step 143, ctx len 130234, avg score 0.8263888888888888
+step 144, ctx len 130309, avg score 0.8275862068965517
+step 145, ctx len 130275, avg score 0.821917808219178
+step 146, ctx len 130324, avg score 0.8231292517006803
+step 147, ctx len 130325, avg score 0.8243243243243243
+step 148, ctx len 130476, avg score 0.825503355704698
+step 149, ctx len 130397, avg score 0.8266666666666667
+step 150, ctx len 130352, avg score 0.8211920529801324
+step 151, ctx len 130473, avg score 0.8223684210526315
+step 152, ctx len 130303, avg score 0.8169934640522876
+step 153, ctx len 130252, avg score 0.8181818181818182
+step 154, ctx len 130300, avg score 0.8193548387096774
+step 155, ctx len 130262, avg score 0.8205128205128205
+step 156, ctx len 130452, avg score 0.821656050955414
+step 157, ctx len 130142, avg score 0.8227848101265823
+step 158, ctx len 130384, avg score 0.8238993710691824
+step 159, ctx len 130381, avg score 0.825
+step 160, ctx len 130482, avg score 0.8198757763975155
+step 161, ctx len 130483, avg score 0.8209876543209876
+step 162, ctx len 130313, avg score 0.8220858895705522
+step 163, ctx len 130457, avg score 0.823170731707317
+step 164, ctx len 130358, avg score 0.8242424242424242
+step 165, ctx len 130437, avg score 0.8253012048192772
+step 166, ctx len 130584, avg score 0.8263473053892215
+step 167, ctx len 130142, avg score 0.8273809523809523
+step 168, ctx len 130388, avg score 0.8284023668639053
+step 169, ctx len 130477, avg score 0.8294117647058824
+step 170, ctx len 130414, avg score 0.8245614035087719
+step 171, ctx len 130265, avg score 0.8255813953488372
+step 172, ctx len 130422, avg score 0.8265895953757225
+step 173, ctx len 130417, avg score 0.8275862068965517
+step 174, ctx len 130216, avg score 0.8285714285714286
+step 175, ctx len 130357, avg score 0.8295454545454546
+step 176, ctx len 130528, avg score 0.8305084745762712
+step 177, ctx len 130370, avg score 0.8314606741573034
+step 178, ctx len 130309, avg score 0.8324022346368715
+step 179, ctx len 130312, avg score 0.8333333333333334
+step 180, ctx len 130476, avg score 0.8342541436464088
+step 181, ctx len 130463, avg score 0.8351648351648352
+step 182, ctx len 130520, avg score 0.8360655737704918
+step 183, ctx len 130400, avg score 0.8315217391304348
+step 184, ctx len 130636, avg score 0.8324324324324325
+step 185, ctx len 130396, avg score 0.8333333333333334
+step 186, ctx len 130244, avg score 0.8342245989304813
+step 187, ctx len 130340, avg score 0.8351063829787234
+step 188, ctx len 130381, avg score 0.8306878306878307
+step 189, ctx len 130577, avg score 0.8315789473684211
+step 190, ctx len 130056, avg score 0.8324607329842932
+step 191, ctx len 130263, avg score 0.8333333333333334
+step 192, ctx len 130334, avg score 0.8290155440414507
+step 193, ctx len 130254, avg score 0.8298969072164949
+step 194, ctx len 130257, avg score 0.8307692307692308
+step 195, ctx len 130397, avg score 0.8316326530612245
+step 196, ctx len 130796, avg score 0.8324873096446701
+step 197, ctx len 130397, avg score 0.8333333333333334
+step 198, ctx len 130288, avg score 0.8341708542713567
+step 199, ctx len 130322, avg score 0.835
+step 200, ctx len 130355, avg score 0.835820895522388
+step 201, ctx len 130365, avg score 0.8366336633663366
+step 202, ctx len 130504, avg score 0.8374384236453202
+step 203, ctx len 130505, avg score 0.8382352941176471
+step 204, ctx len 130439, avg score 0.8390243902439024
+step 205, ctx len 130509, avg score 0.8398058252427184
+step 206, ctx len 130423, avg score 0.8405797101449275
+step 207, ctx len 130198, avg score 0.8413461538461539
+step 208, ctx len 130224, avg score 0.8421052631578947
+step 209, ctx len 130478, avg score 0.8428571428571429
+step 210, ctx len 130338, avg score 0.8388625592417062
+step 211, ctx len 130478, avg score 0.8349056603773585
+step 212, ctx len 130600, avg score 0.8356807511737089
+step 213, ctx len 130279, avg score 0.8364485981308412
+step 214, ctx len 130389, avg score 0.8372093023255814
+step 215, ctx len 130480, avg score 0.8379629629629629
+step 216, ctx len 130455, avg score 0.8387096774193549
+step 217, ctx len 130542, avg score 0.8394495412844036
+step 218, ctx len 130492, avg score 0.8401826484018264
+step 219, ctx len 130319, avg score 0.8409090909090909
+step 220, ctx len 130718, avg score 0.8416289592760181
+step 221, ctx len 130209, avg score 0.8378378378378378
+step 222, ctx len 130451, avg score 0.8385650224215246
+step 223, ctx len 130310, avg score 0.8392857142857143
+step 224, ctx len 130446, avg score 0.84
+step 225, ctx len 130611, avg score 0.8407079646017699
+step 226, ctx len 130256, avg score 0.8414096916299559
+step 227, ctx len 130367, avg score 0.8421052631578947
+step 228, ctx len 130291, avg score 0.8427947598253275
+step 229, ctx len 130571, avg score 0.8434782608695652
+step 230, ctx len 130431, avg score 0.8398268398268398
+step 231, ctx len 130592, avg score 0.8362068965517241
+step 232, ctx len 130301, avg score 0.8369098712446352
+step 233, ctx len 130365, avg score 0.8376068376068376
+step 234, ctx len 130232, avg score 0.8340425531914893
+step 235, ctx len 130374, avg score 0.8347457627118644
+step 236, ctx len 130373, avg score 0.8312236286919831
+step 237, ctx len 130390, avg score 0.8277310924369747
+step 238, ctx len 130652, avg score 0.8242677824267782
+step 239, ctx len 130288, avg score 0.825
+step 240, ctx len 130518, avg score 0.8257261410788381
+step 241, ctx len 130380, avg score 0.8223140495867769
+step 242, ctx len 130493, avg score 0.823045267489712
+step 243, ctx len 130428, avg score 0.8237704918032787
+step 244, ctx len 130531, avg score 0.8244897959183674
+step 245, ctx len 130492, avg score 0.8252032520325203
+step 246, ctx len 130440, avg score 0.8218623481781376
+step 247, ctx len 130422, avg score 0.8225806451612904
+step 248, ctx len 130352, avg score 0.8232931726907631
+step 249, ctx len 130275, avg score 0.824
+step 250, ctx len 130475, avg score 0.8247011952191236
+step 251, ctx len 130363, avg score 0.8253968253968254
+step 252, ctx len 130458, avg score 0.8260869565217391
+step 253, ctx len 130762, avg score 0.8267716535433071
+step 254, ctx len 130413, avg score 0.8274509803921568
+step 255, ctx len 130441, avg score 0.82421875
+step 256, ctx len 130516, avg score 0.8249027237354085
+step 257, ctx len 130292, avg score 0.8255813953488372
+step 258, ctx len 130653, avg score 0.8223938223938224
+step 259, ctx len 130322, avg score 0.8192307692307692
+step 260, ctx len 130226, avg score 0.8199233716475096
+step 261, ctx len 130390, avg score 0.8206106870229007
+step 262, ctx len 130293, avg score 0.8212927756653993
+step 263, ctx len 130323, avg score 0.821969696969697
+step 264, ctx len 130492, avg score 0.8226415094339623
+step 265, ctx len 130352, avg score 0.8233082706766918
+step 266, ctx len 130435, avg score 0.8239700374531835
+step 267, ctx len 130297, avg score 0.8246268656716418
+step 268, ctx len 130162, avg score 0.8252788104089219
+step 269, ctx len 130284, avg score 0.8222222222222222
+step 270, ctx len 130403, avg score 0.8191881918819188
+step 271, ctx len 130418, avg score 0.8198529411764706
+step 272, ctx len 130247, avg score 0.8205128205128205
+step 273, ctx len 130197, avg score 0.8211678832116789
+step 274, ctx len 130303, avg score 0.8218181818181818
+step 275, ctx len 130443, avg score 0.822463768115942
+step 276, ctx len 130295, avg score 0.8194945848375451
+step 277, ctx len 130599, avg score 0.8201438848920863
+step 278, ctx len 130745, avg score 0.8207885304659498
+step 279, ctx len 130457, avg score 0.8214285714285714
+step 280, ctx len 130485, avg score 0.8220640569395018
+step 281, ctx len 130445, avg score 0.8226950354609929
+step 282, ctx len 130643, avg score 0.823321554770318
+step 283, ctx len 130241, avg score 0.823943661971831
+step 284, ctx len 130496, avg score 0.8210526315789474
+step 285, ctx len 130445, avg score 0.8216783216783217
+step 286, ctx len 130234, avg score 0.8222996515679443
+step 287, ctx len 130549, avg score 0.8229166666666666
+step 288, ctx len 130485, avg score 0.8200692041522492
+step 289, ctx len 130342, avg score 0.8206896551724138
+step 290, ctx len 130489, avg score 0.8213058419243986
+step 291, ctx len 130520, avg score 0.821917808219178
+step 292, ctx len 130372, avg score 0.8225255972696246
+step 293, ctx len 130495, avg score 0.8231292517006803
+step 294, ctx len 130474, avg score 0.823728813559322
+step 295, ctx len 130461, avg score 0.8243243243243243
+step 296, ctx len 130215, avg score 0.8215488215488216
+step 297, ctx len 130542, avg score 0.8221476510067114
+step 298, ctx len 129998, avg score 0.822742474916388
+step 299, ctx len 130478, avg score 0.82
+step 300, ctx len 130234, avg score 0.8205980066445183
+step 301, ctx len 130454, avg score 0.8178807947019867
+step 302, ctx len 130393, avg score 0.8184818481848185
+step 303, ctx len 130397, avg score 0.819078947368421
+step 304, ctx len 130536, avg score 0.819672131147541
+step 305, ctx len 130294, avg score 0.8202614379084967
+step 306, ctx len 130435, avg score 0.8208469055374593
+step 307, ctx len 130430, avg score 0.8214285714285714
+step 308, ctx len 130304, avg score 0.8187702265372169
+step 309, ctx len 130471, avg score 0.8161290322580645
+step 310, ctx len 130546, avg score 0.8167202572347267
+step 311, ctx len 130474, avg score 0.8141025641025641
+step 312, ctx len 130474, avg score 0.8115015974440895
+step 313, ctx len 130335, avg score 0.8121019108280255
+step 314, ctx len 130250, avg score 0.8126984126984127
+step 315, ctx len 130418, avg score 0.8132911392405063
+step 316, ctx len 130233, avg score 0.8138801261829653
+step 317, ctx len 130514, avg score 0.8113207547169812
+step 318, ctx len 130232, avg score 0.8119122257053292
+step 319, ctx len 130499, avg score 0.8125
+step 320, ctx len 130322, avg score 0.8130841121495327
+step 321, ctx len 130195, avg score 0.8136645962732919
+step 322, ctx len 130132, avg score 0.8142414860681114
+step 323, ctx len 130311, avg score 0.8117283950617284
+step 324, ctx len 130525, avg score 0.8123076923076923
+step 325, ctx len 130220, avg score 0.8128834355828221
+step 326, ctx len 130423, avg score 0.8134556574923547
+step 327, ctx len 130300, avg score 0.8140243902439024
+step 328, ctx len 130192, avg score 0.8145896656534954
+step 329, ctx len 130041, avg score 0.8121212121212121
+step 330, ctx len 130023, avg score 0.8126888217522659
+step 331, ctx len 130399, avg score 0.8102409638554217
+step 332, ctx len 130285, avg score 0.8108108108108109
+step 333, ctx len 130582, avg score 0.811377245508982
+step 334, ctx len 130205, avg score 0.8119402985074626
+step 335, ctx len 130516, avg score 0.8125
+step 336, ctx len 130547, avg score 0.8100890207715133
+step 337, ctx len 130371, avg score 0.8106508875739645
+step 338, ctx len 130555, avg score 0.8112094395280236
+step 339, ctx len 130193, avg score 0.8117647058823529
+step 340, ctx len 130394, avg score 0.8093841642228738
+step 341, ctx len 130481, avg score 0.8099415204678363
+step 342, ctx len 130250, avg score 0.8104956268221575
+step 343, ctx len 130535, avg score 0.811046511627907
+step 344, ctx len 130570, avg score 0.8115942028985508
+step 345, ctx len 130219, avg score 0.8092485549132948
+step 346, ctx len 130212, avg score 0.8097982708933718
+step 347, ctx len 130316, avg score 0.8103448275862069
+step 348, ctx len 130433, avg score 0.8108882521489972
+step 349, ctx len 130458, avg score 0.8114285714285714
+step 350, ctx len 130048, avg score 0.811965811965812
+step 351, ctx len 130447, avg score 0.8125
+step 352, ctx len 130318, avg score 0.8101983002832861
+step 353, ctx len 130478, avg score 0.807909604519774
+step 354, ctx len 130357, avg score 0.8056338028169014
+step 355, ctx len 130441, avg score 0.8061797752808989
+step 356, ctx len 130329, avg score 0.8067226890756303
+step 357, ctx len 130273, avg score 0.8072625698324022
+step 358, ctx len 130265, avg score 0.807799442896936
+step 359, ctx len 130333, avg score 0.8055555555555556
+step 360, ctx len 130393, avg score 0.8060941828254847
+step 361, ctx len 130248, avg score 0.8066298342541437
+step 362, ctx len 130512, avg score 0.8071625344352618
+step 363, ctx len 130401, avg score 0.8076923076923077
+step 364, ctx len 130276, avg score 0.8082191780821918
+step 365, ctx len 130329, avg score 0.8060109289617486
+step 366, ctx len 130114, avg score 0.8065395095367848
+step 367, ctx len 130587, avg score 0.8070652173913043
+step 368, ctx len 130275, avg score 0.8075880758807588
+step 369, ctx len 130312, avg score 0.8054054054054054
+step 370, ctx len 130654, avg score 0.8032345013477089
+step 371, ctx len 130468, avg score 0.803763440860215
+step 372, ctx len 130290, avg score 0.8042895442359249
+step 373, ctx len 130231, avg score 0.8021390374331551
+step 374, ctx len 130486, avg score 0.8026666666666666
+step 375, ctx len 130260, avg score 0.800531914893617
+step 376, ctx len 130060, avg score 0.8010610079575596
+step 377, ctx len 130486, avg score 0.8015873015873016
+step 378, ctx len 130242, avg score 0.8021108179419525
+step 379, ctx len 130315, avg score 0.8026315789473685
+step 380, ctx len 130529, avg score 0.8031496062992126
+step 381, ctx len 130383, avg score 0.8036649214659686
+step 382, ctx len 130433, avg score 0.804177545691906
+step 383, ctx len 130544, avg score 0.8046875
+step 384, ctx len 130306, avg score 0.8051948051948052
+step 385, ctx len 130375, avg score 0.805699481865285
+step 386, ctx len 130410, avg score 0.8062015503875969
+step 387, ctx len 130419, avg score 0.8067010309278351
+step 388, ctx len 130542, avg score 0.8071979434447301
+step 389, ctx len 130252, avg score 0.8076923076923077
+step 390, ctx len 130232, avg score 0.8081841432225064
+step 391, ctx len 130395, avg score 0.8086734693877551
+step 392, ctx len 130277, avg score 0.806615776081425
+step 393, ctx len 130332, avg score 0.8071065989847716
+step 394, ctx len 130445, avg score 0.8075949367088607
+step 395, ctx len 130371, avg score 0.8080808080808081
+step 396, ctx len 130246, avg score 0.8085642317380353
+step 397, ctx len 130546, avg score 0.8090452261306532
+step 398, ctx len 130380, avg score 0.8095238095238095
+step 399, ctx len 130227, avg score 0.81
+step 400, ctx len 130456, avg score 0.8104738154613467
+step 401, ctx len 130302, avg score 0.8109452736318408
+step 402, ctx len 130438, avg score 0.8114143920595533
+step 403, ctx len 130200, avg score 0.8094059405940595
+step 404, ctx len 130402, avg score 0.8098765432098766
+step 405, ctx len 130348, avg score 0.8103448275862069
+step 406, ctx len 130436, avg score 0.8108108108108109
+step 407, ctx len 130405, avg score 0.8112745098039216
+step 408, ctx len 130641, avg score 0.8117359413202934
+step 409, ctx len 130657, avg score 0.8097560975609757
+step 410, ctx len 130229, avg score 0.8102189781021898
+step 411, ctx len 130417, avg score 0.8106796116504854
+step 412, ctx len 130248, avg score 0.8087167070217918
+step 413, ctx len 130374, avg score 0.8091787439613527
+step 414, ctx len 130340, avg score 0.8096385542168675
+step 415, ctx len 130461, avg score 0.8100961538461539
+step 416, ctx len 130439, avg score 0.8105515587529976
+step 417, ctx len 130423, avg score 0.8110047846889952
+step 418, ctx len 130038, avg score 0.8114558472553699
+step 419, ctx len 130253, avg score 0.8119047619047619
+step 420, ctx len 130360, avg score 0.8123515439429929
+step 421, ctx len 130425, avg score 0.8127962085308057
+step 422, ctx len 130426, avg score 0.8108747044917257
+step 423, ctx len 130352, avg score 0.8113207547169812
+step 424, ctx len 130637, avg score 0.8117647058823529
+step 425, ctx len 130273, avg score 0.812206572769953
+step 426, ctx len 130325, avg score 0.8126463700234192
+step 427, ctx len 130308, avg score 0.8130841121495327
+step 428, ctx len 130403, avg score 0.8135198135198135
+step 429, ctx len 130251, avg score 0.813953488372093
+step 430, ctx len 130363, avg score 0.814385150812065
+step 431, ctx len 130341, avg score 0.8148148148148148
+step 432, ctx len 130318, avg score 0.815242494226328
+step 433, ctx len 130364, avg score 0.815668202764977
+step 434, ctx len 130331, avg score 0.8160919540229885
+step 435, ctx len 130282, avg score 0.8165137614678899
+step 436, ctx len 130442, avg score 0.816933638443936
+step 437, ctx len 130342, avg score 0.817351598173516
+step 438, ctx len 130440, avg score 0.8177676537585421
+step 439, ctx len 130565, avg score 0.8181818181818182
+step 440, ctx len 130164, avg score 0.81859410430839
+step 441, ctx len 130264, avg score 0.8190045248868778
+step 442, ctx len 130359, avg score 0.8194130925507901
+step 443, ctx len 130536, avg score 0.8175675675675675
+step 444, ctx len 130294, avg score 0.8179775280898877
+step 445, ctx len 130745, avg score 0.8183856502242153
+step 446, ctx len 130567, avg score 0.8165548098434005
+step 447, ctx len 130461, avg score 0.8147321428571429
+step 448, ctx len 130634, avg score 0.8151447661469933
+step 449, ctx len 130366, avg score 0.8155555555555556
+step 450, ctx len 130482, avg score 0.8159645232815964
+step 451, ctx len 130250, avg score 0.8141592920353983
+step 452, ctx len 130059, avg score 0.8145695364238411
+step 453, ctx len 130329, avg score 0.8149779735682819
+step 454, ctx len 130451, avg score 0.8131868131868132
+step 455, ctx len 130330, avg score 0.8135964912280702
+step 456, ctx len 130595, avg score 0.8140043763676149
+step 457, ctx len 130314, avg score 0.8144104803493449
+step 458, ctx len 130517, avg score 0.8148148148148148
+step 459, ctx len 130355, avg score 0.8152173913043478
+step 460, ctx len 130541, avg score 0.8156182212581344
+step 461, ctx len 130434, avg score 0.8138528138528138
+step 462, ctx len 130274, avg score 0.8142548596112311
+step 463, ctx len 130339, avg score 0.8146551724137931
+step 464, ctx len 130536, avg score 0.8150537634408602
+step 465, ctx len 130477, avg score 0.8154506437768241
+step 466, ctx len 130432, avg score 0.815845824411135
+step 467, ctx len 130386, avg score 0.8162393162393162
+step 468, ctx len 130439, avg score 0.814498933901919
+step 469, ctx len 130359, avg score 0.8148936170212766
+step 470, ctx len 130619, avg score 0.8152866242038217
+step 471, ctx len 130305, avg score 0.8135593220338984
+step 472, ctx len 130390, avg score 0.8118393234672304
+step 473, ctx len 130505, avg score 0.8122362869198312
+step 474, ctx len 130353, avg score 0.8105263157894737
+step 475, ctx len 130448, avg score 0.8109243697478992
+step 476, ctx len 130261, avg score 0.8113207547169812
+step 477, ctx len 130230, avg score 0.8117154811715481
+step 478, ctx len 130376, avg score 0.8121085594989561
+step 479, ctx len 130549, avg score 0.8104166666666667
+step 480, ctx len 130328, avg score 0.8108108108108109
+step 481, ctx len 130430, avg score 0.8112033195020747
+step 482, ctx len 130424, avg score 0.8115942028985508
+step 483, ctx len 130254, avg score 0.8119834710743802
+step 484, ctx len 130422, avg score 0.8123711340206186
+step 485, ctx len 130510, avg score 0.8127572016460906
+step 486, ctx len 130265, avg score 0.813141683778234
+step 487, ctx len 130234, avg score 0.8135245901639344
+step 488, ctx len 130496, avg score 0.8139059304703476
+step 489, ctx len 130323, avg score 0.8122448979591836
+step 490, ctx len 130359, avg score 0.8126272912423625
+step 491, ctx len 130508, avg score 0.8130081300813008
+step 492, ctx len 130089, avg score 0.8133874239350912
+step 493, ctx len 130255, avg score 0.8137651821862348
+step 494, ctx len 130317, avg score 0.8141414141414142
+step 495, ctx len 130484, avg score 0.8145161290322581
+step 496, ctx len 130305, avg score 0.8128772635814889
+step 497, ctx len 130449, avg score 0.8112449799196787
+step 498, ctx len 130386, avg score 0.811623246492986
+step 499, ctx len 130550, avg score 0.812
+{"ctx_len": 130246, "pred": "49ee645e-0bfd-494f-bd20-e789b1764ebe.<|eot_id|>", "needle": ["49ee645e-0bfd-494f-bd20-e789b1764ebe"], "score": 1.0}
+{"ctx_len": 130349, "pred": "32d22b89-d04c-46f7-a09a-264e817c5b46.<|eot_id|>", "needle": ["32d22b89-d04c-46f7-a09a-264e817c5b46"], "score": 1.0}
+{"ctx_len": 130393, "pred": ": 43587fb0-c613-4124-bbed-6044051b9a32<|eot_id|>", "needle": ["43587fb0-c613-4124-bbed-6044051b9a32"], "score": 1.0}
+{"ctx_len": 130471, "pred": ": f8ee447a-21c4-43ef-a976-4bc9988cc793<|eot_id|>", "needle": ["54bda1d2-b33d-4d25-8c34-e40afd533520"], "score": 0.0}
+{"ctx_len": 130216, "pred": ": 66bdadee-2404-4467-9d8c-eb502f51956d.<|eot_id|>", "needle": ["7eea650b-b81a-42e2-a237-b66b4fae30ab"], "score": 0.0}
+{"ctx_len": 130400, "pred": "8b778d0b-0635-48b2-9901-6f98f49e2e5b.<|eot_id|>", "needle": ["8b778d0b-0635-48b2-9901-6f98f49e2e5b"], "score": 1.0}
+{"ctx_len": 130440, "pred": "69c7e1ba-ee4a-4d71-83d9-d3ebde1dbd49.<|eot_id|>", "needle": ["69c7e1ba-ee4a-4d71-83d9-d3ebde1dbd49"], "score": 1.0}
+{"ctx_len": 130394, "pred": "16c61ce5-f5f7-48b9-8aa8-e0d0580be1fd.<|eot_id|>", "needle": ["16c61ce5-f5f7-48b9-8aa8-e0d0580be1fd"], "score": 1.0}
+{"ctx_len": 130373, "pred": "4f0145b1-44e4-4aaf-95b5-16dd6891eb09.<|eot_id|>", "needle": ["4f0145b1-44e4-4aaf-95b5-16dd6891eb09"], "score": 1.0}
+{"ctx_len": 130291, "pred": "f48cfd01-bfd9-4a31-a402-cb8bd6c33aa9.<|eot_id|>", "needle": ["f48cfd01-bfd9-4a31-a402-cb8bd6c33aa9"], "score": 1.0}
+{"ctx_len": 130391, "pred": "78ba231d-7497-437b-93f2-ac162a74e874.<|eot_id|>", "needle": ["78ba231d-7497-437b-93f2-ac162a74e874"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": 93b90f1e-bbef-42d6-8ccb-753a2099e037.<|eot_id|>", "needle": ["93b90f1e-bbef-42d6-8ccb-753a2099e037"], "score": 1.0}
+{"ctx_len": 130373, "pred": ": ebdad94a-f319-40ba-85e5-0e2c9c69ff78.<|eot_id|>", "needle": ["ebdad94a-f319-40ba-85e5-0e2c9c69ff78"], "score": 1.0}
+{"ctx_len": 130518, "pred": "2c8ef4aa-024d-414b-a002-96f785e26181.<|eot_id|>", "needle": ["2c8ef4aa-024d-414b-a002-96f785e26181"], "score": 1.0}
+{"ctx_len": 130576, "pred": "bb7e6ada-1831-4c3f-b1e4-e86d6952b995.<|eot_id|>", "needle": ["bb7e6ada-1831-4c3f-b1e4-e86d6952b995"], "score": 1.0}
+{"ctx_len": 130469, "pred": ": 72fe62c4-8e87-4c6e-a0cd-4a659c8cf459.<|eot_id|>", "needle": ["b233da0d-1bcb-4c84-b49f-59c9e0af5419"], "score": 0.0}
+{"ctx_len": 130271, "pred": "a47221d0-62f9-49c3-ab7d-5b2455d6594e.<|eot_id|>", "needle": ["a47221d0-62f9-49c3-ab7d-5b2455d6594e"], "score": 1.0}
+{"ctx_len": 130274, "pred": "a61b2b96-6e09-4091-a3e9-cd3259696318.<|eot_id|>", "needle": ["a61b2b96-6e09-4091-a3e9-cd3259696318"], "score": 1.0}
+{"ctx_len": 130440, "pred": "2fb733a9-3293-4393-8e64-f00d8d2fb10b.<|eot_id|>", "needle": ["2fb733a9-3293-4393-8e64-f00d8d2fb10b"], "score": 1.0}
+{"ctx_len": 130394, "pred": ": f5adcc3e-d58f-4ebf-ab41-338e81e1e44c.<|eot_id|>", "needle": ["1003a3f6-c341-4e8d-8623-857790b8e1b8"], "score": 0.0}
+{"ctx_len": 130474, "pred": ": 069da8d9-839b-4f3a-a031-3370392f80ef<|eot_id|>", "needle": ["6b232b33-3993-4270-9ed0-49162e1ddfc2"], "score": 0.0}
+{"ctx_len": 130317, "pred": "4a95c436-4e2c-478d-b09f-ed59edd6cb93.<|eot_id|>", "needle": ["4a95c436-4e2c-478d-b09f-ed59edd6cb93"], "score": 1.0}
+{"ctx_len": 130534, "pred": "b81f21db-7018-4af9-93a8-4c28855eec6e.<|eot_id|>", "needle": ["b81f21db-7018-4af9-93a8-4c28855eec6e"], "score": 1.0}
+{"ctx_len": 130603, "pred": "7a0f3d9e-99f3-46b7-b196-b4ea571d16e5.<|eot_id|>", "needle": ["7a0f3d9e-99f3-46b7-b196-b4ea571d16e5"], "score": 1.0}
+{"ctx_len": 130425, "pred": ": 06e952b6-366b-4f9b-845f-6f9e0fba862a.<|eot_id|>", "needle": ["06e952b6-366b-4f9b-845f-6f9e0fba862a"], "score": 1.0}
+{"ctx_len": 130250, "pred": "a46a293a-914c-40c4-8d63-d3a86c27d1ae.<|eot_id|>", "needle": ["a46a293a-914c-40c4-8d63-d3a86c27d1ae"], "score": 1.0}
+{"ctx_len": 130597, "pred": "57563202-04b9-4ec8-ba51-00381a9dd5f2.<|eot_id|>", "needle": ["57563202-04b9-4ec8-ba51-00381a9dd5f2"], "score": 1.0}
+{"ctx_len": 130409, "pred": ": f2d13e64-f4b8-4491-8e1e-9ce70bb5f159.<|eot_id|>", "needle": ["f2d13e64-f4b8-4491-8e1e-9ce70bb5f159"], "score": 1.0}
+{"ctx_len": 130146, "pred": "8df13552-80c6-466c-9d19-3d17cf5f22de.<|eot_id|>", "needle": ["8df13552-80c6-466c-9d19-3d17cf5f22de"], "score": 1.0}
+{"ctx_len": 130468, "pred": "f8112cca-0533-4d29-8098-7ab676abbf7d.<|eot_id|>", "needle": ["f8112cca-0533-4d29-8098-7ab676abbf7d"], "score": 1.0}
+{"ctx_len": 130307, "pred": "9ba7221e-bbc3-4d8b-b9dc-253ec6575505.<|eot_id|>", "needle": ["9ba7221e-bbc3-4d8b-b9dc-253ec6575505"], "score": 1.0}
+{"ctx_len": 130280, "pred": ": d2dd161-4a51-46ab-a598-2b825438589c.<|eot_id|>", "needle": ["d6d27177-7b64-4412-8c61-f4301e93b18b"], "score": 0.0}
+{"ctx_len": 130594, "pred": "6e5cb78c-8ea9-483b-b95f-8bd64a53e212.<|eot_id|>", "needle": ["6e5cb78c-8ea9-483b-b95f-8bd64a53e212"], "score": 1.0}
+{"ctx_len": 130462, "pred": ": 8d0ba38c-b444-44e0-8c1b-15ff85f173fd.<|eot_id|>", "needle": ["8d0ba38c-b444-44e0-8c1b-15ff85f173fd"], "score": 1.0}
+{"ctx_len": 130324, "pred": "1ec9d0d3-2e3f-4b18-9fdb-386ee65517cb.<|eot_id|>", "needle": ["1ec9d0d3-2e3f-4b18-9fdb-386ee65517cb"], "score": 1.0}
+{"ctx_len": 130311, "pred": "0e1ec2a6-912e-40a4-b837-ad19a4c897ff.<|eot_id|>", "needle": ["0e1ec2a6-912e-40a4-b837-ad19a4c897ff"], "score": 1.0}
+{"ctx_len": 130265, "pred": ": 670f7202-d477-4326-990d-f7e29f870582.<|eot_id|>", "needle": ["670f7202-d477-4326-990d-f7e29f870582"], "score": 1.0}
+{"ctx_len": 130312, "pred": "5a0ca569-709f-437f-88f1-fc4941344897.<|eot_id|>", "needle": ["5a0ca569-709f-437f-88f1-fc4941344897"], "score": 1.0}
+{"ctx_len": 130424, "pred": "239b3f9c-4a94-4dde-96dd-2a5874068f5c.<|eot_id|>", "needle": ["239b3f9c-4a94-4dde-96dd-2a5874068f5c"], "score": 1.0}
+{"ctx_len": 130194, "pred": "17c8bd57-67dc-479a-bb3d-63bfa88ee897.<|eot_id|>", "needle": ["42fe7630-3784-4edf-a4e9-bda133a3e4b9"], "score": 0.0}
+{"ctx_len": 130556, "pred": ": 405ae942-ea48-4a70-8564-215d3956449d.<|eot_id|>", "needle": ["56d1dea2-c8b3-4c74-8647-6b3f910da639"], "score": 0.0}
+{"ctx_len": 130400, "pred": "16736845-6a5f-4415-9f55-4c816d6c1778.<|eot_id|>", "needle": ["16736845-6a5f-4415-9f55-4c816d6c1778"], "score": 1.0}
+{"ctx_len": 130251, "pred": ": d0d96db2-f45b-49f0-8414-70d90caa38eb.<|eot_id|>", "needle": ["d0d96db2-f45b-49f0-8414-70d90caa38eb"], "score": 1.0}
+{"ctx_len": 130512, "pred": "54236184-46b3-4621-a936-f89d0a123663.<|eot_id|>", "needle": ["54236184-46b3-4621-a936-f89d0a123663"], "score": 1.0}
+{"ctx_len": 130250, "pred": "11d06fec-8227-41a6-b60b-4e4b4d699cb5.<|eot_id|>", "needle": ["11d06fec-8227-41a6-b60b-4e4b4d699cb5"], "score": 1.0}
+{"ctx_len": 130171, "pred": ": 03de26d9-e8aa-41e5-8d1b-5753e2c563bb.<|eot_id|>", "needle": ["03de26d9-e8aa-41e5-8d1b-5753e2c563bb"], "score": 1.0}
+{"ctx_len": 130483, "pred": ": efe4051e-ace4-45bb-8894-fc0a0a1b04f8<|eot_id|>", "needle": ["13768503-4d41-409b-b831-dcb806e4621c"], "score": 0.0}
+{"ctx_len": 130318, "pred": "256c5530-f891-410f-8503-ac6059c08ff6.<|eot_id|>", "needle": ["256c5530-f891-410f-8503-ac6059c08ff6"], "score": 1.0}
+{"ctx_len": 130316, "pred": "1de84ec1-1bcc-4ac2-af42-93584f20063e.<|eot_id|>", "needle": ["1de84ec1-1bcc-4ac2-af42-93584f20063e"], "score": 1.0}
+{"ctx_len": 130546, "pred": "7bc6f599-b6e4-4ee9-8362-1f1cac7934de.<|eot_id|>", "needle": ["7bc6f599-b6e4-4ee9-8362-1f1cac7934de"], "score": 1.0}
+{"ctx_len": 130373, "pred": ": 466fedcb-bc72-4285-a06f-9f71aee2d0ab<|eot_id|>", "needle": ["466fedcb-bc72-4285-a06f-9f71aee2d0ab"], "score": 1.0}
+{"ctx_len": 130317, "pred": ": 506c3613-9e50-4c5c-b0ac-3f561daef742.<|eot_id|>", "needle": ["7523a192-d72b-414e-b64d-64df908c4963"], "score": 0.0}
+{"ctx_len": 130527, "pred": "79e671aa-7bd3-4400-aeca-188a1c062e96.<|eot_id|>", "needle": ["79e671aa-7bd3-4400-aeca-188a1c062e96"], "score": 1.0}
+{"ctx_len": 130413, "pred": ": 4d985a00-70f7-4f22-96e2-bbf2d586b11d<|eot_id|>", "needle": ["f32c87f8-adbd-4b43-b648-8164df8ab61f"], "score": 0.0}
+{"ctx_len": 130280, "pred": ": 800b454d-15a7-4cfc-89c8-1eae5008b48a8<|eot_id|>", "needle": ["800b454d-15a7-4cfc-89c8-1eae5008b48a"], "score": 1.0}
+{"ctx_len": 130258, "pred": "712f1dc6-250b-4537-9d57-131a34c6b22b.<|eot_id|>", "needle": ["712f1dc6-250b-4537-9d57-131a34c6b22b"], "score": 1.0}
+{"ctx_len": 130448, "pred": "d686a062-85d4-43b9-bbc9-e3bdfb68724b.<|eot_id|>", "needle": ["d686a062-85d4-43b9-bbc9-e3bdfb68724b"], "score": 1.0}
+{"ctx_len": 130663, "pred": "347f64f0-5be2-47a4-9649-d2d289503a2a.<|eot_id|>", "needle": ["347f64f0-5be2-47a4-9649-d2d289503a2a"], "score": 1.0}
+{"ctx_len": 130782, "pred": "7e78e629-8aa9-474b-b2b3-1913643073b9.<|eot_id|>", "needle": ["7e78e629-8aa9-474b-b2b3-1913643073b9"], "score": 1.0}
+{"ctx_len": 130204, "pred": "bb13b517-2d1b-4c89-8bd7-ab6733902772.<|eot_id|>", "needle": ["bb13b517-2d1b-4c89-8bd7-ab6733902772"], "score": 1.0}
+{"ctx_len": 130541, "pred": "1d10ebc6-175c-4e15-9661-3201e8fcbe07.<|eot_id|>", "needle": ["1d10ebc6-175c-4e15-9661-3201e8fcbe07"], "score": 1.0}
+{"ctx_len": 130162, "pred": ": d00808d2-6638-42c8-8fe6-2e132306118d.<|eot_id|>", "needle": ["d00808d2-6638-42c8-8fe6-2e132306118d"], "score": 1.0}
+{"ctx_len": 130328, "pred": "1a445f78-cdd3-4ceb-b08f-9c166d48fa14.<|eot_id|>", "needle": ["1a445f78-cdd3-4ceb-b08f-9c166d48fa14"], "score": 1.0}
+{"ctx_len": 130426, "pred": "a5532218-5f47-4ffd-9315-a24ea9bd0a4f.<|eot_id|>", "needle": ["a5532218-5f47-4ffd-9315-a24ea9bd0a4f"], "score": 1.0}
+{"ctx_len": 130581, "pred": "044ef204-5007-4772-94d8-ed5e5114814b.<|eot_id|>", "needle": ["044ef204-5007-4772-94d8-ed5e5114814b"], "score": 1.0}
+{"ctx_len": 130481, "pred": "1f500931-5348-45bc-a5a5-8d7f4bb7997d.<|eot_id|>", "needle": ["1f500931-5348-45bc-a5a5-8d7f4bb7997d"], "score": 1.0}
+{"ctx_len": 130517, "pred": "1af75ecd-44f0-4583-90b8-42f4847ce65a.<|eot_id|>", "needle": ["1af75ecd-44f0-4583-90b8-42f4847ce65a"], "score": 1.0}
+{"ctx_len": 130385, "pred": "98126cd1-6ef7-477b-b4ad-cb0c492679a8.<|eot_id|>", "needle": ["98126cd1-6ef7-477b-b4ad-cb0c492679a8"], "score": 1.0}
+{"ctx_len": 130177, "pred": "20ff0bca-eb6f-47f1-8b42-2094e6bcb3a0.<|eot_id|>", "needle": ["c946e806-9df8-49c8-85cb-27e09cb98f32"], "score": 0.0}
+{"ctx_len": 130190, "pred": "a09819a5-bbf5-4a24-9a3e-8bc60022f668.<|eot_id|>", "needle": ["a09819a5-bbf5-4a24-9a3e-8bc60022f668"], "score": 1.0}
+{"ctx_len": 130493, "pred": "8b9db6ed-f06d-420a-8061-271c8e68fc00.<|eot_id|>", "needle": ["8b9db6ed-f06d-420a-8061-271c8e68fc00"], "score": 1.0}
+{"ctx_len": 130271, "pred": "a22beb79-c8b1-44c5-8ab6-60c820fdf263.<|eot_id|>", "needle": ["a62d2ec6-b8a9-4dc7-9b5c-5af4ca8802d2"], "score": 0.0}
+{"ctx_len": 130505, "pred": ": 402d910c-e0b0-4feb-901d-0b1f469d94ff<|eot_id|>", "needle": ["4d5c739d-f307-41c5-a79a-fa95a2f8f77b"], "score": 0.0}
+{"ctx_len": 130474, "pred": "ec587643-49cc-42a2-98f4-8915816a28b6.<|eot_id|>", "needle": ["ec587643-49cc-42a2-98f4-8915816a28b6"], "score": 1.0}
+{"ctx_len": 130348, "pred": ": 21766051-16cf-4f21-82ba-e754fd52920d.<|eot_id|>", "needle": ["21766051-16cf-4f21-82ba-e754fd52920d"], "score": 1.0}
+{"ctx_len": 130383, "pred": "6f9cde05-a1de-4482-97aa-020018bf20e6.<|eot_id|>", "needle": ["6f9cde05-a1de-4482-97aa-020018bf20e6"], "score": 1.0}
+{"ctx_len": 130194, "pred": "cb599213-8d86-4e22-8cfe-f0d68df6f5fc.<|eot_id|>", "needle": ["cb599213-8d86-4e22-8cfe-f0d68df6f5fc"], "score": 1.0}
+{"ctx_len": 130211, "pred": ": ede31421-abb9-4008-a814-ecc3e436019a<|eot_id|>", "needle": ["ede31421-abb9-4008-a814-ecc3e436019a"], "score": 1.0}
+{"ctx_len": 130100, "pred": "d7f3cd42-2281-4cec-add3-1f1ae251aa20.<|eot_id|>", "needle": ["d7f3cd42-2281-4cec-add3-1f1ae251aa20"], "score": 1.0}
+{"ctx_len": 130180, "pred": ": 7103e2f7-71f3-412b-bac3-d77aa60bd695.<|eot_id|>", "needle": ["7103e2f7-71f3-412b-bac3-d77aa60bd695"], "score": 1.0}
+{"ctx_len": 130441, "pred": "b660e89b-3543-4999-aa24-c56ee23b1c7f.<|eot_id|>", "needle": ["b660e89b-3543-4999-aa24-c56ee23b1c7f"], "score": 1.0}
+{"ctx_len": 130198, "pred": ": 17fd9e95-ad6f-444d-851e-5c871010dbe3<|eot_id|>", "needle": ["d1effa2b-22f3-4f95-8656-072fa1cb0b21"], "score": 0.0}
+{"ctx_len": 130438, "pred": "1d47906b-b0dd-4645-a5c6-616167366138.<|eot_id|>", "needle": ["1d47906b-b0dd-4645-a5c6-616167366138"], "score": 1.0}
+{"ctx_len": 130150, "pred": "a2be4baa-a61c-473f-899a-ed155895f96e.<|eot_id|>", "needle": ["a2be4baa-a61c-473f-899a-ed155895f96e"], "score": 1.0}
+{"ctx_len": 130363, "pred": ": d2f75151-1f1f-4ce1-9247-a8214006dc35<|eot_id|>", "needle": ["d2f75151-1f1f-4ce1-9247-a8214006dc35"], "score": 1.0}
+{"ctx_len": 130503, "pred": ": 764b9ff5-497c-4ba5-b5e2-9a568e5c69dd.<|eot_id|>", "needle": ["764b9ff5-497c-4ba5-b5e2-9a568e5c69dd"], "score": 1.0}
+{"ctx_len": 130571, "pred": "23b265b3-72d3-454a-9ec2-d9af70347006.<|eot_id|>", "needle": ["23b265b3-72d3-454a-9ec2-d9af70347006"], "score": 1.0}
+{"ctx_len": 130354, "pred": "3cc5462e-2f47-41b7-8e4c-3add3ede3928.<|eot_id|>", "needle": ["3cc5462e-2f47-41b7-8e4c-3add3ede3928"], "score": 1.0}
+{"ctx_len": 130742, "pred": ": 1762bfbf-9343-46fa-b6d2-bc4905e601e7.<|eot_id|>", "needle": ["31bf217b-57d6-45fd-a5c2-2568e9c8b2a3"], "score": 0.0}
+{"ctx_len": 130413, "pred": ": b02c0ce9-b708-4f2d-8a48-1847f7e6bd82.<|eot_id|>", "needle": ["6559965e-2038-4c43-a2cf-1fde099bfe59"], "score": 0.0}
+{"ctx_len": 130446, "pred": "1b9bd0a2-915f-4b8f-8267-328e4ab1558d.<|eot_id|>", "needle": ["1b9bd0a2-915f-4b8f-8267-328e4ab1558d"], "score": 1.0}
+{"ctx_len": 130322, "pred": ": 23220874-f657-4984-a64d-19c0c52fcb9c.<|eot_id|>", "needle": ["23220874-f657-4984-a64d-19c0c52fcb9c"], "score": 1.0}
+{"ctx_len": 130604, "pred": "0d0b64cb-628e-4bb8-8890-b8e3305ffcfc.<|eot_id|>", "needle": ["eda575a3-b2fb-40fa-99ad-4ca939f5a86e"], "score": 0.0}
+{"ctx_len": 130185, "pred": "d713c021-e376-40a4-b4ec-c87e9c4e8bf9.<|eot_id|>", "needle": ["d713c021-e376-40a4-b4ec-c87e9c4e8bf9"], "score": 1.0}
+{"ctx_len": 130276, "pred": "12d84ead-4727-46e3-a064-a7add07d990d.<|eot_id|>", "needle": ["12d84ead-4727-46e3-a064-a7add07d990d"], "score": 1.0}
+{"ctx_len": 130264, "pred": "6539c74c-b3e5-4d2a-8f84-5d1b42e862f3.<|eot_id|>", "needle": ["6539c74c-b3e5-4d2a-8f84-5d1b42e862f3"], "score": 1.0}
+{"ctx_len": 130408, "pred": ": babbb1dd-8de6-46ad-b4ed-cd1831ce5ada.<|eot_id|>", "needle": ["babbb1dd-8de6-46ad-b4ed-cd1831ce5ada"], "score": 1.0}
+{"ctx_len": 130271, "pred": ": bb224a36-ec61-4054-b232-eff93dd161bc.<|eot_id|>", "needle": ["fb769766-a6c0-416a-8266-14874143e84b"], "score": 0.0}
+{"ctx_len": 130770, "pred": "87ebb2af-199b-4778-a115-44026701a73d.<|eot_id|>", "needle": ["87ebb2af-199b-4778-a115-44026701a73d"], "score": 1.0}
+{"ctx_len": 130118, "pred": ": d472a2f4-75f0-4767-bcf3-27f9ea152ac5.<|eot_id|>", "needle": ["d647ad68-b1fc-4497-93ef-d1c679161657"], "score": 0.0}
+{"ctx_len": 130320, "pred": "4b710acf-8f9d-45aa-ab0d-e61b8450b071.<|eot_id|>", "needle": ["4b710acf-8f9d-45aa-ab0d-e61b8450b071"], "score": 1.0}
+{"ctx_len": 130313, "pred": "932626b7-8e0c-4bbb-a8ee-62c210c61669.<|eot_id|>", "needle": ["932626b7-8e0c-4bbb-a8ee-62c210c61669"], "score": 1.0}
+{"ctx_len": 130348, "pred": "46ef9a7e-a608-41de-af10-966512bd1f7e.<|eot_id|>", "needle": ["46ef9a7e-a608-41de-af10-966512bd1f7e"], "score": 1.0}
+{"ctx_len": 130441, "pred": "410fd82d-a201-4766-8340-8705b834f73e.<|eot_id|>", "needle": ["77066e31-3c61-42fe-a359-5621854b16cb"], "score": 0.0}
+{"ctx_len": 130622, "pred": "01b3b47b-0913-4b37-bb07-8154bd4f7c79.<|eot_id|>", "needle": ["21a9f561-a473-4dfe-bc60-f5285428e0cc"], "score": 0.0}
+{"ctx_len": 130316, "pred": "271332c7-74f0-4753-9e66-31126886e3c1.<|eot_id|>", "needle": ["271332c7-74f0-4753-9e66-31126886e3c1"], "score": 1.0}
+{"ctx_len": 130123, "pred": ": 4b7d9079-4b18-48d6-85f4-b4ca673f1243.<|eot_id|>", "needle": ["4b7d9079-4b18-48d6-85f4-b4ca673f1243"], "score": 1.0}
+{"ctx_len": 130432, "pred": ": c7146766-b3ac-4f6d-af9e-4e00fa553cd6.<|eot_id|>", "needle": ["c7146766-b3ac-4f6d-af9e-4e00fa553cd6"], "score": 1.0}
+{"ctx_len": 130414, "pred": "977337d6-2b44-405a-ba6b-a8935e028289.<|eot_id|>", "needle": ["977337d6-2b44-405a-ba6b-a8935e028289"], "score": 1.0}
+{"ctx_len": 130600, "pred": "0d783fba-d8f6-4a51-8ad3-469340e571dd.<|eot_id|>", "needle": ["0d783fba-d8f6-4a51-8ad3-469340e571dd"], "score": 1.0}
+{"ctx_len": 130469, "pred": "b12b730f-1cfb-4e0e-ba27-01b6ad28a588.<|eot_id|>", "needle": ["b12b730f-1cfb-4e0e-ba27-01b6ad28a588"], "score": 1.0}
+{"ctx_len": 130393, "pred": "f3dedaac-cd4a-4623-90db-c504eeca8a03.<|eot_id|>", "needle": ["f3dedaac-cd4a-4623-90db-c504eeca8a03"], "score": 1.0}
+{"ctx_len": 130610, "pred": ": d8386cc9-9b4c-42e0-8c30-2ed42db5bd09<|eot_id|>", "needle": ["d8386cc9-9b4c-42e0-8c30-2ed42db5bd09"], "score": 1.0}
+{"ctx_len": 130137, "pred": ": f6ce97a9-5239-4c95-acb1-8054d5c2a8c0.<|eot_id|>", "needle": ["f6ce97a9-5239-4c95-acb1-8054d5c2a8c0"], "score": 1.0}
+{"ctx_len": 130793, "pred": "c0b0f13c-cb74-48c1-8964-f0cd8bba5b8b.<|eot_id|>", "needle": ["c0b0f13c-cb74-48c1-8964-f0cd8bba5b8b"], "score": 1.0}
+{"ctx_len": 130440, "pred": "fe64ff2e-217a-4b09-9a2d-849a1c73802f.<|eot_id|>", "needle": ["fe64ff2e-217a-4b09-9a2d-849a1c73802f"], "score": 1.0}
+{"ctx_len": 130277, "pred": ": 7eb5fdf7-e37b-4b12-836a-c3772022ab9a<|eot_id|>", "needle": ["9aa80cb1-663a-4026-935d-6d9b3f89d651"], "score": 0.0}
+{"ctx_len": 130302, "pred": ": 962f91a4-6a47-4dfe-bf48-069ff6d84ab9.<|eot_id|>", "needle": ["962f91a4-6a47-4dfe-bf48-069ff6d84ab9"], "score": 1.0}
+{"ctx_len": 130390, "pred": ": e5ed4bcc-814f-4a90-a263-e991c9745fc1.<|eot_id|>", "needle": ["e5ed4bcc-814f-4a90-a263-e991c9745fc1"], "score": 1.0}
+{"ctx_len": 130017, "pred": "ba4d0410-5b2e-4e24-8e84-57ed65716cfe.<|eot_id|>", "needle": ["ba4d0410-5b2e-4e24-8e84-57ed65716cfe"], "score": 1.0}
+{"ctx_len": 130283, "pred": "84dae93b-71a2-4b33-b33b-d8282f5f4f43.<|eot_id|>", "needle": ["84dae93b-71a2-4b33-b33b-d8282f5f4f43"], "score": 1.0}
+{"ctx_len": 130400, "pred": "b09b8b6e-72f4-4706-8113-0c40eb6db73c.<|eot_id|>", "needle": ["b09b8b6e-72f4-4706-8113-0c40eb6db73c"], "score": 1.0}
+{"ctx_len": 130228, "pred": "88508792-6d3a-4f85-bfff-1c0813a0a0db.<|eot_id|>", "needle": ["88508792-6d3a-4f85-bfff-1c0813a0a0db"], "score": 1.0}
+{"ctx_len": 130422, "pred": ": 07d14bd7-0c63-4ca7-9c79-9ebcc9336c32.<|eot_id|>", "needle": ["e6b56bda-0128-4b64-98d6-5b02951fdd8f"], "score": 0.0}
+{"ctx_len": 130440, "pred": "bad733e6-e589-46b7-abf9-86b7cfbb0cac.<|eot_id|>", "needle": ["bad733e6-e589-46b7-abf9-86b7cfbb0cac"], "score": 1.0}
+{"ctx_len": 130752, "pred": ": 295b3737-4aed-44e8-82ab-66565aec7d49<|eot_id|>", "needle": ["295b3737-4aed-44e8-82ab-66565aec7d49"], "score": 1.0}
+{"ctx_len": 130265, "pred": ": 4dc7b714-b05b-4b1d-bede-27a55cf88d31.<|eot_id|>", "needle": ["4dc7b714-b05b-4b1d-bede-27a55cf88d31"], "score": 1.0}
+{"ctx_len": 130398, "pred": ": 47b09be8-56c3-45df-af00-bf3e2d901216.<|eot_id|>", "needle": ["2b37cbfa-b8c7-4b24-ad3c-643220a2725d"], "score": 0.0}
+{"ctx_len": 130362, "pred": ": 9390d66e-28d9-4642-b4da-99d26e78759f.<|eot_id|>", "needle": ["9390d66e-28d9-4642-b4da-99d26e78759f"], "score": 1.0}
+{"ctx_len": 130339, "pred": ": 98d10ffc-764c-47a8-8272-66eec9a2bd82<|eot_id|>", "needle": ["98d10ffc-764c-47a8-8272-66eec9a2bd82"], "score": 1.0}
+{"ctx_len": 130446, "pred": ": c31f9e7b-68e8-40ca-9041-c67dc5ae6daa.<|eot_id|>", "needle": ["c31f9e7b-68e8-40ca-9041-c67dc5ae6daa"], "score": 1.0}
+{"ctx_len": 130302, "pred": "ba6ce36d-e406-4797-85e7-475402975200.<|eot_id|>", "needle": ["ba6ce36d-e406-4797-85e7-475402975200"], "score": 1.0}
+{"ctx_len": 130447, "pred": "7fc4d6ed-02e6-4039-80fd-708c0c0cd49c.<|eot_id|>", "needle": ["7fc4d6ed-02e6-4039-80fd-708c0c0cd49c"], "score": 1.0}
+{"ctx_len": 130258, "pred": "550af420-3d17-4e66-a55d-14b26c4a57bc.<|eot_id|>", "needle": ["550af420-3d17-4e66-a55d-14b26c4a57bc"], "score": 1.0}
+{"ctx_len": 130362, "pred": "2c1e468c-b8e2-4867-bf6f-0d41231f3b96.<|eot_id|>", "needle": ["2c1e468c-b8e2-4867-bf6f-0d41231f3b96"], "score": 1.0}
+{"ctx_len": 130429, "pred": "7967311b-356b-4b0a-8eae-23f5db273f69.<|eot_id|>", "needle": ["7967311b-356b-4b0a-8eae-23f5db273f69"], "score": 1.0}
+{"ctx_len": 130383, "pred": "2cb11616-7e30-4ee0-a6d1-1e13a4a93514.<|eot_id|>", "needle": ["2cb11616-7e30-4ee0-a6d1-1e13a4a93514"], "score": 1.0}
+{"ctx_len": 130287, "pred": "3c11afa7-1dd5-462c-bd69-2f93195d5e5b.<|eot_id|>", "needle": ["3c11afa7-1dd5-462c-bd69-2f93195d5e5b"], "score": 1.0}
+{"ctx_len": 130528, "pred": "b39744dd-66e1-4e9b-a524-aa69e7a746fa.<|eot_id|>", "needle": ["b39744dd-66e1-4e9b-a524-aa69e7a746fa"], "score": 1.0}
+{"ctx_len": 130614, "pred": ": ee456ae5-b63c-487f-a8fa-26e54560a708.<|eot_id|>", "needle": ["ee456ae5-b63c-487f-a8fa-26e54560a708"], "score": 1.0}
+{"ctx_len": 130224, "pred": "af5eed14-0e6c-49ee-830b-6d48e2133250.<|eot_id|>", "needle": ["af5eed14-0e6c-49ee-830b-6d48e2133250"], "score": 1.0}
+{"ctx_len": 130440, "pred": ": f03f54e0-dfc9-4482-aeb1-5506d153a881.<|eot_id|>", "needle": ["f03f54e0-dfc9-4482-aeb1-5506d153a881"], "score": 1.0}
+{"ctx_len": 130385, "pred": ": fec2343f-9199-46f5-9e2e-dd74560be384<|eot_id|>", "needle": ["fec2343f-9199-46f5-9e2e-dd74560be384"], "score": 1.0}
+{"ctx_len": 130234, "pred": "88f8c783-1e78-4e7e-88c2-e5d904ad47d0.<|eot_id|>", "needle": ["88f8c783-1e78-4e7e-88c2-e5d904ad47d0"], "score": 1.0}
+{"ctx_len": 130309, "pred": "0d2f50f9-747d-4897-afb3-041fcd99284a.<|eot_id|>", "needle": ["0d2f50f9-747d-4897-afb3-041fcd99284a"], "score": 1.0}
+{"ctx_len": 130275, "pred": ": 0ebd14b4-dee1-4d33-b2cf-3054946e9ffa<|eot_id|>", "needle": ["90b9671d-35bf-4f47-9136-b2ac37e4a6ef"], "score": 0.0}
+{"ctx_len": 130324, "pred": "9bee7a68-9045-48f3-84a0-70822b3623cd.<|eot_id|>", "needle": ["9bee7a68-9045-48f3-84a0-70822b3623cd"], "score": 1.0}
+{"ctx_len": 130325, "pred": "47d0741e-0431-4600-b1ba-a2f55dae1ec5.<|eot_id|>", "needle": ["47d0741e-0431-4600-b1ba-a2f55dae1ec5"], "score": 1.0}
+{"ctx_len": 130476, "pred": ": e0ba14d2-a1ca-4218-9986-ac95d3fb9032.<|eot_id|>", "needle": ["e0ba14d2-a1ca-4218-9986-ac95d3fb9032"], "score": 1.0}
+{"ctx_len": 130397, "pred": "507108ee-5c10-4d23-b0c1-d9b4802ff88f.<|eot_id|>", "needle": ["507108ee-5c10-4d23-b0c1-d9b4802ff88f"], "score": 1.0}
+{"ctx_len": 130352, "pred": ": 131b8af3-6afc-4c29-9f37-dfa25369a786.<|eot_id|>", "needle": ["c8ef666d-a29c-4c8c-a23c-d9712c2a2e63"], "score": 0.0}
+{"ctx_len": 130473, "pred": "27abc29c-8efe-49f6-902b-8f4aade7a936.<|eot_id|>", "needle": ["27abc29c-8efe-49f6-902b-8f4aade7a936"], "score": 1.0}
+{"ctx_len": 130303, "pred": ": b69cdad5-b00c-4a4a-9527-9c7f03735b18.<|eot_id|>", "needle": ["46f44267-59f3-4cd4-af47-75126201a1f5"], "score": 0.0}
+{"ctx_len": 130252, "pred": "9989d53d-9eba-4f06-8b7b-be558fd5aacd.<|eot_id|>", "needle": ["9989d53d-9eba-4f06-8b7b-be558fd5aacd"], "score": 1.0}
+{"ctx_len": 130300, "pred": "74c95ccb-d08b-4ec3-a417-ad97a3cfa708.<|eot_id|>", "needle": ["74c95ccb-d08b-4ec3-a417-ad97a3cfa708"], "score": 1.0}
+{"ctx_len": 130262, "pred": "4f39e1df-2a5c-408c-a91d-7babc1bcc6c3.<|eot_id|>", "needle": ["4f39e1df-2a5c-408c-a91d-7babc1bcc6c3"], "score": 1.0}
+{"ctx_len": 130452, "pred": "a30fd071-d86c-4d08-811a-acf24b671515.<|eot_id|>", "needle": ["a30fd071-d86c-4d08-811a-acf24b671515"], "score": 1.0}
+{"ctx_len": 130142, "pred": "6be19386-9b8f-4f1b-be33-e5c4f7caddd8.<|eot_id|>", "needle": ["6be19386-9b8f-4f1b-be33-e5c4f7caddd8"], "score": 1.0}
+{"ctx_len": 130384, "pred": "1cc738fc-3373-4379-87bd-c243443eb9c1.<|eot_id|>", "needle": ["1cc738fc-3373-4379-87bd-c243443eb9c1"], "score": 1.0}
+{"ctx_len": 130381, "pred": "9d83d940-5cca-4432-a660-d7b76e516a40.<|eot_id|>", "needle": ["9d83d940-5cca-4432-a660-d7b76e516a40"], "score": 1.0}
+{"ctx_len": 130482, "pred": "5c9c6ecc-94e4-484e-a2bb-6346df88b8e0.<|eot_id|>", "needle": ["5d435ab7-6b2f-4ed2-993f-ad5c28a2b93c"], "score": 0.0}
+{"ctx_len": 130483, "pred": ": 16cdbd9a-e499-4f16-bfed-06adaf668c42.<|eot_id|>", "needle": ["16cdbd9a-e499-4f16-bfed-06adaf668c42"], "score": 1.0}
+{"ctx_len": 130313, "pred": "bedfa6cb-7432-48ad-9ab4-1cadbbec8c10.<|eot_id|>", "needle": ["bedfa6cb-7432-48ad-9ab4-1cadbbec8c10"], "score": 1.0}
+{"ctx_len": 130457, "pred": "14ad7dfa-750a-4efd-981c-214a6d96b1a1.<|eot_id|>", "needle": ["14ad7dfa-750a-4efd-981c-214a6d96b1a1"], "score": 1.0}
+{"ctx_len": 130358, "pred": "6f27e110-e5cd-4f1a-b09d-c875d88c766a.<|eot_id|>", "needle": ["6f27e110-e5cd-4f1a-b09d-c875d88c766a"], "score": 1.0}
+{"ctx_len": 130437, "pred": "b49f7f37-680f-4505-a13d-ac717ee49ebf.<|eot_id|>", "needle": ["b49f7f37-680f-4505-a13d-ac717ee49ebf"], "score": 1.0}
+{"ctx_len": 130584, "pred": "a7fcdc12-3046-4067-b911-cc992dd69821.<|eot_id|>", "needle": ["a7fcdc12-3046-4067-b911-cc992dd69821"], "score": 1.0}
+{"ctx_len": 130142, "pred": "21818454-f3ce-48d8-96f6-6949e8c787cb.<|eot_id|>", "needle": ["21818454-f3ce-48d8-96f6-6949e8c787cb"], "score": 1.0}
+{"ctx_len": 130388, "pred": "6709a08a-158c-41f4-89ea-50ae02b6993f.<|eot_id|>", "needle": ["6709a08a-158c-41f4-89ea-50ae02b6993f"], "score": 1.0}
+{"ctx_len": 130477, "pred": ": 1cfa4748-8b9b-4352-95b7-49e3b40ccedf.<|eot_id|>", "needle": ["1cfa4748-8b9b-4352-95b7-49e3b40ccedf"], "score": 1.0}
+{"ctx_len": 130414, "pred": ": c0781fb8-b9b4-4006-bf11-6bdb3f126fac.<|eot_id|>", "needle": ["d8c1ddc3-1215-4702-9a44-71f846a84e9d"], "score": 0.0}
+{"ctx_len": 130265, "pred": "0ae7fd7b-22ff-46eb-9e8f-479a08cff813.<|eot_id|>", "needle": ["0ae7fd7b-22ff-46eb-9e8f-479a08cff813"], "score": 1.0}
+{"ctx_len": 130422, "pred": ": c8d64a2c-7a31-4f7e-a752-e5e2d9055da4.<|eot_id|>", "needle": ["c8d64a2c-7a31-4f7e-a752-e5e2d9055da4"], "score": 1.0}
+{"ctx_len": 130417, "pred": ": fdd48b77-3810-4cd2-8b2a-8a2eafb21847.<|eot_id|>", "needle": ["fdd48b77-3810-4cd2-8b2a-8a2eafb21847"], "score": 1.0}
+{"ctx_len": 130216, "pred": "afac4e47-6a8f-478f-a837-59bcfa19d2f4.<|eot_id|>", "needle": ["afac4e47-6a8f-478f-a837-59bcfa19d2f4"], "score": 1.0}
+{"ctx_len": 130357, "pred": "890a90ca-97fe-4e1d-b9c3-bec211b05595.<|eot_id|>", "needle": ["890a90ca-97fe-4e1d-b9c3-bec211b05595"], "score": 1.0}
+{"ctx_len": 130528, "pred": ": fa669475-b155-49dc-970c-2fe3b34de6de.<|eot_id|>", "needle": ["fa669475-b155-49dc-970c-2fe3b34de6de"], "score": 1.0}
+{"ctx_len": 130370, "pred": "31d6e94b-8298-46a9-a64c-f975f00d4910.<|eot_id|>", "needle": ["31d6e94b-8298-46a9-a64c-f975f00d4910"], "score": 1.0}
+{"ctx_len": 130309, "pred": "04cd5746-99e5-461d-bb46-6dada6a4fcb4.<|eot_id|>", "needle": ["04cd5746-99e5-461d-bb46-6dada6a4fcb4"], "score": 1.0}
+{"ctx_len": 130312, "pred": ": c8c81696-f5d8-4a9d-abe8-01690d31fc00.<|eot_id|>", "needle": ["c8c81696-f5d8-4a9d-abe8-01690d31fc00"], "score": 1.0}
+{"ctx_len": 130476, "pred": ": efd35ef1-87f1-443e-90ee-480048d5707e<|eot_id|>", "needle": ["efd35ef1-87f1-443e-90ee-480048d5707e"], "score": 1.0}
+{"ctx_len": 130463, "pred": "0489ec5d-07ae-49c5-afce-689ec9a89323.<|eot_id|>", "needle": ["0489ec5d-07ae-49c5-afce-689ec9a89323"], "score": 1.0}
+{"ctx_len": 130520, "pred": "4e8aec44-f5a2-4d6b-a0a5-4477581fcbbc.<|eot_id|>", "needle": ["4e8aec44-f5a2-4d6b-a0a5-4477581fcbbc"], "score": 1.0}
+{"ctx_len": 130400, "pred": ": f9e8cf0c-9205-4010-b095-e86f39bf1b3b<|eot_id|>", "needle": ["fbd2e85e-f74b-4579-895f-91ad10255844"], "score": 0.0}
+{"ctx_len": 130636, "pred": "b5bc787c-77c4-4ab7-bbac-9440ac78a870.<|eot_id|>", "needle": ["b5bc787c-77c4-4ab7-bbac-9440ac78a870"], "score": 1.0}
+{"ctx_len": 130396, "pred": ": ac312505-b376-4a93-9bb1-9b397bfb1f5c.<|eot_id|>", "needle": ["ac312505-b376-4a93-9bb1-9b397bfb1f5c"], "score": 1.0}
+{"ctx_len": 130244, "pred": "48bf8ef1-a3c5-4477-8821-169bf1a29597.<|eot_id|>", "needle": ["48bf8ef1-a3c5-4477-8821-169bf1a29597"], "score": 1.0}
+{"ctx_len": 130340, "pred": "976687c7-63d1-4046-af8c-761f61214f7e.<|eot_id|>", "needle": ["976687c7-63d1-4046-af8c-761f61214f7e"], "score": 1.0}
+{"ctx_len": 130381, "pred": ": bacc0946-2dda-4bed-bdf1-20dec02818e0.<|eot_id|>", "needle": ["f70da6cd-d439-4e3d-963e-95a5aacf8339"], "score": 0.0}
+{"ctx_len": 130577, "pred": ": cfa41d2a-091c-4fe4-8589-3dac870c1602.<|eot_id|>", "needle": ["cfa41d2a-091c-4fe4-8589-3dac870c1602"], "score": 1.0}
+{"ctx_len": 130056, "pred": "01c23c2f-f144-4a57-99cf-002ca5ec21d6.<|eot_id|>", "needle": ["01c23c2f-f144-4a57-99cf-002ca5ec21d6"], "score": 1.0}
+{"ctx_len": 130263, "pred": "1e020583-7f8a-4436-b402-b8b646e3f215.<|eot_id|>", "needle": ["1e020583-7f8a-4436-b402-b8b646e3f215"], "score": 1.0}
+{"ctx_len": 130334, "pred": "1007a682-bebe-46ed-9aa3-7414d3f69d51.<|eot_id|>", "needle": ["34a4e712-47f7-46a9-ad54-ac2cd84e4e33"], "score": 0.0}
+{"ctx_len": 130254, "pred": "ef3ffb5d-d56d-473a-b9da-55b322d2bc78.<|eot_id|>", "needle": ["ef3ffb5d-d56d-473a-b9da-55b322d2bc78"], "score": 1.0}
+{"ctx_len": 130257, "pred": "521104dc-c2d5-48e2-a712-c43bff85e433.<|eot_id|>", "needle": ["521104dc-c2d5-48e2-a712-c43bff85e433"], "score": 1.0}
+{"ctx_len": 130397, "pred": "75bf44af-00c7-4a05-a64e-8f781f09480a.<|eot_id|>", "needle": ["75bf44af-00c7-4a05-a64e-8f781f09480a"], "score": 1.0}
+{"ctx_len": 130796, "pred": "448a16f2-721f-468f-ad1a-7b26139fefe9.<|eot_id|>", "needle": ["448a16f2-721f-468f-ad1a-7b26139fefe9"], "score": 1.0}
+{"ctx_len": 130397, "pred": ": d63019fc-24a1-4a22-8e76-50f5ed354d2b.<|eot_id|>", "needle": ["d63019fc-24a1-4a22-8e76-50f5ed354d2b"], "score": 1.0}
+{"ctx_len": 130288, "pred": "f8e095cb-9bd8-41c6-8773-19db7a96f96a.<|eot_id|>", "needle": ["f8e095cb-9bd8-41c6-8773-19db7a96f96a"], "score": 1.0}
+{"ctx_len": 130322, "pred": "56f29630-7110-44ab-9ffb-4016c2c0b830.<|eot_id|>", "needle": ["56f29630-7110-44ab-9ffb-4016c2c0b830"], "score": 1.0}
+{"ctx_len": 130355, "pred": "0b48de44-8d7e-4612-b410-6ff676d06c1e.<|eot_id|>", "needle": ["0b48de44-8d7e-4612-b410-6ff676d06c1e"], "score": 1.0}
+{"ctx_len": 130365, "pred": "280e3204-0b6e-4db5-80fc-14a86f9760db.<|eot_id|>", "needle": ["280e3204-0b6e-4db5-80fc-14a86f9760db"], "score": 1.0}
+{"ctx_len": 130504, "pred": ": 4a036a28-fd59-49f9-aab2-13aadf6276f9.<|eot_id|>", "needle": ["4a036a28-fd59-49f9-aab2-13aadf6276f9"], "score": 1.0}
+{"ctx_len": 130505, "pred": ": f5903bab-fd2e-4e86-b9d5-04db5b59d6ca.<|eot_id|>", "needle": ["f5903bab-fd2e-4e86-b9d5-04db5b59d6ca"], "score": 1.0}
+{"ctx_len": 130439, "pred": "27f661b8-fdaa-4c85-a228-f4a66156801f.<|eot_id|>", "needle": ["27f661b8-fdaa-4c85-a228-f4a66156801f"], "score": 1.0}
+{"ctx_len": 130509, "pred": ": fd0de08c-9698-4933-91d3-c178420d057f<|eot_id|>", "needle": ["fd0de08c-9698-4933-91d3-c178420d057f"], "score": 1.0}
+{"ctx_len": 130423, "pred": "a5eac91d-d114-4fe0-bf15-3e294841237b.<|eot_id|>", "needle": ["a5eac91d-d114-4fe0-bf15-3e294841237b"], "score": 1.0}
+{"ctx_len": 130198, "pred": "33ef014d-e66d-49b9-9650-7a2e9b102ec3.<|eot_id|>", "needle": ["33ef014d-e66d-49b9-9650-7a2e9b102ec3"], "score": 1.0}
+{"ctx_len": 130224, "pred": ": c81ee9d6-c847-40d4-8da5-0e074bc45fd1.<|eot_id|>", "needle": ["c81ee9d6-c847-40d4-8da5-0e074bc45fd1"], "score": 1.0}
+{"ctx_len": 130478, "pred": ": bbe9f0f2-94c2-4eea-b8ff-c7bed7b563dc.<|eot_id|>", "needle": ["bbe9f0f2-94c2-4eea-b8ff-c7bed7b563dc"], "score": 1.0}
+{"ctx_len": 130338, "pred": ": f53509b4-1858-425d-9767-4c95c1b3d131<|eot_id|>", "needle": ["efdebf04-247c-4df1-be97-d48aaf84ec45"], "score": 0.0}
+{"ctx_len": 130478, "pred": "4b9db487-c8fc-489e-b726-5b084f1e4c24.<|eot_id|>", "needle": ["97d5bf8e-26e6-41a9-a1fb-64d2a15be5c2"], "score": 0.0}
+{"ctx_len": 130600, "pred": ": c26a7f7f-3979-4c2a-9cee-8b154a6042e4.<|eot_id|>", "needle": ["c26a7f7f-3979-4c2a-9cee-8b154a6042e4"], "score": 1.0}
+{"ctx_len": 130279, "pred": ": 49f18246-5897-444e-8a54-704d36175e42<|eot_id|>", "needle": ["49f18246-5897-444e-8a54-704d36175e42"], "score": 1.0}
+{"ctx_len": 130389, "pred": ": c6b696ad-4d9d-4068-8764-6591fb2bf01e.<|eot_id|>", "needle": ["c6b696ad-4d9d-4068-8764-6591fb2bf01e"], "score": 1.0}
+{"ctx_len": 130480, "pred": ": 6b2fd3e2-2e58-4e61-b64b-feb80deb51e7<|eot_id|>", "needle": ["6b2fd3e2-2e58-4e61-b64b-feb80deb51e7"], "score": 1.0}
+{"ctx_len": 130455, "pred": ": 97f7ad9e-bacc-41f0-af95-3af45ae0ff7b.<|eot_id|>", "needle": ["97f7ad9e-bacc-41f0-af95-3af45ae0ff7b"], "score": 1.0}
+{"ctx_len": 130542, "pred": "fb830a64-3b7b-4a2f-a264-23d4882a6211.<|eot_id|>", "needle": ["fb830a64-3b7b-4a2f-a264-23d4882a6211"], "score": 1.0}
+{"ctx_len": 130492, "pred": "c59e5251-a4f6-4583-8221-5f80d51343c2.<|eot_id|>", "needle": ["c59e5251-a4f6-4583-8221-5f80d51343c2"], "score": 1.0}
+{"ctx_len": 130319, "pred": "6ed056b4-60e3-40a5-84a6-300217da8912.<|eot_id|>", "needle": ["6ed056b4-60e3-40a5-84a6-300217da8912"], "score": 1.0}
+{"ctx_len": 130718, "pred": ": 3af80af0-c45d-4929-a816-fc66f8bd47ce.<|eot_id|>", "needle": ["3af80af0-c45d-4929-a816-fc66f8bd47ce"], "score": 1.0}
+{"ctx_len": 130209, "pred": "b58f0dce-933e-46b8-8abb-8f6100e54404.<|eot_id|>", "needle": ["a4d44430-c603-4ae9-a485-47fac1c1f048"], "score": 0.0}
+{"ctx_len": 130451, "pred": "376b7a54-a9f0-477f-9dc1-9bb449ceb319.<|eot_id|>", "needle": ["376b7a54-a9f0-477f-9dc1-9bb449ceb319"], "score": 1.0}
+{"ctx_len": 130310, "pred": "a8c1a5dd-b3e7-4aea-a125-3303ca5ce716.<|eot_id|>", "needle": ["a8c1a5dd-b3e7-4aea-a125-3303ca5ce716"], "score": 1.0}
+{"ctx_len": 130446, "pred": "afb12f08-da28-49b3-ae7a-63069d567066.<|eot_id|>", "needle": ["afb12f08-da28-49b3-ae7a-63069d567066"], "score": 1.0}
+{"ctx_len": 130611, "pred": ": db2e09c3-476e-482b-a9b0-31316d4e4035.<|eot_id|>", "needle": ["db2e09c3-476e-482b-a9b0-31316d4e4035"], "score": 1.0}
+{"ctx_len": 130256, "pred": ": 02f9a7a4-7120-4b46-85e2-1f275a789450.<|eot_id|>", "needle": ["02f9a7a4-7120-4b46-85e2-1f275a789450"], "score": 1.0}
+{"ctx_len": 130367, "pred": ": 498fb77a-10d4-4850-9a9e-ec398744e59d.<|eot_id|>", "needle": ["498fb77a-10d4-4850-9a9e-ec398744e59d"], "score": 1.0}
+{"ctx_len": 130291, "pred": ": d39b14da-d4a1-4888-8a66-80503be80f43.<|eot_id|>", "needle": ["d39b14da-d4a1-4888-8a66-80503be80f43"], "score": 1.0}
+{"ctx_len": 130571, "pred": ": c343e673-ccd2-44ec-95b0-eced6242f4f7.<|eot_id|>", "needle": ["c343e673-ccd2-44ec-95b0-eced6242f4f7"], "score": 1.0}
+{"ctx_len": 130431, "pred": ": b2adbb0f-4e00-4c54-8509-c625199c0c5e.<|eot_id|>", "needle": ["31699c03-f83e-41e4-9524-dc2e02d2f5aa"], "score": 0.0}
+{"ctx_len": 130592, "pred": ": eed29c34-ed3d-49cf-af0b-1a52feb0cab1.<|eot_id|>", "needle": ["621deec2-1f67-4752-bca1-38ed293d24ac"], "score": 0.0}
+{"ctx_len": 130301, "pred": "5aa066bd-4684-4f64-b96d-ab0b08eacaa5.<|eot_id|>", "needle": ["5aa066bd-4684-4f64-b96d-ab0b08eacaa5"], "score": 1.0}
+{"ctx_len": 130365, "pred": ": bed7460b-1026-440b-be08-70c96103700a<|eot_id|>", "needle": ["bed7460b-1026-440b-be08-70c96103700a"], "score": 1.0}
+{"ctx_len": 130232, "pred": ": 1a9eebeb-75b4-4a95-803e-804b7d2d089c<|eot_id|>", "needle": ["d775e2a5-c1a4-4a6a-aa00-868bbd4b4298"], "score": 0.0}
+{"ctx_len": 130374, "pred": "3865d34a-0c9e-48ed-b892-96f9c1c53c8f.<|eot_id|>", "needle": ["3865d34a-0c9e-48ed-b892-96f9c1c53c8f"], "score": 1.0}
+{"ctx_len": 130373, "pred": ": 243d9c71-232a-434c-a34e-ddf7d991c6bd<|eot_id|>", "needle": ["aa381ccd-18a4-43c3-a63c-123e583b3081"], "score": 0.0}
+{"ctx_len": 130390, "pred": ": d0e63997-c87f-421c-881c-2876a73e3b94<|eot_id|>", "needle": ["f7ecce29-42ca-4251-9ae6-25c4896df631"], "score": 0.0}
+{"ctx_len": 130652, "pred": ": e93f11ee-c432-43f9-9b00-54b2a4b1a733<|eot_id|>", "needle": ["975249aa-6c88-4889-9c3f-f321db85435d"], "score": 0.0}
+{"ctx_len": 130288, "pred": "810726af-0f11-4889-834f-f25dc95f5340.<|eot_id|>", "needle": ["810726af-0f11-4889-834f-f25dc95f5340"], "score": 1.0}
+{"ctx_len": 130518, "pred": ": a842da48-e23c-4641-b519-3fc0df7dec44.<|eot_id|>", "needle": ["a842da48-e23c-4641-b519-3fc0df7dec44"], "score": 1.0}
+{"ctx_len": 130380, "pred": ": d8503696-f262-4624-8980-d0197ce13da4<|eot_id|>", "needle": ["dce8f832-62ee-4c5e-b473-12d8b36a9ed8"], "score": 0.0}
+{"ctx_len": 130493, "pred": ": ccc02fe6-13ca-47f5-a10e-2604a7643e64.<|eot_id|>", "needle": ["ccc02fe6-13ca-47f5-a10e-2604a7643e64"], "score": 1.0}
+{"ctx_len": 130428, "pred": ": 799cc8af-1454-467b-bda3-68e9f04e78b3<|eot_id|>", "needle": ["799cc8af-1454-467b-bda3-68e9f04e78b3"], "score": 1.0}
+{"ctx_len": 130531, "pred": ": 363aae9e-94b3-4731-8d60-af883d10e2df.<|eot_id|>", "needle": ["363aae9e-94b3-4731-8d60-af883d10e2df"], "score": 1.0}
+{"ctx_len": 130492, "pred": ": 45336bf0-7ef0-4539-b32a-425a367c6f5e.<|eot_id|>", "needle": ["45336bf0-7ef0-4539-b32a-425a367c6f5e"], "score": 1.0}
+{"ctx_len": 130440, "pred": ": 45f0bb97-65a6-42ef-a016-3d4586b08bb5<|eot_id|>", "needle": ["b94f22a0-2e30-4566-9ee9-8d805f317ab3"], "score": 0.0}
+{"ctx_len": 130422, "pred": ": c1df2608-ae9f-48c0-ad78-90bc71ab7e22.<|eot_id|>", "needle": ["c1df2608-ae9f-48c0-ad78-90bc71ab7e22"], "score": 1.0}
+{"ctx_len": 130352, "pred": "0a6e006a-3d4d-41d4-9ae4-175c765da562.<|eot_id|>", "needle": ["0a6e006a-3d4d-41d4-9ae4-175c765da562"], "score": 1.0}
+{"ctx_len": 130275, "pred": "36b4be16-e70d-435e-a8e1-13b38529a372.<|eot_id|>", "needle": ["36b4be16-e70d-435e-a8e1-13b38529a372"], "score": 1.0}
+{"ctx_len": 130475, "pred": "081b6c6e-0e99-4f82-94ee-bca7c43c1dbb.<|eot_id|>", "needle": ["081b6c6e-0e99-4f82-94ee-bca7c43c1dbb"], "score": 1.0}
+{"ctx_len": 130363, "pred": "f7c2c30f-f7d1-466f-8499-b926d6510c0e.<|eot_id|>", "needle": ["f7c2c30f-f7d1-466f-8499-b926d6510c0e"], "score": 1.0}
+{"ctx_len": 130458, "pred": ": 3d6bbc80-454c-4ed4-a43f-b8120250f2be.<|eot_id|>", "needle": ["3d6bbc80-454c-4ed4-a43f-b8120250f2be"], "score": 1.0}
+{"ctx_len": 130762, "pred": ": e8db58f5-7146-4f22-8904-7672d4fbad8d.<|eot_id|>", "needle": ["e8db58f5-7146-4f22-8904-7672d4fbad8d"], "score": 1.0}
+{"ctx_len": 130413, "pred": ": b41cf005-b543-471d-9ae7-cb4ca289c437.<|eot_id|>", "needle": ["b41cf005-b543-471d-9ae7-cb4ca289c437"], "score": 1.0}
+{"ctx_len": 130441, "pred": ": 9be66ff3-d564-4180-9749-c6f2c80c43ae.<|eot_id|>", "needle": ["24d1da5a-2950-48f1-9823-07e7ee2b951e"], "score": 0.0}
+{"ctx_len": 130516, "pred": "65590463-a7e7-43f2-bc29-69392cac7b47.<|eot_id|>", "needle": ["65590463-a7e7-43f2-bc29-69392cac7b47"], "score": 1.0}
+{"ctx_len": 130292, "pred": "831c701c-9464-49b2-9abf-cdf9654eb099.<|eot_id|>", "needle": ["831c701c-9464-49b2-9abf-cdf9654eb099"], "score": 1.0}
+{"ctx_len": 130653, "pred": "ef7ea5f2-083d-46f9-b68e-a76dd736ad1d.<|eot_id|>", "needle": ["63c329dd-eeba-419c-98d0-0faa87361d13"], "score": 0.0}
+{"ctx_len": 130322, "pred": ": d0fc2e29-b9fa-488c-957a-a6286be3ed09.<|eot_id|>", "needle": ["49a94d50-a899-479e-ab33-3130b554aeae"], "score": 0.0}
+{"ctx_len": 130226, "pred": "c5175a62-224a-4c5f-8127-d0fbf4cab72f.<|eot_id|>", "needle": ["c5175a62-224a-4c5f-8127-d0fbf4cab72f"], "score": 1.0}
+{"ctx_len": 130390, "pred": "22218d29-2d1b-4c9d-85fb-8197ab641841.<|eot_id|>", "needle": ["22218d29-2d1b-4c9d-85fb-8197ab641841"], "score": 1.0}
+{"ctx_len": 130293, "pred": "a6b36f3e-9483-4228-90d6-fefffeab3e5b.<|eot_id|>", "needle": ["a6b36f3e-9483-4228-90d6-fefffeab3e5b"], "score": 1.0}
+{"ctx_len": 130323, "pred": ": cef47844-7bd3-45b3-b0a2-a6959b72ecfb.<|eot_id|>", "needle": ["cef47844-7bd3-45b3-b0a2-a6959b72ecfb"], "score": 1.0}
+{"ctx_len": 130492, "pred": ": e2607500-435c-4b38-936f-9fad4ac80384<|eot_id|>", "needle": ["e2607500-435c-4b38-936f-9fad4ac80384"], "score": 1.0}
+{"ctx_len": 130352, "pred": ": 20a7d718-0e3b-4f87-ae62-4ce181966d37<|eot_id|>", "needle": ["20a7d718-0e3b-4f87-ae62-4ce181966d37"], "score": 1.0}
+{"ctx_len": 130435, "pred": ": 62cb972e-5774-45f0-bc67-abfb39df7607<|eot_id|>", "needle": ["62cb972e-5774-45f0-bc67-abfb39df7607"], "score": 1.0}
+{"ctx_len": 130297, "pred": "59b6bdab-a48d-4a45-b9fc-a86f86f1e3be.<|eot_id|>", "needle": ["59b6bdab-a48d-4a45-b9fc-a86f86f1e3be"], "score": 1.0}
+{"ctx_len": 130162, "pred": "0df2470f-5e56-468d-bc24-676fa7ae3a46.<|eot_id|>", "needle": ["0df2470f-5e56-468d-bc24-676fa7ae3a46"], "score": 1.0}
+{"ctx_len": 130284, "pred": ": 0cadb40a-a74e-4124-af2e-67e5f42046ab<|eot_id|>", "needle": ["de7207fe-8878-4389-adf1-04e978954e61"], "score": 0.0}
+{"ctx_len": 130403, "pred": "23e7e666-dc72-455d-8557-8c31dfde8336.<|eot_id|>", "needle": ["27dc4f2d-ce9c-4805-b09a-3b30e2d3521b"], "score": 0.0}
+{"ctx_len": 130418, "pred": "46d63318-bf3c-4d6d-9c23-4eb67d4770df.<|eot_id|>", "needle": ["46d63318-bf3c-4d6d-9c23-4eb67d4770df"], "score": 1.0}
+{"ctx_len": 130247, "pred": "4ae979d6-72b4-4a7c-ac08-99e83c478612.<|eot_id|>", "needle": ["4ae979d6-72b4-4a7c-ac08-99e83c478612"], "score": 1.0}
+{"ctx_len": 130197, "pred": "7d09fcdb-cf24-4c1d-baff-6f9c312d8f51.<|eot_id|>", "needle": ["7d09fcdb-cf24-4c1d-baff-6f9c312d8f51"], "score": 1.0}
+{"ctx_len": 130303, "pred": "47c14148-5747-43f2-ab48-00c33d66a623.<|eot_id|>", "needle": ["47c14148-5747-43f2-ab48-00c33d66a623"], "score": 1.0}
+{"ctx_len": 130443, "pred": ": 65f1f1ca-5f93-4f20-a652-c604651469a3.<|eot_id|>", "needle": ["65f1f1ca-5f93-4f20-a652-c604651469a3"], "score": 1.0}
+{"ctx_len": 130295, "pred": ": bf05de63-8884-4486-b0e2-4129128b5d4a.<|eot_id|>", "needle": ["58489eeb-bc07-4f85-8305-8050266f354b"], "score": 0.0}
+{"ctx_len": 130599, "pred": "7c65abd2-f7db-4ce7-804a-dc7a33596190.<|eot_id|>", "needle": ["7c65abd2-f7db-4ce7-804a-dc7a33596190"], "score": 1.0}
+{"ctx_len": 130745, "pred": "27455f71-4c33-4de4-bf2b-f9ed8acc2fb1.<|eot_id|>", "needle": ["27455f71-4c33-4de4-bf2b-f9ed8acc2fb1"], "score": 1.0}
+{"ctx_len": 130457, "pred": ": b5abd8df-9550-4938-b8c3-32c5f893f5ed.<|eot_id|>", "needle": ["b5abd8df-9550-4938-b8c3-32c5f893f5ed"], "score": 1.0}
+{"ctx_len": 130485, "pred": "f7a4f435-b01d-4689-a503-58fb43be1b73.<|eot_id|>", "needle": ["f7a4f435-b01d-4689-a503-58fb43be1b73"], "score": 1.0}
+{"ctx_len": 130445, "pred": "eb3043c6-a493-4f28-b4a9-bec40694c662.<|eot_id|>", "needle": ["eb3043c6-a493-4f28-b4a9-bec40694c662"], "score": 1.0}
+{"ctx_len": 130643, "pred": "fd99ccec-3e77-45f9-bcd9-35b772fccd3a.<|eot_id|>", "needle": ["fd99ccec-3e77-45f9-bcd9-35b772fccd3a"], "score": 1.0}
+{"ctx_len": 130241, "pred": "042bf020-71f7-4759-90ca-4edb4147d9b2.<|eot_id|>", "needle": ["042bf020-71f7-4759-90ca-4edb4147d9b2"], "score": 1.0}
+{"ctx_len": 130496, "pred": ": fcd6892a-4f86-464a-b431-0dfe6ea46ee5.<|eot_id|>", "needle": ["e8444d64-cc22-4eb1-9ed1-8fe80c2b1e89"], "score": 0.0}
+{"ctx_len": 130445, "pred": ": e3395ef3-9ce1-4f3e-bc85-e4dcb93826eb.<|eot_id|>", "needle": ["e3395ef3-9ce1-4f3e-bc85-e4dcb93826eb"], "score": 1.0}
+{"ctx_len": 130234, "pred": ": 7c954058-5c7a-4c90-8f24-251891ca08db<|eot_id|>", "needle": ["7c954058-5c7a-4c90-8f24-251891ca08db"], "score": 1.0}
+{"ctx_len": 130549, "pred": "cc180a7d-5c56-4248-9fd8-fd74f48af6ed.<|eot_id|>", "needle": ["cc180a7d-5c56-4248-9fd8-fd74f48af6ed"], "score": 1.0}
+{"ctx_len": 130485, "pred": ": e39b6ad2-c532-4d3d-8ceb-53c70d88d64b<|eot_id|>", "needle": ["94bee0fd-a2ca-42ee-ab69-73ea7f3aa357"], "score": 0.0}
+{"ctx_len": 130342, "pred": "01b9dead-36bb-4ffa-9301-1954f7423869.<|eot_id|>", "needle": ["01b9dead-36bb-4ffa-9301-1954f7423869"], "score": 1.0}
+{"ctx_len": 130489, "pred": ": 9c32b859-3672-4a65-834f-243e05cc5214.<|eot_id|>", "needle": ["9c32b859-3672-4a65-834f-243e05cc5214"], "score": 1.0}
+{"ctx_len": 130520, "pred": "74691a7a-18f8-4628-8876-7bf3b027c5f9.<|eot_id|>", "needle": ["74691a7a-18f8-4628-8876-7bf3b027c5f9"], "score": 1.0}
+{"ctx_len": 130372, "pred": "886d1d30-8a87-48c4-9b05-a89c8f26773a.<|eot_id|>", "needle": ["886d1d30-8a87-48c4-9b05-a89c8f26773a"], "score": 1.0}
+{"ctx_len": 130495, "pred": "be9aac92-3390-485c-bf04-9829f4a9b788.<|eot_id|>", "needle": ["be9aac92-3390-485c-bf04-9829f4a9b788"], "score": 1.0}
+{"ctx_len": 130474, "pred": "de587921-b471-42fa-a607-fe26e35f533d.<|eot_id|>", "needle": ["de587921-b471-42fa-a607-fe26e35f533d"], "score": 1.0}
+{"ctx_len": 130461, "pred": "021600cd-d026-41e5-b5b1-b5d6d883de0d.<|eot_id|>", "needle": ["021600cd-d026-41e5-b5b1-b5d6d883de0d"], "score": 1.0}
+{"ctx_len": 130215, "pred": ": 8a2e60a8-4345-4e46-9da8-d8f310c5df83<|eot_id|>", "needle": ["654b8aef-afb3-4ff8-afc9-4352bceedcf6"], "score": 0.0}
+{"ctx_len": 130542, "pred": ": 49603ebf-61d8-4f3f-a71d-3bc626ffa015.<|eot_id|>", "needle": ["49603ebf-61d8-4f3f-a71d-3bc626ffa015"], "score": 1.0}
+{"ctx_len": 129998, "pred": "162ffcd7-bbcb-44cd-a403-489377e2af96.<|eot_id|>", "needle": ["162ffcd7-bbcb-44cd-a403-489377e2af96"], "score": 1.0}
+{"ctx_len": 130478, "pred": "16ea05a7-4bda-4581-8905-b600035f1922.<|eot_id|>", "needle": ["6f99b13c-e0d6-4aff-8096-a8cc688bf09c"], "score": 0.0}
+{"ctx_len": 130234, "pred": "998049a3-789a-48de-bc49-15ecb9052687.<|eot_id|>", "needle": ["998049a3-789a-48de-bc49-15ecb9052687"], "score": 1.0}
+{"ctx_len": 130454, "pred": "6a97ea0f-37ab-42f6-baca-3429f6b96651.<|eot_id|>", "needle": ["a69923b5-d17f-4540-947b-3bac7db4253c"], "score": 0.0}
+{"ctx_len": 130393, "pred": ": fbdf4ad8-f8dc-4efb-8bf0-bb8bf387e407.<|eot_id|>", "needle": ["fbdf4ad8-f8dc-4efb-8bf0-bb8bf387e407"], "score": 1.0}
+{"ctx_len": 130397, "pred": "3f8f90e6-504d-4227-b0f9-cdbb021574fd.<|eot_id|>", "needle": ["3f8f90e6-504d-4227-b0f9-cdbb021574fd"], "score": 1.0}
+{"ctx_len": 130536, "pred": "a5a91db7-c9d8-43a0-bac2-15c90d540435.<|eot_id|>", "needle": ["a5a91db7-c9d8-43a0-bac2-15c90d540435"], "score": 1.0}
+{"ctx_len": 130294, "pred": "0be82932-3138-413b-a588-e34c91aef525.<|eot_id|>", "needle": ["0be82932-3138-413b-a588-e34c91aef525"], "score": 1.0}
+{"ctx_len": 130435, "pred": ": d31d2b03-731f-4b4d-a22a-3845e4335426.<|eot_id|>", "needle": ["d31d2b03-731f-4b4d-a22a-3845e4335426"], "score": 1.0}
+{"ctx_len": 130430, "pred": "464f4e0e-b3fb-4623-bd73-b4c2ca636548.<|eot_id|>", "needle": ["464f4e0e-b3fb-4623-bd73-b4c2ca636548"], "score": 1.0}
+{"ctx_len": 130304, "pred": ": f8016cb4-7864-4ef5-8ee9-f2e5d041e315<|eot_id|>", "needle": ["f56be250-364b-4581-b15c-1c6f2da1978d"], "score": 0.0}
+{"ctx_len": 130471, "pred": "ef5a6880-bd6e-403d-9617-f70d4e3c0b56.<|eot_id|>", "needle": ["1f81e0fe-beff-4d12-8db3-8bec31943e4c"], "score": 0.0}
+{"ctx_len": 130546, "pred": ": aa43c4e1-063a-49ca-a205-3628188c1adf.<|eot_id|>", "needle": ["aa43c4e1-063a-49ca-a205-3628188c1adf"], "score": 1.0}
+{"ctx_len": 130474, "pred": "ef6f892e-5463-4909-ae6a-018e38eae8bf.<|eot_id|>", "needle": ["1666a237-6fb6-462b-904a-26f7d7b7f10a"], "score": 0.0}
+{"ctx_len": 130474, "pred": "30ca0d4f-763f-4717-b1bf-b51e21757092.<|eot_id|>", "needle": ["25a0a00c-690d-41e9-b48f-431d29473fd7"], "score": 0.0}
+{"ctx_len": 130335, "pred": "7e63eb0b-d12e-4e87-a40f-b45c5aa135cc.<|eot_id|>", "needle": ["7e63eb0b-d12e-4e87-a40f-b45c5aa135cc"], "score": 1.0}
+{"ctx_len": 130250, "pred": "5f9313d4-74a4-4653-ae9c-7f6a2ce4119c.<|eot_id|>", "needle": ["5f9313d4-74a4-4653-ae9c-7f6a2ce4119c"], "score": 1.0}
+{"ctx_len": 130418, "pred": ": d6507933-456e-4797-9cdb-c7747f83b8fb<|eot_id|>", "needle": ["d6507933-456e-4797-9cdb-c7747f83b8fb"], "score": 1.0}
+{"ctx_len": 130233, "pred": ": a0e672cf-9550-430f-b307-1a86280916a2.<|eot_id|>", "needle": ["a0e672cf-9550-430f-b307-1a86280916a2"], "score": 1.0}
+{"ctx_len": 130514, "pred": "7c2ea250-e233-402c-88ca-d08ce3141388.<|eot_id|>", "needle": ["f3f76eee-c82c-48ba-9336-c5e46e1ebaf2"], "score": 0.0}
+{"ctx_len": 130232, "pred": "aa541cda-82f9-4506-8bf8-48cfc72c3ea2.<|eot_id|>", "needle": ["aa541cda-82f9-4506-8bf8-48cfc72c3ea2"], "score": 1.0}
+{"ctx_len": 130499, "pred": "378936ba-2e95-495f-a701-9bf3d5a97707.<|eot_id|>", "needle": ["378936ba-2e95-495f-a701-9bf3d5a97707"], "score": 1.0}
+{"ctx_len": 130322, "pred": ": 8e8209aa-f515-4545-954b-395f48dbb3d7.<|eot_id|>", "needle": ["8e8209aa-f515-4545-954b-395f48dbb3d7"], "score": 1.0}
+{"ctx_len": 130195, "pred": "78977ebb-8938-4278-bb0a-fdc257180376.<|eot_id|>", "needle": ["78977ebb-8938-4278-bb0a-fdc257180376"], "score": 1.0}
+{"ctx_len": 130132, "pred": "5ee9a676-987b-4cb3-9909-e00911c27d76.<|eot_id|>", "needle": ["5ee9a676-987b-4cb3-9909-e00911c27d76"], "score": 1.0}
+{"ctx_len": 130311, "pred": ": 2e0781b5-91a4-4eb8-81ba-06af4adcfbf5<|eot_id|>", "needle": ["870c7fff-f526-41cf-8a9e-d3e064a9d0a8"], "score": 0.0}
+{"ctx_len": 130525, "pred": ": ebf82236-e891-4d0b-b88e-6ed6e8dcb2aa<|eot_id|>", "needle": ["ebf82236-e891-4d0b-b88e-6ed6e8dcb2aa"], "score": 1.0}
+{"ctx_len": 130220, "pred": "6ccf65a6-7010-493e-9d5c-46758cc385e1.<|eot_id|>", "needle": ["6ccf65a6-7010-493e-9d5c-46758cc385e1"], "score": 1.0}
+{"ctx_len": 130423, "pred": ": aaeb4b26-75db-4ace-8933-463f9de7b66d.<|eot_id|>", "needle": ["aaeb4b26-75db-4ace-8933-463f9de7b66d"], "score": 1.0}
+{"ctx_len": 130300, "pred": ": e48cdcd9-a928-43ec-9402-405f6c783a1c.<|eot_id|>", "needle": ["e48cdcd9-a928-43ec-9402-405f6c783a1c"], "score": 1.0}
+{"ctx_len": 130192, "pred": "6c4c602b-2f19-4b31-8975-e968e59dc1b2.<|eot_id|>", "needle": ["6c4c602b-2f19-4b31-8975-e968e59dc1b2"], "score": 1.0}
+{"ctx_len": 130041, "pred": ": 4f728b26-6095-474b-a00d-ab502efe8624<|eot_id|>", "needle": ["c7d11b6d-d0b4-4995-b113-44309054680e"], "score": 0.0}
+{"ctx_len": 130023, "pred": "071c03fb-83ca-43f3-b150-d0cdb5420149.<|eot_id|>", "needle": ["071c03fb-83ca-43f3-b150-d0cdb5420149"], "score": 1.0}
+{"ctx_len": 130399, "pred": ": 7f3edf3c-54c8-409b-abf9-0703fe7f2ff1<|eot_id|>", "needle": ["f7748dc0-7789-49e8-928e-200dd55680fa"], "score": 0.0}
+{"ctx_len": 130285, "pred": "4fa9499d-6ba6-41b7-b1e1-03c7add3be25.<|eot_id|>", "needle": ["4fa9499d-6ba6-41b7-b1e1-03c7add3be25"], "score": 1.0}
+{"ctx_len": 130582, "pred": "a526ede0-8568-4d5f-91f8-6947cc70ba13.<|eot_id|>", "needle": ["a526ede0-8568-4d5f-91f8-6947cc70ba13"], "score": 1.0}
+{"ctx_len": 130205, "pred": ": 6067b0be-957f-4b75-9bc7-8bffcbb35ac8.<|eot_id|>", "needle": ["6067b0be-957f-4b75-9bc7-8bffcbb35ac8"], "score": 1.0}
+{"ctx_len": 130516, "pred": "44f7a4e0-a0ac-4323-90da-70736dcfe2e3.<|eot_id|>", "needle": ["44f7a4e0-a0ac-4323-90da-70736dcfe2e3"], "score": 1.0}
+{"ctx_len": 130547, "pred": "03090144-d726-4d2e-a987-39843d73bcaf.<|eot_id|>", "needle": ["e3fdb182-f5fb-49b4-8b67-65f17bb3bc8c"], "score": 0.0}
+{"ctx_len": 130371, "pred": "7b07b47c-5204-43b0-80d6-cf2902641d00.<|eot_id|>", "needle": ["7b07b47c-5204-43b0-80d6-cf2902641d00"], "score": 1.0}
+{"ctx_len": 130555, "pred": "3c0b9a46-c7ac-4cee-9206-5c7543391164.<|eot_id|>", "needle": ["3c0b9a46-c7ac-4cee-9206-5c7543391164"], "score": 1.0}
+{"ctx_len": 130193, "pred": "47351e27-6c90-4fbd-a5e6-c3dc7899c457.<|eot_id|>", "needle": ["47351e27-6c90-4fbd-a5e6-c3dc7899c457"], "score": 1.0}
+{"ctx_len": 130394, "pred": "81e06630-5bad-41f6-8d06-86e31b33e158.<|eot_id|>", "needle": ["319780a6-1a75-456c-8798-1b33dc63b57c"], "score": 0.0}
+{"ctx_len": 130481, "pred": ": 0d8ef372-ecdb-4e4c-94c3-a2ed593fd6d6.<|eot_id|>", "needle": ["0d8ef372-ecdb-4e4c-94c3-a2ed593fd6d6"], "score": 1.0}
+{"ctx_len": 130250, "pred": "865ae282-62f5-448d-9917-eb725ea51e85.<|eot_id|>", "needle": ["865ae282-62f5-448d-9917-eb725ea51e85"], "score": 1.0}
+{"ctx_len": 130535, "pred": "0e812dc3-f600-4f3f-ac95-5aef6af3100b.<|eot_id|>", "needle": ["0e812dc3-f600-4f3f-ac95-5aef6af3100b"], "score": 1.0}
+{"ctx_len": 130570, "pred": "4d30ee28-179a-4bf1-a37a-bc032b8458db.<|eot_id|>", "needle": ["4d30ee28-179a-4bf1-a37a-bc032b8458db"], "score": 1.0}
+{"ctx_len": 130219, "pred": ": 5e69df5b-55f9-4c01-9412-ab7e62dad7a0.<|eot_id|>", "needle": ["34d993b4-964d-408f-b893-b8baa7b3973f"], "score": 0.0}
+{"ctx_len": 130212, "pred": "9d2cadd2-39b0-4503-91b3-bb5fa60c7380.<|eot_id|>", "needle": ["9d2cadd2-39b0-4503-91b3-bb5fa60c7380"], "score": 1.0}
+{"ctx_len": 130316, "pred": "8f5da61f-f7d8-4001-bbf0-ea3de479f691.<|eot_id|>", "needle": ["8f5da61f-f7d8-4001-bbf0-ea3de479f691"], "score": 1.0}
+{"ctx_len": 130433, "pred": "2bd92b95-65a8-4281-a0a2-7360b52da918.<|eot_id|>", "needle": ["2bd92b95-65a8-4281-a0a2-7360b52da918"], "score": 1.0}
+{"ctx_len": 130458, "pred": ": 96298184-efc2-4b4e-9fe7-ab7702676c93.<|eot_id|>", "needle": ["96298184-efc2-4b4e-9fe7-ab7702676c93"], "score": 1.0}
+{"ctx_len": 130048, "pred": "65650c13-a33c-4fbf-bc73-2a2be8d85821.<|eot_id|>", "needle": ["65650c13-a33c-4fbf-bc73-2a2be8d85821"], "score": 1.0}
+{"ctx_len": 130447, "pred": "fe6f1920-ab54-4ab6-8c9c-24ed490c5673.<|eot_id|>", "needle": ["fe6f1920-ab54-4ab6-8c9c-24ed490c5673"], "score": 1.0}
+{"ctx_len": 130318, "pred": ": e8e705f2-1d89-40a1-a964-3dc3f651b18e.<|eot_id|>", "needle": ["940e90e3-6f28-4583-8ea9-4cd13c9e7711"], "score": 0.0}
+{"ctx_len": 130478, "pred": "3639c55f-74f7-458d-9b0d-2078be88a4b1.<|eot_id|>", "needle": ["219b75cb-2f86-48c0-8bd2-8fbb4f3c3a00"], "score": 0.0}
+{"ctx_len": 130357, "pred": ": d67a662e-964b-474d-9dd5-866f77f941a1.<|eot_id|>", "needle": ["3671a172-64e5-4ded-b263-455fc9a5c8af"], "score": 0.0}
+{"ctx_len": 130441, "pred": "1cc0aa36-7589-42dc-97ea-1390303e2d0d.<|eot_id|>", "needle": ["1cc0aa36-7589-42dc-97ea-1390303e2d0d"], "score": 1.0}
+{"ctx_len": 130329, "pred": "7c4e957e-562c-4b7a-93d9-272094cf4c89.<|eot_id|>", "needle": ["7c4e957e-562c-4b7a-93d9-272094cf4c89"], "score": 1.0}
+{"ctx_len": 130273, "pred": "d5aa107a-5adf-4e9a-aedc-87a243784d4a.<|eot_id|>", "needle": ["d5aa107a-5adf-4e9a-aedc-87a243784d4a"], "score": 1.0}
+{"ctx_len": 130265, "pred": ": 7c6d6485-d54b-40da-a27c-2f0478df5437<|eot_id|>", "needle": ["7c6d6485-d54b-40da-a27c-2f0478df5437"], "score": 1.0}
+{"ctx_len": 130333, "pred": "3e6ddc98-de3f-4a1b-bd0a-9368dcff0bfa.<|eot_id|>", "needle": ["186e9c58-0510-4347-b9a9-c53fdbfe7376"], "score": 0.0}
+{"ctx_len": 130393, "pred": ": 044b4b2d-fa91-4f02-abea-aeae3d98c31d.<|eot_id|>", "needle": ["044b4b2d-fa91-4f02-abea-aeae3d98c31d"], "score": 1.0}
+{"ctx_len": 130248, "pred": "f7b65727-07b7-4107-a389-aedf1fc18eef.<|eot_id|>", "needle": ["f7b65727-07b7-4107-a389-aedf1fc18eef"], "score": 1.0}
+{"ctx_len": 130512, "pred": "3d9fac38-a7a0-4a65-b8fa-46f7e6705908.<|eot_id|>", "needle": ["3d9fac38-a7a0-4a65-b8fa-46f7e6705908"], "score": 1.0}
+{"ctx_len": 130401, "pred": "c20b6131-0bf2-4b8b-b202-5957c0631c19.<|eot_id|>", "needle": ["c20b6131-0bf2-4b8b-b202-5957c0631c19"], "score": 1.0}
+{"ctx_len": 130276, "pred": "ed2613de-40fd-44d5-a034-4a97a040f622.<|eot_id|>", "needle": ["ed2613de-40fd-44d5-a034-4a97a040f622"], "score": 1.0}
+{"ctx_len": 130329, "pred": ": 4b20e53d-9497-400e-a324-523f2ebb8e2b.<|eot_id|>", "needle": ["c9dc58e2-038a-4f0f-af00-58737eea5ae0"], "score": 0.0}
+{"ctx_len": 130114, "pred": "fe063c6a-580d-4d96-bc24-d8ad90a31515.<|eot_id|>", "needle": ["fe063c6a-580d-4d96-bc24-d8ad90a31515"], "score": 1.0}
+{"ctx_len": 130587, "pred": "8d1943c5-3f93-4e77-a129-59d5e94efee4.<|eot_id|>", "needle": ["8d1943c5-3f93-4e77-a129-59d5e94efee4"], "score": 1.0}
+{"ctx_len": 130275, "pred": "76ef1615-6009-4db0-a749-4e3f7037286a.<|eot_id|>", "needle": ["76ef1615-6009-4db0-a749-4e3f7037286a"], "score": 1.0}
+{"ctx_len": 130312, "pred": "b0af2f45-51e2-4335-af24-59f409c7e45c.<|eot_id|>", "needle": ["b53424cb-4a54-4b37-9d4e-bcbd5800080b"], "score": 0.0}
+{"ctx_len": 130654, "pred": ": 0a262793-cd12-4006-a9b1-d6b974692d37.<|eot_id|>", "needle": ["eb5a3ec8-4bfb-496f-9bdf-558e0d840921"], "score": 0.0}
+{"ctx_len": 130468, "pred": ": 6f85fd55-55aa-4d18-a643-b5e707b5dfd0.<|eot_id|>", "needle": ["6f85fd55-55aa-4d18-a643-b5e707b5dfd0"], "score": 1.0}
+{"ctx_len": 130290, "pred": ": 4a0c1793-1a6f-4ba8-b326-2755999cfe3c.<|eot_id|>", "needle": ["4a0c1793-1a6f-4ba8-b326-2755999cfe3c"], "score": 1.0}
+{"ctx_len": 130231, "pred": ": 4bccf8f4-aee9-47fd-8fea-e38a5b55707e<|eot_id|>", "needle": ["c2e68da6-fd64-49e3-94b2-66185c23afb2"], "score": 0.0}
+{"ctx_len": 130486, "pred": "5e8a021a-fec2-46b1-ba97-59955fa654bf.<|eot_id|>", "needle": ["5e8a021a-fec2-46b1-ba97-59955fa654bf"], "score": 1.0}
+{"ctx_len": 130260, "pred": ": 81d098aa-ea9a-465e-9a7a-4bbff8be31f0.<|eot_id|>", "needle": ["81ca054f-98a7-4102-8b6a-96601b1763fa"], "score": 0.0}
+{"ctx_len": 130060, "pred": ": df5b716f-00ea-4c04-a086-8489c286e211.<|eot_id|>", "needle": ["df5b716f-00ea-4c04-a086-8489c286e211"], "score": 1.0}
+{"ctx_len": 130486, "pred": ": 0b6f65bf-055f-4ab7-abcc-df540c9e5f5b<|eot_id|>", "needle": ["0b6f65bf-055f-4ab7-abcc-df540c9e5f5b"], "score": 1.0}
+{"ctx_len": 130242, "pred": "1914fcea-1ca7-4a03-9dd9-e867e4eed3b2.<|eot_id|>", "needle": ["1914fcea-1ca7-4a03-9dd9-e867e4eed3b2"], "score": 1.0}
+{"ctx_len": 130315, "pred": ": 11c0268d-62d6-4bae-bdda-495ede5c19fd.<|eot_id|>", "needle": ["11c0268d-62d6-4bae-bdda-495ede5c19fd"], "score": 1.0}
+{"ctx_len": 130529, "pred": "b1bafc81-f855-4fb2-b328-e89409b40c57.<|eot_id|>", "needle": ["b1bafc81-f855-4fb2-b328-e89409b40c57"], "score": 1.0}
+{"ctx_len": 130383, "pred": "5fbc7504-ad6a-4b30-94f0-4210a1c8f170.<|eot_id|>", "needle": ["5fbc7504-ad6a-4b30-94f0-4210a1c8f170"], "score": 1.0}
+{"ctx_len": 130433, "pred": ": 1c61af18-915e-4a66-913e-34dcfa20b567.<|eot_id|>", "needle": ["1c61af18-915e-4a66-913e-34dcfa20b567"], "score": 1.0}
+{"ctx_len": 130544, "pred": "f6aa90a3-9b38-445c-bf73-135efc62c067.<|eot_id|>", "needle": ["f6aa90a3-9b38-445c-bf73-135efc62c067"], "score": 1.0}
+{"ctx_len": 130306, "pred": ": de497fa8-9172-4e53-87c4-b76bb1036218.<|eot_id|>", "needle": ["de497fa8-9172-4e53-87c4-b76bb1036218"], "score": 1.0}
+{"ctx_len": 130375, "pred": ": ee0e05d4-7d86-4398-9558-53b036978383.<|eot_id|>", "needle": ["ee0e05d4-7d86-4398-9558-53b036978383"], "score": 1.0}
+{"ctx_len": 130410, "pred": "33d75138-19c0-4cc5-9560-e64145e5dad1.<|eot_id|>", "needle": ["33d75138-19c0-4cc5-9560-e64145e5dad1"], "score": 1.0}
+{"ctx_len": 130419, "pred": "0a567fca-ad51-4f27-8f66-8f898e2070b1.<|eot_id|>", "needle": ["0a567fca-ad51-4f27-8f66-8f898e2070b1"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": 09cfd06c-2add-448c-ae51-5f3bbe85e3ed<|eot_id|>", "needle": ["09cfd06c-2add-448c-ae51-5f3bbe85e3ed"], "score": 1.0}
+{"ctx_len": 130252, "pred": ": 89098aa2-6fa9-4545-bf46-6cad7b574f0f.<|eot_id|>", "needle": ["89098aa2-6fa9-4545-bf46-6cad7b574f0f"], "score": 1.0}
+{"ctx_len": 130232, "pred": "fac04e4b-5ad6-4413-95a1-32dd617c1ad3.<|eot_id|>", "needle": ["fac04e4b-5ad6-4413-95a1-32dd617c1ad3"], "score": 1.0}
+{"ctx_len": 130395, "pred": "bb585413-4bb1-4bd8-83b3-a9cae99fa4d7.<|eot_id|>", "needle": ["bb585413-4bb1-4bd8-83b3-a9cae99fa4d7"], "score": 1.0}
+{"ctx_len": 130277, "pred": ": f61ff5d2-7c05-41f5-b715-8079b3e5f2b3<|eot_id|>", "needle": ["f90e23f7-5457-4692-9192-eaeba79f9965"], "score": 0.0}
+{"ctx_len": 130332, "pred": ": 5d2b7909-8113-4fdb-b2f5-0414b4c54778.<|eot_id|>", "needle": ["5d2b7909-8113-4fdb-b2f5-0414b4c54778"], "score": 1.0}
+{"ctx_len": 130445, "pred": ": c6251e04-b0d1-4509-ac4a-8305e34e8707.<|eot_id|>", "needle": ["c6251e04-b0d1-4509-ac4a-8305e34e8707"], "score": 1.0}
+{"ctx_len": 130371, "pred": "9f238e23-e870-44e5-94e4-41f4527daa04.<|eot_id|>", "needle": ["9f238e23-e870-44e5-94e4-41f4527daa04"], "score": 1.0}
+{"ctx_len": 130246, "pred": ": 2e7dee1b-4110-45de-87d0-3e4461e91a03<|eot_id|>", "needle": ["2e7dee1b-4110-45de-87d0-3e4461e91a03"], "score": 1.0}
+{"ctx_len": 130546, "pred": ": 487d637e-81e1-476f-8959-3524ff2be653.<|eot_id|>", "needle": ["487d637e-81e1-476f-8959-3524ff2be653"], "score": 1.0}
+{"ctx_len": 130380, "pred": "5e13f2fc-a313-4247-99f3-ca51c4e63bc5.<|eot_id|>", "needle": ["5e13f2fc-a313-4247-99f3-ca51c4e63bc5"], "score": 1.0}
+{"ctx_len": 130227, "pred": "22a0ba0e-8cf8-437e-8697-87825af8ac55.<|eot_id|>", "needle": ["22a0ba0e-8cf8-437e-8697-87825af8ac55"], "score": 1.0}
+{"ctx_len": 130456, "pred": "de863627-9716-425a-ab4d-66159694ab06.<|eot_id|>", "needle": ["de863627-9716-425a-ab4d-66159694ab06"], "score": 1.0}
+{"ctx_len": 130302, "pred": "7cba39c7-d83b-4501-8baa-ecf237e1cae9.<|eot_id|>", "needle": ["7cba39c7-d83b-4501-8baa-ecf237e1cae9"], "score": 1.0}
+{"ctx_len": 130438, "pred": "9015fa7c-7015-41b1-9417-568fee4f61d4.<|eot_id|>", "needle": ["9015fa7c-7015-41b1-9417-568fee4f61d4"], "score": 1.0}
+{"ctx_len": 130200, "pred": ": d7bc5298-270e-4973-8931-196f40c133e1.<|eot_id|>", "needle": ["86f69795-94b5-48d1-9d0e-4fc773e3bf9a"], "score": 0.0}
+{"ctx_len": 130402, "pred": "8024fccd-c08a-417a-a867-80cb7e097e39.<|eot_id|>", "needle": ["8024fccd-c08a-417a-a867-80cb7e097e39"], "score": 1.0}
+{"ctx_len": 130348, "pred": "71dfd0d0-53d4-4c2d-97f8-ffb87e4f9a37.<|eot_id|>", "needle": ["71dfd0d0-53d4-4c2d-97f8-ffb87e4f9a37"], "score": 1.0}
+{"ctx_len": 130436, "pred": "d1b12e50-1d33-4132-85b8-0de106225fc8.<|eot_id|>", "needle": ["d1b12e50-1d33-4132-85b8-0de106225fc8"], "score": 1.0}
+{"ctx_len": 130405, "pred": ": 4782cc32-fb78-4515-a944-06f99cf108b6.<|eot_id|>", "needle": ["4782cc32-fb78-4515-a944-06f99cf108b6"], "score": 1.0}
+{"ctx_len": 130641, "pred": ": d9a78f4b-ec3f-4f86-a07d-b00bc45e93e3.<|eot_id|>", "needle": ["d9a78f4b-ec3f-4f86-a07d-b00bc45e93e3"], "score": 1.0}
+{"ctx_len": 130657, "pred": ": 15360111-2bcb-42a0-bd30-21c6df71332c.<|eot_id|>", "needle": ["65c3d691-6049-4089-8fc9-5a9773065e26"], "score": 0.0}
+{"ctx_len": 130229, "pred": "a657b555-1149-4e5a-a171-4d4fab059165.<|eot_id|>", "needle": ["a657b555-1149-4e5a-a171-4d4fab059165"], "score": 1.0}
+{"ctx_len": 130417, "pred": "4ecf8f12-275e-4f03-84a3-6645e6c3046b.<|eot_id|>", "needle": ["4ecf8f12-275e-4f03-84a3-6645e6c3046b"], "score": 1.0}
+{"ctx_len": 130248, "pred": ": 9fa0b243-17bf-4815-aca5-989597865838<|eot_id|>", "needle": ["419fca6f-494d-470f-8bc4-87d0ecb18b0b"], "score": 0.0}
+{"ctx_len": 130374, "pred": ": d72d9cb9-7f14-42a1-9096-783d0baeea8b<|eot_id|>", "needle": ["d72d9cb9-7f14-42a1-9096-783d0baeea8b"], "score": 1.0}
+{"ctx_len": 130340, "pred": ": 970e702a-e710-4096-9d87-79e8d65b645d.<|eot_id|>", "needle": ["970e702a-e710-4096-9d87-79e8d65b645d"], "score": 1.0}
+{"ctx_len": 130461, "pred": "456bd50c-4b32-4f34-ae2d-d82fecbbaf47.<|eot_id|>", "needle": ["456bd50c-4b32-4f34-ae2d-d82fecbbaf47"], "score": 1.0}
+{"ctx_len": 130439, "pred": "218306b0-0d3f-473c-acbc-82e41ac85e21.<|eot_id|>", "needle": ["218306b0-0d3f-473c-acbc-82e41ac85e21"], "score": 1.0}
+{"ctx_len": 130423, "pred": "2d5545df-839a-478c-bca2-9fcd9590b991.<|eot_id|>", "needle": ["2d5545df-839a-478c-bca2-9fcd9590b991"], "score": 1.0}
+{"ctx_len": 130038, "pred": "7ba0cacb-db91-457a-9f66-ac66fb749553.<|eot_id|>", "needle": ["7ba0cacb-db91-457a-9f66-ac66fb749553"], "score": 1.0}
+{"ctx_len": 130253, "pred": ": 84597685-e3dd-4c0e-a8f8-017132b72a15.<|eot_id|>", "needle": ["84597685-e3dd-4c0e-a8f8-017132b72a15"], "score": 1.0}
+{"ctx_len": 130360, "pred": "7a478769-3c3c-4749-9c9b-adca1b3c033d.<|eot_id|>", "needle": ["7a478769-3c3c-4749-9c9b-adca1b3c033d"], "score": 1.0}
+{"ctx_len": 130425, "pred": "3b1faec5-6abe-47aa-bfc9-b6ed56bee46b.<|eot_id|>", "needle": ["3b1faec5-6abe-47aa-bfc9-b6ed56bee46b"], "score": 1.0}
+{"ctx_len": 130426, "pred": ": 6fc4802c-c1de-49e2-a3fb-45592f8f4c05<|eot_id|>", "needle": ["477a6a92-f83e-49e4-933b-b7b69ff3ea2f"], "score": 0.0}
+{"ctx_len": 130352, "pred": "70a31483-3a51-4c12-9e6f-fb3215877151.<|eot_id|>", "needle": ["70a31483-3a51-4c12-9e6f-fb3215877151"], "score": 1.0}
+{"ctx_len": 130637, "pred": ": ae913b88-2bda-4cbd-ab64-6bcaf8544b3c.<|eot_id|>", "needle": ["ae913b88-2bda-4cbd-ab64-6bcaf8544b3c"], "score": 1.0}
+{"ctx_len": 130273, "pred": "ba0647c1-88b2-4b4b-887e-425789c5ff49.<|eot_id|>", "needle": ["ba0647c1-88b2-4b4b-887e-425789c5ff49"], "score": 1.0}
+{"ctx_len": 130325, "pred": "6b2a5031-28d4-4505-bdb4-c57ed14b3096.<|eot_id|>", "needle": ["6b2a5031-28d4-4505-bdb4-c57ed14b3096"], "score": 1.0}
+{"ctx_len": 130308, "pred": ": ba761229-40c1-4969-a94d-0522e60f24a8.<|eot_id|>", "needle": ["ba761229-40c1-4969-a94d-0522e60f24a8"], "score": 1.0}
+{"ctx_len": 130403, "pred": "4ea8a7f1-c279-4943-9eed-777afd21462f.<|eot_id|>", "needle": ["4ea8a7f1-c279-4943-9eed-777afd21462f"], "score": 1.0}
+{"ctx_len": 130251, "pred": "0613ee4f-d26e-498d-ac35-2222235ddbf0.<|eot_id|>", "needle": ["0613ee4f-d26e-498d-ac35-2222235ddbf0"], "score": 1.0}
+{"ctx_len": 130363, "pred": "d24ff7c5-ebf8-46f6-a022-958ed752c53c.<|eot_id|>", "needle": ["d24ff7c5-ebf8-46f6-a022-958ed752c53c"], "score": 1.0}
+{"ctx_len": 130341, "pred": "07bd0c53-a988-4cf0-b11e-9ff9d889df34.<|eot_id|>", "needle": ["07bd0c53-a988-4cf0-b11e-9ff9d889df34"], "score": 1.0}
+{"ctx_len": 130318, "pred": "ceaef48b-4cad-4580-a2f6-2098f5158012.<|eot_id|>", "needle": ["ceaef48b-4cad-4580-a2f6-2098f5158012"], "score": 1.0}
+{"ctx_len": 130364, "pred": "847dbb83-4cc9-4f50-9d40-9ebdbca1e64c.<|eot_id|>", "needle": ["847dbb83-4cc9-4f50-9d40-9ebdbca1e64c"], "score": 1.0}
+{"ctx_len": 130331, "pred": ": e0925020-a2ae-41c4-8315-9e7d9ac4bb32<|eot_id|>", "needle": ["e0925020-a2ae-41c4-8315-9e7d9ac4bb32"], "score": 1.0}
+{"ctx_len": 130282, "pred": "7bd9edf0-cee8-4de6-ad93-4a2de6a8b75b.<|eot_id|>", "needle": ["7bd9edf0-cee8-4de6-ad93-4a2de6a8b75b"], "score": 1.0}
+{"ctx_len": 130442, "pred": "4ab7e6d0-58b1-482c-b4b8-23f1033a9bb7.<|eot_id|>", "needle": ["4ab7e6d0-58b1-482c-b4b8-23f1033a9bb7"], "score": 1.0}
+{"ctx_len": 130342, "pred": "63ea0ba2-c779-47db-a791-cdcb8a3555f6.<|eot_id|>", "needle": ["63ea0ba2-c779-47db-a791-cdcb8a3555f6"], "score": 1.0}
+{"ctx_len": 130440, "pred": ": c6993ef2-613e-438a-946d-b94ab6affa6e.<|eot_id|>", "needle": ["c6993ef2-613e-438a-946d-b94ab6affa6e"], "score": 1.0}
+{"ctx_len": 130565, "pred": "501ca12e-d09c-409e-9378-b34811ac7aa9.<|eot_id|>", "needle": ["501ca12e-d09c-409e-9378-b34811ac7aa9"], "score": 1.0}
+{"ctx_len": 130164, "pred": "086988c2-e13e-4720-a2c0-a46d68ffe683.<|eot_id|>", "needle": ["086988c2-e13e-4720-a2c0-a46d68ffe683"], "score": 1.0}
+{"ctx_len": 130264, "pred": "6b133dab-7c61-4b8c-ba04-97d42bb7dff8.<|eot_id|>", "needle": ["6b133dab-7c61-4b8c-ba04-97d42bb7dff8"], "score": 1.0}
+{"ctx_len": 130359, "pred": "46e52ba8-e82d-42b0-9758-16e4d4fd2209.<|eot_id|>", "needle": ["46e52ba8-e82d-42b0-9758-16e4d4fd2209"], "score": 1.0}
+{"ctx_len": 130536, "pred": ": 9aa0a27c-59a4-4912-a03a-5d0927e9227e<|eot_id|>", "needle": ["be09e6f7-d380-4151-8d59-b766b11a606e"], "score": 0.0}
+{"ctx_len": 130294, "pred": "87fa713c-e560-4a8d-b264-6e6a05b7abd6.<|eot_id|>", "needle": ["87fa713c-e560-4a8d-b264-6e6a05b7abd6"], "score": 1.0}
+{"ctx_len": 130745, "pred": "1dd99d7d-0030-4d29-bf6b-e11e99a11b66.<|eot_id|>", "needle": ["1dd99d7d-0030-4d29-bf6b-e11e99a11b66"], "score": 1.0}
+{"ctx_len": 130567, "pred": ": 9f10dc0b-ea6a-4e95-9491-b1b5dfa4103f.<|eot_id|>", "needle": ["6de4989a-f891-4717-85dc-0ad1fff05dab"], "score": 0.0}
+{"ctx_len": 130461, "pred": ": 561caae6-fe74-471b-a336-f70fcb48f338.<|eot_id|>", "needle": ["73548189-2147-49ed-9dbf-c4c4550f16cc"], "score": 0.0}
+{"ctx_len": 130634, "pred": "8639b1dd-8d93-4d3d-a04d-90b49fec01b3.<|eot_id|>", "needle": ["8639b1dd-8d93-4d3d-a04d-90b49fec01b3"], "score": 1.0}
+{"ctx_len": 130366, "pred": "fb4ccf70-ac2b-4ce3-9ea1-7d075ccf64ad.<|eot_id|>", "needle": ["fb4ccf70-ac2b-4ce3-9ea1-7d075ccf64ad"], "score": 1.0}
+{"ctx_len": 130482, "pred": ": e7142f4c-8e79-48ce-a821-4b1198ce1b76.<|eot_id|>", "needle": ["e7142f4c-8e79-48ce-a821-4b1198ce1b76"], "score": 1.0}
+{"ctx_len": 130250, "pred": ": 1dbd2f6d-517e-4b53-8ad7-2358fa2633bd.<|eot_id|>", "needle": ["e6a54bf2-b7c3-4606-a4d3-56d9dfe61ea2"], "score": 0.0}
+{"ctx_len": 130059, "pred": "a7523fc6-5cad-4309-bbc5-465bc25d87bc.<|eot_id|>", "needle": ["a7523fc6-5cad-4309-bbc5-465bc25d87bc"], "score": 1.0}
+{"ctx_len": 130329, "pred": "5b4958e5-2529-43a6-9447-05f4c604c35b.<|eot_id|>", "needle": ["5b4958e5-2529-43a6-9447-05f4c604c35b"], "score": 1.0}
+{"ctx_len": 130451, "pred": ": 09d51915-cfc6-47a1-93d3-692e17dd5c4b.<|eot_id|>", "needle": ["ab5e4009-b5e3-4bd1-9ce1-fce043b89115"], "score": 0.0}
+{"ctx_len": 130330, "pred": ": 5384add6-59f9-4d30-bd88-8d763ded1b4c.<|eot_id|>", "needle": ["5384add6-59f9-4d30-bd88-8d763ded1b4c"], "score": 1.0}
+{"ctx_len": 130595, "pred": "5b4953c6-0ee3-40c1-b38e-493dd0ccd0d3.<|eot_id|>", "needle": ["5b4953c6-0ee3-40c1-b38e-493dd0ccd0d3"], "score": 1.0}
+{"ctx_len": 130314, "pred": ": 85ce2c3d-eb72-4b03-b3cb-9462d691adf3<|eot_id|>", "needle": ["85ce2c3d-eb72-4b03-b3cb-9462d691adf3"], "score": 1.0}
+{"ctx_len": 130517, "pred": "96ec5547-245a-415a-b678-30297e3a22fb.<|eot_id|>", "needle": ["96ec5547-245a-415a-b678-30297e3a22fb"], "score": 1.0}
+{"ctx_len": 130355, "pred": ": d84c6823-808a-459f-81bd-bc7f83f740da.<|eot_id|>", "needle": ["d84c6823-808a-459f-81bd-bc7f83f740da"], "score": 1.0}
+{"ctx_len": 130541, "pred": "7dfac2f3-1a2b-431d-a664-2e8c1757aa1d.<|eot_id|>", "needle": ["7dfac2f3-1a2b-431d-a664-2e8c1757aa1d"], "score": 1.0}
+{"ctx_len": 130434, "pred": ": e6b7e630-fac2-4989-898c-5ea1b37a4044<|eot_id|>", "needle": ["9290c470-fea5-4b47-ad4a-cd631bf77e62"], "score": 0.0}
+{"ctx_len": 130274, "pred": "38482db1-21bb-4585-a664-8d7760fb1741.<|eot_id|>", "needle": ["38482db1-21bb-4585-a664-8d7760fb1741"], "score": 1.0}
+{"ctx_len": 130339, "pred": ": 10611883-67c6-4720-b1e8-cec2b8f81871.<|eot_id|>", "needle": ["10611883-67c6-4720-b1e8-cec2b8f81871"], "score": 1.0}
+{"ctx_len": 130536, "pred": ": 466d0aa8-6494-4715-b306-250fa5f57186.<|eot_id|>", "needle": ["466d0aa8-6494-4715-b306-250fa5f57186"], "score": 1.0}
+{"ctx_len": 130477, "pred": "c379e9df-eb6a-4c18-b2e6-8bc2f68673c0.<|eot_id|>", "needle": ["c379e9df-eb6a-4c18-b2e6-8bc2f68673c0"], "score": 1.0}
+{"ctx_len": 130432, "pred": "852e1908-92e7-4d66-b0df-b913c77fa238.<|eot_id|>", "needle": ["852e1908-92e7-4d66-b0df-b913c77fa238"], "score": 1.0}
+{"ctx_len": 130386, "pred": "3b223e20-4e5f-4252-9da0-774fe2d4ad9d.<|eot_id|>", "needle": ["3b223e20-4e5f-4252-9da0-774fe2d4ad9d"], "score": 1.0}
+{"ctx_len": 130439, "pred": ": ce768622-7749-4dce-b573-544780ae2eba.<|eot_id|>", "needle": ["e332ebf9-a0e3-4e31-a11b-6811fa534c54"], "score": 0.0}
+{"ctx_len": 130359, "pred": "77320476-8ca6-4ad4-b48b-6471db5507cf.<|eot_id|>", "needle": ["77320476-8ca6-4ad4-b48b-6471db5507cf"], "score": 1.0}
+{"ctx_len": 130619, "pred": ": 4755c1cb-f5ae-4e3b-9409-ad0128130e0a<|eot_id|>", "needle": ["4755c1cb-f5ae-4e3b-9409-ad0128130e0a"], "score": 1.0}
+{"ctx_len": 130305, "pred": ": d6b2ee18-e2f4-45bb-a51b-86ca775f4f50<|eot_id|>", "needle": ["d56bb466-80d4-4d5f-99bf-e988c2e2dbe0"], "score": 0.0}
+{"ctx_len": 130390, "pred": ": 11ca3942-e6a6-42e9-970d-8f9c9653dc04<|eot_id|>", "needle": ["fd837b2f-5025-410c-a91a-628a96e88a23"], "score": 0.0}
+{"ctx_len": 130505, "pred": "35c2f7ec-4ddb-48f2-a657-1628b0a77777.<|eot_id|>", "needle": ["35c2f7ec-4ddb-48f2-a657-1628b0a77777"], "score": 1.0}
+{"ctx_len": 130353, "pred": "0707f3c6-cb0f-4376-a4da-d322a810eb5b.<|eot_id|>", "needle": ["3f42ce83-a735-41dd-8c6b-78cb5e5b0810"], "score": 0.0}
+{"ctx_len": 130448, "pred": ": 8b5f94d1-e883-4a26-a6fb-38faf61bb101.<|eot_id|>", "needle": ["8b5f94d1-e883-4a26-a6fb-38faf61bb101"], "score": 1.0}
+{"ctx_len": 130261, "pred": ": 70914baf-f85a-4ae4-abfa-4f8a6ac847a3.<|eot_id|>", "needle": ["70914baf-f85a-4ae4-abfa-4f8a6ac847a3"], "score": 1.0}
+{"ctx_len": 130230, "pred": ": d4129285-885c-4f32-ad7c-24b0152c0f1c.<|eot_id|>", "needle": ["d4129285-885c-4f32-ad7c-24b0152c0f1c"], "score": 1.0}
+{"ctx_len": 130376, "pred": "0b2ee314-eab8-4a3e-a93e-1c5b6678a7e7.<|eot_id|>", "needle": ["0b2ee314-eab8-4a3e-a93e-1c5b6678a7e7"], "score": 1.0}
+{"ctx_len": 130549, "pred": ": 40313fc5-0fc2-4df5-b278-5165aaff2878<|eot_id|>", "needle": ["474dea4a-9c3e-4879-8299-b36404bf8592"], "score": 0.0}
+{"ctx_len": 130328, "pred": ": ce76378d-1605-40b2-b2b8-65a1ce0d8cce.<|eot_id|>", "needle": ["ce76378d-1605-40b2-b2b8-65a1ce0d8cce"], "score": 1.0}
+{"ctx_len": 130430, "pred": "821814b5-5d1c-4b70-9d7a-50e0248ad3a6.<|eot_id|>", "needle": ["821814b5-5d1c-4b70-9d7a-50e0248ad3a6"], "score": 1.0}
+{"ctx_len": 130424, "pred": "b254806f-2036-4d48-8831-a426c53d38d3.<|eot_id|>", "needle": ["b254806f-2036-4d48-8831-a426c53d38d3"], "score": 1.0}
+{"ctx_len": 130254, "pred": ": 021b627d-6e12-434c-9ae0-1fe534f0e1c4.<|eot_id|>", "needle": ["021b627d-6e12-434c-9ae0-1fe534f0e1c4"], "score": 1.0}
+{"ctx_len": 130422, "pred": "1782a90b-c266-4c9a-b0bf-4ab78a269a21.<|eot_id|>", "needle": ["1782a90b-c266-4c9a-b0bf-4ab78a269a21"], "score": 1.0}
+{"ctx_len": 130510, "pred": ": d1f7de7f-9aa1-448e-b937-9e390c1c0957.<|eot_id|>", "needle": ["d1f7de7f-9aa1-448e-b937-9e390c1c0957"], "score": 1.0}
+{"ctx_len": 130265, "pred": "122052ea-1756-4c65-9d70-70eac0322719.<|eot_id|>", "needle": ["122052ea-1756-4c65-9d70-70eac0322719"], "score": 1.0}
+{"ctx_len": 130234, "pred": "8deb96eb-daf6-4398-a693-f34b63a24acd.<|eot_id|>", "needle": ["8deb96eb-daf6-4398-a693-f34b63a24acd"], "score": 1.0}
+{"ctx_len": 130496, "pred": "68595141-a22e-4285-b193-da21a5c1f481.<|eot_id|>", "needle": ["68595141-a22e-4285-b193-da21a5c1f481"], "score": 1.0}
+{"ctx_len": 130323, "pred": "03f72942-039c-41ef-9cff-df2966a23131.<|eot_id|>", "needle": ["3c849560-6f26-4a20-8c72-2d2bfc3af14a"], "score": 0.0}
+{"ctx_len": 130359, "pred": "105f0874-19ee-4a48-9298-1ed3bb7ee89c.<|eot_id|>", "needle": ["105f0874-19ee-4a48-9298-1ed3bb7ee89c"], "score": 1.0}
+{"ctx_len": 130508, "pred": "4b9e701f-21ec-400c-a346-e89db16e8b3d.<|eot_id|>", "needle": ["4b9e701f-21ec-400c-a346-e89db16e8b3d"], "score": 1.0}
+{"ctx_len": 130089, "pred": ": d5f06218-5dad-485b-93db-1b9f6c4b114f.<|eot_id|>", "needle": ["d5f06218-5dad-485b-93db-1b9f6c4b114f"], "score": 1.0}
+{"ctx_len": 130255, "pred": "7f49356c-b38e-48d3-9eb8-3906e2af5a1c.<|eot_id|>", "needle": ["7f49356c-b38e-48d3-9eb8-3906e2af5a1c"], "score": 1.0}
+{"ctx_len": 130317, "pred": "1dc78bf7-a2e7-4bf3-b9cf-d6f6b2d9eb8c.<|eot_id|>", "needle": ["1dc78bf7-a2e7-4bf3-b9cf-d6f6b2d9eb8c"], "score": 1.0}
+{"ctx_len": 130484, "pred": ": 05876827-387e-41ae-9373-763990cd6b75<|eot_id|>", "needle": ["05876827-387e-41ae-9373-763990cd6b75"], "score": 1.0}
+{"ctx_len": 130305, "pred": ": 5ce57b71-2df1-4b58-ae13-1fc32cc36ab5<|eot_id|>", "needle": ["88162447-2672-4a2d-856d-3fef60b9c3a9"], "score": 0.0}
+{"ctx_len": 130449, "pred": "8a99655a-bec8-423f-9ac7-a288bc3ce9ef.<|eot_id|>", "needle": ["4ea373a5-d196-4b92-a80a-9dda374aa704"], "score": 0.0}
+{"ctx_len": 130386, "pred": "56363928-d66b-4a77-90ac-84dd66a97c87.<|eot_id|>", "needle": ["56363928-d66b-4a77-90ac-84dd66a97c87"], "score": 1.0}
+{"ctx_len": 130550, "pred": ": d2176782-b4b5-46b0-afa3-57c5028ad4ad.<|eot_id|>", "needle": ["d2176782-b4b5-46b0-afa3-57c5028ad4ad"], "score": 1.0}
+avg:0.812

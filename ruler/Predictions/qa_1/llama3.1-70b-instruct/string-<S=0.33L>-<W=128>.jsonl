@@ -1,0 +1,1001 @@
+step 0, ctx len 130327, avg score 1.0
+step 1, ctx len 129459, avg score 1.0
+step 2, ctx len 127999, avg score 1.0
+step 3, ctx len 129545, avg score 1.0
+step 4, ctx len 128286, avg score 1.0
+step 5, ctx len 128244, avg score 0.8333333333333334
+step 6, ctx len 129631, avg score 0.7142857142857143
+step 7, ctx len 129032, avg score 0.75
+step 8, ctx len 130537, avg score 0.6666666666666666
+step 9, ctx len 128052, avg score 0.7
+step 10, ctx len 127915, avg score 0.7272727272727273
+step 11, ctx len 128640, avg score 0.75
+step 12, ctx len 129183, avg score 0.7692307692307693
+step 13, ctx len 130615, avg score 0.7857142857142857
+step 14, ctx len 129271, avg score 0.7333333333333333
+step 15, ctx len 130330, avg score 0.6875
+step 16, ctx len 129679, avg score 0.6470588235294118
+step 17, ctx len 130695, avg score 0.6666666666666666
+step 18, ctx len 129041, avg score 0.6842105263157895
+step 19, ctx len 128537, avg score 0.7
+step 20, ctx len 128516, avg score 0.7142857142857143
+step 21, ctx len 130164, avg score 0.7272727272727273
+step 22, ctx len 129955, avg score 0.7391304347826086
+step 23, ctx len 128110, avg score 0.7083333333333334
+step 24, ctx len 130601, avg score 0.72
+step 25, ctx len 130362, avg score 0.7307692307692307
+step 26, ctx len 127391, avg score 0.7407407407407407
+step 27, ctx len 129404, avg score 0.75
+step 28, ctx len 127149, avg score 0.7586206896551724
+step 29, ctx len 128802, avg score 0.7666666666666667
+step 30, ctx len 129478, avg score 0.7741935483870968
+step 31, ctx len 130279, avg score 0.78125
+step 32, ctx len 129347, avg score 0.7878787878787878
+step 33, ctx len 130015, avg score 0.7647058823529411
+step 34, ctx len 129083, avg score 0.7714285714285715
+step 35, ctx len 130292, avg score 0.75
+step 36, ctx len 126045, avg score 0.7567567567567568
+step 37, ctx len 127549, avg score 0.7631578947368421
+step 38, ctx len 128351, avg score 0.7692307692307693
+step 39, ctx len 130542, avg score 0.775
+step 40, ctx len 129501, avg score 0.7804878048780488
+step 41, ctx len 130058, avg score 0.7619047619047619
+step 42, ctx len 131013, avg score 0.7674418604651163
+step 43, ctx len 129959, avg score 0.7727272727272727
+step 44, ctx len 128253, avg score 0.7777777777777778
+step 45, ctx len 127465, avg score 0.782608695652174
+step 46, ctx len 130740, avg score 0.7872340425531915
+step 47, ctx len 130446, avg score 0.7916666666666666
+step 48, ctx len 129170, avg score 0.7959183673469388
+step 49, ctx len 130776, avg score 0.8
+step 50, ctx len 130165, avg score 0.7843137254901961
+step 51, ctx len 130889, avg score 0.7884615384615384
+step 52, ctx len 130447, avg score 0.7924528301886793
+step 53, ctx len 128703, avg score 0.7962962962962963
+step 54, ctx len 128170, avg score 0.8
+step 55, ctx len 129899, avg score 0.8035714285714286
+step 56, ctx len 129837, avg score 0.8070175438596491
+step 57, ctx len 129406, avg score 0.8103448275862069
+step 58, ctx len 128061, avg score 0.8135593220338984
+step 59, ctx len 129675, avg score 0.8166666666666667
+step 60, ctx len 130793, avg score 0.819672131147541
+step 61, ctx len 129242, avg score 0.8225806451612904
+step 62, ctx len 128333, avg score 0.8253968253968254
+step 63, ctx len 127339, avg score 0.828125
+step 64, ctx len 129980, avg score 0.8307692307692308
+step 65, ctx len 127915, avg score 0.8333333333333334
+step 66, ctx len 127819, avg score 0.835820895522388
+step 67, ctx len 129421, avg score 0.8382352941176471
+step 68, ctx len 129568, avg score 0.8405797101449275
+step 69, ctx len 130157, avg score 0.8428571428571429
+step 70, ctx len 130065, avg score 0.8450704225352113
+step 71, ctx len 129553, avg score 0.8472222222222222
+step 72, ctx len 127678, avg score 0.8493150684931506
+step 73, ctx len 130622, avg score 0.8513513513513513
+step 74, ctx len 129744, avg score 0.84
+step 75, ctx len 130984, avg score 0.8421052631578947
+step 76, ctx len 128624, avg score 0.8441558441558441
+step 77, ctx len 129541, avg score 0.8461538461538461
+step 78, ctx len 130900, avg score 0.8481012658227848
+step 79, ctx len 130781, avg score 0.85
+step 80, ctx len 129621, avg score 0.8518518518518519
+step 81, ctx len 130286, avg score 0.8536585365853658
+step 82, ctx len 128427, avg score 0.8554216867469879
+step 83, ctx len 127424, avg score 0.8571428571428571
+step 84, ctx len 127782, avg score 0.8588235294117647
+step 85, ctx len 128527, avg score 0.8488372093023255
+step 86, ctx len 129317, avg score 0.8505747126436781
+step 87, ctx len 129366, avg score 0.8522727272727273
+step 88, ctx len 126506, avg score 0.8539325842696629
+step 89, ctx len 127310, avg score 0.8555555555555555
+step 90, ctx len 126916, avg score 0.8571428571428571
+step 91, ctx len 130319, avg score 0.8586956521739131
+step 92, ctx len 129876, avg score 0.8602150537634409
+step 93, ctx len 130326, avg score 0.8617021276595744
+step 94, ctx len 127075, avg score 0.8631578947368421
+step 95, ctx len 129547, avg score 0.8645833333333334
+step 96, ctx len 127677, avg score 0.865979381443299
+step 97, ctx len 128673, avg score 0.8673469387755102
+step 98, ctx len 130508, avg score 0.8686868686868687
+step 99, ctx len 130146, avg score 0.86
+step 100, ctx len 128756, avg score 0.8514851485148515
+step 101, ctx len 128067, avg score 0.8431372549019608
+step 102, ctx len 127654, avg score 0.8446601941747572
+step 103, ctx len 128244, avg score 0.8461538461538461
+step 104, ctx len 130870, avg score 0.8476190476190476
+step 105, ctx len 126227, avg score 0.8490566037735849
+step 106, ctx len 129747, avg score 0.8504672897196262
+step 107, ctx len 130884, avg score 0.8518518518518519
+step 108, ctx len 129438, avg score 0.8532110091743119
+step 109, ctx len 128772, avg score 0.8545454545454545
+step 110, ctx len 128512, avg score 0.8558558558558559
+step 111, ctx len 126615, avg score 0.8571428571428571
+step 112, ctx len 130435, avg score 0.8584070796460177
+step 113, ctx len 127255, avg score 0.8596491228070176
+step 114, ctx len 129086, avg score 0.8521739130434782
+step 115, ctx len 130298, avg score 0.8448275862068966
+step 116, ctx len 128088, avg score 0.8461538461538461
+step 117, ctx len 129516, avg score 0.847457627118644
+step 118, ctx len 129556, avg score 0.8403361344537815
+step 119, ctx len 129091, avg score 0.8416666666666667
+step 120, ctx len 129484, avg score 0.8429752066115702
+step 121, ctx len 130267, avg score 0.8442622950819673
+step 122, ctx len 130704, avg score 0.8455284552845529
+step 123, ctx len 130058, avg score 0.8387096774193549
+step 124, ctx len 127364, avg score 0.84
+step 125, ctx len 130322, avg score 0.8412698412698413
+step 126, ctx len 129896, avg score 0.84251968503937
+step 127, ctx len 127286, avg score 0.84375
+step 128, ctx len 127712, avg score 0.8449612403100775
+step 129, ctx len 129622, avg score 0.8461538461538461
+step 130, ctx len 128130, avg score 0.8473282442748091
+step 131, ctx len 128662, avg score 0.8484848484848485
+step 132, ctx len 128832, avg score 0.849624060150376
+step 133, ctx len 129209, avg score 0.8507462686567164
+step 134, ctx len 126357, avg score 0.8518518518518519
+step 135, ctx len 127017, avg score 0.8529411764705882
+step 136, ctx len 128871, avg score 0.8467153284671532
+step 137, ctx len 127682, avg score 0.8478260869565217
+step 138, ctx len 129467, avg score 0.841726618705036
+step 139, ctx len 127948, avg score 0.8428571428571429
+step 140, ctx len 130030, avg score 0.8439716312056738
+step 141, ctx len 129229, avg score 0.8450704225352113
+step 142, ctx len 129251, avg score 0.8461538461538461
+step 143, ctx len 129856, avg score 0.8402777777777778
+step 144, ctx len 130373, avg score 0.8344827586206897
+step 145, ctx len 128144, avg score 0.8356164383561644
+step 146, ctx len 126002, avg score 0.8367346938775511
+step 147, ctx len 130387, avg score 0.8378378378378378
+step 148, ctx len 129803, avg score 0.8389261744966443
+step 149, ctx len 128801, avg score 0.84
+step 150, ctx len 129108, avg score 0.8410596026490066
+step 151, ctx len 128282, avg score 0.8421052631578947
+step 152, ctx len 124574, avg score 0.8431372549019608
+step 153, ctx len 128295, avg score 0.8441558441558441
+step 154, ctx len 130008, avg score 0.8451612903225807
+step 155, ctx len 130064, avg score 0.8461538461538461
+step 156, ctx len 130177, avg score 0.8471337579617835
+step 157, ctx len 127382, avg score 0.8417721518987342
+step 158, ctx len 129862, avg score 0.8427672955974843
+step 159, ctx len 130132, avg score 0.8375
+step 160, ctx len 128928, avg score 0.8385093167701864
+step 161, ctx len 130590, avg score 0.8333333333333334
+step 162, ctx len 129134, avg score 0.8343558282208589
+step 163, ctx len 128649, avg score 0.8292682926829268
+step 164, ctx len 128687, avg score 0.8303030303030303
+step 165, ctx len 128551, avg score 0.8313253012048193
+step 166, ctx len 126680, avg score 0.8323353293413174
+step 167, ctx len 128025, avg score 0.8333333333333334
+step 168, ctx len 129827, avg score 0.834319526627219
+step 169, ctx len 129997, avg score 0.8352941176470589
+step 170, ctx len 129191, avg score 0.8304093567251462
+step 171, ctx len 127937, avg score 0.8313953488372093
+step 172, ctx len 130265, avg score 0.8265895953757225
+step 173, ctx len 126644, avg score 0.8275862068965517
+step 174, ctx len 129529, avg score 0.8285714285714286
+step 175, ctx len 128248, avg score 0.8238636363636364
+step 176, ctx len 129840, avg score 0.8248587570621468
+step 177, ctx len 127548, avg score 0.8258426966292135
+step 178, ctx len 130104, avg score 0.8212290502793296
+step 179, ctx len 130106, avg score 0.8222222222222222
+step 180, ctx len 129195, avg score 0.8232044198895028
+step 181, ctx len 129416, avg score 0.8186813186813187
+step 182, ctx len 130825, avg score 0.819672131147541
+step 183, ctx len 129692, avg score 0.8206521739130435
+step 184, ctx len 128409, avg score 0.8216216216216217
+step 185, ctx len 129804, avg score 0.8172043010752689
+step 186, ctx len 129511, avg score 0.8128342245989305
+step 187, ctx len 129302, avg score 0.8138297872340425
+step 188, ctx len 127582, avg score 0.8148148148148148
+step 189, ctx len 126386, avg score 0.8105263157894737
+step 190, ctx len 129722, avg score 0.8115183246073299
+step 191, ctx len 128365, avg score 0.8125
+step 192, ctx len 129580, avg score 0.8082901554404145
+step 193, ctx len 129936, avg score 0.8041237113402062
+step 194, ctx len 130591, avg score 0.8051282051282052
+step 195, ctx len 128802, avg score 0.8010204081632653
+step 196, ctx len 127956, avg score 0.7969543147208121
+step 197, ctx len 129484, avg score 0.797979797979798
+step 198, ctx len 129248, avg score 0.7989949748743719
+step 199, ctx len 130663, avg score 0.795
+step 200, ctx len 128308, avg score 0.7910447761194029
+step 201, ctx len 128224, avg score 0.7920792079207921
+step 202, ctx len 128422, avg score 0.7881773399014779
+step 203, ctx len 127789, avg score 0.7892156862745098
+step 204, ctx len 130653, avg score 0.7902439024390244
+step 205, ctx len 130194, avg score 0.7912621359223301
+step 206, ctx len 128396, avg score 0.7922705314009661
+step 207, ctx len 129794, avg score 0.7884615384615384
+step 208, ctx len 128041, avg score 0.7894736842105263
+step 209, ctx len 130375, avg score 0.7904761904761904
+step 210, ctx len 127987, avg score 0.7914691943127962
+step 211, ctx len 129953, avg score 0.7924528301886793
+step 212, ctx len 130063, avg score 0.7934272300469484
+step 213, ctx len 129481, avg score 0.7897196261682243
+step 214, ctx len 130719, avg score 0.7906976744186046
+step 215, ctx len 127927, avg score 0.7916666666666666
+step 216, ctx len 125560, avg score 0.7926267281105991
+step 217, ctx len 128160, avg score 0.7935779816513762
+step 218, ctx len 127628, avg score 0.7899543378995434
+step 219, ctx len 128450, avg score 0.7863636363636364
+step 220, ctx len 127599, avg score 0.7873303167420814
+step 221, ctx len 129018, avg score 0.7837837837837838
+step 222, ctx len 131037, avg score 0.7847533632286996
+step 223, ctx len 127991, avg score 0.7857142857142857
+step 224, ctx len 129166, avg score 0.7866666666666666
+step 225, ctx len 127971, avg score 0.7831858407079646
+step 226, ctx len 127464, avg score 0.7797356828193832
+step 227, ctx len 129507, avg score 0.7807017543859649
+step 228, ctx len 130310, avg score 0.7816593886462883
+step 229, ctx len 128410, avg score 0.782608695652174
+step 230, ctx len 130009, avg score 0.7835497835497836
+step 231, ctx len 128768, avg score 0.7801724137931034
+step 232, ctx len 126759, avg score 0.7811158798283262
+step 233, ctx len 128936, avg score 0.782051282051282
+step 234, ctx len 128883, avg score 0.7829787234042553
+step 235, ctx len 129573, avg score 0.7838983050847458
+step 236, ctx len 128191, avg score 0.7805907172995781
+step 237, ctx len 130287, avg score 0.7773109243697479
+step 238, ctx len 128923, avg score 0.7782426778242678
+step 239, ctx len 127468, avg score 0.7791666666666667
+step 240, ctx len 129461, avg score 0.7800829875518672
+step 241, ctx len 128385, avg score 0.78099173553719
+step 242, ctx len 130378, avg score 0.7818930041152263
+step 243, ctx len 129851, avg score 0.7827868852459017
+step 244, ctx len 128261, avg score 0.7836734693877551
+step 245, ctx len 129274, avg score 0.7845528455284553
+step 246, ctx len 130428, avg score 0.7854251012145749
+step 247, ctx len 129865, avg score 0.7862903225806451
+step 248, ctx len 129876, avg score 0.7871485943775101
+step 249, ctx len 128159, avg score 0.788
+step 250, ctx len 128176, avg score 0.7888446215139442
+step 251, ctx len 127032, avg score 0.7896825396825397
+step 252, ctx len 129336, avg score 0.7905138339920948
+step 253, ctx len 126849, avg score 0.7874015748031497
+step 254, ctx len 129990, avg score 0.788235294117647
+step 255, ctx len 126616, avg score 0.7890625
+step 256, ctx len 129204, avg score 0.7859922178988327
+step 257, ctx len 129778, avg score 0.7868217054263565
+step 258, ctx len 128612, avg score 0.7876447876447876
+step 259, ctx len 130718, avg score 0.7846153846153846
+step 260, ctx len 129059, avg score 0.7854406130268199
+step 261, ctx len 127983, avg score 0.7862595419847328
+step 262, ctx len 129974, avg score 0.7870722433460076
+step 263, ctx len 127435, avg score 0.7840909090909091
+step 264, ctx len 129771, avg score 0.7849056603773585
+step 265, ctx len 128408, avg score 0.7819548872180451
+step 266, ctx len 128385, avg score 0.7827715355805244
+step 267, ctx len 129353, avg score 0.7798507462686567
+step 268, ctx len 130120, avg score 0.7806691449814126
+step 269, ctx len 130043, avg score 0.7814814814814814
+step 270, ctx len 128086, avg score 0.7822878228782287
+step 271, ctx len 130085, avg score 0.7794117647058824
+step 272, ctx len 130770, avg score 0.7802197802197802
+step 273, ctx len 130343, avg score 0.7773722627737226
+step 274, ctx len 129929, avg score 0.7745454545454545
+step 275, ctx len 129866, avg score 0.7753623188405797
+step 276, ctx len 130027, avg score 0.7725631768953068
+step 277, ctx len 130751, avg score 0.7733812949640287
+step 278, ctx len 126778, avg score 0.7706093189964157
+step 279, ctx len 129858, avg score 0.7714285714285715
+step 280, ctx len 127928, avg score 0.7722419928825622
+step 281, ctx len 129803, avg score 0.7730496453900709
+step 282, ctx len 130792, avg score 0.773851590106007
+step 283, ctx len 129220, avg score 0.7746478873239436
+step 284, ctx len 128001, avg score 0.775438596491228
+step 285, ctx len 127430, avg score 0.7762237762237763
+step 286, ctx len 128044, avg score 0.7770034843205574
+step 287, ctx len 130024, avg score 0.7777777777777778
+step 288, ctx len 129128, avg score 0.7785467128027682
+step 289, ctx len 128748, avg score 0.7793103448275862
+step 290, ctx len 129075, avg score 0.7800687285223368
+step 291, ctx len 129604, avg score 0.7808219178082192
+step 292, ctx len 130798, avg score 0.7815699658703071
+step 293, ctx len 129361, avg score 0.782312925170068
+step 294, ctx len 128597, avg score 0.7830508474576271
+step 295, ctx len 128916, avg score 0.7837837837837838
+step 296, ctx len 128492, avg score 0.7845117845117845
+step 297, ctx len 129748, avg score 0.785234899328859
+step 298, ctx len 129795, avg score 0.782608695652174
+step 299, ctx len 128866, avg score 0.7833333333333333
+step 300, ctx len 129149, avg score 0.7840531561461794
+step 301, ctx len 128154, avg score 0.7847682119205298
+step 302, ctx len 129545, avg score 0.7821782178217822
+step 303, ctx len 128926, avg score 0.7828947368421053
+step 304, ctx len 127909, avg score 0.7836065573770492
+step 305, ctx len 128674, avg score 0.7810457516339869
+step 306, ctx len 127755, avg score 0.7817589576547231
+step 307, ctx len 129604, avg score 0.7792207792207793
+step 308, ctx len 130909, avg score 0.7766990291262136
+step 309, ctx len 129517, avg score 0.7774193548387097
+step 310, ctx len 127482, avg score 0.77491961414791
+step 311, ctx len 129554, avg score 0.7756410256410257
+step 312, ctx len 128553, avg score 0.7763578274760383
+step 313, ctx len 130907, avg score 0.7770700636942676
+step 314, ctx len 127663, avg score 0.7777777777777778
+step 315, ctx len 127404, avg score 0.7784810126582279
+step 316, ctx len 127351, avg score 0.7791798107255521
+step 317, ctx len 129372, avg score 0.7767295597484277
+step 318, ctx len 130217, avg score 0.774294670846395
+step 319, ctx len 131033, avg score 0.775
+step 320, ctx len 129292, avg score 0.7757009345794392
+step 321, ctx len 130913, avg score 0.7732919254658385
+step 322, ctx len 127309, avg score 0.7739938080495357
+step 323, ctx len 128929, avg score 0.7746913580246914
+step 324, ctx len 127172, avg score 0.7753846153846153
+step 325, ctx len 128868, avg score 0.7760736196319018
+step 326, ctx len 128714, avg score 0.7767584097859327
+step 327, ctx len 129674, avg score 0.7774390243902439
+step 328, ctx len 128963, avg score 0.7781155015197568
+step 329, ctx len 129923, avg score 0.7787878787878788
+step 330, ctx len 129865, avg score 0.7794561933534743
+step 331, ctx len 128433, avg score 0.7801204819277109
+step 332, ctx len 128835, avg score 0.7807807807807807
+step 333, ctx len 130668, avg score 0.781437125748503
+step 334, ctx len 129493, avg score 0.7820895522388059
+step 335, ctx len 124968, avg score 0.7827380952380952
+step 336, ctx len 128975, avg score 0.7833827893175074
+step 337, ctx len 130787, avg score 0.7840236686390533
+step 338, ctx len 128669, avg score 0.7817109144542773
+step 339, ctx len 128804, avg score 0.7823529411764706
+step 340, ctx len 128507, avg score 0.782991202346041
+step 341, ctx len 129609, avg score 0.783625730994152
+step 342, ctx len 129346, avg score 0.7842565597667639
+step 343, ctx len 127180, avg score 0.7848837209302325
+step 344, ctx len 128824, avg score 0.7855072463768116
+step 345, ctx len 129245, avg score 0.7861271676300579
+step 346, ctx len 128194, avg score 0.7867435158501441
+step 347, ctx len 130298, avg score 0.7873563218390804
+step 348, ctx len 130259, avg score 0.7879656160458453
+step 349, ctx len 128734, avg score 0.7885714285714286
+step 350, ctx len 129111, avg score 0.7891737891737892
+step 351, ctx len 129050, avg score 0.7897727272727273
+step 352, ctx len 128750, avg score 0.7903682719546742
+step 353, ctx len 129542, avg score 0.7909604519774012
+step 354, ctx len 128628, avg score 0.7915492957746478
+step 355, ctx len 129683, avg score 0.7893258426966292
+step 356, ctx len 129330, avg score 0.7899159663865546
+step 357, ctx len 129465, avg score 0.7905027932960894
+step 358, ctx len 129090, avg score 0.7910863509749304
+step 359, ctx len 126709, avg score 0.7888888888888889
+step 360, ctx len 129229, avg score 0.7894736842105263
+step 361, ctx len 128299, avg score 0.7900552486187845
+step 362, ctx len 129962, avg score 0.7878787878787878
+step 363, ctx len 127060, avg score 0.7884615384615384
+step 364, ctx len 130127, avg score 0.7863013698630137
+step 365, ctx len 130263, avg score 0.7841530054644809
+step 366, ctx len 129790, avg score 0.784741144414169
+step 367, ctx len 130445, avg score 0.7853260869565217
+step 368, ctx len 130413, avg score 0.7859078590785907
+step 369, ctx len 129292, avg score 0.7864864864864864
+step 370, ctx len 129223, avg score 0.7870619946091644
+step 371, ctx len 128309, avg score 0.7876344086021505
+step 372, ctx len 128873, avg score 0.7855227882037533
+step 373, ctx len 130488, avg score 0.7834224598930482
+step 374, ctx len 127908, avg score 0.784
+step 375, ctx len 130481, avg score 0.7845744680851063
+step 376, ctx len 127281, avg score 0.7824933687002652
+step 377, ctx len 129992, avg score 0.783068783068783
+step 378, ctx len 128218, avg score 0.783641160949868
+step 379, ctx len 127243, avg score 0.7842105263157895
+step 380, ctx len 127029, avg score 0.7821522309711286
+step 381, ctx len 128779, avg score 0.7827225130890052
+step 382, ctx len 128259, avg score 0.783289817232376
+step 383, ctx len 129920, avg score 0.7838541666666666
+step 384, ctx len 130857, avg score 0.7844155844155845
+step 385, ctx len 128562, avg score 0.7849740932642487
+step 386, ctx len 128799, avg score 0.7855297157622739
+step 387, ctx len 129528, avg score 0.7860824742268041
+step 388, ctx len 128708, avg score 0.7866323907455013
+step 389, ctx len 128856, avg score 0.7871794871794872
+step 390, ctx len 129171, avg score 0.7877237851662404
+step 391, ctx len 127491, avg score 0.7882653061224489
+step 392, ctx len 129851, avg score 0.7862595419847328
+step 393, ctx len 129412, avg score 0.7868020304568528
+step 394, ctx len 127913, avg score 0.7873417721518987
+step 395, ctx len 129632, avg score 0.7878787878787878
+step 396, ctx len 128967, avg score 0.7884130982367759
+step 397, ctx len 129901, avg score 0.7889447236180904
+step 398, ctx len 128889, avg score 0.7869674185463659
+step 399, ctx len 129610, avg score 0.785
+step 400, ctx len 128571, avg score 0.7830423940149626
+step 401, ctx len 127926, avg score 0.7810945273631841
+step 402, ctx len 128110, avg score 0.7816377171215881
+step 403, ctx len 127797, avg score 0.7821782178217822
+step 404, ctx len 128443, avg score 0.782716049382716
+step 405, ctx len 126692, avg score 0.7807881773399015
+step 406, ctx len 127901, avg score 0.7813267813267813
+step 407, ctx len 130749, avg score 0.7818627450980392
+step 408, ctx len 129201, avg score 0.78239608801956
+step 409, ctx len 128241, avg score 0.7829268292682927
+step 410, ctx len 128748, avg score 0.7834549878345499
+step 411, ctx len 130525, avg score 0.7839805825242718
+step 412, ctx len 130798, avg score 0.7820823244552058
+step 413, ctx len 129665, avg score 0.782608695652174
+step 414, ctx len 128476, avg score 0.7831325301204819
+step 415, ctx len 128256, avg score 0.7836538461538461
+step 416, ctx len 127537, avg score 0.7841726618705036
+step 417, ctx len 129544, avg score 0.784688995215311
+step 418, ctx len 129986, avg score 0.7852028639618138
+step 419, ctx len 130158, avg score 0.7857142857142857
+step 420, ctx len 127593, avg score 0.7838479809976246
+step 421, ctx len 131027, avg score 0.7843601895734598
+step 422, ctx len 127976, avg score 0.7848699763593381
+step 423, ctx len 128877, avg score 0.7830188679245284
+step 424, ctx len 130386, avg score 0.7835294117647059
+step 425, ctx len 128019, avg score 0.784037558685446
+step 426, ctx len 130074, avg score 0.7845433255269321
+step 427, ctx len 129777, avg score 0.7850467289719626
+step 428, ctx len 130112, avg score 0.7855477855477856
+step 429, ctx len 128299, avg score 0.786046511627907
+step 430, ctx len 129735, avg score 0.7865429234338747
+step 431, ctx len 129728, avg score 0.7870370370370371
+step 432, ctx len 129773, avg score 0.7852193995381063
+step 433, ctx len 130633, avg score 0.7857142857142857
+step 434, ctx len 128385, avg score 0.7862068965517242
+step 435, ctx len 129005, avg score 0.7844036697247706
+step 436, ctx len 126938, avg score 0.782608695652174
+step 437, ctx len 129622, avg score 0.7831050228310502
+step 438, ctx len 126805, avg score 0.7835990888382688
+step 439, ctx len 129691, avg score 0.7840909090909091
+step 440, ctx len 130742, avg score 0.782312925170068
+step 441, ctx len 126335, avg score 0.7828054298642534
+step 442, ctx len 129418, avg score 0.7832957110609481
+step 443, ctx len 130446, avg score 0.7837837837837838
+step 444, ctx len 128996, avg score 0.7820224719101123
+step 445, ctx len 130317, avg score 0.7825112107623319
+step 446, ctx len 126233, avg score 0.7829977628635347
+step 447, ctx len 129444, avg score 0.7834821428571429
+step 448, ctx len 129789, avg score 0.7839643652561247
+step 449, ctx len 129176, avg score 0.7844444444444445
+step 450, ctx len 128820, avg score 0.7849223946784922
+step 451, ctx len 127479, avg score 0.7853982300884956
+step 452, ctx len 129102, avg score 0.7858719646799117
+step 453, ctx len 127962, avg score 0.7863436123348018
+step 454, ctx len 127935, avg score 0.7868131868131868
+step 455, ctx len 128622, avg score 0.7872807017543859
+step 456, ctx len 129017, avg score 0.787746170678337
+step 457, ctx len 128912, avg score 0.7882096069868996
+step 458, ctx len 129890, avg score 0.7886710239651417
+step 459, ctx len 129956, avg score 0.7891304347826087
+step 460, ctx len 128505, avg score 0.789587852494577
+step 461, ctx len 130412, avg score 0.7878787878787878
+step 462, ctx len 129615, avg score 0.7883369330453563
+step 463, ctx len 130336, avg score 0.7887931034482759
+step 464, ctx len 130435, avg score 0.789247311827957
+step 465, ctx len 128998, avg score 0.7875536480686696
+step 466, ctx len 130648, avg score 0.7880085653104925
+step 467, ctx len 127679, avg score 0.7884615384615384
+step 468, ctx len 128793, avg score 0.7889125799573561
+step 469, ctx len 129543, avg score 0.7893617021276595
+step 470, ctx len 129814, avg score 0.7898089171974523
+step 471, ctx len 129908, avg score 0.7902542372881356
+step 472, ctx len 127248, avg score 0.7885835095137421
+step 473, ctx len 128830, avg score 0.7890295358649789
+step 474, ctx len 129361, avg score 0.7894736842105263
+step 475, ctx len 128462, avg score 0.7899159663865546
+step 476, ctx len 127334, avg score 0.790356394129979
+step 477, ctx len 129142, avg score 0.7907949790794979
+step 478, ctx len 128417, avg score 0.791231732776618
+step 479, ctx len 128419, avg score 0.7916666666666666
+step 480, ctx len 129967, avg score 0.7920997920997921
+step 481, ctx len 129385, avg score 0.7925311203319502
+step 482, ctx len 129465, avg score 0.7929606625258799
+step 483, ctx len 129472, avg score 0.7933884297520661
+step 484, ctx len 130026, avg score 0.7938144329896907
+step 485, ctx len 130238, avg score 0.7942386831275721
+step 486, ctx len 129894, avg score 0.7926078028747433
+step 487, ctx len 130534, avg score 0.7930327868852459
+step 488, ctx len 128893, avg score 0.7934560327198364
+step 489, ctx len 128652, avg score 0.7938775510204081
+step 490, ctx len 129741, avg score 0.7922606924643585
+step 491, ctx len 128609, avg score 0.7926829268292683
+step 492, ctx len 130076, avg score 0.7931034482758621
+step 493, ctx len 128537, avg score 0.7935222672064778
+step 494, ctx len 127726, avg score 0.793939393939394
+step 495, ctx len 129189, avg score 0.7943548387096774
+step 496, ctx len 129102, avg score 0.7947686116700201
+step 497, ctx len 128298, avg score 0.7951807228915663
+step 498, ctx len 130415, avg score 0.7955911823647295
+step 499, ctx len 127112, avg score 0.796
+{"ctx_len": 130327, "pred": "France<|eot_id|>", "needle": ["France", "France", "France", "France"], "score": true}
+{"ctx_len": 129459, "pred": "10th and 11th centuries<|eot_id|>", "needle": ["10th and 11th centuries", "in the 10th and 11th centuries", "10th and 11th centuries", "10th and 11th centuries"], "score": true}
+{"ctx_len": 127999, "pred": "Denmark, Iceland and Norway<|eot_id|>", "needle": ["Denmark, Iceland and Norway", "Denmark, Iceland and Norway", "Denmark, Iceland and Norway", "Denmark, Iceland and Norway"], "score": true}
+{"ctx_len": 129545, "pred": "Rollo<|eot_id|>", "needle": ["Rollo", "Rollo", "Rollo", "Rollo"], "score": true}
+{"ctx_len": 128286, "pred": "10th<|eot_id|>", "needle": ["10th century", "the first half of the 10th century", "10th", "10th"], "score": true}
+{"ctx_len": 128244, "pred": "William<|eot_id|>", "needle": ["William the Conqueror", "William the Conqueror", "William the Conqueror"], "score": false}
+{"ctx_len": 129631, "pred": "Rollo<|eot_id|>", "needle": ["Richard I", "Richard I", "Richard I"], "score": false}
+{"ctx_len": 129032, "pred": "Catholic<|eot_id|>", "needle": ["Catholic", "Catholic orthodoxy", "Catholic"], "score": true}
+{"ctx_len": 130537, "pred": "Norseman<|eot_id|>", "needle": ["Viking", "Norseman, Viking", "Norseman, Viking"], "score": false}
+{"ctx_len": 128052, "pred": "9th century<|eot_id|>", "needle": ["9th century", "9th century", "9th century"], "score": true}
+{"ctx_len": 127915, "pred": "911<|eot_id|>", "needle": ["911", "911", "911"], "score": true}
+{"ctx_len": 128640, "pred": "King Charles III of West Francia<|eot_id|>", "needle": ["King Charles III", "King Charles III", "King Charles III"], "score": true}
+{"ctx_len": 129183, "pred": "Epte<|eot_id|>", "needle": ["Seine", "Epte", "Seine"], "score": true}
+{"ctx_len": 130615, "pred": "Rollo<|eot_id|>", "needle": ["Rollo", "Rollo", "Rollo"], "score": true}
+{"ctx_len": 129271, "pred": "The Norse religion<|eot_id|>", "needle": ["Catholicism", "Catholicism", "Catholicism"], "score": false}
+{"ctx_len": 130330, "pred": "Normandy<|eot_id|>", "needle": ["north", "the north", "north"], "score": false}
+{"ctx_len": 129679, "pred": "Animals and plant products.<|eot_id|>", "needle": ["fighting horsemen", "fighting horsemen", "fighting horsemen"], "score": false}
+{"ctx_len": 130695, "pred": "The Seljuk Turks<|eot_id|>", "needle": ["Seljuk Turks", "the Pechenegs, the Bulgars, and especially the Seljuk Turks", "the Seljuk Turks"], "score": true}
+{"ctx_len": 129041, "pred": "1050s<|eot_id|>", "needle": ["1050s", "in the 1050s", "in the 1050s"], "score": true}
+{"ctx_len": 128537, "pred": "1060s<|eot_id|>", "needle": ["1060s", "In the 1060s", "In the 1060s"], "score": true}
+{"ctx_len": 128516, "pred": "Alexius Komnenos<|eot_id|>", "needle": ["Alexius Komnenos", "Alexius Komnenos", "Alexius Komnenos"], "score": true}
+{"ctx_len": 130164, "pred": "Afranji<|eot_id|>", "needle": ["Afranji", "Afranji", "Afranji"], "score": true}
+{"ctx_len": 129955, "pred": "Oursel<|eot_id|>", "needle": ["Oursel", "Oursel", "Oursel"], "score": true}
+{"ctx_len": 128110, "pred": "The Albanians.<|eot_id|>", "needle": ["Turkish forces", "Turkish forces", "Turkish forces"], "score": false}
+{"ctx_len": 130601, "pred": "The Raoulii were descended from an Italo-Norman named Raoul.<|eot_id|>", "needle": ["Norman mercenary", "an Italo-Norman named Raoul", "descended from an Italo-Norman named Raoul"], "score": true}
+{"ctx_len": 130362, "pred": "Robert Guiscard<|eot_id|>", "needle": ["Robert Guiscard", "Robert Guiscard", "Robert Guiscard"], "score": true}
+{"ctx_len": 127391, "pred": "1082<|eot_id|>", "needle": ["1082", "February 1082", "February 1082"], "score": true}
+{"ctx_len": 129404, "pred": "30,000<|eot_id|>", "needle": ["30,000", "30,000", "30,000"], "score": true}
+{"ctx_len": 127149, "pred": "Deabolis<|eot_id|>", "needle": ["Deabolis", "Deabolis", "Deabolis"], "score": true}
+{"ctx_len": 128802, "pred": "Bohemond<|eot_id|>", "needle": ["Bohemond", "Bohemond", "Bohemond"], "score": true}
+{"ctx_len": 129478, "pred": "Deabolis<|eot_id|>", "needle": ["Deabolis", "the river Deabolis", "Deabolis"], "score": true}
+{"ctx_len": 130279, "pred": "1185<|eot_id|>", "needle": ["1185", "in 1185", "1185"], "score": true}
+{"ctx_len": 129347, "pred": "Dyrrachium<|eot_id|>", "needle": ["Dyrrachium", "Dyrrachium", "Dyrrachium"], "score": true}
+{"ctx_len": 130015, "pred": "Dyrrachium was located in the southern shores of Albania.<|eot_id|>", "needle": ["the Adriatic", "the Adriatic", "Adriatic"], "score": false}
+{"ctx_len": 129083, "pred": "Ethelred II of England<|eot_id|>", "needle": ["King Ethelred II", "Ethelred II", "King Ethelred II"], "score": true}
+{"ctx_len": 130292, "pred": "Richard II of Normandy<|eot_id|>", "needle": ["Duke Richard II", "Duke Richard II", "Duke Richard II"], "score": false}
+{"ctx_len": 126045, "pred": "Normandy<|eot_id|>", "needle": ["Normandy", "Normandy", "Normandy"], "score": true}
+{"ctx_len": 127549, "pred": "Sweyn Forkbeard<|eot_id|>", "needle": ["Sweyn Forkbeard", "Sweyn Forkbeard", "Sweyn Forkbeard"], "score": true}
+{"ctx_len": 128351, "pred": "Harthacnut<|eot_id|>", "needle": ["Harthacnut", "Harthacnut", "Harthacnut"], "score": true}
+{"ctx_len": 130542, "pred": "1041<|eot_id|>", "needle": ["1041", "in 1041", "1041"], "score": true}
+{"ctx_len": 129501, "pred": "Robert of Jumi\u00e8ges<|eot_id|>", "needle": ["Robert of Jumi\u00e8ges", "Robert of Jumi\u00e8ges", "Robert of Jumi\u00e8ges"], "score": true}
+{"ctx_len": 130058, "pred": "Hastings<|eot_id|>", "needle": ["Battle of Hastings", "the Battle of Hastings", "at the Battle of Hastings"], "score": false}
+{"ctx_len": 131013, "pred": "Duke William II of Normandy<|eot_id|>", "needle": ["William II", "Duke William II", "Duke William II"], "score": true}
+{"ctx_len": 129959, "pred": "1066<|eot_id|>", "needle": ["1066", "In 1066", "1066"], "score": true}
+{"ctx_len": 128253, "pred": "Anglo-Saxons<|eot_id|>", "needle": ["Anglo-Saxons", "the Anglo-Saxons", "Anglo-Saxons"], "score": true}
+{"ctx_len": 127465, "pred": "The Anglo-Norman language's final form was absorbed into the Anglo-Saxon language of their subjects, and it evolved into Modern English.<|eot_id|>", "needle": ["Modern English", "Modern English", "Modern English"], "score": true}
+{"ctx_len": 130740, "pred": "1169<|eot_id|>", "needle": ["1169", "1169", "1169"], "score": true}
+{"ctx_len": 130446, "pred": "Ireland<|eot_id|>", "needle": ["Ireland", "Ireland", "Ireland"], "score": true}
+{"ctx_len": 129170, "pred": "The Normans combined their culture with the native Irish culture in Ireland.<|eot_id|>", "needle": ["Irish", "Irish", "Irish"], "score": true}
+{"ctx_len": 130776, "pred": "Edgar<|eot_id|>", "needle": ["Edgar", "Edgar", "Edgar Atheling"], "score": true}
+{"ctx_len": 130165, "pred": "Malcolm III<|eot_id|>", "needle": ["King Malcolm III of Scotland", "King Malcolm III", "King Malcolm III"], "score": false}
+{"ctx_len": 130889, "pred": "1072<|eot_id|>", "needle": ["1072", "1072", "1072"], "score": true}
+{"ctx_len": 130447, "pred": "Duncan<|eot_id|>", "needle": ["Duncan", "Duncan", "Duncan"], "score": true}
+{"ctx_len": 128703, "pred": "Sybilla of Normandy<|eot_id|>", "needle": ["Sybilla of Normandy", "Sybilla of Normandy", "Sybilla"], "score": true}
+{"ctx_len": 128170, "pred": "Norman<|eot_id|>", "needle": ["Norman", "Norman", "Norman"], "score": true}
+{"ctx_len": 129899, "pred": "Hereford<|eot_id|>", "needle": ["Hereford", "Hereford", "Hereford"], "score": true}
+{"ctx_len": 129837, "pred": "the Welsh<|eot_id|>", "needle": ["the Welsh", "the Welsh", "the Welsh"], "score": true}
+{"ctx_len": 129406, "pred": "Edward the Confessor<|eot_id|>", "needle": ["Edward the Confessor", "Edward the Confessor", "Edward the Confessor"], "score": true}
+{"ctx_len": 128061, "pred": "Wales<|eot_id|>", "needle": ["Wales", "Wales", "Wales"], "score": true}
+{"ctx_len": 129675, "pred": "1018<|eot_id|>", "needle": ["1018", "1064", "1018"], "score": true}
+{"ctx_len": 130793, "pred": "William of Montreuil<|eot_id|>", "needle": ["William of Montreuil", "William of Montreuil", "William of Montreuil"], "score": true}
+{"ctx_len": 129242, "pred": "1097<|eot_id|>", "needle": ["1097", "1097", "1097"], "score": true}
+{"ctx_len": 128333, "pred": "Tancred<|eot_id|>", "needle": ["Tancred", "Tancred", "Tancred"], "score": true}
+{"ctx_len": 127339, "pred": "Tancred was instrumental in the conquest of Jerusalem and he worked for the expansion of the Crusader kingdom in Transjordan and the region of Galilee.<|eot_id|>", "needle": ["Jerusalem", "Jerusalem", "Jerusalem"], "score": true}
+{"ctx_len": 129980, "pred": "380 years<|eot_id|>", "needle": ["380 years", "380 years", "380 years"], "score": true}
+{"ctx_len": 127915, "pred": "A storm<|eot_id|>", "needle": ["a storm", "a storm", "a storm"], "score": true}
+{"ctx_len": 127819, "pred": "Berengaria<|eot_id|>", "needle": ["Berengaria", "Berengaria", "Berengaria"], "score": true}
+{"ctx_len": 129421, "pred": "1191<|eot_id|>", "needle": ["1191", "1191", "1191"], "score": true}
+{"ctx_len": 129568, "pred": "Isaac Komnenos<|eot_id|>", "needle": ["Isaac Komnenos", "Isaac", "Isaac Komnenos"], "score": true}
+{"ctx_len": 130157, "pred": "Conrad of Montferrat<|eot_id|>", "needle": ["Conrad of Montferrat", "Conrad of Montferrat", "Conrad of Montferrat"], "score": true}
+{"ctx_len": 130065, "pred": "Silver<|eot_id|>", "needle": ["silver", "silver", "silver"], "score": true}
+{"ctx_len": 129553, "pred": "Guy de Lusignan<|eot_id|>", "needle": ["Guy de Lusignan", "Guy de Lusignan", "Guy de Lusignan"], "score": true}
+{"ctx_len": 127678, "pred": "Africa<|eot_id|>", "needle": ["Africa", "Africa", "Africa"], "score": true}
+{"ctx_len": 130622, "pred": "Bethencourt<|eot_id|>", "needle": ["Bethencourt", "Bethencourt", "Bethencourt"], "score": true}
+{"ctx_len": 129744, "pred": "Edward the Confessor<|eot_id|>", "needle": ["Enrique P\u00e9rez de Guzm\u00e1n", "Enrique P\u00e9rez de Guzm\u00e1n", "Enrique P\u00e9rez de Guzm\u00e1n"], "score": false}
+{"ctx_len": 130984, "pred": "Maciot de Bethencourt<|eot_id|>", "needle": ["Maciot de Bethencourt", "Maciot de Bethencourt", "Maciot de Bethencourt"], "score": true}
+{"ctx_len": 128624, "pred": "Channel Islands<|eot_id|>", "needle": ["Channel Islands", "the Channel Islands", "the Channel Islands"], "score": true}
+{"ctx_len": 129541, "pred": "two<|eot_id|>", "needle": ["two", "two", "two"], "score": true}
+{"ctx_len": 130900, "pred": "A unique Romanesque idiom<|eot_id|>", "needle": ["Romanesque", "Romanesque", "Romanesque"], "score": true}
+{"ctx_len": 130781, "pred": "rounded arches<|eot_id|>", "needle": ["rounded", "rounded", "rounded"], "score": true}
+{"ctx_len": 129621, "pred": "Early Gothic<|eot_id|>", "needle": ["Early Gothic", "Early Gothic", "Early Gothic"], "score": true}
+{"ctx_len": 130286, "pred": "Anglo-Saxon<|eot_id|>", "needle": ["Anglo-Saxon", "Anglo-Saxon", "Anglo-Saxon"], "score": true}
+{"ctx_len": 128427, "pred": "The Kingdom of Sicily<|eot_id|>", "needle": ["Sicily", "Sicily", "Kingdom of Sicily"], "score": true}
+{"ctx_len": 127424, "pred": "early 11th century<|eot_id|>", "needle": ["early 11th century", "11th century", "in the early 11th century"], "score": true}
+{"ctx_len": 127782, "pred": "The dukes<|eot_id|>", "needle": ["dukes", "the dukes", "dukes"], "score": true}
+{"ctx_len": 128527, "pred": "1562 to 1598<|eot_id|>", "needle": ["16th century", "the 16th century", "in the 16th century"], "score": false}
+{"ctx_len": 129317, "pred": "Embroidery<|eot_id|>", "needle": ["embroidery", "embroidery", "embroidery"], "score": true}
+{"ctx_len": 129366, "pred": "The Bayeux Tapestry<|eot_id|>", "needle": ["Bayeux Tapestry", "the Bayeux Tapestry", "the Bayeux Tapestry"], "score": true}
+{"ctx_len": 126506, "pred": "Odo, the Bishop of Bayeux<|eot_id|>", "needle": ["Odo", "Odo", "Odo"], "score": true}
+{"ctx_len": 127310, "pred": "Mosaics<|eot_id|>", "needle": ["mosaics", "mosaics", "mosaics"], "score": true}
+{"ctx_len": 126916, "pred": "11th century<|eot_id|>", "needle": ["11th", "the 11th", "11th"], "score": true}
+{"ctx_len": 130319, "pred": "William of Volpiano and John of Ravenna<|eot_id|>", "needle": ["William of Volpiano and John of Ravenna", "William of Volpiano and John of Ravenna", "William of Volpiano and John of Ravenna"], "score": true}
+{"ctx_len": 129876, "pred": "southern Italy<|eot_id|>", "needle": ["southern Italy", "southern Italy", "southern Italy"], "score": true}
+{"ctx_len": 130326, "pred": "Sant'Eufemia<|eot_id|>", "needle": ["Latin monastery at Sant'Eufemia.", "a Latin monastery at Sant'Eufemia", "Sant'Eufemia"], "score": true}
+{"ctx_len": 127075, "pred": "Robert Guiscard<|eot_id|>", "needle": ["Robert Guiscard", "Robert Guiscard", "Robert Guiscard"], "score": true}
+{"ctx_len": 129547, "pred": "Singing<|eot_id|>", "needle": ["singing", "singing", "singing"], "score": true}
+{"ctx_len": 127677, "pred": "Computational complexity theory<|eot_id|>", "needle": ["Computational complexity theory", "Computational complexity theory", "Computational complexity theory"], "score": true}
+{"ctx_len": 128673, "pred": "Inherent difficulty<|eot_id|>", "needle": ["inherent difficulty", "their inherent difficulty", "inherent difficulty"], "score": true}
+{"ctx_len": 130508, "pred": "A computational problem<|eot_id|>", "needle": ["computational problems", "A computational problem", "computational problem"], "score": true}
+{"ctx_len": 130146, "pred": "Computational complexity<|eot_id|>", "needle": ["if its solution requires significant resources", "its solution requires significant resources", "if its solution requires significant resources"], "score": false}
+{"ctx_len": 128756, "pred": "The time and space hierarchy theorems<|eot_id|>", "needle": ["mathematical models of computation", "mathematical models of computation", "mathematical models of computation"], "score": false}
+{"ctx_len": 128067, "pred": "Time and space.<|eot_id|>", "needle": ["time and storage", "time and storage", "time and storage"], "score": false}
+{"ctx_len": 127654, "pred": "The number of gates<|eot_id|>", "needle": ["number of gates in a circuit", "number of gates in a circuit", "number of gates"], "score": true}
+{"ctx_len": 128244, "pred": "It helps in determining the practical limits on what computers can and cannot do.<|eot_id|>", "needle": ["determine the practical limits on what computers can and cannot do", "what computers can and cannot do", "determine the practical limits on what computers can and cannot do"], "score": true}
+{"ctx_len": 130870, "pred": "Analysis of algorithms and computability theory.<|eot_id|>", "needle": ["analysis of algorithms and computability theory", "analysis of algorithms and computability theory", "analysis of algorithms and computability theory"], "score": true}
+{"ctx_len": 126227, "pred": "Analysis of algorithms<|eot_id|>", "needle": ["analysis of algorithms", "analysis of algorithms", "analysis of algorithms"], "score": true}
+{"ctx_len": 129747, "pred": "Computational complexity theory<|eot_id|>", "needle": ["computational complexity theory", "computational complexity theory", "computational complexity theory"], "score": true}
+{"ctx_len": 130884, "pred": "computability theory<|eot_id|>", "needle": ["computability theory", "computability theory", "computability theory"], "score": true}
+{"ctx_len": 129438, "pred": "problem instance<|eot_id|>", "needle": ["problem instance", "a problem instance", "problem instance"], "score": true}
+{"ctx_len": 128772, "pred": "Problem<|eot_id|>", "needle": ["the problem", "a problem", "problem"], "score": true}
+{"ctx_len": 128512, "pred": "concrete<|eot_id|>", "needle": ["concrete", "concrete", "abstract"], "score": true}
+{"ctx_len": 126615, "pred": "Instance<|eot_id|>", "needle": ["instances", "the instance", "instance"], "score": true}
+{"ctx_len": 130435, "pred": "Solution<|eot_id|>", "needle": ["solution", "the solution", "solution"], "score": true}
+{"ctx_len": 127255, "pred": "2000<|eot_id|>", "needle": ["2000", "2000", "2000"], "score": true}
+{"ctx_len": 129086, "pred": "Is there a route of at most 2000 kilometres passing through all of Germany's 15 largest cities?<|eot_id|>", "needle": ["round trip through all sites in Milan", "asking for a round trip through all sites in Milan whose total length is at most 10 km", "a round trip through all sites in Milan whose total length is at most 10 km"], "score": false}
+{"ctx_len": 130298, "pred": "Whether P equals NP<|eot_id|>", "needle": ["computational problems", "computational problems", "computational problems"], "score": false}
+{"ctx_len": 128088, "pred": "A problem instance<|eot_id|>", "needle": ["problem instance", "a problem instance", "problem instance"], "score": true}
+{"ctx_len": 129516, "pred": "Binary alphabet<|eot_id|>", "needle": ["binary alphabet", "binary", "binary"], "score": true}
+{"ctx_len": 129556, "pred": "Input string<|eot_id|>", "needle": ["bitstrings", "bitstrings", "bitstrings"], "score": false}
+{"ctx_len": 129091, "pred": "In binary notation<|eot_id|>", "needle": ["binary notation", "binary notation", "binary notation"], "score": true}
+{"ctx_len": 129484, "pred": "directly via their adjacency matrices<|eot_id|>", "needle": ["adjacency matrices", "directly via their adjacency matrices"], "score": true}
+{"ctx_len": 130267, "pred": "Decision problems<|eot_id|>", "needle": ["Decision problems", "Decision problems", "Decision"], "score": true}
+{"ctx_len": 130704, "pred": "yes or no<|eot_id|>", "needle": ["yes or no", "yes or no", "yes or no"], "score": true}
+{"ctx_len": 130058, "pred": "0 and 1<|eot_id|>", "needle": ["1 or 0", "1 or 0", "1 or 0"], "score": false}
+{"ctx_len": 127364, "pred": "yes<|eot_id|>", "needle": ["yes", "yes", "yes"], "score": true}
+{"ctx_len": 130322, "pred": "yes<|eot_id|>", "needle": ["yes", "yes", "yes"], "score": true}
+{"ctx_len": 129896, "pred": "An arbitrary graph.<|eot_id|>", "needle": ["arbitrary graph", "arbitrary", "arbitrary"], "score": true}
+{"ctx_len": 127286, "pred": "The formal language<|eot_id|>", "needle": ["formal language", "The formal language", "The formal language associated with this decision problem"], "score": true}
+{"ctx_len": 127712, "pred": "how graphs are encoded as binary strings<|eot_id|>", "needle": ["how graphs are encoded as binary strings", "how graphs are encoded as binary strings", "how graphs are encoded as binary strings"], "score": true}
+{"ctx_len": 129622, "pred": "a computational problem<|eot_id|>", "needle": ["a computational problem", "a computational problem", "a computational problem"], "score": true}
+{"ctx_len": 128130, "pred": "A single output<|eot_id|>", "needle": ["a single output", "single", "single"], "score": true}
+{"ctx_len": 128662, "pred": "Function problem<|eot_id|>", "needle": ["A function problem", "function", "function problem"], "score": true}
+{"ctx_len": 128832, "pred": "The integer factorization problem.<|eot_id|>", "needle": ["the integer factorization problem", "integer factorization", "integer factorization problem"], "score": true}
+{"ctx_len": 129209, "pred": "Complex<|eot_id|>", "needle": ["complex", "complex", "complex"], "score": true}
+{"ctx_len": 126357, "pred": "Function problems can be recast as decision problems.<|eot_id|>", "needle": ["decision problems", "as decision problems", "as decision problems"], "score": true}
+{"ctx_len": 127017, "pred": "the set of triples (a, b, c) such that the relation a \u00d7 b = c holds.<|eot_id|>", "needle": ["set of triples", "triple", "the set of triples (a, b, c) such that the relation a \u00d7 b = c holds"], "score": true}
+{"ctx_len": 128871, "pred": "Big O notation<|eot_id|>", "needle": ["how much time the best algorithm requires to solve the problem", "time", "time"], "score": false}
+{"ctx_len": 127682, "pred": "The size of the instance.<|eot_id|>", "needle": ["the instance", "the instance", "the size of the instance"], "score": true}
+{"ctx_len": 129467, "pred": "The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs", "needle": ["as a function of the size of the instance", "as a function of the size of the instance", "a function of the size of the instance"], "score": false}
+{"ctx_len": 127948, "pred": "bits<|eot_id|>", "needle": ["bits", "bits", "bits"], "score": true}
+{"ctx_len": 130030, "pred": "the input size<|eot_id|>", "needle": ["an increase in the input size", "input size", "input size"], "score": true}
+{"ctx_len": 129229, "pred": "Cobham<|eot_id|>", "needle": ["Cobham's thesis", "Cobham's", "Cobham"], "score": true}
+{"ctx_len": 129251, "pred": "The time taken can be expressed as a function of n.<|eot_id|>", "needle": ["the time taken", "the time taken", "the time taken"], "score": true}
+{"ctx_len": 129856, "pred": "Worst-case<|eot_id|>", "needle": ["worst-case time complexity", "worst-case time complexity", "the worst-case time complexity"], "score": false}
+{"ctx_len": 130373, "pred": "O(n2)<|eot_id|>", "needle": ["T(n)", "T(n)", "T(n)"], "score": false}
+{"ctx_len": 128144, "pred": "polynomial time algorithm<|eot_id|>", "needle": ["polynomial time algorithm", "polynomial time", "polynomial time algorithm"], "score": true}
+{"ctx_len": 126002, "pred": "Turing machine<|eot_id|>", "needle": ["A Turing machine", "A Turing machine", "Turing machine"], "score": true}
+{"ctx_len": 130387, "pred": "an algorithm<|eot_id|>", "needle": ["an algorithm", "an algorithm", "an algorithm"], "score": true}
+{"ctx_len": 129803, "pred": "Turing machine<|eot_id|>", "needle": ["the Turing machine", "the Turing machine", "Turing machine"], "score": true}
+{"ctx_len": 128801, "pred": "Symbols<|eot_id|>", "needle": ["symbols", "symbols", "symbols"], "score": true}
+{"ctx_len": 129108, "pred": "A deterministic Turing machine<|eot_id|>", "needle": ["A deterministic Turing machine", "deterministic", "deterministic Turing machine"], "score": true}
+{"ctx_len": 128282, "pred": "rules<|eot_id|>", "needle": ["rules", "rules", "a fixed set of rules to determine its future actions"], "score": true}
+{"ctx_len": 124574, "pred": "Probabilistic Turing machine<|eot_id|>", "needle": ["A probabilistic Turing machine", "probabilistic", "probabilistic Turing machine"], "score": true}
+{"ctx_len": 128295, "pred": "Non-deterministic Turing machine<|eot_id|>", "needle": ["A non-deterministic Turing machine", "non-deterministic", "non-deterministic Turing machine"], "score": true}
+{"ctx_len": 130008, "pred": "Randomized algorithms<|eot_id|>", "needle": ["randomized algorithms", "randomized algorithms", "randomized algorithms"], "score": true}
+{"ctx_len": 130064, "pred": "complexity classes<|eot_id|>", "needle": ["complexity classes", "complexity classes", "complexity classes"], "score": true}
+{"ctx_len": 130177, "pred": "Resources (such as time or space) and the type of reduction being used.<|eot_id|>", "needle": ["time or space", "time or space", "time or space"], "score": true}
+{"ctx_len": 127382, "pred": "Deterministic Turing machines and probabilistic Turing machines<|eot_id|>", "needle": ["probabilistic Turing machines, non-deterministic Turing machines", "probabilistic Turing machines, non-deterministic Turing machines"], "score": false}
+{"ctx_len": 129862, "pred": "Random access machines<|eot_id|>", "needle": ["random access machines", "random access machines", "random access machines"], "score": true}
+{"ctx_len": 130132, "pred": "Time and memory consumption<|eot_id|>", "needle": ["computational power", "computational power", "computational power"], "score": false}
+{"ctx_len": 128928, "pred": "Time and memory consumption<|eot_id|>", "needle": ["time and memory", "time and memory consumption", "time and memory consumption"], "score": true}
+{"ctx_len": 130590, "pred": "They can be converted to each other without providing any extra computational power.<|eot_id|>", "needle": ["the machines operate deterministically", "deterministically", "the machines operate deterministically"], "score": false}
+{"ctx_len": 129134, "pred": "Non-deterministic Turing machine<|eot_id|>", "needle": ["non-deterministic", "non-deterministic", "non-deterministic Turing machine"], "score": true}
+{"ctx_len": 128649, "pred": "The concept of a reduction<|eot_id|>", "needle": ["unusual resources", "more unusual resources", "more unusual resources"], "score": false}
+{"ctx_len": 128687, "pred": "Branching<|eot_id|>", "needle": ["mathematical models", "mathematical models", "branching"], "score": true}
+{"ctx_len": 128551, "pred": "Non-deterministic time<|eot_id|>", "needle": ["time", "non-deterministic time", "non-deterministic time"], "score": true}
+{"ctx_len": 126680, "pred": "The number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\").<|eot_id|>", "needle": ["state transitions", "the total number of state transitions, or steps", "total number of state transitions, or steps, the machine makes before it halts and outputs the answer"], "score": true}
+{"ctx_len": 128025, "pred": "Difficulty<|eot_id|>", "needle": ["difficulty", "difficulty", "difficulty"], "score": true}
+{"ctx_len": 129827, "pred": "DTIME(f(n))<|eot_id|>", "needle": ["DTIME(f(n))", "DTIME(f(n)).", "DTIME(f(n))"], "score": true}
+{"ctx_len": 129997, "pred": "Time<|eot_id|>", "needle": ["time", "time", "time"], "score": true}
+{"ctx_len": 129191, "pred": "Computational resources<|eot_id|>", "needle": ["complexity resources", "complexity resources", "complexity"], "score": false}
+{"ctx_len": 127937, "pred": "A computational resource<|eot_id|>", "needle": ["computational resource", "computational", "computational"], "score": true}
+{"ctx_len": 130265, "pred": "Big O notation<|eot_id|>", "needle": ["Blum complexity axioms", "the Blum complexity axioms", "the Blum complexity axioms"], "score": false}
+{"ctx_len": 126644, "pred": "Complexity measure<|eot_id|>", "needle": ["Complexity measures", "complexity measures", "complexity"], "score": true}
+{"ctx_len": 129529, "pred": "decision tree complexity<|eot_id|>", "needle": ["Complexity measures", "complexity measures", "complexity"], "score": true}
+{"ctx_len": 128248, "pred": "Best, worst, and average case complexity.<|eot_id|>", "needle": ["best, worst and average", "best, worst and average case", "best, worst and average case complexity"], "score": false}
+{"ctx_len": 129840, "pred": "Case complexity likelihoods provide variable probabilities of case duration.<|eot_id|>", "needle": ["complexity measure", "complexity", "complexity"], "score": true}
+{"ctx_len": 127548, "pred": "Time<|eot_id|>", "needle": ["time", "time complexity", "time complexity"], "score": true}
+{"ctx_len": 130104, "pred": "Time<|eot_id|>", "needle": ["inputs", "inputs", "inputs"], "score": false}
+{"ctx_len": 130106, "pred": "Quicksort<|eot_id|>", "needle": ["deterministic sorting algorithm quicksort", "quicksort", "the deterministic sorting algorithm quicksort"], "score": true}
+{"ctx_len": 129195, "pred": "Worst<|eot_id|>", "needle": ["worst-case", "worst", "worst-case"], "score": true}
+{"ctx_len": 129416, "pred": "T(n)<|eot_id|>", "needle": ["O(n2)", "O(n2)", "O(n2)"], "score": false}
+{"ctx_len": 130825, "pred": "the most efficient algorithm<|eot_id|>", "needle": ["the most efficient algorithm", "the most efficient algorithm", "the most efficient algorithm solving a given problem"], "score": true}
+{"ctx_len": 129692, "pred": "analysis of algorithms<|eot_id|>", "needle": ["analysis of algorithms", "analysis of algorithms", "analysis of algorithms"], "score": true}
+{"ctx_len": 128409, "pred": "Lower bound<|eot_id|>", "needle": ["lower bounds", "lower", "lower bounds"], "score": true}
+{"ctx_len": 129804, "pred": "Worst-case<|eot_id|>", "needle": ["upper bound", "upper and lower bounds", "upper bound"], "score": false}
+{"ctx_len": 129511, "pred": "\"feasible amount of resources\"<|eot_id|>", "needle": ["all possible algorithms", "all possible algorithms", "all possible algorithms"], "score": false}
+{"ctx_len": 129302, "pred": "Big O notation<|eot_id|>", "needle": ["big O notation", "big O notation", "big O notation"], "score": true}
+{"ctx_len": 127582, "pred": "Constant factors and smaller terms.<|eot_id|>", "needle": ["constant factors and smaller terms", "constant factors and smaller terms", "constant factors and smaller terms"], "score": true}
+{"ctx_len": 126386, "pred": "O(n2)<|eot_id|>", "needle": ["T(n) = O(n2)", "T(n) = O(n2)", "T(n) = O(n2)"], "score": false}
+{"ctx_len": 129722, "pred": "the specific details of the computational model used<|eot_id|>", "needle": ["the computational model", "specific details of the computational model used", "the specific details of the computational model used"], "score": true}
+{"ctx_len": 128365, "pred": "Some complexity classes<|eot_id|>", "needle": ["complexity classes", "complexity classes", "some complexity classes"], "score": true}
+{"ctx_len": 129580, "pred": "time and space<|eot_id|>", "needle": ["framework", "framework", "framework"], "score": false}
+{"ctx_len": 129936, "pred": "The choice of input encoding<|eot_id|>", "needle": ["complicated definitions", "complicated definitions", "definitions"], "score": false}
+{"ctx_len": 130591, "pred": "the chosen machine model<|eot_id|>", "needle": ["chosen machine model", "the chosen machine model", "the chosen machine model"], "score": true}
+{"ctx_len": 128802, "pred": "Polynomial time<|eot_id|>", "needle": ["linear time", "linear", "linear"], "score": false}
+{"ctx_len": 127956, "pred": "Deterministic<|eot_id|>", "needle": ["single-tape Turing machines", "single-tape", "single-tape"], "score": false}
+{"ctx_len": 129484, "pred": "Cobham-Edmonds thesis<|eot_id|>", "needle": ["Cobham-Edmonds thesis", "Cobham-Edmonds", "Cobham-Edmonds thesis"], "score": true}
+{"ctx_len": 129248, "pred": "P<|eot_id|>", "needle": ["complexity class P", "P", "complexity class P"], "score": true}
+{"ctx_len": 130663, "pred": "Time and space requirements<|eot_id|>", "needle": ["time or space", "time or space", "time or space"], "score": false}
+{"ctx_len": 128308, "pred": "Big O notation<|eot_id|>", "needle": ["bounding", "bounding", "bounding"], "score": false}
+{"ctx_len": 128224, "pred": "complexity classes<|eot_id|>", "needle": ["complexity classes", "complexity classes", "complexity classes"], "score": true}
+{"ctx_len": 128422, "pred": "BPP, ZPP, and RP.<|eot_id|>", "needle": ["BPP, ZPP and RP", "BPP, ZPP and RP", "BPP, ZPP and RP"], "score": false}
+{"ctx_len": 127789, "pred": "Boolean<|eot_id|>", "needle": ["Boolean", "Boolean", "Boolean circuits;"], "score": true}
+{"ctx_len": 130653, "pred": "Quantum<|eot_id|>", "needle": ["quantum", "quantum", "quantum"], "score": true}
+{"ctx_len": 130194, "pred": "#P<|eot_id|>", "needle": ["#P", "#P", "#P"], "score": true}
+{"ctx_len": 128396, "pred": "Interactive proof systems<|eot_id|>", "needle": ["Interactive", "Interactive", "Interactive"], "score": true}
+{"ctx_len": 129794, "pred": "Time<|eot_id|>", "needle": ["computation time", "computation time", "computation time"], "score": false}
+{"ctx_len": 128041, "pred": "DTIME(n) is contained in DTIME(n2).<|eot_id|>", "needle": ["DTIME(n2)", "DTIME(n2)", "DTIME(n2)"], "score": true}
+{"ctx_len": 130375, "pred": "Time and space hierarchy theorems<|eot_id|>", "needle": ["time and space hierarchy theorems", "time and space hierarchy theorems", "time and space hierarchy theorems"], "score": true}
+{"ctx_len": 127987, "pred": "a proper hierarchy on the classes defined by constraining the respective resources<|eot_id|>", "needle": ["a proper hierarchy on the classes defined", "a proper hierarchy on the classes", "a proper hierarchy"], "score": true}
+{"ctx_len": 129953, "pred": "Quantitative<|eot_id|>", "needle": ["quantitative statements", "quantitative", "quantitative"], "score": true}
+{"ctx_len": 130063, "pred": "The time and space hierarchy theorems<|eot_id|>", "needle": ["time and space hierarchy theorems", "The time and space hierarchy theorems", "time and space hierarchy theorems"], "score": true}
+{"ctx_len": 129481, "pred": "L<|eot_id|>", "needle": ["EXPTIME", "EXPTIME", "EXPTIME"], "score": false}
+{"ctx_len": 130719, "pred": "PSPACE<|eot_id|>", "needle": ["PSPACE", "PSPACE", "PSPACE"], "score": true}
+{"ctx_len": 127927, "pred": "Reduction<|eot_id|>", "needle": ["reduction", "a reduction", "reduction"], "score": true}
+{"ctx_len": 125560, "pred": "Another problem<|eot_id|>", "needle": ["another problem", "another problem", "another problem"], "score": true}
+{"ctx_len": 128160, "pred": "X reduces to Y<|eot_id|>", "needle": ["reduces", "reduces", "X reduces to Y"], "score": true}
+{"ctx_len": 127628, "pred": "Cook reductions and Karp reductions<|eot_id|>", "needle": ["Karp reductions and Levin reductions", "Cook reductions, Karp reductions"], "score": false}
+{"ctx_len": 128450, "pred": "A type of reduction.<|eot_id|>", "needle": ["the bound on the complexity of reductions", "types of reductions", "the bound on the complexity of reductions"], "score": false}
+{"ctx_len": 127599, "pred": "A polynomial-time reduction.<|eot_id|>", "needle": ["polynomial-time reduction", "polynomial-time", "polynomial-time reduction"], "score": true}
+{"ctx_len": 129018, "pred": "Squaring an integer<|eot_id|>", "needle": ["multiplying two integers", "multiplying two integers", "multiplying two integers"], "score": false}
+{"ctx_len": 131037, "pred": "Polynomial time<|eot_id|>", "needle": ["polynomial time", "polynomial", "polynomial time"], "score": true}
+{"ctx_len": 127991, "pred": "The input<|eot_id|>", "needle": ["input", "input", "input"], "score": true}
+{"ctx_len": 129166, "pred": "multiplication<|eot_id|>", "needle": ["multiplication", "multiplication", "multiplication"], "score": true}
+{"ctx_len": 127971, "pred": "the size of the instance.<|eot_id|>", "needle": ["the type of reduction being used", "the type of reduction being used"], "score": false}
+{"ctx_len": 127464, "pred": "If X is in C and hard for C, then X is said to be complete for C.<|eot_id|>", "needle": ["if every problem in C can be reduced to X", "problem in C is harder than X"], "score": false}
+{"ctx_len": 129507, "pred": "solve any problem in C<|eot_id|>", "needle": ["solve any problem in C", "solve any problem in C", "solve any problem in C"], "score": true}
+{"ctx_len": 130310, "pred": "NP-hard<|eot_id|>", "needle": ["NP-hard", "NP-hard", "NP-hard problems"], "score": true}
+{"ctx_len": 128410, "pred": "NP-complete<|eot_id|>", "needle": ["NP-complete", "NP-complete", "NP-complete"], "score": true}
+{"ctx_len": 130009, "pred": "P<|eot_id|>", "needle": ["NP", "P", "P"], "score": true}
+{"ctx_len": 128768, "pred": "\u03a01 is not known to have a polynomial-time solution.<|eot_id|>", "needle": ["there is no known polynomial-time solution", "no known polynomial-time solution", "there is no known polynomial-time solution"], "score": false}
+{"ctx_len": 126759, "pred": "NP<|eot_id|>", "needle": ["NP", "NP", "NP"], "score": true}
+{"ctx_len": 128936, "pred": "P<|eot_id|>", "needle": ["P", "P", "P"], "score": true}
+{"ctx_len": 128883, "pred": "Cobham\u2013Edmonds thesis<|eot_id|>", "needle": ["Cobham\u2013Edmonds thesis", "Cobham\u2013Edmonds thesis", "Cobham\u2013Edmonds thesis"], "score": true}
+{"ctx_len": 129573, "pred": "NP<|eot_id|>", "needle": ["NP", "NP", "NP"], "score": true}
+{"ctx_len": 128191, "pred": "The traveling salesman problem<|eot_id|>", "needle": ["Boolean satisfiability problem", "Boolean satisfiability problem"], "score": false}
+{"ctx_len": 130287, "pred": "Deterministic Turing machine<|eot_id|>", "needle": ["Turing machines", "deterministic Turing machines", "deterministic Turing machines"], "score": false}
+{"ctx_len": 128923, "pred": "If P = NP, then many important problems can be shown to have more efficient solutions.<|eot_id|>", "needle": ["more efficient solutions", "shown to have more efficient solutions", "many important problems can be shown to have more efficient solutions"], "score": true}
+{"ctx_len": 127468, "pred": "Protein structure prediction<|eot_id|>", "needle": ["protein structure prediction", "protein structure prediction", "protein structure prediction"], "score": true}
+{"ctx_len": 129461, "pred": "$1,000,000<|eot_id|>", "needle": ["$1,000,000", "US$1,000,000", "US$1,000,000"], "score": true}
+{"ctx_len": 128385, "pred": "Ladner<|eot_id|>", "needle": ["Ladner", "Ladner", "Ladner"], "score": true}
+{"ctx_len": 130378, "pred": "NP-intermediate<|eot_id|>", "needle": ["NP-intermediate problems", "NP-intermediate problems", "NP-intermediate"], "score": true}
+{"ctx_len": 129851, "pred": "The graph isomorphism problem<|eot_id|>", "needle": ["graph isomorphism problem", "the discrete logarithm problem", "graph isomorphism problem, the discrete logarithm problem and the integer factorization problem"], "score": true}
+{"ctx_len": 128261, "pred": "The graph isomorphism problem<|eot_id|>", "needle": ["The graph isomorphism problem", "graph isomorphism", "The graph isomorphism problem"], "score": true}
+{"ctx_len": 129274, "pred": "NP-complete<|eot_id|>", "needle": ["NP-complete", "NP-complete", "NP-complete"], "score": true}
+{"ctx_len": 130428, "pred": "The polynomial time hierarchy<|eot_id|>", "needle": ["polynomial time hierarchy", "polynomial time", "polynomial time hierarchy"], "score": true}
+{"ctx_len": 129865, "pred": "its second level<|eot_id|>", "needle": ["second level", "second", "second"], "score": true}
+{"ctx_len": 129876, "pred": "Laszlo Babai and Eugene Luks<|eot_id|>", "needle": ["Laszlo Babai and Eugene Luks", "Babai and Eugene Luks", "Laszlo Babai and Eugene Luks"], "score": true}
+{"ctx_len": 128159, "pred": "The integer factorization problem<|eot_id|>", "needle": ["The integer factorization problem", "integer factorization", "integer factorization problem"], "score": true}
+{"ctx_len": 128176, "pred": "k<|eot_id|>", "needle": ["k", "k", "k"], "score": true}
+{"ctx_len": 127032, "pred": "RSA algorithm<|eot_id|>", "needle": ["modern cryptographic systems", "modern cryptographic systems", "RSA algorithm"], "score": true}
+{"ctx_len": 129336, "pred": "The general number field sieve<|eot_id|>", "needle": ["the general number field sieve", "RSA", "general number field sieve"], "score": true}
+{"ctx_len": 126849, "pred": "The Cobham\u2013Edmonds thesis<|eot_id|>", "needle": ["suspected to be unequal", "unequal", "Many known complexity classes are suspected to be unequal"], "score": false}
+{"ctx_len": 129990, "pred": "P \u2286 NP \u2286 PP \u2286 PSPACE<|eot_id|>", "needle": ["P \u2286 NP \u2286 PP \u2286 PSPACE", "P \u2286 NP \u2286 PP \u2286 PSPACE", "P \u2286 NP \u2286 PP \u2286 PSPACE"], "score": true}
+{"ctx_len": 126616, "pred": "between P and PSPACE<|eot_id|>", "needle": ["between P and PSPACE", "between P and PSPACE", "between P and PSPACE"], "score": true}
+{"ctx_len": 129204, "pred": "A separation between P and NP, or between NP and co-NP, or between PSPACE and EXPTIME.<|eot_id|>", "needle": ["Proving that any of these classes are unequal", "Proving that any of these classes are unequal", "Proving that any of these classes are unequal"], "score": false}
+{"ctx_len": 129778, "pred": "co-NP<|eot_id|>", "needle": ["co-NP", "co-NP", "co-NP"], "score": true}
+{"ctx_len": 128612, "pred": "The yes/no answers of a complement problem of NP are reversed.<|eot_id|>", "needle": ["reversed", "reversed", "reversed"], "score": true}
+{"ctx_len": 130718, "pred": "P \u2260 co-NP<|eot_id|>", "needle": ["not equal", "not equal", "not equal"], "score": false}
+{"ctx_len": 129059, "pred": "P is not equal to NP.<|eot_id|>", "needle": ["P is not equal to NP", "not equal", "P is not equal to NP"], "score": true}
+{"ctx_len": 127983, "pred": "L<|eot_id|>", "needle": ["L", "L", "L"], "score": true}
+{"ctx_len": 129974, "pred": "L is strictly contained in P or equal to P<|eot_id|>", "needle": ["strictly contained in P or equal to P", "contained in P or equal to P.", "strictly contained in P or equal to P"], "score": true}
+{"ctx_len": 127435, "pred": "NL and NC<|eot_id|>", "needle": ["complexity classes", "many complexity classes", "many complexity classes"], "score": false}
+{"ctx_len": 129771, "pred": "NL and NC<|eot_id|>", "needle": ["NL and NC", "NL and NC", "NL and NC"], "score": true}
+{"ctx_len": 128408, "pred": "Whether they are distinct or equal classes.<|eot_id|>", "needle": ["if they are distinct or equal classes", "if they are distinct or equal classes", "if they are distinct or equal classes"], "score": false}
+{"ctx_len": 128385, "pred": "Intractable problems<|eot_id|>", "needle": ["intractable problems", "intractable problems", "intractable", "intractable"], "score": true}
+{"ctx_len": 129353, "pred": "Deterministic<|eot_id|>", "needle": ["exponential-time algorithms", "exponential-time", "exponential-time algorithms", "exponential-time algorithms"], "score": false}
+{"ctx_len": 130120, "pred": "NP-complete problems<|eot_id|>", "needle": ["NP-complete problems", "NP-complete", "NP-complete", "NP-complete"], "score": true}
+{"ctx_len": 130043, "pred": "Presburger<|eot_id|>", "needle": ["Presburger arithmetic", "Presburger", "Presburger arithmetic"], "score": true}
+{"ctx_len": 128086, "pred": "Algorithms have been written that solve the problem in less than quadratic time.<|eot_id|>", "needle": ["algorithms have been written", "algorithms have been written", "algorithms have been written that solve the problem in reasonable times in most cases"], "score": true}
+{"ctx_len": 130085, "pred": "The decision problem in Presburger arithmetic<|eot_id|>", "needle": ["NP-complete knapsack problem", "NP-complete knapsack", "the NP-complete knapsack problem"], "score": false}
+{"ctx_len": 130770, "pred": "less than quadratic time<|eot_id|>", "needle": ["in less than quadratic time", "less than quadratic time", "less than quadratic time"], "score": true}
+{"ctx_len": 130343, "pred": "The knapsack problem<|eot_id|>", "needle": ["NP-complete Boolean satisfiability problem", "NP-complete Boolean satisfiability", "the NP-complete Boolean satisfiability problem"], "score": false}
+{"ctx_len": 129929, "pred": "They employed a reduction tactic.<|eot_id|>", "needle": ["foundations were laid out", "numerous foundations were laid out", "numerous foundations were laid out by various researchers"], "score": false}
+{"ctx_len": 129866, "pred": "Alan Turing<|eot_id|>", "needle": ["Alan Turing", "Alan Turing", "Alan Turing"], "score": true}
+{"ctx_len": 130027, "pred": "Turing machine<|eot_id|>", "needle": ["Turing machines", "Turing machines", "Turing machines"], "score": false}
+{"ctx_len": 130751, "pred": "1936<|eot_id|>", "needle": ["1936", "1936", "1936"], "score": true}
+{"ctx_len": 126778, "pred": "A Turing machine is a mathematical model of a general computing machine. It is a theoretical device that manipulates symbols contained on a strip of tape.<|eot_id|>", "needle": ["a computer", "a computer", "a computer"], "score": false}
+{"ctx_len": 129858, "pred": "\"On the Computational Complexity of Algorithms\"<|eot_id|>", "needle": ["On the Computational Complexity of Algorithms", "On the Computational Complexity of Algorithms", "\"On the Computational Complexity of Algorithms\""], "score": true}
+{"ctx_len": 127928, "pred": "Juris Hartmanis and Richard Stearns<|eot_id|>", "needle": ["Juris Hartmanis and Richard Stearns", "Juris Hartmanis and Richard Stearns", "Juris Hartmanis and Richard Stearns"], "score": true}
+{"ctx_len": 129803, "pred": "1965<|eot_id|>", "needle": ["1965", "1965", "1965"], "score": true}
+{"ctx_len": 130792, "pred": "time and space complexity<|eot_id|>", "needle": ["time and space", "definitions of time and space complexity", "time and space complexity"], "score": true}
+{"ctx_len": 129220, "pred": "1965<|eot_id|>", "needle": ["1965", "1965", "1965"], "score": true}
+{"ctx_len": 128001, "pred": "John Myhill<|eot_id|>", "needle": ["John Myhill", "John Myhill", "John Myhill"], "score": true}
+{"ctx_len": 127430, "pred": "1961<|eot_id|>", "needle": ["1961", "1961", "1961"], "score": true}
+{"ctx_len": 128044, "pred": "Hisao Yamada<|eot_id|>", "needle": ["Hisao Yamada", "Hisao Yamada", "Hisao Yamada"], "score": true}
+{"ctx_len": 130024, "pred": "Input encoding<|eot_id|>", "needle": ["input encoding", "input encoding", "input encoding"], "score": true}
+{"ctx_len": 129128, "pred": "the choice of input encoding<|eot_id|>", "needle": ["encoding", "encoding", "encoding"], "score": true}
+{"ctx_len": 128748, "pred": "Manuel Blum<|eot_id|>", "needle": ["Manuel Blum", "Manuel Blum", "Manuel Blum"], "score": true}
+{"ctx_len": 129075, "pred": "Speed-up theorem<|eot_id|>", "needle": ["speed-up theorem", "speed-up theorem", "speed-up theorem"], "score": true}
+{"ctx_len": 129604, "pred": "Reducibility Among Combinatorial Problems<|eot_id|>", "needle": ["\"Reducibility Among Combinatorial Problems\"", "Reducibility Among Combinatorial Problems", "\"Reducibility Among Combinatorial Problems\""], "score": true}
+{"ctx_len": 130798, "pred": "21<|eot_id|>", "needle": ["21", "21", "21"], "score": true}
+{"ctx_len": 129361, "pred": "SoCal<|eot_id|>", "needle": ["SoCal", "SoCal", "SoCal"], "score": true}
+{"ctx_len": 128597, "pred": "10<|eot_id|>", "needle": ["10 counties", "10", "10"], "score": true}
+{"ctx_len": 128916, "pred": "Southern California is a major economic center for the state of California and the United States.<|eot_id|>", "needle": ["economic center", "major economic center", "economic center"], "score": true}
+{"ctx_len": 128492, "pred": "Demographic and economic ties.<|eot_id|>", "needle": ["demographics and economic ties", "economic", "demographics and economic"], "score": true}
+{"ctx_len": 129748, "pred": "Historical political divisions<|eot_id|>", "needle": ["historical political divisions", "historical political divisions", "historical political divisions"], "score": true}
+{"ctx_len": 129795, "pred": "Tech Coast<|eot_id|>", "needle": ["Southern California Megaregion", "the greater Southern California Megaregion", "Southern California Megaregion"], "score": false}
+{"ctx_len": 128866, "pred": "11<|eot_id|>", "needle": ["11", "11", "11"], "score": true}
+{"ctx_len": 129149, "pred": "Nevada<|eot_id|>", "needle": ["Nevada", "Nevada", "Nevada"], "score": true}
+{"ctx_len": 128154, "pred": "Mexican<|eot_id|>", "needle": ["Mexican", "Mexican", "Mexican"], "score": true}
+{"ctx_len": 129545, "pred": "Las Vegas, Nevada<|eot_id|>", "needle": ["Tijuana", "Tijuana", "Tijuana"], "score": false}
+{"ctx_len": 128926, "pred": "Pacific<|eot_id|>", "needle": ["Pacific", "Pacific", "Pacific"], "score": true}
+{"ctx_len": 127909, "pred": "seven<|eot_id|>", "needle": ["seven", "seven", "seven"], "score": true}
+{"ctx_len": 128674, "pred": "17,786,419<|eot_id|>", "needle": ["12 million", "over 12 million inhabitants", "12 million"], "score": false}
+{"ctx_len": 127755, "pred": "San Diego area with over 3 million inhabitants.<|eot_id|>", "needle": ["San Diego", "the San Diego area", "San Diego"], "score": true}
+{"ctx_len": 129604, "pred": "17,786,419<|eot_id|>", "needle": ["17.5 million", "over 17.5 million", "17.5 million"], "score": false}
+{"ctx_len": 130909, "pred": "Colorado Desert<|eot_id|>", "needle": ["Colorado River", "the Colorado River", "Colorado River"], "score": false}
+{"ctx_len": 129517, "pred": "Colorado Desert<|eot_id|>", "needle": ["Colorado Desert", "the Colorado Desert", "Colorado Desert"], "score": true}
+{"ctx_len": 127482, "pred": "Mojave<|eot_id|>", "needle": ["Mojave Desert", "the Mojave Desert", "Mojave Desert"], "score": false}
+{"ctx_len": 129554, "pred": "Mexico\u2013United States border<|eot_id|>", "needle": ["Mexico\u2013United States border", "the Mexico\u2013United States border", "Mexico\u2013United States border"], "score": true}
+{"ctx_len": 128553, "pred": "California<|eot_id|>", "needle": ["California", "California", "California"], "score": true}
+{"ctx_len": 130907, "pred": "3,792,621<|eot_id|>", "needle": ["3,792,621", "3,792,621", "3,792,621"], "score": true}
+{"ctx_len": 127663, "pred": "Los Angeles<|eot_id|>", "needle": ["Los Angeles", "Los Angeles", "Los Angeles"], "score": true}
+{"ctx_len": 127404, "pred": "San Diego<|eot_id|>", "needle": ["San Diego", "San Diego", "San Diego"], "score": true}
+{"ctx_len": 127351, "pred": "South<|eot_id|>", "needle": ["south", "south"], "score": true}
+{"ctx_len": 129372, "pred": "Ventura<|eot_id|>", "needle": ["Los Angeles", "Los Angeles", "Riverside"], "score": false}
+{"ctx_len": 130217, "pred": "England<|eot_id|>", "needle": ["United States", "the United States", "Los Angeles"], "score": false}
+{"ctx_len": 131033, "pred": "The five most populous counties in the state and all are in the top 15 most populous counties in the United States.<|eot_id|>", "needle": ["counties", "counties", "five most populous in the state"], "score": true}
+{"ctx_len": 129292, "pred": "15<|eot_id|>", "needle": ["15", "15", "Riverside"], "score": true}
+{"ctx_len": 130913, "pred": "The smallest geographical region discussed is the neighborhood known as the Tower District in Fresno, California.<|eot_id|>", "needle": ["counties", "Riverside"], "score": false}
+{"ctx_len": 127309, "pred": "Hollywood<|eot_id|>", "needle": ["Hollywood", "Hollywood", "Hollywood"], "score": true}
+{"ctx_len": 128929, "pred": "Los Angeles<|eot_id|>", "needle": ["Los Angeles", "Los Angeles", "Los Angeles"], "score": true}
+{"ctx_len": 127172, "pred": "The Walt Disney Company<|eot_id|>", "needle": ["The Walt Disney Company", "The Walt Disney Company", "The Walt Disney Company"], "score": true}
+{"ctx_len": 128868, "pred": "The music industry<|eot_id|>", "needle": ["music", "major record companies"], "score": true}
+{"ctx_len": 128714, "pred": "Sony<|eot_id|>", "needle": ["Sony", "Sony", "Sony"], "score": true}
+{"ctx_len": 129674, "pred": "Skateboard culture<|eot_id|>", "needle": ["skateboard", "skateboard", "skateboard"], "score": true}
+{"ctx_len": 128963, "pred": "Tony Hawk<|eot_id|>", "needle": ["Tony Hawk", "Tony Hawk", "Tony Hawk"], "score": true}
+{"ctx_len": 129923, "pred": "Shaun White<|eot_id|>", "needle": ["Shaun White", "Shaun White", "Shaun White"], "score": true}
+{"ctx_len": 129865, "pred": "Oahu<|eot_id|>", "needle": ["Oahu", "Oahu", "Oahu"], "score": true}
+{"ctx_len": 128433, "pred": "Transpac<|eot_id|>", "needle": ["Transpac", "Transpac", "Transpac"], "score": true}
+{"ctx_len": 128835, "pred": "Palm Springs<|eot_id|>", "needle": ["Palm Springs", "Palm Springs", "Palm Springs"], "score": true}
+{"ctx_len": 130668, "pred": "the southern California coast for its popular beaches<|eot_id|>", "needle": ["beaches", "for its popular beaches", "beaches"], "score": true}
+{"ctx_len": 129493, "pred": "Southern California<|eot_id|>", "needle": ["southern", "the desert", "southern"], "score": true}
+{"ctx_len": 124968, "pred": "open spaces<|eot_id|>", "needle": ["open spaces", "nearby open spaces", "nearby open spaces"], "score": true}
+{"ctx_len": 128975, "pred": "37\u00b0 9' 58.23\"<|eot_id|>", "needle": ["37\u00b0 9' 58.23\"", "37\u00b0 9' 58.23\"", "37\u00b0 9' 58.23\""], "score": true}
+{"ctx_len": 130787, "pred": "11 miles<|eot_id|>", "needle": ["11", "11", "11"], "score": true}
+{"ctx_len": 128669, "pred": "10<|eot_id|>", "needle": ["ten", "ten", "ten"], "score": false}
+{"ctx_len": 128804, "pred": "The Tehachapi Mountains<|eot_id|>", "needle": ["Tehachapi Mountains", "Tehachapi Mountains"], "score": true}
+{"ctx_len": 128507, "pred": "northern boundary<|eot_id|>", "needle": ["northern", "the Tehachapi Mountains", "northern"], "score": true}
+{"ctx_len": 129609, "pred": "Mexico<|eot_id|>", "needle": ["Mexico", "Mexico", "Mexico"], "score": true}
+{"ctx_len": 129346, "pred": "Alta California<|eot_id|>", "needle": ["Alta California", "Alta California", "Alta California"], "score": true}
+{"ctx_len": 127180, "pred": "Monterey<|eot_id|>", "needle": ["Monterey", "Monterey", "Monterey"], "score": true}
+{"ctx_len": 128824, "pred": "The Compromise of 1850<|eot_id|>", "needle": ["the Missouri Compromise", "the Compromise of 1850", "Compromise of 1850"], "score": true}
+{"ctx_len": 129245, "pred": "a free state<|eot_id|>", "needle": ["free", "a free state", "free"], "score": true}
+{"ctx_len": 128194, "pred": "Inequitable taxes<|eot_id|>", "needle": ["inequitable taxes", "inequitable taxes", "inequitable taxes"], "score": true}
+{"ctx_len": 130298, "pred": "Cow Counties<|eot_id|>", "needle": ["Cow Counties", "Cow Counties", "Cow Counties"], "score": true}
+{"ctx_len": 130259, "pred": "three<|eot_id|>", "needle": ["three", "three", "three"], "score": true}
+{"ctx_len": 128734, "pred": "75%<|eot_id|>", "needle": ["75", "75%", "75"], "score": true}
+{"ctx_len": 129111, "pred": "Milton Latham<|eot_id|>", "needle": ["Milton Latham", "Milton Latham", "Milton Latham"], "score": true}
+{"ctx_len": 129050, "pred": "The Los Angeles Times<|eot_id|>", "needle": ["Los Angeles Times", "the Los Angeles Times", "Los Angeles Times"], "score": true}
+{"ctx_len": 128750, "pred": "1900<|eot_id|>", "needle": ["1900", "1900", "1900"], "score": true}
+{"ctx_len": 129542, "pred": "1999<|eot_id|>", "needle": ["1999", "1999", "1999"], "score": true}
+{"ctx_len": 128628, "pred": "Imperial<|eot_id|>", "needle": ["Imperial", "Imperial", "1999"], "score": true}
+{"ctx_len": 129683, "pred": "eight<|eot_id|>", "needle": ["seven", "seven", "seven"], "score": false}
+{"ctx_len": 129330, "pred": "Regional tourism groups<|eot_id|>", "needle": ["regional tourism groups", "regional tourism groups", "AAA Auto Clubs"], "score": true}
+{"ctx_len": 129465, "pred": "The California State Automobile Association<|eot_id|>", "needle": ["California State Automobile Association", "the California State Automobile Association", "California State Automobile Association"], "score": true}
+{"ctx_len": 129090, "pred": "three-region point of view<|eot_id|>", "needle": ["three-region", "the three-region point of view", "three-region"], "score": true}
+{"ctx_len": 126709, "pred": "The Tehachapi Mountains<|eot_id|>", "needle": ["Tehachapis", "the Tehachapis", "Tehachapis"], "score": false}
+{"ctx_len": 129229, "pred": "Southern California<|eot_id|>", "needle": ["southern", "southern California", "southern California"], "score": true}
+{"ctx_len": 128299, "pred": "third<|eot_id|>", "needle": ["third", "third", "third"], "score": true}
+{"ctx_len": 129962, "pred": "a significant amount<|eot_id|>", "needle": ["vast areas", "vast areas", "vast areas"], "score": false}
+{"ctx_len": 127060, "pred": "suburban<|eot_id|>", "needle": ["suburban", "suburban", "suburban communities and use of automobiles and highways"], "score": true}
+{"ctx_len": 130127, "pred": "Southern California is also home to a large home grown surf and skateboard culture.<|eot_id|>", "needle": ["highways", "highways"], "score": false}
+{"ctx_len": 130263, "pred": "Undeveloped<|eot_id|>", "needle": ["international metropolitan", "an international metropolitan region", "international metropolitan"], "score": false}
+{"ctx_len": 129790, "pred": "Camp Pendleton<|eot_id|>", "needle": ["Camp Pendleton", "Camp Pendleton", "Camp Pendleton"], "score": true}
+{"ctx_len": 130445, "pred": "the Inland Empire<|eot_id|>", "needle": ["Inland Empire", "Temecula and Murrieta"], "score": true}
+{"ctx_len": 130413, "pred": "The United States Census Bureau<|eot_id|>", "needle": ["United States Census Bureau", "the United States Census Bureau", "United States Census Bureau"], "score": true}
+{"ctx_len": 129292, "pred": "Orange<|eot_id|>", "needle": ["Orange", "Orange Counties", "Orange"], "score": true}
+{"ctx_len": 129223, "pred": "1990s<|eot_id|>", "needle": ["1990s", "1990s", "1990s"], "score": true}
+{"ctx_len": 128309, "pred": "Mediterranean<|eot_id|>", "needle": ["Mediterranean", "a Mediterranean climate", "Mediterranean"], "score": true}
+{"ctx_len": 128873, "pred": "Hot and dry summers, while winters are a bit warm or mild and wet.<|eot_id|>", "needle": ["infrequent rain", "infrequent rain", "infrequent rain"], "score": false}
+{"ctx_len": 130488, "pred": "60<|eot_id|>", "needle": ["60's", "60's", "60's"], "score": false}
+{"ctx_len": 127908, "pred": "Snow is very rare in the Southwest of the state.<|eot_id|>", "needle": ["very rare", "very rare", "very rare"], "score": true}
+{"ctx_len": 130481, "pred": "70<|eot_id|>", "needle": ["70", "70", "70"], "score": true}
+{"ctx_len": 127281, "pred": "diverse<|eot_id|>", "needle": ["varied", "varied", "natural ecosystem"], "score": false}
+{"ctx_len": 129992, "pred": "Pacific Ocean<|eot_id|>", "needle": ["Pacific Ocean", "Pacific Ocean", "Pacific Ocean"], "score": true}
+{"ctx_len": 128218, "pred": "Topographic<|eot_id|>", "needle": ["topographic", "topographic", "topographic"], "score": true}
+{"ctx_len": 127243, "pred": "the Peninsular Ranges<|eot_id|>", "needle": ["Peninsular", "Peninsular Ranges", "Peninsular Ranges"], "score": true}
+{"ctx_len": 127029, "pred": "The mountain ranges tail off into a coastal plain.<|eot_id|>", "needle": ["valleys", "valleys", "interior valleys"], "score": false}
+{"ctx_len": 128779, "pred": "10,000<|eot_id|>", "needle": ["10,000", "10,000", "10,000"], "score": true}
+{"ctx_len": 128259, "pred": "Most of them are so small that they are not felt.<|eot_id|>", "needle": ["small", "small", "small"], "score": true}
+{"ctx_len": 129920, "pred": "6.7<|eot_id|>", "needle": ["6.7", "6.7", "6.7"], "score": true}
+{"ctx_len": 130857, "pred": "Property damage<|eot_id|>", "needle": ["property damage", "property damage"], "score": true}
+{"ctx_len": 128562, "pred": "$20 billion<|eot_id|>", "needle": ["$20 billion", "over $20 billion", "over $20 billion"], "score": true}
+{"ctx_len": 128799, "pred": "San Andreas Fault<|eot_id|>", "needle": ["San Andreas", "the San Andreas Fault", "San Andreas Fault"], "score": true}
+{"ctx_len": 129528, "pred": "6.7+<|eot_id|>", "needle": ["6.7", "6.7+", "6.7+"], "score": true}
+{"ctx_len": 128708, "pred": "The Puente Hills Fault<|eot_id|>", "needle": ["Puente Hills", "the Puente Hills Fault", "Puente Hills Fault"], "score": true}
+{"ctx_len": 128856, "pred": "USGS<|eot_id|>", "needle": ["USGS", "The USGS", "USGS"], "score": true}
+{"ctx_len": 129171, "pred": "Earthquake occurrence<|eot_id|>", "needle": ["occurrence", "occurrence", "occurrence"], "score": true}
+{"ctx_len": 127491, "pred": "economically<|eot_id|>", "needle": ["economically", "economically", "economically"], "score": true}
+{"ctx_len": 129851, "pred": "International recognition<|eot_id|>", "needle": ["global", "global", "global"], "score": false}
+{"ctx_len": 129412, "pred": "economic<|eot_id|>", "needle": ["economic", "economic", "economic activity"], "score": true}
+{"ctx_len": 127913, "pred": "2010<|eot_id|>", "needle": ["2010", "2010", "2010"], "score": true}
+{"ctx_len": 129632, "pred": "high growth rates<|eot_id|>", "needle": ["high growth rates", "high growth rates", "high growth rates"], "score": true}
+{"ctx_len": 128967, "pred": "10.0%<|eot_id|>", "needle": ["10.0%", "10.0%", "10.0%"], "score": true}
+{"ctx_len": 129901, "pred": "Tech-oriented<|eot_id|>", "needle": ["tech-oriented", "tech-oriented"], "score": true}
+{"ctx_len": 128889, "pred": "The South<|eot_id|>", "needle": ["Greater Sacramento", "Greater Sacramento", "Greater Sacramento"], "score": false}
+{"ctx_len": 129610, "pred": "The eight areas are referred to as the \"Southland\".<|eot_id|>", "needle": ["Metropolitan Statistical Areas", "Metropolitan Statistical Areas", "Metropolitan Statistical Areas"], "score": false}
+{"ctx_len": 128571, "pred": "2<|eot_id|>", "needle": ["two", "two", "two"], "score": false}
+{"ctx_len": 127926, "pred": "5 million<|eot_id|>", "needle": ["five million", "five million", "five million"], "score": false}
+{"ctx_len": 128110, "pred": "The Southern Border Region<|eot_id|>", "needle": ["Southern Border Region", "the Southern Border Region", "Southern Border Region"], "score": true}
+{"ctx_len": 127797, "pred": "17,786,419<|eot_id|>", "needle": ["17,786,419", "17,786,419", "17,786,419"], "score": true}
+{"ctx_len": 128443, "pred": "Los Angeles<|eot_id|>", "needle": ["Los Angeles", "Los Angeles", "Los Angeles"], "score": true}
+{"ctx_len": 126692, "pred": "1,307,402<|eot_id|>", "needle": ["1.3 million", "1.3 million", "San Diego"], "score": false}
+{"ctx_len": 127901, "pred": "Twelve<|eot_id|>", "needle": ["twelve", "twelve", "twelve"], "score": true}
+{"ctx_len": 130749, "pred": "100,000<|eot_id|>", "needle": ["100,000", "100,000", "100,000"], "score": true}
+{"ctx_len": 129201, "pred": "Riverside<|eot_id|>", "needle": ["Riverside", "Riverside", "Riverside"], "score": true}
+{"ctx_len": 128241, "pred": "petroleum<|eot_id|>", "needle": ["petroleum", "petroleum", "petroleum"], "score": true}
+{"ctx_len": 128748, "pred": "Hollywood<|eot_id|>", "needle": ["Hollywood", "Hollywood", "Hollywood"], "score": true}
+{"ctx_len": 130525, "pred": "the housing bubble<|eot_id|>", "needle": ["the housing bubble", "the housing bubble"], "score": true}
+{"ctx_len": 130798, "pred": "diversified<|eot_id|>", "needle": ["diverse", "diverse", "diverse"], "score": false}
+{"ctx_len": 129665, "pred": "The housing crash had a significant impact on the region, with the region being heavily impacted by the crash, and the construction industry being severely affected.<|eot_id|>", "needle": ["heavily impacted", "heavily impacted"], "score": true}
+{"ctx_len": 128476, "pred": "1920s<|eot_id|>", "needle": ["1920s", "1920s", "1920s"], "score": true}
+{"ctx_len": 128256, "pred": "The agricultural regions are rich and varied.<|eot_id|>", "needle": ["richest", "rich", "one of the richest"], "score": true}
+{"ctx_len": 127537, "pred": "Cattle and citrus<|eot_id|>", "needle": ["cattle", "cattle", "cattle"], "score": true}
+{"ctx_len": 129544, "pred": "Cattle and citrus<|eot_id|>", "needle": ["citrus", "citrus", "citrus"], "score": true}
+{"ctx_len": 129986, "pred": "Aerospace<|eot_id|>", "needle": ["aerospace", "aerospace", "aerospace"], "score": true}
+{"ctx_len": 130158, "pred": "Business districts<|eot_id|>", "needle": ["business", "major business", "major business"], "score": true}
+{"ctx_len": 127593, "pred": "Central Business District<|eot_id|>", "needle": ["Central business districts", "Central business districts", "Central business districts"], "score": false}
+{"ctx_len": 131027, "pred": "South Coast Metro<|eot_id|>", "needle": ["South Coast Metro", "South Coast Metro", "South Coast Metro"], "score": true}
+{"ctx_len": 127976, "pred": "business district<|eot_id|>", "needle": ["business", "major business districts", "major business"], "score": true}
+{"ctx_len": 128877, "pred": "Los Angeles<|eot_id|>", "needle": ["Los Angeles Area", "the Los Angeles Area", "major business"], "score": false}
+{"ctx_len": 130386, "pred": "Warner Center is located in the San Fernando Valley.<|eot_id|>", "needle": ["San Fernando Valley", "the San Fernando Valley", "San Fernando Valley"], "score": true}
+{"ctx_len": 128019, "pred": "Los Angeles<|eot_id|>", "needle": ["Los Angeles", "Los Angeles", "Los Angeles"], "score": true}
+{"ctx_len": 130074, "pred": "The business districts of Downtown San Bernardino, Hospitality Business/Financial Centre, University Town which are in San Bernardino and Downtown Riverside.<|eot_id|>", "needle": ["business", "business districts", "business"], "score": true}
+{"ctx_len": 129777, "pred": "Riverside<|eot_id|>", "needle": ["Riverside", "Riverside", "Downtown Riverside"], "score": true}
+{"ctx_len": 130112, "pred": "Hospitality Business/Financial Centre<|eot_id|>", "needle": ["Hospitality Business/Financial Centre", "Downtown Riverside", "Hospitality Business/Financial Centre"], "score": true}
+{"ctx_len": 128299, "pred": "Orange County<|eot_id|>", "needle": ["Orange", "Orange County", "Orange County"], "score": true}
+{"ctx_len": 129735, "pred": "University of California, Irvine<|eot_id|>", "needle": ["University of California, Irvine", "the University of California, Irvine", "University of California"], "score": true}
+{"ctx_len": 129728, "pred": "West Irvine<|eot_id|>", "needle": ["West Irvine", "West Irvine", "West Irvine"], "score": true}
+{"ctx_len": 129773, "pred": "Irvine business centers<|eot_id|>", "needle": ["South Coast Metro", "the South Coast Metro", "South Coast Metro"], "score": false}
+{"ctx_len": 130633, "pred": "Rapidly<|eot_id|>", "needle": ["rapidly", "rapidly", "rapidly"], "score": true}
+{"ctx_len": 128385, "pred": "Downtown San Diego<|eot_id|>", "needle": ["Downtown San Diego", "Downtown San Diego", "Downtown"], "score": true}
+{"ctx_len": 129005, "pred": "Carmel Valley, Del Mar Heights, Mission Valley, Rancho Bernardo, Sorrento Mesa, and University City.<|eot_id|>", "needle": ["Northern San Diego", "Northern San Diego", "Northern San Diego"], "score": false}
+{"ctx_len": 126938, "pred": "Downtown San Diego<|eot_id|>", "needle": ["North County", "North County", "North County regions"], "score": false}
+{"ctx_len": 129622, "pred": "San Diego<|eot_id|>", "needle": ["San Diego", "San Diego", "San Diego"], "score": true}
+{"ctx_len": 126805, "pred": "Los Angeles International Airport<|eot_id|>", "needle": ["Los Angeles International Airport", "Los Angeles International Airport", "Los Angeles International Airport"], "score": true}
+{"ctx_len": 129691, "pred": "passenger volume<|eot_id|>", "needle": ["passenger volume", "passenger volume", "passenger volume"], "score": true}
+{"ctx_len": 130742, "pred": "3<|eot_id|>", "needle": ["third", "third", "third"], "score": false}
+{"ctx_len": 126335, "pred": "San Diego International Airport<|eot_id|>", "needle": ["San Diego International Airport", "San Diego International Airport", "San Diego International Airport"], "score": true}
+{"ctx_len": 129418, "pred": "Van Nuys Airport<|eot_id|>", "needle": ["Van Nuys Airport", "Van Nuys Airport", "Van Nuys Airport"], "score": true}
+{"ctx_len": 130446, "pred": "Metrolink<|eot_id|>", "needle": ["Metrolink", "Metrolink", "Metrolink"], "score": true}
+{"ctx_len": 128996, "pred": "Six<|eot_id|>", "needle": ["seven", "seven", "seven"], "score": false}
+{"ctx_len": 130317, "pred": "Six<|eot_id|>", "needle": ["Six", "Six", "Six"], "score": true}
+{"ctx_len": 126233, "pred": "Orange<|eot_id|>", "needle": ["Orange", "Orange", "Orange"], "score": true}
+{"ctx_len": 129444, "pred": "The Port of Los Angeles<|eot_id|>", "needle": ["Port of Los Angeles", "the Port of Los Angeles", "Port of Los Angeles"], "score": true}
+{"ctx_len": 129789, "pred": "The second busiest container port in the United States is the Port of Long Beach.<|eot_id|>", "needle": ["Port of San Diego", "Port of Long Beach", "Port of Long Beach"], "score": true}
+{"ctx_len": 129176, "pred": "Southern California<|eot_id|>", "needle": ["Southern", "Southern California", "Southern"], "score": true}
+{"ctx_len": 128820, "pred": "Tech Coast<|eot_id|>", "needle": ["The Tech Coast", "The Tech Coast", "Tech Coast"], "score": true}
+{"ctx_len": 127479, "pred": "The region is famous for its diversified technology and industrial base as well as its multitude of prestigious and world-renowned research universities.<|eot_id|>", "needle": ["research", "research", "research"], "score": true}
+{"ctx_len": 129102, "pred": "Private<|eot_id|>", "needle": ["private", "private", "private"], "score": true}
+{"ctx_len": 127962, "pred": "5<|eot_id|>", "needle": ["5", "5", "5"], "score": true}
+{"ctx_len": 127935, "pred": "12<|eot_id|>", "needle": ["12", "12", "12"], "score": true}
+{"ctx_len": 128622, "pred": "NFL<|eot_id|>", "needle": ["NFL", "Professional", "NFL"], "score": true}
+{"ctx_len": 129017, "pred": "NBA<|eot_id|>", "needle": ["NBA", "NBA", "NBA"], "score": true}
+{"ctx_len": 128912, "pred": "MLB<|eot_id|>", "needle": ["MLB", "MLB", "MLB"], "score": true}
+{"ctx_len": 129890, "pred": "Los Angeles Kings<|eot_id|>", "needle": ["Los Angeles Kings", "Los Angeles Kings", "Los Angeles Kings"], "score": true}
+{"ctx_len": 129956, "pred": "LA Galaxy<|eot_id|>", "needle": ["LA Galaxy", "LA Galaxy", "LA Galaxy"], "score": true}
+{"ctx_len": 128505, "pred": "Chivas USA<|eot_id|>", "needle": ["Chivas USA", "Chivas", "Chivas"], "score": true}
+{"ctx_len": 130412, "pred": "2<|eot_id|>", "needle": ["two", "two", "two"], "score": false}
+{"ctx_len": 129615, "pred": "2014<|eot_id|>", "needle": ["2014", "2014", "2014"], "score": true}
+{"ctx_len": 130336, "pred": "StubHub Center<|eot_id|>", "needle": ["StubHub Center", "the StubHub Center", "StubHub Center"], "score": true}
+{"ctx_len": 130435, "pred": "2018<|eot_id|>", "needle": ["2018", "in 2018", "2018"], "score": true}
+{"ctx_len": 128998, "pred": "Surfing and skateboarding<|eot_id|>", "needle": ["College", "College", "College"], "score": false}
+{"ctx_len": 130648, "pred": "UCLA<|eot_id|>", "needle": ["UCLA", "UCLA", "UCLA"], "score": true}
+{"ctx_len": 127679, "pred": "Trojans<|eot_id|>", "needle": ["Trojans", "Trojans", "Trojans"], "score": true}
+{"ctx_len": 128793, "pred": "Pac-12 Conference<|eot_id|>", "needle": ["Pac-12", "the Pac-12", "Pac-12"], "score": true}
+{"ctx_len": 129543, "pred": "NCAA Division I in the Pac-12 Conference<|eot_id|>", "needle": ["Division I", "Division I", "Division I"], "score": true}
+{"ctx_len": 129814, "pred": "Rugby<|eot_id|>", "needle": ["Rugby", "Rugby", "Rugby"], "score": true}
+{"ctx_len": 129908, "pred": "High school<|eot_id|>", "needle": ["high school", "high school", "high school"], "score": true}
+{"ctx_len": 127248, "pred": "a sport<|eot_id|>", "needle": ["an official school sport", "an official school", "official school sport"], "score": false}
+{"ctx_len": 128830, "pred": "BSkyB<|eot_id|>", "needle": ["BSkyB", "BSkyB", "BSkyB"], "score": true}
+{"ctx_len": 129361, "pred": "BSkyB<|eot_id|>", "needle": ["BSkyB", "BSkyB", "BSkyB"], "score": true}
+{"ctx_len": 128462, "pred": "2014<|eot_id|>", "needle": ["2014", "2014", "2014"], "score": true}
+{"ctx_len": 127334, "pred": "British Sky Broadcasting Group plc<|eot_id|>", "needle": ["Sky plc", "British Sky Broadcasting Group plc", "British Sky Broadcasting Group plc"], "score": true}
+{"ctx_len": 129142, "pred": "Sky UK Limited<|eot_id|>", "needle": ["Sky UK Limited", "Sky UK Limited", "Sky UK Limited"], "score": true}
+{"ctx_len": 128417, "pred": "2006<|eot_id|>", "needle": ["2006", "2006", "2006"], "score": true}
+{"ctx_len": 128419, "pred": "Two<|eot_id|>", "needle": ["two", "two", "two"], "score": true}
+{"ctx_len": 129967, "pred": "Sky<|eot_id|>", "needle": ["Sky", "Sky", "Sky"], "score": true}
+{"ctx_len": 129385, "pred": "\u00a34.2bn<|eot_id|>", "needle": ["\u00a31.3bn", "\u00a31.3bn", "\u00a34.2bn"], "score": true}
+{"ctx_len": 129465, "pred": "ONdigital<|eot_id|>", "needle": ["ONdigital", "ONdigital", "ONdigital"], "score": true}
+{"ctx_len": 129472, "pred": "ITV Digital<|eot_id|>", "needle": ["Freeview", "ITV Digital", "ITV Digital"], "score": true}
+{"ctx_len": 130026, "pred": "Three<|eot_id|>", "needle": ["three", "three", "three"], "score": true}
+{"ctx_len": 130238, "pred": "Sky Three<|eot_id|>", "needle": ["Sky Three", "Sky Three", "Sky Three"], "score": true}
+{"ctx_len": 129894, "pred": "Sky Three<|eot_id|>", "needle": ["Pick TV", "Pick TV", "Pick TV"], "score": false}
+{"ctx_len": 130534, "pred": "Sky+ PVR<|eot_id|>", "needle": ["Sky+ PVR", "Sky+ PVR", "Sky+ PVR"], "score": true}
+{"ctx_len": 128893, "pred": "September 2007<|eot_id|>", "needle": ["September 2007", "September 2007", "March 2008"], "score": true}
+{"ctx_len": 128652, "pred": "Customers can pay a monthly fee to enable Sky+ functions.<|eot_id|>", "needle": ["monthly fee", "a monthly fee", "SkyHD box"], "score": true}
+{"ctx_len": 129741, "pred": "2010<|eot_id|>", "needle": ["January 2010", "In January 2010", "February 2011"], "score": false}
+{"ctx_len": 128609, "pred": "The Sky+HD Box<|eot_id|>", "needle": ["Sky+HD Box", "Sky+HD Box", "Sky+HD Box"], "score": true}
+{"ctx_len": 130076, "pred": "VideoGuard<|eot_id|>", "needle": ["VideoGuard", "VideoGuard pay-TV", "VideoGuard"], "score": true}
+{"ctx_len": 128537, "pred": "NDS, a Cisco Systems company<|eot_id|>", "needle": ["NDS", "NDS", "NDS"], "score": true}
+{"ctx_len": 127726, "pred": "Cisco Systems<|eot_id|>", "needle": ["Cisco Systems", "Cisco Systems", "Cisco Systems company"], "score": true}
+{"ctx_len": 129189, "pred": "BSkyB<|eot_id|>", "needle": ["BSkyB", "BSkyB", "BSkyB"], "score": true}
+{"ctx_len": 129102, "pred": "Sky+<|eot_id|>", "needle": ["Sky+", "Sky+", "PVR"], "score": true}
+{"ctx_len": 128298, "pred": "2007<|eot_id|>", "needle": ["2007", "2007", "2007"], "score": true}
+{"ctx_len": 130415, "pred": "The basic channels from the network, including Sky News, Sky Three, and Sky Sports News.<|eot_id|>", "needle": ["basic channels", "the basic channels", "the basic channels"], "score": true}
+{"ctx_len": 127112, "pred": "Virgin Media claimed that BSkyB had substantially increased the asking price for the channels.<|eot_id|>", "needle": ["substantially increased the asking price", "that BSkyB had substantially increased the asking price for the channels", "increased the asking price"], "score": true}
+avg:0.796

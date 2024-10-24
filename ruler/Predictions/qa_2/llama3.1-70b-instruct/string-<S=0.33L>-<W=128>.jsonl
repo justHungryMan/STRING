@@ -1,0 +1,1001 @@
+step 0, ctx len 129914, avg score 1.0
+step 1, ctx len 130614, avg score 0.5
+step 2, ctx len 130820, avg score 0.6666666666666666
+step 3, ctx len 127623, avg score 0.5
+step 4, ctx len 128669, avg score 0.4
+step 5, ctx len 130022, avg score 0.5
+step 6, ctx len 130428, avg score 0.5714285714285714
+step 7, ctx len 129843, avg score 0.5
+step 8, ctx len 128493, avg score 0.4444444444444444
+step 9, ctx len 125002, avg score 0.5
+step 10, ctx len 128757, avg score 0.5454545454545454
+step 11, ctx len 128373, avg score 0.5833333333333334
+step 12, ctx len 127792, avg score 0.5384615384615384
+step 13, ctx len 128788, avg score 0.5714285714285714
+step 14, ctx len 129555, avg score 0.5333333333333333
+step 15, ctx len 128940, avg score 0.5625
+step 16, ctx len 130895, avg score 0.5294117647058824
+step 17, ctx len 130010, avg score 0.5555555555555556
+step 18, ctx len 129819, avg score 0.5263157894736842
+step 19, ctx len 125957, avg score 0.5
+step 20, ctx len 130841, avg score 0.5238095238095238
+step 21, ctx len 129827, avg score 0.5
+step 22, ctx len 130630, avg score 0.4782608695652174
+step 23, ctx len 129065, avg score 0.4583333333333333
+step 24, ctx len 129558, avg score 0.48
+step 25, ctx len 129409, avg score 0.46153846153846156
+step 26, ctx len 130917, avg score 0.48148148148148145
+step 27, ctx len 129729, avg score 0.5
+step 28, ctx len 128426, avg score 0.5172413793103449
+step 29, ctx len 128036, avg score 0.5333333333333333
+step 30, ctx len 128990, avg score 0.5483870967741935
+step 31, ctx len 126959, avg score 0.53125
+step 32, ctx len 130271, avg score 0.5151515151515151
+step 33, ctx len 128550, avg score 0.5294117647058824
+step 34, ctx len 129248, avg score 0.5142857142857142
+step 35, ctx len 130759, avg score 0.5
+step 36, ctx len 130269, avg score 0.5135135135135135
+step 37, ctx len 128357, avg score 0.5263157894736842
+step 38, ctx len 128602, avg score 0.5384615384615384
+step 39, ctx len 129237, avg score 0.525
+step 40, ctx len 129322, avg score 0.5121951219512195
+step 41, ctx len 126007, avg score 0.5
+step 42, ctx len 129412, avg score 0.4883720930232558
+step 43, ctx len 130721, avg score 0.4772727272727273
+step 44, ctx len 126670, avg score 0.4666666666666667
+step 45, ctx len 129839, avg score 0.45652173913043476
+step 46, ctx len 128566, avg score 0.46808510638297873
+step 47, ctx len 128010, avg score 0.4583333333333333
+step 48, ctx len 130173, avg score 0.46938775510204084
+step 49, ctx len 130638, avg score 0.48
+step 50, ctx len 127698, avg score 0.47058823529411764
+step 51, ctx len 130466, avg score 0.46153846153846156
+step 52, ctx len 127726, avg score 0.4716981132075472
+step 53, ctx len 127605, avg score 0.46296296296296297
+step 54, ctx len 129768, avg score 0.45454545454545453
+step 55, ctx len 128084, avg score 0.44642857142857145
+step 56, ctx len 130290, avg score 0.45614035087719296
+step 57, ctx len 128306, avg score 0.46551724137931033
+step 58, ctx len 127920, avg score 0.4576271186440678
+step 59, ctx len 128494, avg score 0.45
+step 60, ctx len 127165, avg score 0.4426229508196721
+step 61, ctx len 129830, avg score 0.43548387096774194
+step 62, ctx len 126760, avg score 0.42857142857142855
+step 63, ctx len 126394, avg score 0.421875
+step 64, ctx len 130245, avg score 0.4153846153846154
+step 65, ctx len 127517, avg score 0.42424242424242425
+step 66, ctx len 128120, avg score 0.417910447761194
+step 67, ctx len 129601, avg score 0.4264705882352941
+step 68, ctx len 125998, avg score 0.42028985507246375
+step 69, ctx len 126646, avg score 0.42857142857142855
+step 70, ctx len 130384, avg score 0.4225352112676056
+step 71, ctx len 127595, avg score 0.4166666666666667
+step 72, ctx len 126246, avg score 0.4246575342465753
+step 73, ctx len 129164, avg score 0.43243243243243246
+step 74, ctx len 128985, avg score 0.4266666666666667
+step 75, ctx len 130179, avg score 0.4342105263157895
+step 76, ctx len 128778, avg score 0.42857142857142855
+step 77, ctx len 130766, avg score 0.4230769230769231
+step 78, ctx len 128525, avg score 0.43037974683544306
+step 79, ctx len 128005, avg score 0.4375
+step 80, ctx len 128102, avg score 0.43209876543209874
+step 81, ctx len 130669, avg score 0.43902439024390244
+step 82, ctx len 129738, avg score 0.43373493975903615
+step 83, ctx len 129361, avg score 0.42857142857142855
+step 84, ctx len 130299, avg score 0.4235294117647059
+step 85, ctx len 130812, avg score 0.4186046511627907
+step 86, ctx len 126732, avg score 0.41379310344827586
+step 87, ctx len 127969, avg score 0.42045454545454547
+step 88, ctx len 130454, avg score 0.42696629213483145
+step 89, ctx len 127224, avg score 0.43333333333333335
+step 90, ctx len 130827, avg score 0.43956043956043955
+step 91, ctx len 127214, avg score 0.44565217391304346
+step 92, ctx len 128083, avg score 0.44086021505376344
+step 93, ctx len 130608, avg score 0.43617021276595747
+step 94, ctx len 128218, avg score 0.43157894736842106
+step 95, ctx len 129537, avg score 0.4375
+step 96, ctx len 125770, avg score 0.4329896907216495
+step 97, ctx len 130661, avg score 0.42857142857142855
+step 98, ctx len 130796, avg score 0.43434343434343436
+step 99, ctx len 129841, avg score 0.44
+step 100, ctx len 130515, avg score 0.43564356435643564
+step 101, ctx len 130610, avg score 0.43137254901960786
+step 102, ctx len 130038, avg score 0.42718446601941745
+step 103, ctx len 128463, avg score 0.4230769230769231
+step 104, ctx len 128651, avg score 0.42857142857142855
+step 105, ctx len 130070, avg score 0.4339622641509434
+step 106, ctx len 126974, avg score 0.42990654205607476
+step 107, ctx len 128606, avg score 0.42592592592592593
+step 108, ctx len 129800, avg score 0.42201834862385323
+step 109, ctx len 125791, avg score 0.41818181818181815
+step 110, ctx len 129757, avg score 0.42342342342342343
+step 111, ctx len 128213, avg score 0.41964285714285715
+step 112, ctx len 125117, avg score 0.415929203539823
+step 113, ctx len 128897, avg score 0.41228070175438597
+step 114, ctx len 130235, avg score 0.40869565217391307
+step 115, ctx len 128415, avg score 0.4051724137931034
+step 116, ctx len 130380, avg score 0.41025641025641024
+step 117, ctx len 129630, avg score 0.4067796610169492
+step 118, ctx len 130498, avg score 0.40336134453781514
+step 119, ctx len 130536, avg score 0.4083333333333333
+step 120, ctx len 131002, avg score 0.4049586776859504
+step 121, ctx len 127436, avg score 0.4098360655737705
+step 122, ctx len 129476, avg score 0.4146341463414634
+step 123, ctx len 130387, avg score 0.4112903225806452
+step 124, ctx len 130644, avg score 0.408
+step 125, ctx len 128977, avg score 0.40476190476190477
+step 126, ctx len 128338, avg score 0.4094488188976378
+step 127, ctx len 128519, avg score 0.4140625
+step 128, ctx len 128088, avg score 0.4108527131782946
+step 129, ctx len 128301, avg score 0.4076923076923077
+step 130, ctx len 128491, avg score 0.4122137404580153
+step 131, ctx len 129246, avg score 0.4166666666666667
+step 132, ctx len 129993, avg score 0.41353383458646614
+step 133, ctx len 129059, avg score 0.41044776119402987
+step 134, ctx len 124911, avg score 0.4074074074074074
+step 135, ctx len 122032, avg score 0.40441176470588236
+step 136, ctx len 128793, avg score 0.40875912408759124
+step 137, ctx len 130105, avg score 0.41304347826086957
+step 138, ctx len 127755, avg score 0.41007194244604317
+step 139, ctx len 129784, avg score 0.40714285714285714
+step 140, ctx len 123583, avg score 0.41134751773049644
+step 141, ctx len 128296, avg score 0.4084507042253521
+step 142, ctx len 130338, avg score 0.40559440559440557
+step 143, ctx len 130540, avg score 0.4027777777777778
+step 144, ctx len 129833, avg score 0.4068965517241379
+step 145, ctx len 129070, avg score 0.410958904109589
+step 146, ctx len 126506, avg score 0.41496598639455784
+step 147, ctx len 129176, avg score 0.41216216216216217
+step 148, ctx len 129763, avg score 0.4161073825503356
+step 149, ctx len 130111, avg score 0.41333333333333333
+step 150, ctx len 126931, avg score 0.41721854304635764
+step 151, ctx len 127274, avg score 0.42105263157894735
+step 152, ctx len 129564, avg score 0.41830065359477125
+step 153, ctx len 129709, avg score 0.4155844155844156
+step 154, ctx len 128060, avg score 0.41935483870967744
+step 155, ctx len 129148, avg score 0.4230769230769231
+step 156, ctx len 129537, avg score 0.4267515923566879
+step 157, ctx len 126533, avg score 0.4240506329113924
+step 158, ctx len 128618, avg score 0.4276729559748428
+step 159, ctx len 129338, avg score 0.43125
+step 160, ctx len 130811, avg score 0.42857142857142855
+step 161, ctx len 124527, avg score 0.43209876543209874
+step 162, ctx len 129694, avg score 0.43558282208588955
+step 163, ctx len 129726, avg score 0.4329268292682927
+step 164, ctx len 129271, avg score 0.4303030303030303
+step 165, ctx len 126722, avg score 0.43373493975903615
+step 166, ctx len 130984, avg score 0.437125748502994
+step 167, ctx len 130654, avg score 0.44047619047619047
+step 168, ctx len 126922, avg score 0.4378698224852071
+step 169, ctx len 126715, avg score 0.4411764705882353
+step 170, ctx len 129569, avg score 0.43859649122807015
+step 171, ctx len 130288, avg score 0.436046511627907
+step 172, ctx len 127703, avg score 0.4393063583815029
+step 173, ctx len 127469, avg score 0.4367816091954023
+step 174, ctx len 126641, avg score 0.4342857142857143
+step 175, ctx len 128370, avg score 0.4375
+step 176, ctx len 128724, avg score 0.4350282485875706
+step 177, ctx len 130199, avg score 0.43258426966292135
+step 178, ctx len 130193, avg score 0.4301675977653631
+step 179, ctx len 128884, avg score 0.43333333333333335
+step 180, ctx len 130322, avg score 0.430939226519337
+step 181, ctx len 127860, avg score 0.42857142857142855
+step 182, ctx len 129347, avg score 0.43169398907103823
+step 183, ctx len 129033, avg score 0.42934782608695654
+step 184, ctx len 129217, avg score 0.42702702702702705
+step 185, ctx len 130826, avg score 0.42473118279569894
+step 186, ctx len 125361, avg score 0.42780748663101603
+step 187, ctx len 130232, avg score 0.4308510638297872
+step 188, ctx len 129900, avg score 0.42857142857142855
+step 189, ctx len 128721, avg score 0.4263157894736842
+step 190, ctx len 128958, avg score 0.42408376963350786
+step 191, ctx len 129053, avg score 0.421875
+step 192, ctx len 129481, avg score 0.41968911917098445
+step 193, ctx len 130805, avg score 0.4175257731958763
+step 194, ctx len 127071, avg score 0.4153846153846154
+step 195, ctx len 129742, avg score 0.413265306122449
+step 196, ctx len 129912, avg score 0.41116751269035534
+step 197, ctx len 131013, avg score 0.4090909090909091
+step 198, ctx len 128650, avg score 0.4120603015075377
+step 199, ctx len 130324, avg score 0.41
+step 200, ctx len 130805, avg score 0.4079601990049751
+step 201, ctx len 129087, avg score 0.40594059405940597
+step 202, ctx len 127559, avg score 0.4088669950738916
+step 203, ctx len 130003, avg score 0.4117647058823529
+step 204, ctx len 128219, avg score 0.4146341463414634
+step 205, ctx len 124434, avg score 0.41262135922330095
+step 206, ctx len 128839, avg score 0.4106280193236715
+step 207, ctx len 128341, avg score 0.40865384615384615
+step 208, ctx len 129679, avg score 0.40669856459330145
+step 209, ctx len 128652, avg score 0.4095238095238095
+step 210, ctx len 129798, avg score 0.4075829383886256
+step 211, ctx len 130075, avg score 0.41037735849056606
+step 212, ctx len 130468, avg score 0.4084507042253521
+step 213, ctx len 129409, avg score 0.40654205607476634
+step 214, ctx len 128564, avg score 0.4046511627906977
+step 215, ctx len 127641, avg score 0.4027777777777778
+step 216, ctx len 128545, avg score 0.4009216589861751
+step 217, ctx len 127903, avg score 0.39908256880733944
+step 218, ctx len 129550, avg score 0.4018264840182648
+step 219, ctx len 130869, avg score 0.40454545454545454
+step 220, ctx len 130485, avg score 0.40271493212669685
+step 221, ctx len 130041, avg score 0.40540540540540543
+step 222, ctx len 130570, avg score 0.40358744394618834
+step 223, ctx len 130267, avg score 0.4017857142857143
+step 224, ctx len 128934, avg score 0.4
+step 225, ctx len 129762, avg score 0.4026548672566372
+step 226, ctx len 126860, avg score 0.4052863436123348
+step 227, ctx len 125905, avg score 0.40350877192982454
+step 228, ctx len 129046, avg score 0.40611353711790393
+step 229, ctx len 126824, avg score 0.40869565217391307
+step 230, ctx len 127622, avg score 0.4069264069264069
+step 231, ctx len 130417, avg score 0.40948275862068967
+step 232, ctx len 125860, avg score 0.41201716738197425
+step 233, ctx len 130610, avg score 0.41025641025641024
+step 234, ctx len 130146, avg score 0.4085106382978723
+step 235, ctx len 129006, avg score 0.4110169491525424
+step 236, ctx len 127644, avg score 0.4092827004219409
+step 237, ctx len 130443, avg score 0.4117647058823529
+step 238, ctx len 128965, avg score 0.41422594142259417
+step 239, ctx len 127790, avg score 0.4166666666666667
+step 240, ctx len 129894, avg score 0.4149377593360996
+step 241, ctx len 129109, avg score 0.4132231404958678
+step 242, ctx len 129544, avg score 0.411522633744856
+step 243, ctx len 125762, avg score 0.4139344262295082
+step 244, ctx len 128497, avg score 0.4122448979591837
+step 245, ctx len 131027, avg score 0.4105691056910569
+step 246, ctx len 129031, avg score 0.4089068825910931
+step 247, ctx len 128015, avg score 0.4112903225806452
+step 248, ctx len 129850, avg score 0.40963855421686746
+step 249, ctx len 129913, avg score 0.412
+step 250, ctx len 129915, avg score 0.4103585657370518
+step 251, ctx len 124519, avg score 0.4087301587301587
+step 252, ctx len 124357, avg score 0.41106719367588934
+step 253, ctx len 130766, avg score 0.41338582677165353
+step 254, ctx len 130545, avg score 0.4117647058823529
+step 255, ctx len 126375, avg score 0.4140625
+step 256, ctx len 128525, avg score 0.4163424124513619
+step 257, ctx len 129861, avg score 0.41472868217054265
+step 258, ctx len 127855, avg score 0.416988416988417
+step 259, ctx len 129675, avg score 0.41923076923076924
+step 260, ctx len 129860, avg score 0.421455938697318
+step 261, ctx len 128919, avg score 0.4198473282442748
+step 262, ctx len 129643, avg score 0.4220532319391635
+step 263, ctx len 129995, avg score 0.42045454545454547
+step 264, ctx len 130424, avg score 0.4226415094339623
+step 265, ctx len 127828, avg score 0.42105263157894735
+step 266, ctx len 127159, avg score 0.4232209737827715
+step 267, ctx len 129824, avg score 0.4216417910447761
+step 268, ctx len 131015, avg score 0.42379182156133827
+step 269, ctx len 129853, avg score 0.42592592592592593
+step 270, ctx len 130617, avg score 0.4280442804428044
+step 271, ctx len 128808, avg score 0.43014705882352944
+step 272, ctx len 130318, avg score 0.43223443223443225
+step 273, ctx len 130560, avg score 0.4306569343065693
+step 274, ctx len 128088, avg score 0.4290909090909091
+step 275, ctx len 129982, avg score 0.427536231884058
+step 276, ctx len 128963, avg score 0.4296028880866426
+step 277, ctx len 128168, avg score 0.4316546762589928
+step 278, ctx len 126678, avg score 0.4336917562724014
+step 279, ctx len 129162, avg score 0.43214285714285716
+step 280, ctx len 129255, avg score 0.43416370106761565
+step 281, ctx len 130242, avg score 0.4326241134751773
+step 282, ctx len 129703, avg score 0.43109540636042404
+step 283, ctx len 130480, avg score 0.43309859154929575
+step 284, ctx len 129440, avg score 0.43157894736842106
+step 285, ctx len 128323, avg score 0.43356643356643354
+step 286, ctx len 129424, avg score 0.43205574912891986
+step 287, ctx len 129386, avg score 0.4305555555555556
+step 288, ctx len 130676, avg score 0.43252595155709345
+step 289, ctx len 126679, avg score 0.43103448275862066
+step 290, ctx len 128002, avg score 0.42955326460481097
+step 291, ctx len 129561, avg score 0.4280821917808219
+step 292, ctx len 129081, avg score 0.42662116040955633
+step 293, ctx len 130095, avg score 0.42857142857142855
+step 294, ctx len 129665, avg score 0.4271186440677966
+step 295, ctx len 130829, avg score 0.42567567567567566
+step 296, ctx len 128813, avg score 0.42424242424242425
+step 297, ctx len 130226, avg score 0.4261744966442953
+step 298, ctx len 128091, avg score 0.4280936454849498
+step 299, ctx len 127919, avg score 0.43
+step 300, ctx len 129080, avg score 0.42857142857142855
+step 301, ctx len 130168, avg score 0.4271523178807947
+step 302, ctx len 129781, avg score 0.42574257425742573
+step 303, ctx len 129137, avg score 0.4276315789473684
+step 304, ctx len 128714, avg score 0.42950819672131146
+step 305, ctx len 127952, avg score 0.43137254901960786
+step 306, ctx len 129870, avg score 0.42996742671009774
+step 307, ctx len 129306, avg score 0.4318181818181818
+step 308, ctx len 127684, avg score 0.43042071197411
+step 309, ctx len 129962, avg score 0.4290322580645161
+step 310, ctx len 128278, avg score 0.42765273311897106
+step 311, ctx len 127978, avg score 0.42628205128205127
+step 312, ctx len 128207, avg score 0.4281150159744409
+step 313, ctx len 130920, avg score 0.4267515923566879
+step 314, ctx len 129131, avg score 0.4253968253968254
+step 315, ctx len 127947, avg score 0.4240506329113924
+step 316, ctx len 130639, avg score 0.42586750788643535
+step 317, ctx len 128538, avg score 0.4276729559748428
+step 318, ctx len 128849, avg score 0.42946708463949845
+step 319, ctx len 127109, avg score 0.428125
+step 320, ctx len 129404, avg score 0.42990654205607476
+step 321, ctx len 128361, avg score 0.42857142857142855
+step 322, ctx len 130752, avg score 0.42724458204334365
+step 323, ctx len 127871, avg score 0.42901234567901236
+step 324, ctx len 129463, avg score 0.4307692307692308
+step 325, ctx len 127473, avg score 0.4294478527607362
+step 326, ctx len 128547, avg score 0.42813455657492355
+step 327, ctx len 129789, avg score 0.4268292682926829
+step 328, ctx len 125395, avg score 0.42857142857142855
+step 329, ctx len 128050, avg score 0.4303030303030303
+step 330, ctx len 129395, avg score 0.42900302114803623
+step 331, ctx len 130740, avg score 0.4307228915662651
+step 332, ctx len 130285, avg score 0.4294294294294294
+step 333, ctx len 130399, avg score 0.4311377245508982
+step 334, ctx len 128643, avg score 0.4298507462686567
+step 335, ctx len 127922, avg score 0.42857142857142855
+step 336, ctx len 130378, avg score 0.42729970326409494
+step 337, ctx len 130572, avg score 0.4289940828402367
+step 338, ctx len 130418, avg score 0.4306784660766962
+step 339, ctx len 127368, avg score 0.4323529411764706
+step 340, ctx len 130395, avg score 0.4340175953079179
+step 341, ctx len 129120, avg score 0.43567251461988304
+step 342, ctx len 127066, avg score 0.43440233236151604
+step 343, ctx len 128225, avg score 0.436046511627907
+step 344, ctx len 129810, avg score 0.43768115942028984
+step 345, ctx len 127603, avg score 0.43641618497109824
+step 346, ctx len 127002, avg score 0.43515850144092216
+step 347, ctx len 127029, avg score 0.4367816091954023
+step 348, ctx len 129404, avg score 0.4355300859598854
+step 349, ctx len 128696, avg score 0.43714285714285717
+step 350, ctx len 126981, avg score 0.4358974358974359
+step 351, ctx len 129581, avg score 0.4346590909090909
+step 352, ctx len 130367, avg score 0.43626062322946174
+step 353, ctx len 128642, avg score 0.4378531073446328
+step 354, ctx len 126683, avg score 0.43661971830985913
+step 355, ctx len 130181, avg score 0.43820224719101125
+step 356, ctx len 129225, avg score 0.4369747899159664
+step 357, ctx len 129298, avg score 0.43854748603351956
+step 358, ctx len 127736, avg score 0.4373259052924791
+step 359, ctx len 130068, avg score 0.4361111111111111
+step 360, ctx len 124916, avg score 0.43490304709141275
+step 361, ctx len 129595, avg score 0.43370165745856354
+step 362, ctx len 130771, avg score 0.43526170798898073
+step 363, ctx len 129797, avg score 0.4368131868131868
+step 364, ctx len 127493, avg score 0.4383561643835616
+step 365, ctx len 130528, avg score 0.43989071038251365
+step 366, ctx len 126035, avg score 0.44141689373297005
+step 367, ctx len 129290, avg score 0.44021739130434784
+step 368, ctx len 130261, avg score 0.43902439024390244
+step 369, ctx len 128238, avg score 0.44054054054054054
+step 370, ctx len 125576, avg score 0.4420485175202156
+step 371, ctx len 128911, avg score 0.4435483870967742
+step 372, ctx len 130609, avg score 0.44235924932975873
+step 373, ctx len 129625, avg score 0.44385026737967914
+step 374, ctx len 131002, avg score 0.44533333333333336
+step 375, ctx len 130970, avg score 0.44680851063829785
+step 376, ctx len 128360, avg score 0.4482758620689655
+step 377, ctx len 128627, avg score 0.4470899470899471
+step 378, ctx len 128467, avg score 0.44591029023746703
+step 379, ctx len 129081, avg score 0.44473684210526315
+step 380, ctx len 128160, avg score 0.4461942257217848
+step 381, ctx len 130844, avg score 0.4476439790575916
+step 382, ctx len 130228, avg score 0.4490861618798956
+step 383, ctx len 130991, avg score 0.4479166666666667
+step 384, ctx len 127170, avg score 0.44935064935064933
+step 385, ctx len 128040, avg score 0.45077720207253885
+step 386, ctx len 127838, avg score 0.45219638242894056
+step 387, ctx len 128173, avg score 0.45103092783505155
+step 388, ctx len 128898, avg score 0.4498714652956298
+step 389, ctx len 130889, avg score 0.4512820512820513
+step 390, ctx len 129232, avg score 0.45012787723785164
+step 391, ctx len 130207, avg score 0.4489795918367347
+step 392, ctx len 127725, avg score 0.44783715012722647
+step 393, ctx len 129533, avg score 0.4467005076142132
+step 394, ctx len 127831, avg score 0.44556962025316454
+step 395, ctx len 130417, avg score 0.4444444444444444
+step 396, ctx len 128315, avg score 0.44584382871536526
+step 397, ctx len 128686, avg score 0.44472361809045224
+step 398, ctx len 126488, avg score 0.44360902255639095
+step 399, ctx len 127920, avg score 0.445
+step 400, ctx len 130888, avg score 0.44389027431421446
+step 401, ctx len 127075, avg score 0.4427860696517413
+step 402, ctx len 130132, avg score 0.4441687344913151
+step 403, ctx len 128623, avg score 0.4430693069306931
+step 404, ctx len 128449, avg score 0.4419753086419753
+step 405, ctx len 127385, avg score 0.4408866995073892
+step 406, ctx len 128115, avg score 0.4398034398034398
+step 407, ctx len 129146, avg score 0.4387254901960784
+step 408, ctx len 130891, avg score 0.43765281173594134
+step 409, ctx len 128515, avg score 0.43658536585365854
+step 410, ctx len 130859, avg score 0.43795620437956206
+step 411, ctx len 128358, avg score 0.4393203883495146
+step 412, ctx len 129803, avg score 0.43825665859564167
+step 413, ctx len 129322, avg score 0.4396135265700483
+step 414, ctx len 130961, avg score 0.43855421686746987
+step 415, ctx len 129644, avg score 0.43990384615384615
+step 416, ctx len 130434, avg score 0.43884892086330934
+step 417, ctx len 127229, avg score 0.43779904306220097
+step 418, ctx len 127255, avg score 0.43675417661097854
+step 419, ctx len 130830, avg score 0.4380952380952381
+step 420, ctx len 128460, avg score 0.43942992874109266
+step 421, ctx len 129821, avg score 0.44075829383886256
+step 422, ctx len 128595, avg score 0.4397163120567376
+step 423, ctx len 129889, avg score 0.4386792452830189
+step 424, ctx len 130331, avg score 0.44
+step 425, ctx len 126552, avg score 0.43896713615023475
+step 426, ctx len 128867, avg score 0.4379391100702576
+step 427, ctx len 129165, avg score 0.4392523364485981
+step 428, ctx len 130671, avg score 0.4382284382284382
+step 429, ctx len 129780, avg score 0.43953488372093025
+step 430, ctx len 129214, avg score 0.4408352668213457
+step 431, ctx len 128102, avg score 0.44212962962962965
+step 432, ctx len 128651, avg score 0.44110854503464203
+step 433, ctx len 129459, avg score 0.4423963133640553
+step 434, ctx len 127965, avg score 0.4436781609195402
+step 435, ctx len 127577, avg score 0.4426605504587156
+step 436, ctx len 128461, avg score 0.4416475972540046
+step 437, ctx len 129284, avg score 0.4429223744292237
+step 438, ctx len 130986, avg score 0.44419134396355353
+step 439, ctx len 130624, avg score 0.4431818181818182
+step 440, ctx len 125746, avg score 0.4421768707482993
+step 441, ctx len 130013, avg score 0.4434389140271493
+step 442, ctx len 126911, avg score 0.44469525959367945
+step 443, ctx len 130968, avg score 0.4436936936936937
+step 444, ctx len 129469, avg score 0.4449438202247191
+step 445, ctx len 129627, avg score 0.4461883408071749
+step 446, ctx len 130929, avg score 0.4451901565995526
+step 447, ctx len 126449, avg score 0.44642857142857145
+step 448, ctx len 128490, avg score 0.44766146993318484
+step 449, ctx len 127802, avg score 0.44666666666666666
+step 450, ctx len 129893, avg score 0.44789356984478934
+step 451, ctx len 130971, avg score 0.4469026548672566
+step 452, ctx len 130797, avg score 0.4481236203090508
+step 453, ctx len 128315, avg score 0.44933920704845814
+step 454, ctx len 123542, avg score 0.45054945054945056
+step 455, ctx len 130098, avg score 0.4517543859649123
+step 456, ctx len 129416, avg score 0.45076586433260396
+step 457, ctx len 127965, avg score 0.4497816593886463
+step 458, ctx len 128593, avg score 0.45098039215686275
+step 459, ctx len 128251, avg score 0.45
+step 460, ctx len 129923, avg score 0.4490238611713666
+step 461, ctx len 129451, avg score 0.45021645021645024
+step 462, ctx len 128871, avg score 0.44924406047516197
+step 463, ctx len 129520, avg score 0.4504310344827586
+step 464, ctx len 128486, avg score 0.45161290322580644
+step 465, ctx len 123961, avg score 0.45278969957081544
+step 466, ctx len 131043, avg score 0.4518201284796574
+step 467, ctx len 129770, avg score 0.452991452991453
+step 468, ctx len 126923, avg score 0.4541577825159915
+step 469, ctx len 126898, avg score 0.4531914893617021
+step 470, ctx len 129917, avg score 0.45222929936305734
+step 471, ctx len 126449, avg score 0.451271186440678
+step 472, ctx len 128099, avg score 0.4503171247357294
+step 473, ctx len 129990, avg score 0.44936708860759494
+step 474, ctx len 129014, avg score 0.45052631578947366
+step 475, ctx len 130202, avg score 0.4495798319327731
+step 476, ctx len 126609, avg score 0.44863731656184486
+step 477, ctx len 127594, avg score 0.4476987447698745
+step 478, ctx len 129694, avg score 0.44676409185803756
+step 479, ctx len 129685, avg score 0.4479166666666667
+step 480, ctx len 128483, avg score 0.4490644490644491
+step 481, ctx len 130315, avg score 0.45020746887966806
+step 482, ctx len 129543, avg score 0.4492753623188406
+step 483, ctx len 129284, avg score 0.45041322314049587
+step 484, ctx len 130701, avg score 0.44948453608247424
+step 485, ctx len 130943, avg score 0.4506172839506173
+step 486, ctx len 130188, avg score 0.4517453798767967
+step 487, ctx len 130408, avg score 0.45081967213114754
+step 488, ctx len 128356, avg score 0.4498977505112474
+step 489, ctx len 129010, avg score 0.45102040816326533
+step 490, ctx len 128865, avg score 0.45213849287169044
+step 491, ctx len 128032, avg score 0.4532520325203252
+step 492, ctx len 129626, avg score 0.4543610547667343
+step 493, ctx len 127266, avg score 0.4534412955465587
+step 494, ctx len 128187, avg score 0.45454545454545453
+step 495, ctx len 129742, avg score 0.4536290322580645
+step 496, ctx len 129925, avg score 0.45271629778672035
+step 497, ctx len 125828, avg score 0.4538152610441767
+step 498, ctx len 129365, avg score 0.4529058116232465
+step 499, ctx len 127151, avg score 0.454
+{"ctx_len": 129914, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 130614, "pred": "Shirley Temple<|eot_id|>", "needle": ["Chief of Protocol"], "score": false}
+{"ctx_len": 130820, "pred": "Animorphs<|eot_id|>", "needle": ["Animorphs"], "score": true}
+{"ctx_len": 127623, "pred": "Yes<|eot_id|>", "needle": ["no"], "score": false}
+{"ctx_len": 128669, "pred": "Greenwich Village<|eot_id|>", "needle": ["Greenwich Village, New York City"], "score": false}
+{"ctx_len": 130022, "pred": "YG Entertainment<|eot_id|>", "needle": ["YG Entertainment"], "score": true}
+{"ctx_len": 130428, "pred": "Eenasul Fateh<|eot_id|>", "needle": ["Eenasul Fateh"], "score": true}
+{"ctx_len": 129843, "pred": "550<|eot_id|>", "needle": ["3,677 seated"], "score": false}
+{"ctx_len": 128493, "pred": "Annie Morton<|eot_id|>", "needle": ["Terry Richardson"], "score": false}
+{"ctx_len": 125002, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 128757, "pred": "Kansas Song<|eot_id|>", "needle": ["Kansas Song"], "score": true}
+{"ctx_len": 128373, "pred": "David Weissman<|eot_id|>", "needle": ["David Weissman"], "score": true}
+{"ctx_len": 127792, "pred": "1997<|eot_id|>", "needle": ["1999"], "score": false}
+{"ctx_len": 128788, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 129555, "pred": "1986 to 2013<|eot_id|>", "needle": ["from 1986 to 2013"], "score": false}
+{"ctx_len": 128940, "pred": "9,984<|eot_id|>", "needle": ["9,984"], "score": true}
+{"ctx_len": 130895, "pred": "North Atlantic Conference<|eot_id|>", "needle": ["the North Atlantic Conference"], "score": false}
+{"ctx_len": 130010, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 129819, "pred": "2009<|eot_id|>", "needle": ["1969 until 1974"], "score": false}
+{"ctx_len": 125957, "pred": "Robert Erskine Childers<|eot_id|>", "needle": ["Robert Erskine Childers DSC"], "score": false}
+{"ctx_len": 130841, "pred": "Pedro Rodr\u00edguez<|eot_id|>", "needle": ["Pedro Rodr\u00edguez"], "score": true}
+{"ctx_len": 129827, "pred": "Miles \"Tails\" Prower<|eot_id|>", "needle": ["Sonic"], "score": false}
+{"ctx_len": 130630, "pred": "Front Row<|eot_id|>", "needle": ["keyboard function keys"], "score": false}
+{"ctx_len": 129065, "pred": "Wolf Alice<|eot_id|>", "needle": ["Badly Drawn Boy"], "score": false}
+{"ctx_len": 129558, "pred": "The IFFHS World's Best Goalkeeper<|eot_id|>", "needle": ["World's Best Goalkeeper"], "score": true}
+{"ctx_len": 129409, "pred": "Lee Hazlewood<|eot_id|>", "needle": ["Barton Lee Hazlewood"], "score": false}
+{"ctx_len": 130917, "pred": "1838<|eot_id|>", "needle": ["1838"], "score": true}
+{"ctx_len": 129729, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 128426, "pred": "Henry J. Kaiser<|eot_id|>", "needle": ["Henry J. Kaiser"], "score": true}
+{"ctx_len": 128036, "pred": "Arena of Khazan<|eot_id|>", "needle": ["Arena of Khazan"], "score": true}
+{"ctx_len": 128990, "pred": "2000<|eot_id|>", "needle": ["2000"], "score": true}
+{"ctx_len": 126959, "pred": "Japan<|eot_id|>", "needle": ["Fujioka, Gunma"], "score": false}
+{"ctx_len": 130271, "pred": "Charles Nungesser<|eot_id|>", "needle": ["Charles Eug\u00e8ne"], "score": false}
+{"ctx_len": 128550, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 129248, "pred": "Screaming Trees<|eot_id|>", "needle": ["Letters to Cleo"], "score": false}
+{"ctx_len": 130759, "pred": "1924<|eot_id|>", "needle": ["October 1922"], "score": false}
+{"ctx_len": 130269, "pred": "2000<|eot_id|>", "needle": ["2000"], "score": true}
+{"ctx_len": 128357, "pred": "World War II<|eot_id|>", "needle": ["World War II"], "score": true}
+{"ctx_len": 128602, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 129237, "pred": "Columbia<|eot_id|>", "needle": ["New York City"], "score": false}
+{"ctx_len": 129322, "pred": "Manchester Terrier<|eot_id|>", "needle": ["Scotch Collie"], "score": false}
+{"ctx_len": 126007, "pred": "Kochi<|eot_id|>", "needle": ["Mumbai"], "score": false}
+{"ctx_len": 129412, "pred": "1960<|eot_id|>", "needle": ["1962"], "score": false}
+{"ctx_len": 130721, "pred": "a victory<|eot_id|>", "needle": ["sovereignty"], "score": false}
+{"ctx_len": 126670, "pred": "Joe Biden<|eot_id|>", "needle": ["Nelson Rockefeller"], "score": false}
+{"ctx_len": 129839, "pred": "Firth of Forth<|eot_id|>", "needle": ["Yellowcraig"], "score": false}
+{"ctx_len": 128566, "pred": "Phil Spector<|eot_id|>", "needle": ["Phil Spector"], "score": true}
+{"ctx_len": 128010, "pred": "A forum to discuss the problems that young people face in order to find constructive, long-term solutions.<|eot_id|>", "needle": ["Organizations could come together to address global issues"], "score": false}
+{"ctx_len": 130173, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 130638, "pred": "English Electric Canberra<|eot_id|>", "needle": ["English Electric Canberra"], "score": true}
+{"ctx_len": 127698, "pred": "2009, Big 12 Conference<|eot_id|>", "needle": ["2009 Big 12 Conference"], "score": false}
+{"ctx_len": 130466, "pred": "1<|eot_id|>", "needle": ["1,462"], "score": false}
+{"ctx_len": 127726, "pred": "Indianapolis Motor Speedway<|eot_id|>", "needle": ["Indianapolis Motor Speedway"], "score": true}
+{"ctx_len": 127605, "pred": "Barcelona<|eot_id|>", "needle": ["Rome"], "score": false}
+{"ctx_len": 129768, "pred": "Savan Kotecha, Ilya Salmanzadeh<|eot_id|>", "needle": ["Max Martin, Savan Kotecha and Ilya Salmanzadeh"], "score": false}
+{"ctx_len": 128084, "pred": "Adelaide<|eot_id|>", "needle": ["Marion, South Australia"], "score": false}
+{"ctx_len": 130290, "pred": "Drifting<|eot_id|>", "needle": ["Drifting"], "score": true}
+{"ctx_len": 128306, "pred": "Keith Bostic<|eot_id|>", "needle": ["Keith Bostic"], "score": true}
+{"ctx_len": 127920, "pred": "25,949<|eot_id|>", "needle": ["35,124"], "score": false}
+{"ctx_len": 128494, "pred": "Yes<|eot_id|>", "needle": ["no"], "score": false}
+{"ctx_len": 127165, "pred": "He is the first NBA player to win the NBA Most Valuable Player Award by a unanimous vote and to lead the league in scoring while shooting above 50\u2013", "needle": ["shortest player ever to play in the National Basketball Association"], "score": false}
+{"ctx_len": 129830, "pred": "Gordon Carroll<|eot_id|>", "needle": ["Ronald Shusett"], "score": false}
+{"ctx_len": 126760, "pred": "Virginia Woolf<|eot_id|>", "needle": ["Adeline Virginia Woolf"], "score": false}
+{"ctx_len": 126394, "pred": "19800<|eot_id|>", "needle": ["821"], "score": false}
+{"ctx_len": 130245, "pred": "40<|eot_id|>", "needle": ["more than 70 countries"], "score": false}
+{"ctx_len": 127517, "pred": "Charmed<|eot_id|>", "needle": ["Charmed"], "score": true}
+{"ctx_len": 128120, "pred": "International Boxing Federation<|eot_id|>", "needle": ["International Boxing Hall of Fame"], "score": false}
+{"ctx_len": 129601, "pred": "Usher<|eot_id|>", "needle": ["Usher"], "score": true}
+{"ctx_len": 125998, "pred": "Brian Doyle-Murray<|eot_id|>", "needle": ["Bill Murray"], "score": false}
+{"ctx_len": 126646, "pred": "Carabao Cup<|eot_id|>", "needle": ["Carabao Cup"], "score": true}
+{"ctx_len": 130384, "pred": "Teen Titans<|eot_id|>", "needle": ["Teen Titans Go!"], "score": false}
+{"ctx_len": 127595, "pred": "Strasbourg<|eot_id|>", "needle": ["276,170 inhabitants"], "score": false}
+{"ctx_len": 126246, "pred": "Orange<|eot_id|>", "needle": ["orange"], "score": true}
+{"ctx_len": 129164, "pred": "Tromeo and Juliet<|eot_id|>", "needle": ["Tromeo and Juliet"], "score": true}
+{"ctx_len": 128985, "pred": "Bill Clinton<|eot_id|>", "needle": ["William Jefferson Clinton"], "score": false}
+{"ctx_len": 130179, "pred": "John John Florence<|eot_id|>", "needle": ["John John Florence"], "score": true}
+{"ctx_len": 128778, "pred": "Ward<|eot_id|>", "needle": ["Ann"], "score": false}
+{"ctx_len": 130766, "pred": "Ais<|eot_id|>", "needle": ["Apalachees"], "score": false}
+{"ctx_len": 128525, "pred": "British<|eot_id|>", "needle": ["British"], "score": true}
+{"ctx_len": 128005, "pred": "1865<|eot_id|>", "needle": ["1865"], "score": true}
+{"ctx_len": 128102, "pred": "Lempster<|eot_id|>", "needle": ["Newport"], "score": false}
+{"ctx_len": 130669, "pred": "Bob Seger<|eot_id|>", "needle": ["Bob Seger"], "score": true}
+{"ctx_len": 129738, "pred": "requiring only men to register for the draft<|eot_id|>", "needle": ["Conscription"], "score": false}
+{"ctx_len": 129361, "pred": "Mondelez International<|eot_id|>", "needle": ["Mondelez International, Inc."], "score": false}
+{"ctx_len": 130299, "pred": "Patricia Soltysik<|eot_id|>", "needle": ["Monica Lewinsky"], "score": false}
+{"ctx_len": 130812, "pred": "October 14, 1967<|eot_id|>", "needle": ["April 1, 1949"], "score": false}
+{"ctx_len": 126732, "pred": "2004<|eot_id|>", "needle": ["1866"], "score": false}
+{"ctx_len": 127969, "pred": "Teide National Park is located in Tenerife, Canary Islands, Spain, and Garajonay National Park is located in La Gomera, Canary", "needle": ["Canary Islands, Spain"], "score": true}
+{"ctx_len": 130454, "pred": "250 million<|eot_id|>", "needle": ["250 million"], "score": true}
+{"ctx_len": 127224, "pred": "Film director<|eot_id|>", "needle": ["director"], "score": true}
+{"ctx_len": 130827, "pred": "The Conversation<|eot_id|>", "needle": ["The Conversation"], "score": true}
+{"ctx_len": 127214, "pred": "John Waters<|eot_id|>", "needle": ["John Waters"], "score": true}
+{"ctx_len": 128083, "pred": "Las Vegas<|eot_id|>", "needle": ["Las Vegas Strip in Paradise"], "score": false}
+{"ctx_len": 130608, "pred": "Yes<|eot_id|>", "needle": ["no"], "score": false}
+{"ctx_len": 128218, "pred": "March<|eot_id|>", "needle": ["March and April"], "score": false}
+{"ctx_len": 129537, "pred": "Fairfax County<|eot_id|>", "needle": ["Fairfax County"], "score": true}
+{"ctx_len": 125770, "pred": "Insurance<|eot_id|>", "needle": ["IT products and services"], "score": false}
+{"ctx_len": 130661, "pred": "Lev Yilmaz<|eot_id|>", "needle": ["Levni Yilmaz"], "score": false}
+{"ctx_len": 130796, "pred": "Beijing<|eot_id|>", "needle": ["Beijing"], "score": true}
+{"ctx_len": 129841, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 130515, "pred": "Florida<|eot_id|>", "needle": ["Coahuila, Mexico"], "score": false}
+{"ctx_len": 130610, "pred": "Sandi Patti<|eot_id|>", "needle": ["Larnelle Harris"], "score": false}
+{"ctx_len": 130038, "pred": "2010<|eot_id|>", "needle": ["2003"], "score": false}
+{"ctx_len": 128463, "pred": "Atlanta, Georgia<|eot_id|>", "needle": ["North Avenue at Techwood Drive"], "score": false}
+{"ctx_len": 128651, "pred": "Leo Varadkar<|eot_id|>", "needle": ["Leo Varadkar"], "score": true}
+{"ctx_len": 130070, "pred": "George Raft<|eot_id|>", "needle": ["George Raft"], "score": true}
+{"ctx_len": 126974, "pred": "1894<|eot_id|>", "needle": ["1887"], "score": false}
+{"ctx_len": 128606, "pred": "Valuation<|eot_id|>", "needle": ["business"], "score": false}
+{"ctx_len": 129800, "pred": "17 December 1975<|eot_id|>", "needle": ["7 October 1978"], "score": false}
+{"ctx_len": 125791, "pred": "B-17 Flying Fortress<|eot_id|>", "needle": ["B-17 Flying Fortress bomber"], "score": false}
+{"ctx_len": 129757, "pred": "Blake Shelton<|eot_id|>", "needle": ["Blake Shelton"], "score": true}
+{"ctx_len": 128213, "pred": "3<|eot_id|>", "needle": ["three centuries"], "score": false}
+{"ctx_len": 125117, "pred": "1936<|eot_id|>", "needle": ["7 January 1936"], "score": false}
+{"ctx_len": 128897, "pred": "Ralph Murphy<|eot_id|>", "needle": ["George Archainbaud"], "score": false}
+{"ctx_len": 130235, "pred": "Tetrakis(hydroxymethyl)phosphonium<|eot_id|>", "needle": ["picric acid"], "score": false}
+{"ctx_len": 128415, "pred": "16<|eot_id|>", "needle": ["230"], "score": false}
+{"ctx_len": 130380, "pred": "Marvel<|eot_id|>", "needle": ["Marvel"], "score": true}
+{"ctx_len": 129630, "pred": "Senator<|eot_id|>", "needle": ["United States Senator"], "score": false}
+{"ctx_len": 130498, "pred": "Yes<|eot_id|>", "needle": ["no"], "score": false}
+{"ctx_len": 130536, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 131002, "pred": "A5117<|eot_id|>", "needle": ["The A41"], "score": false}
+{"ctx_len": 127436, "pred": "Princess Jessica<|eot_id|>", "needle": ["Princess Jessica"], "score": true}
+{"ctx_len": 129476, "pred": "The Spiderwick Chronicles<|eot_id|>", "needle": ["The Spiderwick Chronicles"], "score": true}
+{"ctx_len": 130387, "pred": "Kohlberg Kravis Roberts<|eot_id|>", "needle": ["KKR & Co"], "score": false}
+{"ctx_len": 130644, "pred": "Captain Phillips<|eot_id|>", "needle": ["The Bye Bye Man"], "score": false}
+{"ctx_len": 128977, "pred": "Clarence River<|eot_id|>", "needle": ["Richmond"], "score": false}
+{"ctx_len": 128338, "pred": "Owsley Stanley<|eot_id|>", "needle": ["Owsley Stanley"], "score": true}
+{"ctx_len": 128519, "pred": "The palace was founded in the late 12th Century.<|eot_id|>", "needle": ["the late 12th Century"], "score": true}
+{"ctx_len": 128088, "pred": "San Luis Obispo<|eot_id|>", "needle": ["San Luis Obispo, California"], "score": false}
+{"ctx_len": 128301, "pred": "Papa John's Cardinal Stadium<|eot_id|>", "needle": ["Mercedes-Benz Superdome"], "score": false}
+{"ctx_len": 128491, "pred": "LaLee's Kin: The Legacy of Cotton<|eot_id|>", "needle": ["LaLee's Kin: The Legacy of Cotton"], "score": true}
+{"ctx_len": 129246, "pred": "Pirate's Cove<|eot_id|>", "needle": ["Pirate's Cove"], "score": true}
+{"ctx_len": 129993, "pred": "Being Inc<|eot_id|>", "needle": ["Crystal Dynamics"], "score": false}
+{"ctx_len": 129059, "pred": "Recovery<|eot_id|>", "needle": ["\"The Marshall Mathers LP 2\""], "score": false}
+{"ctx_len": 124911, "pred": "\"Training Day\"<|eot_id|>", "needle": ["Suicide Squad"], "score": false}
+{"ctx_len": 122032, "pred": "Jillian<|eot_id|>", "needle": ["Jillian Belk"], "score": false}
+{"ctx_len": 128793, "pred": "Texas Tech University<|eot_id|>", "needle": ["Texas Tech University"], "score": true}
+{"ctx_len": 130105, "pred": "Lord Combermere<|eot_id|>", "needle": ["Lord Combermere"], "score": true}
+{"ctx_len": 127755, "pred": "Stop motion animation<|eot_id|>", "needle": ["seasonal television specials, particularly its work in stop motion animation"], "score": false}
+{"ctx_len": 129784, "pred": "2007<|eot_id|>", "needle": ["2014"], "score": false}
+{"ctx_len": 123583, "pred": "Oxford University<|eot_id|>", "needle": ["Oxford"], "score": true}
+{"ctx_len": 128296, "pred": "Jorge Lozano<|eot_id|>", "needle": ["Roberta Vinci"], "score": false}
+{"ctx_len": 130338, "pred": "Teach the Controversy<|eot_id|>", "needle": ["\"Teach the Controversy\" campaign"], "score": false}
+{"ctx_len": 130540, "pred": "Ian Watkins<|eot_id|>", "needle": ["Lostprophets disbanded in 2013 after Watkins was charged with sexual offences in late 2012."], "score": false}
+{"ctx_len": 129833, "pred": "Nebo Zovyot<|eot_id|>", "needle": ["Nebo Zovyot"], "score": true}
+{"ctx_len": 129070, "pred": "Erika Jayne<|eot_id|>", "needle": ["Erika Jayne"], "score": true}
+{"ctx_len": 126506, "pred": "2009<|eot_id|>", "needle": ["2009"], "score": true}
+{"ctx_len": 129176, "pred": "The Hebrides<|eot_id|>", "needle": ["Kingdom of the Isles"], "score": false}
+{"ctx_len": 129763, "pred": "The Beatles<|eot_id|>", "needle": ["The Beatles"], "score": true}
+{"ctx_len": 130111, "pred": "\"Tonight I Climbed the Wall\"<|eot_id|>", "needle": ["\"We'll Burn That Bridge\""], "score": false}
+{"ctx_len": 126931, "pred": "Film director<|eot_id|>", "needle": ["director"], "score": true}
+{"ctx_len": 127274, "pred": "1901<|eot_id|>", "needle": ["1901"], "score": true}
+{"ctx_len": 129564, "pred": "Argand<|eot_id|>", "needle": ["Argand lamp"], "score": false}
+{"ctx_len": 129709, "pred": "16<|eot_id|>", "needle": ["seven"], "score": false}
+{"ctx_len": 128060, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 129148, "pred": "Brazil<|eot_id|>", "needle": ["Brazil"], "score": true}
+{"ctx_len": 129537, "pred": "The Seven Days Battles<|eot_id|>", "needle": ["The Seven Days Battles"], "score": true}
+{"ctx_len": 126533, "pred": "Lush<|eot_id|>", "needle": ["Lush Ltd."], "score": false}
+{"ctx_len": 128618, "pred": "Manchester United<|eot_id|>", "needle": ["Manchester United"], "score": true}
+{"ctx_len": 129338, "pred": "1989<|eot_id|>", "needle": ["1989"], "score": true}
+{"ctx_len": 130811, "pred": "Kathy Sullivan<|eot_id|>", "needle": ["Kathryn Jean Martin"], "score": false}
+{"ctx_len": 124527, "pred": "Frank Lowy<|eot_id|>", "needle": ["Frank Lowy"], "score": true}
+{"ctx_len": 129694, "pred": "Las Vegas<|eot_id|>", "needle": ["Las Vegas"], "score": true}
+{"ctx_len": 129726, "pred": "Kelly Osbourne<|eot_id|>", "needle": ["Kelly Lee Osbourne"], "score": false}
+{"ctx_len": 129271, "pred": "Sean Yseult<|eot_id|>", "needle": ["Sean Yseult."], "score": false}
+{"ctx_len": 126722, "pred": "3/4th of the FDA budget (approximately $700 million) is funded by the pharmaceutical companies due to the Prescription Drug User Fee Act.<|eot_id|>", "needle": ["Prescription Drug User Fee Act"], "score": true}
+{"ctx_len": 130984, "pred": "Dinosaur<|eot_id|>", "needle": ["Dinosaur"], "score": true}
+{"ctx_len": 130654, "pred": "Wichita<|eot_id|>", "needle": ["Wichita"], "score": true}
+{"ctx_len": 126922, "pred": "The 2016 United States presidential election<|eot_id|>", "needle": ["United States presidential election of 2016"], "score": false}
+{"ctx_len": 126715, "pred": "Roman<|eot_id|>", "needle": ["Roman"], "score": true}
+{"ctx_len": 129569, "pred": "Sue Grafton<|eot_id|>", "needle": ["C. W. Grafton"], "score": false}
+{"ctx_len": 130288, "pred": "Brooklyn<|eot_id|>", "needle": ["Brooklyn, New York"], "score": false}
+{"ctx_len": 127703, "pred": "48,982<|eot_id|>", "needle": ["48,982"], "score": true}
+{"ctx_len": 127469, "pred": "Pasek and Paul<|eot_id|>", "needle": ["Pasek & Paul"], "score": false}
+{"ctx_len": 126641, "pred": "Cessnock<|eot_id|>", "needle": ["City of Newcastle"], "score": false}
+{"ctx_len": 128370, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 128724, "pred": "volumes<|eot_id|>", "needle": ["drawings"], "score": false}
+{"ctx_len": 130199, "pred": "900<|eot_id|>", "needle": ["between the 8th and 16th centuries"], "score": false}
+{"ctx_len": 130193, "pred": "William Bonfield<|eot_id|>", "needle": ["Alistair Grant"], "score": false}
+{"ctx_len": 128884, "pred": "Scotland<|eot_id|>", "needle": ["Scotland"], "score": true}
+{"ctx_len": 130322, "pred": "The Drop-In<|eot_id|>", "needle": ["Comedy Film Nerds"], "score": false}
+{"ctx_len": 127860, "pred": "Las Vegas<|eot_id|>", "needle": ["Summerlin"], "score": false}
+{"ctx_len": 129347, "pred": "George Harrison<|eot_id|>", "needle": ["George Harrison"], "score": true}
+{"ctx_len": 129033, "pred": "Jonathan Toews plays as a center.<|eot_id|>", "needle": ["Canadian professional ice hockey centre"], "score": false}
+{"ctx_len": 129217, "pred": "1955<|eot_id|>", "needle": ["1952"], "score": false}
+{"ctx_len": 130826, "pred": "3<|eot_id|>", "needle": ["third"], "score": false}
+{"ctx_len": 125361, "pred": "Mark Neveldine and Brian Taylor<|eot_id|>", "needle": ["Mark Neveldine and Brian Taylor"], "score": true}
+{"ctx_len": 130232, "pred": "Hidden America with Jonah Ray<|eot_id|>", "needle": ["Hidden America with Jonah Ray"], "score": true}
+{"ctx_len": 129900, "pred": "Yes<|eot_id|>", "needle": ["no"], "score": false}
+{"ctx_len": 128721, "pred": "1994<|eot_id|>", "needle": ["1943"], "score": false}
+{"ctx_len": 128958, "pred": "Oregon Ducks<|eot_id|>", "needle": ["Oregon Ducks football"], "score": false}
+{"ctx_len": 129053, "pred": "NBC<|eot_id|>", "needle": ["National Broadcasting Company"], "score": false}
+{"ctx_len": 129481, "pred": "Tunisian<|eot_id|>", "needle": ["North African Arab"], "score": false}
+{"ctx_len": 130805, "pred": "San Jose<|eot_id|>", "needle": ["Murray Hill"], "score": false}
+{"ctx_len": 127071, "pred": "SARS<|eot_id|>", "needle": ["severe acute respiratory syndrome"], "score": false}
+{"ctx_len": 129742, "pred": "Guy Davenport<|eot_id|>", "needle": ["Wendell Berry"], "score": false}
+{"ctx_len": 129912, "pred": "Vikram Bhatt<|eot_id|>", "needle": ["Tinu Suresh Desai"], "score": false}
+{"ctx_len": 131013, "pred": "Austin<|eot_id|>", "needle": ["Golden Valley, Minnesota,"], "score": false}
+{"ctx_len": 128650, "pred": "$10.5 million<|eot_id|>", "needle": ["$10.5 million"], "score": true}
+{"ctx_len": 130324, "pred": "Cyclone Gonu<|eot_id|>", "needle": ["1999 Odisha cyclone"], "score": false}
+{"ctx_len": 130805, "pred": "The film was later adapted into a television series for the Pop television network.<|eot_id|>", "needle": ["Crackle"], "score": false}
+{"ctx_len": 129087, "pred": "Salford City<|eot_id|>", "needle": ["Salford City Football Club"], "score": false}
+{"ctx_len": 127559, "pred": "The Walt Disney Dolphin Hotel was designed by architect Michael Graves.<|eot_id|>", "needle": ["architect Michael Graves"], "score": true}
+{"ctx_len": 130003, "pred": "They were among the films and television shows that received multiple awards.<|eot_id|>", "needle": ["multiple awards"], "score": true}
+{"ctx_len": 128219, "pred": "Kevin Spacey<|eot_id|>", "needle": ["Kevin Spacey"], "score": true}
+{"ctx_len": 124434, "pred": "Russell Brand<|eot_id|>", "needle": ["Ryan Seacrest"], "score": false}
+{"ctx_len": 128839, "pred": "No<|eot_id|>", "needle": ["yes"], "score": false}
+{"ctx_len": 128341, "pred": "Charles Hastings Judd<|eot_id|>", "needle": ["Colonel Charles Hastings Judd"], "score": false}
+{"ctx_len": 129679, "pred": "Pavel Alexandrov<|eot_id|>", "needle": ["Pavel Sergeyevich Alexandrov"], "score": false}
+{"ctx_len": 128652, "pred": "Gal Gadot<|eot_id|>", "needle": ["Gal Gadot"], "score": true}
+{"ctx_len": 129798, "pred": "J. Edward Snyder<|eot_id|>", "needle": ["Rear Adm. J. Edward Snyder"], "score": false}
+{"ctx_len": 130075, "pred": "Jackson Storm<|eot_id|>", "needle": ["Jackson Storm"], "score": true}
+{"ctx_len": 130468, "pred": "Manhattan Life Insurance Building<|eot_id|>", "needle": ["712 5th Avenue"], "score": false}
+{"ctx_len": 129409, "pred": "left-hand<|eot_id|>", "needle": ["right-hand"], "score": false}
+{"ctx_len": 128564, "pred": "Arthur Conan Doyle<|eot_id|>", "needle": ["Arthur Ignatius Conan Doyle"], "score": false}
+{"ctx_len": 127641, "pred": "Knoxville<|eot_id|>", "needle": ["Birmingham, Alabama"], "score": false}
+{"ctx_len": 128545, "pred": "5<|eot_id|>", "needle": ["44"], "score": false}
+{"ctx_len": 127903, "pred": "Sasanian Empire<|eot_id|>", "needle": ["the Parthian Empire"], "score": false}
+{"ctx_len": 129550, "pred": "Erinsborough<|eot_id|>", "needle": ["Erinsborough"], "score": true}
+{"ctx_len": 130869, "pred": "Samoa<|eot_id|>", "needle": ["Samoa"], "score": true}
+{"ctx_len": 130485, "pred": "Kimmy Schmidt<|eot_id|>", "needle": ["Kimberly Couger \"Kimmy\" Schmidt"], "score": false}
+{"ctx_len": 130041, "pred": "\"The Comic Strip Presents...\"<|eot_id|>", "needle": ["\"The Comic Strip Presents...\""], "score": true}
+{"ctx_len": 130570, "pred": "Yes<|eot_id|>", "needle": ["no"], "score": false}
+{"ctx_len": 130267, "pred": "19th<|eot_id|>", "needle": ["nineteenth"], "score": false}
+{"ctx_len": 128934, "pred": "Pok\u00e9mon: Lucario and the Mystery of Mew<|eot_id|>", "needle": ["Awake"], "score": false}
+{"ctx_len": 129762, "pred": "French Canadians<|eot_id|>", "needle": ["French Canadians"], "score": true}
+{"ctx_len": 126860, "pred": "American<|eot_id|>", "needle": ["American"], "score": true}
+{"ctx_len": 125905, "pred": "16 km<|eot_id|>", "needle": ["8 km"], "score": false}
+{"ctx_len": 129046, "pred": "Rawhide<|eot_id|>", "needle": ["Rawhide"], "score": true}
+{"ctx_len": 126824, "pred": "Marsilea<|eot_id|>", "needle": ["Marsilea"], "score": true}
+{"ctx_len": 127622, "pred": "St James's Palace<|eot_id|>", "needle": ["Mark Masons' Hall"], "score": false}
+{"ctx_len": 130417, "pred": "Starlite<|eot_id|>", "needle": ["Starlite"], "score": true}
+{"ctx_len": 125860, "pred": "Hong Kong<|eot_id|>", "needle": ["Hong Kong"], "score": true}
+{"ctx_len": 130610, "pred": "United States v. Paramount Pictures, Inc.<|eot_id|>", "needle": ["Craig v. Boren"], "score": false}
+{"ctx_len": 130146, "pred": "The Queen City<|eot_id|>", "needle": ["\"Queen City\""], "score": false}
+{"ctx_len": 129006, "pred": "Arrowhead Stadium<|eot_id|>", "needle": ["Arrowhead Stadium"], "score": true}
+{"ctx_len": 127644, "pred": "cranberries<|eot_id|>", "needle": ["acidic"], "score": false}
+{"ctx_len": 130443, "pred": "Compliance<|eot_id|>", "needle": ["Compliance"], "score": true}
+{"ctx_len": 128965, "pred": "Logan International Airport<|eot_id|>", "needle": ["Logan International Airport"], "score": true}
+{"ctx_len": 127790, "pred": "Ehretia<|eot_id|>", "needle": ["Ehretia"], "score": true}
+{"ctx_len": 129894, "pred": "Frank Thomas' Big Hurt<|eot_id|>", "needle": ["a pinball machine"], "score": false}
+{"ctx_len": 129109, "pred": "Paige O'Hara<|eot_id|>", "needle": ["Donna Paige Helmintoller"], "score": false}
+{"ctx_len": 129544, "pred": "Michael Jordan<|eot_id|>", "needle": ["Reginald Martinez \"Reggie\" Jackson"], "score": false}
+{"ctx_len": 125762, "pred": "Thomas Mawson<|eot_id|>", "needle": ["Thomas Mawson"], "score": true}
+{"ctx_len": 128497, "pred": "Sarod<|eot_id|>", "needle": ["strings"], "score": false}
+{"ctx_len": 131027, "pred": "Henry Selick<|eot_id|>", "needle": ["Brad Silberling"], "score": false}
+{"ctx_len": 129031, "pred": "25<|eot_id|>", "needle": ["25 laps"], "score": false}
+{"ctx_len": 128015, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 129850, "pred": "Thomas Friedman<|eot_id|>", "needle": ["Thomas Loren Friedman"], "score": false}
+{"ctx_len": 129913, "pred": "Taylor Swift<|eot_id|>", "needle": ["Taylor Swift"], "score": true}
+{"ctx_len": 129915, "pred": "Istanbul<|eot_id|>", "needle": ["Istanbul, Turkey"], "score": false}
+{"ctx_len": 124519, "pred": "Opry Mills is a super-regional shopping centre located in Nashville, Tennessee, owned by Simon Property Group, formerly by its initial owners Mills Corporation and Gaylord", "needle": ["super-regional shopping mall"], "score": false}
+{"ctx_len": 124357, "pred": "Ordos City China Science Flying Universe Science and Technology Co., Ltd.<|eot_id|>", "needle": ["Ordos City"], "score": true}
+{"ctx_len": 130766, "pred": "Scott Sidney<|eot_id|>", "needle": ["Scott Sidney"], "score": true}
+{"ctx_len": 130545, "pred": "60<|eot_id|>", "needle": ["over 600 stores"], "score": false}
+{"ctx_len": 126375, "pred": "Berea College<|eot_id|>", "needle": ["Berea College"], "score": true}
+{"ctx_len": 128525, "pred": "1945<|eot_id|>", "needle": ["1945"], "score": true}
+{"ctx_len": 129861, "pred": "House of Battenberg<|eot_id|>", "needle": ["Mountbatten family"], "score": false}
+{"ctx_len": 127855, "pred": "James Burke<|eot_id|>", "needle": ["James Burke"], "score": true}
+{"ctx_len": 129675, "pred": "Gulangyu<|eot_id|>", "needle": ["Gulangyu"], "score": true}
+{"ctx_len": 129860, "pred": "Slaughterhouse-Five<|eot_id|>", "needle": ["Slaughterhouse-Five"], "score": true}
+{"ctx_len": 128919, "pred": "Leinster<|eot_id|>", "needle": ["the east of Ireland"], "score": false}
+{"ctx_len": 129643, "pred": "Distillery<|eot_id|>", "needle": ["Distillery"], "score": true}
+{"ctx_len": 129995, "pred": "Romeo<|eot_id|>", "needle": ["Tybalt"], "score": false}
+{"ctx_len": 130424, "pred": "SKUM<|eot_id|>", "needle": ["SKUM"], "score": true}
+{"ctx_len": 127828, "pred": "Anabolic/androgenic steroids<|eot_id|>", "needle": ["Anabolic steroids"], "score": false}
+{"ctx_len": 127159, "pred": "Don S. Davis<|eot_id|>", "needle": ["Don S. Davis"], "score": true}
+{"ctx_len": 129824, "pred": "Brooks and Dunn<|eot_id|>", "needle": ["Charles Kelley"], "score": false}
+{"ctx_len": 131015, "pred": "3,384,569<|eot_id|>", "needle": ["3,384,569"], "score": true}
+{"ctx_len": 129853, "pred": "Anna Clyne<|eot_id|>", "needle": ["Anna Clyne"], "score": true}
+{"ctx_len": 130617, "pred": "USS Essex (CV-9)<|eot_id|>", "needle": ["USS Essex"], "score": true}
+{"ctx_len": 128808, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 130318, "pred": "Catwoman<|eot_id|>", "needle": ["Catwoman"], "score": true}
+{"ctx_len": 130560, "pred": "20 miles<|eot_id|>", "needle": ["7 miles"], "score": false}
+{"ctx_len": 128088, "pred": "Laura Osnes<|eot_id|>", "needle": ["Laura Ann Osnes"], "score": false}
+{"ctx_len": 129982, "pred": "21<|eot_id|>", "needle": ["20"], "score": false}
+{"ctx_len": 128963, "pred": "Eucryphia<|eot_id|>", "needle": ["Eucryphia"], "score": true}
+{"ctx_len": 128168, "pred": "Venice<|eot_id|>", "needle": ["Venice"], "score": true}
+{"ctx_len": 126678, "pred": "Waimea Bay<|eot_id|>", "needle": ["Waimea Bay"], "score": true}
+{"ctx_len": 129162, "pred": "Christianity Today<|eot_id|>", "needle": ["evangelical Christian periodical"], "score": false}
+{"ctx_len": 129255, "pred": "James Franco<|eot_id|>", "needle": ["James Franco"], "score": true}
+{"ctx_len": 130242, "pred": "D.I. Humphrey Goodman<|eot_id|>", "needle": ["DI Humphrey Goodman"], "score": false}
+{"ctx_len": 129703, "pred": "January<|eot_id|>", "needle": ["February"], "score": false}
+{"ctx_len": 130480, "pred": "Sacred Planet<|eot_id|>", "needle": ["Sacred Planet"], "score": true}
+{"ctx_len": 129440, "pred": "Edmonton<|eot_id|>", "needle": ["Hanna"], "score": false}
+{"ctx_len": 128323, "pred": "Ferdi Taygan<|eot_id|>", "needle": ["Ferdi Taygan"], "score": true}
+{"ctx_len": 129424, "pred": "Alex Zanardi also practices fencing.<|eot_id|>", "needle": ["paracyclist"], "score": false}
+{"ctx_len": 129386, "pred": "Peterhouse<|eot_id|>", "needle": ["The Dragon School in Oxford"], "score": false}
+{"ctx_len": 130676, "pred": "Suicide Kings<|eot_id|>", "needle": ["Suicide Kings"], "score": true}
+{"ctx_len": 126679, "pred": "\"Poleconomy\"<|eot_id|>", "needle": ["Hey Pa! There's a Goat on the Roof"], "score": false}
+{"ctx_len": 128002, "pred": "13\u20133<|eot_id|>", "needle": ["a record of 13\u20133"], "score": false}
+{"ctx_len": 129561, "pred": "8,211<|eot_id|>", "needle": ["8,211 at the 2010 census"], "score": false}
+{"ctx_len": 129081, "pred": "Salvatore \"Salvie\" Testa<|eot_id|>", "needle": ["The Crowned Prince of the Philadelphia Mob"], "score": false}
+{"ctx_len": 130095, "pred": "He was the supervisor of the royal works under Henri III and Henri IV, including the Louvre.<|eot_id|>", "needle": ["supervisor of the royal works"], "score": true}
+{"ctx_len": 129665, "pred": "Janet Jackson<|eot_id|>", "needle": ["Janet Damita Jo Jackson"], "score": false}
+{"ctx_len": 130829, "pred": "British<|eot_id|>", "needle": ["Continental Army"], "score": false}
+{"ctx_len": 128813, "pred": "The Canary Islands<|eot_id|>", "needle": ["Macaronesia"], "score": false}
+{"ctx_len": 130226, "pred": "The Treaty of Gandamak<|eot_id|>", "needle": ["Treaty of Gandamak"], "score": true}
+{"ctx_len": 128091, "pred": "Oregon<|eot_id|>", "needle": ["Oregon"], "score": true}
+{"ctx_len": 127919, "pred": "The band rose to prominence during the early 1970s<|eot_id|>", "needle": ["early 1970s"], "score": true}
+{"ctx_len": 129080, "pred": "England<|eot_id|>", "needle": ["Bury St Edmunds,"], "score": false}
+{"ctx_len": 130168, "pred": "Young Adult<|eot_id|>", "needle": ["early 20s"], "score": false}
+{"ctx_len": 129781, "pred": "13<|eot_id|>", "needle": ["23 November 1946"], "score": false}
+{"ctx_len": 129137, "pred": "The Soloist<|eot_id|>", "needle": ["The Soloist"], "score": true}
+{"ctx_len": 128714, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 127952, "pred": "1901<|eot_id|>", "needle": ["1901"], "score": true}
+{"ctx_len": 129870, "pred": "Rivington<|eot_id|>", "needle": ["Bolton"], "score": false}
+{"ctx_len": 129306, "pred": "Sir George Cayley<|eot_id|>", "needle": ["George Cayley"], "score": true}
+{"ctx_len": 127684, "pred": "Leonberger<|eot_id|>", "needle": ["The Leonberger is a giant dog breed."], "score": false}
+{"ctx_len": 129962, "pred": "No<|eot_id|>", "needle": ["yes"], "score": false}
+{"ctx_len": 128278, "pred": "2010<|eot_id|>", "needle": ["2013"], "score": false}
+{"ctx_len": 127978, "pred": "Shonen Jump<|eot_id|>", "needle": ["Rolling Stone"], "score": false}
+{"ctx_len": 128207, "pred": "Kellogg's is headquartered in Battle Creek, Michigan<|eot_id|>", "needle": ["Battle Creek, Michigan"], "score": true}
+{"ctx_len": 130920, "pred": "Ava DuVernay<|eot_id|>", "needle": ["Am Rong"], "score": false}
+{"ctx_len": 129131, "pred": "42<|eot_id|>", "needle": ["29"], "score": false}
+{"ctx_len": 127947, "pred": "The United States<|eot_id|>", "needle": ["Bay Ridge, Brooklyn"], "score": false}
+{"ctx_len": 130639, "pred": "Northumbrian<|eot_id|>", "needle": ["Northumbrian"], "score": true}
+{"ctx_len": 128538, "pred": "Oldham County<|eot_id|>", "needle": ["Oldham County"], "score": true}
+{"ctx_len": 128849, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 127109, "pred": "Una Healy and Rachel Stevens<|eot_id|>", "needle": ["The Saturdays"], "score": false}
+{"ctx_len": 129404, "pred": "Serri<|eot_id|>", "needle": ["Serri"], "score": true}
+{"ctx_len": 128361, "pred": "FIFA Women's World Cup<|eot_id|>", "needle": ["international football competition"], "score": false}
+{"ctx_len": 130752, "pred": "1951<|eot_id|>", "needle": ["1944"], "score": false}
+{"ctx_len": 127871, "pred": "Wilmette<|eot_id|>", "needle": ["Wilmette"], "score": true}
+{"ctx_len": 129463, "pred": "Oedipus Rex<|eot_id|>", "needle": ["Oedipus Rex"], "score": true}
+{"ctx_len": 127473, "pred": "They both played the role of Chrisann Brennan<|eot_id|>", "needle": ["Steve Jobs"], "score": false}
+{"ctx_len": 128547, "pred": "Kang<|eot_id|>", "needle": ["Kodos"], "score": false}
+{"ctx_len": 129789, "pred": "PRhyme<|eot_id|>", "needle": ["My Beautiful Dark Twisted Fantasy"], "score": false}
+{"ctx_len": 125395, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 128050, "pred": "The Spring city<|eot_id|>", "needle": ["Spring city"], "score": true}
+{"ctx_len": 129395, "pred": "England<|eot_id|>", "needle": ["Philadelphia"], "score": false}
+{"ctx_len": 130740, "pred": "a minor basilica<|eot_id|>", "needle": ["a minor basilica"], "score": true}
+{"ctx_len": 130285, "pred": "150 million<|eot_id|>", "needle": ["150 million copies"], "score": false}
+{"ctx_len": 130399, "pred": "Aqua<|eot_id|>", "needle": ["Aqua"], "score": true}
+{"ctx_len": 128643, "pred": "Reynolds v. Sims<|eot_id|>", "needle": ["1964"], "score": false}
+{"ctx_len": 127922, "pred": "The Good Wife<|eot_id|>", "needle": ["CBS"], "score": false}
+{"ctx_len": 130378, "pred": "Pakistan<|eot_id|>", "needle": ["Pakistani"], "score": false}
+{"ctx_len": 130572, "pred": "The Four Seasons<|eot_id|>", "needle": ["The Four Seasons"], "score": true}
+{"ctx_len": 130418, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 127368, "pred": "76,416<|eot_id|>", "needle": ["76,416"], "score": true}
+{"ctx_len": 130395, "pred": "Matt Flynn<|eot_id|>", "needle": ["Matt Flynn"], "score": true}
+{"ctx_len": 129120, "pred": "Happy Death Day<|eot_id|>", "needle": ["Happy Death Day"], "score": true}
+{"ctx_len": 127066, "pred": "Gerry Adams<|eot_id|>", "needle": ["Gerard \"Gerry\" Adams"], "score": false}
+{"ctx_len": 128225, "pred": "The Battle of Belleau Wood<|eot_id|>", "needle": ["The Battle of Belleau Wood"], "score": true}
+{"ctx_len": 129810, "pred": "Australian Defence Force<|eot_id|>", "needle": ["Australian Defence Force"], "score": true}
+{"ctx_len": 127603, "pred": "240,600<|eot_id|>", "needle": ["about 450,000"], "score": false}
+{"ctx_len": 127002, "pred": "West Point Foundry<|eot_id|>", "needle": ["West Point Iron and Cannon Foundry"], "score": false}
+{"ctx_len": 127029, "pred": "Jack Ryan<|eot_id|>", "needle": ["Jack Ryan"], "score": true}
+{"ctx_len": 129404, "pred": "Cherry<|eot_id|>", "needle": ["tomato"], "score": false}
+{"ctx_len": 128696, "pred": "2009<|eot_id|>", "needle": ["2009"], "score": true}
+{"ctx_len": 126981, "pred": "2017<|eot_id|>", "needle": ["September 8, 2017"], "score": false}
+{"ctx_len": 129581, "pred": "Edward Albee<|eot_id|>", "needle": ["Edward Franklin Albee III"], "score": false}
+{"ctx_len": 130367, "pred": "Yes<|eot_id|>", "needle": ["yes"], "score": true}
+{"ctx_len": 128642, "pred": "An impresario<|eot_id|>", "needle": ["impresario"], "score": true}
+{"ctx_len": 126683, "pred": "Yes<|eot_id|>", "needle": ["no"], "score": false}
+{"ctx_len": 130181, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 129225, "pred": "Worcester<|eot_id|>", "needle": ["Worcester County"], "score": false}
+{"ctx_len": 129298, "pred": "J. G. Farrell<|eot_id|>", "needle": ["Farrell"], "score": true}
+{"ctx_len": 127736, "pred": "New York City<|eot_id|>", "needle": ["modern-day New York City"], "score": false}
+{"ctx_len": 130068, "pred": "Mark Mori<|eot_id|>", "needle": ["Dan Lin, Roy Lee, Phil Lord and Christopher Miller"], "score": false}
+{"ctx_len": 124916, "pred": "Buckingham Palace<|eot_id|>", "needle": ["reigning monarch of the United Kingdom"], "score": false}
+{"ctx_len": 129595, "pred": "Hibbing, Minnesota<|eot_id|>", "needle": ["Saint Louis County"], "score": false}
+{"ctx_len": 130771, "pred": "Phil Collins<|eot_id|>", "needle": ["Phil Collins"], "score": true}
+{"ctx_len": 129797, "pred": "Video game<|eot_id|>", "needle": ["video game"], "score": true}
+{"ctx_len": 127493, "pred": "Cambridge University<|eot_id|>", "needle": ["Cambridge University"], "score": true}
+{"ctx_len": 130528, "pred": "Love Streams<|eot_id|>", "needle": ["Love Streams"], "score": true}
+{"ctx_len": 126035, "pred": "Lowe's<|eot_id|>", "needle": ["Lowe's"], "score": true}
+{"ctx_len": 129290, "pred": "He was the first person to be credited for a Heisman Trophy vote from a team that had a losing season.<|eot_id|>", "needle": ["first freshman to finish as the runner-up"], "score": false}
+{"ctx_len": 130261, "pred": "1988<|eot_id|>", "needle": ["1987"], "score": false}
+{"ctx_len": 128238, "pred": "James Packer<|eot_id|>", "needle": ["James Packer"], "score": true}
+{"ctx_len": 125576, "pred": "Documentary<|eot_id|>", "needle": ["documentary"], "score": true}
+{"ctx_len": 128911, "pred": "England<|eot_id|>", "needle": ["England"], "score": true}
+{"ctx_len": 130609, "pred": "Yunho<|eot_id|>", "needle": ["Jung Yun-ho"], "score": false}
+{"ctx_len": 129625, "pred": "Hot toddy<|eot_id|>", "needle": ["Hot toddy"], "score": true}
+{"ctx_len": 131002, "pred": "2017<|eot_id|>", "needle": ["2017"], "score": true}
+{"ctx_len": 130970, "pred": "The Late Late Show<|eot_id|>", "needle": ["The Late Late Show"], "score": true}
+{"ctx_len": 128360, "pred": "Hudson Bay Mining and Smelting Company<|eot_id|>", "needle": ["Hudson Bay Mining and Smelting Company"], "score": true}
+{"ctx_len": 128627, "pred": "Mid-Century modern design<|eot_id|>", "needle": ["Scandinavian design"], "score": false}
+{"ctx_len": 128467, "pred": "I Am Legend<|eot_id|>", "needle": ["Constantine"], "score": false}
+{"ctx_len": 129081, "pred": "The Houston Astrodome was called the Eighth Wonder of the World because of its massive size and innovative design, which was considered a marvel of engineering and architecture at", "needle": ["comparable to the seven Wonders of the World"], "score": false}
+{"ctx_len": 128160, "pred": "Jos\u00e9 Echegaray y Eizaguirre<|eot_id|>", "needle": ["Jos\u00e9 Echegaray y Eizaguirre"], "score": true}
+{"ctx_len": 130844, "pred": "Knowsley United Women<|eot_id|>", "needle": ["Knowsley United Women"], "score": true}
+{"ctx_len": 130228, "pred": "Blue<|eot_id|>", "needle": ["Blue"], "score": true}
+{"ctx_len": 130991, "pred": "Glimmerglass Historic District<|eot_id|>", "needle": ["Valhalla Highlands Historic District"], "score": false}
+{"ctx_len": 127170, "pred": "Philip K. Dick<|eot_id|>", "needle": ["Philip K. Dick"], "score": true}
+{"ctx_len": 128040, "pred": "New York Giants<|eot_id|>", "needle": ["New York Giants"], "score": true}
+{"ctx_len": 127838, "pred": "1961<|eot_id|>", "needle": ["1961"], "score": true}
+{"ctx_len": 128173, "pred": "Orange County<|eot_id|>", "needle": ["Copenhagen"], "score": false}
+{"ctx_len": 128898, "pred": "No<|eot_id|>", "needle": ["middle America"], "score": false}
+{"ctx_len": 130889, "pred": "Soha Ali Khan<|eot_id|>", "needle": ["Soha Ali Khan"], "score": true}
+{"ctx_len": 129232, "pred": "Horror<|eot_id|>", "needle": ["South Korean horror film"], "score": false}
+{"ctx_len": 130207, "pred": "Lucas Grabeel<|eot_id|>", "needle": ["Lucas Stephen Grabeel"], "score": false}
+{"ctx_len": 127725, "pred": "A supernatural psychological horror film<|eot_id|>", "needle": ["American supernatural psychological horror film"], "score": false}
+{"ctx_len": 129533, "pred": "Waltham<|eot_id|>", "needle": ["Essex"], "score": false}
+{"ctx_len": 127831, "pred": "John Whiting<|eot_id|>", "needle": ["Peter Hall"], "score": false}
+{"ctx_len": 130417, "pred": "Wimbledon<|eot_id|>", "needle": ["French Open"], "score": false}
+{"ctx_len": 128315, "pred": "Bismarck<|eot_id|>", "needle": ["Bismarck"], "score": true}
+{"ctx_len": 128686, "pred": "Manchester United<|eot_id|>", "needle": ["Premier League club Manchester United and the England national team"], "score": false}
+{"ctx_len": 126488, "pred": "id Software<|eot_id|>", "needle": ["Massive Entertainment"], "score": false}
+{"ctx_len": 127920, "pred": "Portal A Interactive<|eot_id|>", "needle": ["Portal A Interactive"], "score": true}
+{"ctx_len": 130888, "pred": "King<|eot_id|>", "needle": ["King George IV"], "score": false}
+{"ctx_len": 127075, "pred": "Kill Doctor Lucky<|eot_id|>", "needle": ["Icehouse pieces"], "score": false}
+{"ctx_len": 130132, "pred": "ZZ Top<|eot_id|>", "needle": ["ZZ Top"], "score": true}
+{"ctx_len": 128623, "pred": "1973<|eot_id|>", "needle": ["1977"], "score": false}
+{"ctx_len": 128449, "pred": "1974-2001<|eot_id|>", "needle": ["1963 to 1991"], "score": false}
+{"ctx_len": 127385, "pred": "Providence, Rhode Island<|eot_id|>", "needle": ["Laurel, Mississippi"], "score": false}
+{"ctx_len": 128115, "pred": "Gallery<|eot_id|>", "needle": ["arose on the \"Playboy\" magazine pattern in the 1970s."], "score": false}
+{"ctx_len": 129146, "pred": "Ian McEwan<|eot_id|>", "needle": ["Langston Hughes"], "score": false}
+{"ctx_len": 130891, "pred": "109-ha<|eot_id|>", "needle": ["728,000 ft\u00b2"], "score": false}
+{"ctx_len": 128515, "pred": "Frank n Dank<|eot_id|>", "needle": ["Royce da 5'9\" (Bad) and Eminem (Evil)"], "score": false}
+{"ctx_len": 130859, "pred": "Shanghai<|eot_id|>", "needle": ["Shanghai"], "score": true}
+{"ctx_len": 128358, "pred": "Terry Gilliam<|eot_id|>", "needle": ["Terry Gilliam"], "score": true}
+{"ctx_len": 129803, "pred": "French<|eot_id|>", "needle": ["Lithuanian-born French"], "score": false}
+{"ctx_len": 129322, "pred": "a family member<|eot_id|>", "needle": ["a family member"], "score": true}
+{"ctx_len": 130961, "pred": "2008 film \"Fool's Gold\"<|eot_id|>", "needle": ["Douglas Jackson"], "score": false}
+{"ctx_len": 129644, "pred": "Dirty Pretty Things<|eot_id|>", "needle": ["Dirty Pretty Things"], "score": true}
+{"ctx_len": 130434, "pred": "Krusty the Clown<|eot_id|>", "needle": ["The Itchy & Scratchy Show"], "score": false}
+{"ctx_len": 127229, "pred": "Wilton Mall<|eot_id|>", "needle": ["Viaport Rotterdam"], "score": false}
+{"ctx_len": 127255, "pred": "Kevin Garnett<|eot_id|>", "needle": ["signing free agent Chauncey Billups"], "score": false}
+{"ctx_len": 130830, "pred": "51,271<|eot_id|>", "needle": ["51,271"], "score": true}
+{"ctx_len": 128460, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 129821, "pred": "documentary<|eot_id|>", "needle": ["documentary"], "score": true}
+{"ctx_len": 128595, "pred": "15<|eot_id|>", "needle": ["fifteen"], "score": false}
+{"ctx_len": 129889, "pred": "Phil Bennett<|eot_id|>", "needle": ["defensive coordinator"], "score": false}
+{"ctx_len": 130331, "pred": "1.95 m<|eot_id|>", "needle": ["1.95 m"], "score": true}
+{"ctx_len": 126552, "pred": "MGM<|eot_id|>", "needle": ["MGM Resorts International"], "score": false}
+{"ctx_len": 128867, "pred": "The Muppet Christmas Carol<|eot_id|>", "needle": ["Bedknobs and Broomsticks"], "score": false}
+{"ctx_len": 129165, "pred": "Holston River<|eot_id|>", "needle": ["Holston River"], "score": true}
+{"ctx_len": 130671, "pred": "Conservative<|eot_id|>", "needle": ["British Conservative Party"], "score": false}
+{"ctx_len": 129780, "pred": "Wes Archer<|eot_id|>", "needle": ["Wes Archer"], "score": true}
+{"ctx_len": 129214, "pred": "Geelong Football Club<|eot_id|>", "needle": ["Geelong Football Club"], "score": true}
+{"ctx_len": 128102, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 128651, "pred": "Phil Rosen<|eot_id|>", "needle": ["Delmer Lawrence Daves"], "score": false}
+{"ctx_len": 129459, "pred": "X Ambassadors<|eot_id|>", "needle": ["X Ambassadors"], "score": true}
+{"ctx_len": 127965, "pred": "Walt Disney Productions<|eot_id|>", "needle": ["Walt Disney Productions"], "score": true}
+{"ctx_len": 127577, "pred": "4.4 mi<|eot_id|>", "needle": ["2844 km"], "score": false}
+{"ctx_len": 128461, "pred": "Olathe East High School<|eot_id|>", "needle": ["located in Olathe, Kansas"], "score": false}
+{"ctx_len": 129284, "pred": "\"The Ring\" magazine<|eot_id|>", "needle": ["\"The Ring\" magazine"], "score": true}
+{"ctx_len": 130986, "pred": "1909<|eot_id|>", "needle": ["1909"], "score": true}
+{"ctx_len": 130624, "pred": "Sun Valley<|eot_id|>", "needle": ["Sun Valley, Idaho"], "score": false}
+{"ctx_len": 125746, "pred": "Vice President<|eot_id|>", "needle": ["President of the United States"], "score": false}
+{"ctx_len": 130013, "pred": "The Bears and I<|eot_id|>", "needle": ["The Bears and I"], "score": true}
+{"ctx_len": 126911, "pred": "Patterns of Sexual Behavior<|eot_id|>", "needle": ["Patterns of Sexual Behavior"], "score": true}
+{"ctx_len": 130968, "pred": "Larry Drake<|eot_id|>", "needle": ["Larry Richard Drake"], "score": false}
+{"ctx_len": 129469, "pred": "Bedknobs and Broomsticks<|eot_id|>", "needle": ["Bedknobs and Broomsticks"], "score": true}
+{"ctx_len": 129627, "pred": "46 Albert Square, Walford, London E20<|eot_id|>", "needle": ["46 Albert Square, Walford, London E20"], "score": true}
+{"ctx_len": 130929, "pred": "30 Rock<|eot_id|>", "needle": ["Darkroom"], "score": false}
+{"ctx_len": 126449, "pred": "Phoenix Television<|eot_id|>", "needle": ["Phoenix Television"], "score": true}
+{"ctx_len": 128490, "pred": "Planet Terror<|eot_id|>", "needle": ["Planet Terror"], "score": true}
+{"ctx_len": 127802, "pred": "Peshwa<|eot_id|>", "needle": ["\"Peshwa\" (Prime Minister)"], "score": false}
+{"ctx_len": 129893, "pred": "Donald Trump Jr.<|eot_id|>", "needle": ["Donald Trump Jr."], "score": true}
+{"ctx_len": 130971, "pred": "Lord Dunmore<|eot_id|>", "needle": ["Royal Governor Lord Dunmore"], "score": false}
+{"ctx_len": 130797, "pred": "Graduados<|eot_id|>", "needle": ["Graduados"], "score": true}
+{"ctx_len": 128315, "pred": "Private Secretary and Treasurer<|eot_id|>", "needle": ["Private Secretary and Treasurer"], "score": true}
+{"ctx_len": 123542, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 130098, "pred": "Ogallala Aquifer<|eot_id|>", "needle": ["Ogallala Aquifer"], "score": true}
+{"ctx_len": 129416, "pred": "Ibn Arabi<|eot_id|>", "needle": ["ibn\u02bfArab\u012b"], "score": false}
+{"ctx_len": 127965, "pred": "S\u00e1ga (Old Norse \"seeress\") is a goddess associated with the wisdom S\u00f6kkvabekkr (Old Norse \"sunken bank", "needle": ["various deities, beings, and heroes"], "score": false}
+{"ctx_len": 128593, "pred": "1984 South Asian Games<|eot_id|>", "needle": ["1984 South Asian Games"], "score": true}
+{"ctx_len": 128251, "pred": "Lord Melbourne<|eot_id|>", "needle": ["Viscount Cranborne"], "score": false}
+{"ctx_len": 129923, "pred": "La Barbera<|eot_id|>", "needle": ["Kansas City crime family"], "score": false}
+{"ctx_len": 129451, "pred": "Albert Park<|eot_id|>", "needle": ["Albert Park"], "score": true}
+{"ctx_len": 128871, "pred": "2003<|eot_id|>", "needle": ["in 1896"], "score": false}
+{"ctx_len": 129520, "pred": "Unbreakable<|eot_id|>", "needle": ["Unbreakable"], "score": true}
+{"ctx_len": 128486, "pred": "Apatosaurus<|eot_id|>", "needle": ["Apatosaurus"], "score": true}
+{"ctx_len": 123961, "pred": "BraveStarr<|eot_id|>", "needle": ["BraveStarr"], "score": true}
+{"ctx_len": 131043, "pred": "The later Cholas of the Chola empire in Indian subcontinent, especially the ones in the Thondai Mandalam around the North Tamil Nadu area constructed temples", "needle": ["Sanskrit"], "score": false}
+{"ctx_len": 129770, "pred": "The Battle of Guam<|eot_id|>", "needle": ["Battle of Guam"], "score": true}
+{"ctx_len": 126923, "pred": "Martha Coolidge<|eot_id|>", "needle": ["Martha Coolidge"], "score": true}
+{"ctx_len": 126898, "pred": "Spin Out<|eot_id|>", "needle": ["Mr. Church"], "score": false}
+{"ctx_len": 129917, "pred": "Film producer<|eot_id|>", "needle": ["director"], "score": false}
+{"ctx_len": 126449, "pred": "talent and leadership<|eot_id|>", "needle": ["Executive Search, Board Consulting"], "score": false}
+{"ctx_len": 128099, "pred": "Eric Ambler is best known as a novelist, and Carol Shields is best known as a novelist and poet.<|eot_id|>", "needle": ["author"], "score": false}
+{"ctx_len": 129990, "pred": "The Catholic Church<|eot_id|>", "needle": ["The Catholic Church in Ireland"], "score": false}
+{"ctx_len": 129014, "pred": "Edmonton, Alberta<|eot_id|>", "needle": ["Edmonton, Alberta"], "score": true}
+{"ctx_len": 130202, "pred": "Joe Scarborough<|eot_id|>", "needle": ["Charles Joseph"], "score": false}
+{"ctx_len": 126609, "pred": "NFC West<|eot_id|>", "needle": ["NCAA Division I FBS football"], "score": false}
+{"ctx_len": 127594, "pred": "H\u00e4nt Extra<|eot_id|>", "needle": ["Tea Moderna"], "score": false}
+{"ctx_len": 129694, "pred": "Armenia<|eot_id|>", "needle": ["Armenian"], "score": false}
+{"ctx_len": 129685, "pred": "Kathleen O'Brien<|eot_id|>", "needle": ["Kathleen O'Brien"], "score": true}
+{"ctx_len": 128483, "pred": "Warner Bros. Records<|eot_id|>", "needle": ["Warner Bros"], "score": true}
+{"ctx_len": 130315, "pred": "Mot\u00f6rhead<|eot_id|>", "needle": ["Mot\u00f6rhead"], "score": true}
+{"ctx_len": 129543, "pred": "She co-discovered telomerase, the enzyme that replenishes the telomere.<|eot_id|>", "needle": ["commentary on Isaac Newton's book \"Principia\""], "score": false}
+{"ctx_len": 129284, "pred": "No<|eot_id|>", "needle": ["no"], "score": true}
+{"ctx_len": 130701, "pred": "prison<|eot_id|>", "needle": ["four months in jail"], "score": false}
+{"ctx_len": 130943, "pred": "1963<|eot_id|>", "needle": ["1963"], "score": true}
+{"ctx_len": 130188, "pred": "Punk rock<|eot_id|>", "needle": ["rock"], "score": true}
+{"ctx_len": 130408, "pred": "Half-Life 2<|eot_id|>", "needle": ["Gateways"], "score": false}
+{"ctx_len": 128356, "pred": "The adrenal cortex<|eot_id|>", "needle": ["zona glomerulosa"], "score": false}
+{"ctx_len": 129010, "pred": "33<|eot_id|>", "needle": ["33"], "score": true}
+{"ctx_len": 128865, "pred": "Mississippi University for Women v. Hogan<|eot_id|>", "needle": ["Mississippi University for Women"], "score": true}
+{"ctx_len": 128032, "pred": "Stacey Kent<|eot_id|>", "needle": ["Stacey Kent"], "score": true}
+{"ctx_len": 129626, "pred": "1966<|eot_id|>", "needle": ["1966"], "score": true}
+{"ctx_len": 127266, "pred": "International Touring Car Championship<|eot_id|>", "needle": ["DTM"], "score": false}
+{"ctx_len": 128187, "pred": "2002<|eot_id|>", "needle": ["2002"], "score": true}
+{"ctx_len": 129742, "pred": "22<|eot_id|>", "needle": ["4,613"], "score": false}
+{"ctx_len": 129925, "pred": "Topeka<|eot_id|>", "needle": ["lower Manhattan"], "score": false}
+{"ctx_len": 125828, "pred": "137th<|eot_id|>", "needle": ["137th"], "score": true}
+{"ctx_len": 129365, "pred": "Ronald Reagan<|eot_id|>", "needle": ["Ronald Wilson Reagan"], "score": false}
+{"ctx_len": 127151, "pred": "Documentary<|eot_id|>", "needle": ["documentary"], "score": true}
+avg:0.454

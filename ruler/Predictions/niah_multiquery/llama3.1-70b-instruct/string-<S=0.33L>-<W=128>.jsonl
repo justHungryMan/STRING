@@ -1,0 +1,1001 @@
+step 0, ctx len 130551, avg score 1.0
+step 1, ctx len 130551, avg score 1.0
+step 2, ctx len 130554, avg score 1.0
+step 3, ctx len 130554, avg score 1.0
+step 4, ctx len 130557, avg score 1.0
+step 5, ctx len 130548, avg score 1.0
+step 6, ctx len 130542, avg score 1.0
+step 7, ctx len 130557, avg score 1.0
+step 8, ctx len 130545, avg score 1.0
+step 9, ctx len 130560, avg score 1.0
+step 10, ctx len 130548, avg score 1.0
+step 11, ctx len 130551, avg score 1.0
+step 12, ctx len 130554, avg score 1.0
+step 13, ctx len 130548, avg score 1.0
+step 14, ctx len 130554, avg score 1.0
+step 15, ctx len 130563, avg score 1.0
+step 16, ctx len 130563, avg score 1.0
+step 17, ctx len 130548, avg score 1.0
+step 18, ctx len 130551, avg score 1.0
+step 19, ctx len 130563, avg score 1.0
+step 20, ctx len 130545, avg score 1.0
+step 21, ctx len 130545, avg score 1.0
+step 22, ctx len 130545, avg score 1.0
+step 23, ctx len 130551, avg score 1.0
+step 24, ctx len 130557, avg score 1.0
+step 25, ctx len 130548, avg score 1.0
+step 26, ctx len 130545, avg score 1.0
+step 27, ctx len 130560, avg score 1.0
+step 28, ctx len 130560, avg score 1.0
+step 29, ctx len 130560, avg score 1.0
+step 30, ctx len 130566, avg score 1.0
+step 31, ctx len 130548, avg score 1.0
+step 32, ctx len 130536, avg score 1.0
+step 33, ctx len 130548, avg score 1.0
+step 34, ctx len 130542, avg score 1.0
+step 35, ctx len 130557, avg score 1.0
+step 36, ctx len 130548, avg score 1.0
+step 37, ctx len 130551, avg score 1.0
+step 38, ctx len 130545, avg score 1.0
+step 39, ctx len 130545, avg score 1.0
+step 40, ctx len 130554, avg score 1.0
+step 41, ctx len 130548, avg score 1.0
+step 42, ctx len 130545, avg score 1.0
+step 43, ctx len 130566, avg score 1.0
+step 44, ctx len 130554, avg score 1.0
+step 45, ctx len 130548, avg score 1.0
+step 46, ctx len 130560, avg score 1.0
+step 47, ctx len 130554, avg score 1.0
+step 48, ctx len 130560, avg score 1.0
+step 49, ctx len 130548, avg score 1.0
+step 50, ctx len 130554, avg score 1.0
+step 51, ctx len 130551, avg score 1.0
+step 52, ctx len 130551, avg score 1.0
+step 53, ctx len 130551, avg score 1.0
+step 54, ctx len 130548, avg score 1.0
+step 55, ctx len 130542, avg score 1.0
+step 56, ctx len 130560, avg score 1.0
+step 57, ctx len 130542, avg score 1.0
+step 58, ctx len 130551, avg score 1.0
+step 59, ctx len 130548, avg score 1.0
+step 60, ctx len 130542, avg score 1.0
+step 61, ctx len 130548, avg score 1.0
+step 62, ctx len 130566, avg score 1.0
+step 63, ctx len 130551, avg score 1.0
+step 64, ctx len 130548, avg score 1.0
+step 65, ctx len 130548, avg score 1.0
+step 66, ctx len 130548, avg score 1.0
+step 67, ctx len 130545, avg score 1.0
+step 68, ctx len 130548, avg score 1.0
+step 69, ctx len 130548, avg score 1.0
+step 70, ctx len 130545, avg score 1.0
+step 71, ctx len 130557, avg score 1.0
+step 72, ctx len 130557, avg score 1.0
+step 73, ctx len 130554, avg score 1.0
+step 74, ctx len 130554, avg score 1.0
+step 75, ctx len 130551, avg score 1.0
+step 76, ctx len 130548, avg score 1.0
+step 77, ctx len 130548, avg score 1.0
+step 78, ctx len 130557, avg score 1.0
+step 79, ctx len 130542, avg score 1.0
+step 80, ctx len 130551, avg score 1.0
+step 81, ctx len 130557, avg score 1.0
+step 82, ctx len 130554, avg score 1.0
+step 83, ctx len 130563, avg score 1.0
+step 84, ctx len 130551, avg score 1.0
+step 85, ctx len 130551, avg score 1.0
+step 86, ctx len 130551, avg score 1.0
+step 87, ctx len 130551, avg score 1.0
+step 88, ctx len 130557, avg score 1.0
+step 89, ctx len 130569, avg score 1.0
+step 90, ctx len 130566, avg score 1.0
+step 91, ctx len 130551, avg score 1.0
+step 92, ctx len 130557, avg score 1.0
+step 93, ctx len 130545, avg score 1.0
+step 94, ctx len 130551, avg score 1.0
+step 95, ctx len 130548, avg score 1.0
+step 96, ctx len 130560, avg score 1.0
+step 97, ctx len 130554, avg score 1.0
+step 98, ctx len 130554, avg score 1.0
+step 99, ctx len 130551, avg score 1.0
+step 100, ctx len 130554, avg score 1.0
+step 101, ctx len 130560, avg score 1.0
+step 102, ctx len 130554, avg score 1.0
+step 103, ctx len 130545, avg score 1.0
+step 104, ctx len 130551, avg score 1.0
+step 105, ctx len 130554, avg score 1.0
+step 106, ctx len 130548, avg score 1.0
+step 107, ctx len 130548, avg score 1.0
+step 108, ctx len 130542, avg score 1.0
+step 109, ctx len 130554, avg score 0.9977272727272727
+step 110, ctx len 130563, avg score 0.9977477477477478
+step 111, ctx len 130569, avg score 0.9977678571428571
+step 112, ctx len 130542, avg score 0.9977876106194691
+step 113, ctx len 130554, avg score 0.9978070175438597
+step 114, ctx len 130557, avg score 0.9978260869565218
+step 115, ctx len 130563, avg score 0.9978448275862069
+step 116, ctx len 130554, avg score 0.9978632478632479
+step 117, ctx len 130551, avg score 0.9978813559322034
+step 118, ctx len 130551, avg score 0.9978991596638656
+step 119, ctx len 130548, avg score 0.9979166666666667
+step 120, ctx len 130545, avg score 0.9979338842975206
+step 121, ctx len 130551, avg score 0.9959016393442623
+step 122, ctx len 130548, avg score 0.9959349593495935
+step 123, ctx len 130548, avg score 0.9959677419354839
+step 124, ctx len 130557, avg score 0.996
+step 125, ctx len 130542, avg score 0.996031746031746
+step 126, ctx len 130551, avg score 0.9960629921259843
+step 127, ctx len 130545, avg score 0.99609375
+step 128, ctx len 130551, avg score 0.9961240310077519
+step 129, ctx len 130548, avg score 0.9961538461538462
+step 130, ctx len 130560, avg score 0.9961832061068703
+step 131, ctx len 130554, avg score 0.9943181818181818
+step 132, ctx len 130548, avg score 0.9943609022556391
+step 133, ctx len 130548, avg score 0.9944029850746269
+step 134, ctx len 130554, avg score 0.9944444444444445
+step 135, ctx len 130551, avg score 0.9944852941176471
+step 136, ctx len 130557, avg score 0.9945255474452555
+step 137, ctx len 130560, avg score 0.9945652173913043
+step 138, ctx len 130557, avg score 0.9946043165467626
+step 139, ctx len 130560, avg score 0.9946428571428572
+step 140, ctx len 130560, avg score 0.9946808510638298
+step 141, ctx len 130560, avg score 0.9947183098591549
+step 142, ctx len 130551, avg score 0.9947552447552448
+step 143, ctx len 130548, avg score 0.9947916666666666
+step 144, ctx len 130566, avg score 0.9948275862068966
+step 145, ctx len 130551, avg score 0.9948630136986302
+step 146, ctx len 130554, avg score 0.9948979591836735
+step 147, ctx len 130551, avg score 0.9949324324324325
+step 148, ctx len 130548, avg score 0.9949664429530202
+step 149, ctx len 130551, avg score 0.995
+step 150, ctx len 130545, avg score 0.9950331125827815
+step 151, ctx len 130557, avg score 0.9950657894736842
+step 152, ctx len 130557, avg score 0.9950980392156863
+step 153, ctx len 130554, avg score 0.9951298701298701
+step 154, ctx len 130557, avg score 0.9951612903225806
+step 155, ctx len 130548, avg score 0.9951923076923077
+step 156, ctx len 130557, avg score 0.9952229299363057
+step 157, ctx len 130545, avg score 0.995253164556962
+step 158, ctx len 130548, avg score 0.9952830188679245
+step 159, ctx len 130548, avg score 0.9953125
+step 160, ctx len 130548, avg score 0.9953416149068323
+step 161, ctx len 130551, avg score 0.9953703703703703
+step 162, ctx len 130551, avg score 0.995398773006135
+step 163, ctx len 130545, avg score 0.9954268292682927
+step 164, ctx len 130554, avg score 0.9939393939393939
+step 165, ctx len 130545, avg score 0.9939759036144579
+step 166, ctx len 130551, avg score 0.9940119760479041
+step 167, ctx len 130554, avg score 0.9940476190476191
+step 168, ctx len 130545, avg score 0.9940828402366864
+step 169, ctx len 130551, avg score 0.9941176470588236
+step 170, ctx len 130557, avg score 0.9941520467836257
+step 171, ctx len 130545, avg score 0.9941860465116279
+step 172, ctx len 130554, avg score 0.9942196531791907
+step 173, ctx len 130560, avg score 0.9942528735632183
+step 174, ctx len 130551, avg score 0.9942857142857143
+step 175, ctx len 130554, avg score 0.9943181818181818
+step 176, ctx len 130548, avg score 0.9943502824858758
+step 177, ctx len 130557, avg score 0.9943820224719101
+step 178, ctx len 130548, avg score 0.994413407821229
+step 179, ctx len 130554, avg score 0.9944444444444445
+step 180, ctx len 130554, avg score 0.994475138121547
+step 181, ctx len 130551, avg score 0.9945054945054945
+step 182, ctx len 130554, avg score 0.994535519125683
+step 183, ctx len 130560, avg score 0.9945652173913043
+step 184, ctx len 130554, avg score 0.9945945945945946
+step 185, ctx len 130554, avg score 0.9946236559139785
+step 186, ctx len 130554, avg score 0.9946524064171123
+step 187, ctx len 130560, avg score 0.9946808510638298
+step 188, ctx len 130551, avg score 0.9947089947089947
+step 189, ctx len 130554, avg score 0.9947368421052631
+step 190, ctx len 130560, avg score 0.9947643979057592
+step 191, ctx len 130554, avg score 0.9947916666666666
+step 192, ctx len 130554, avg score 0.9948186528497409
+step 193, ctx len 130551, avg score 0.9948453608247423
+step 194, ctx len 130554, avg score 0.9948717948717949
+step 195, ctx len 130554, avg score 0.9948979591836735
+step 196, ctx len 130551, avg score 0.9949238578680203
+step 197, ctx len 130566, avg score 0.9936868686868687
+step 198, ctx len 130554, avg score 0.9937185929648241
+step 199, ctx len 130548, avg score 0.99375
+step 200, ctx len 130545, avg score 0.9937810945273632
+step 201, ctx len 130551, avg score 0.9938118811881188
+step 202, ctx len 130545, avg score 0.9938423645320197
+step 203, ctx len 130548, avg score 0.9938725490196079
+step 204, ctx len 130542, avg score 0.9939024390243902
+step 205, ctx len 130554, avg score 0.9939320388349514
+step 206, ctx len 130557, avg score 0.9939613526570048
+step 207, ctx len 130548, avg score 0.9939903846153846
+step 208, ctx len 130545, avg score 0.9940191387559809
+step 209, ctx len 130548, avg score 0.9940476190476191
+step 210, ctx len 130566, avg score 0.9940758293838863
+step 211, ctx len 130548, avg score 0.9941037735849056
+step 212, ctx len 130554, avg score 0.994131455399061
+step 213, ctx len 130560, avg score 0.9941588785046729
+step 214, ctx len 130563, avg score 0.9941860465116279
+step 215, ctx len 130545, avg score 0.9942129629629629
+step 216, ctx len 130545, avg score 0.9942396313364056
+step 217, ctx len 130548, avg score 0.9942660550458715
+step 218, ctx len 130554, avg score 0.9942922374429224
+step 219, ctx len 130548, avg score 0.9943181818181818
+step 220, ctx len 130560, avg score 0.994343891402715
+step 221, ctx len 130554, avg score 0.9943693693693694
+step 222, ctx len 130548, avg score 0.9943946188340808
+step 223, ctx len 130554, avg score 0.9944196428571429
+step 224, ctx len 130554, avg score 0.9944444444444445
+step 225, ctx len 130554, avg score 0.9944690265486725
+step 226, ctx len 130554, avg score 0.9944933920704846
+step 227, ctx len 130545, avg score 0.9945175438596491
+step 228, ctx len 130551, avg score 0.9945414847161572
+step 229, ctx len 130548, avg score 0.9945652173913043
+step 230, ctx len 130551, avg score 0.9945887445887446
+step 231, ctx len 130554, avg score 0.9946120689655172
+step 232, ctx len 130551, avg score 0.9946351931330472
+step 233, ctx len 130557, avg score 0.9946581196581197
+step 234, ctx len 130548, avg score 0.9946808510638298
+step 235, ctx len 130545, avg score 0.9947033898305084
+step 236, ctx len 130554, avg score 0.9947257383966245
+step 237, ctx len 130557, avg score 0.9947478991596639
+step 238, ctx len 130554, avg score 0.9947698744769874
+step 239, ctx len 130548, avg score 0.9947916666666666
+step 240, ctx len 130548, avg score 0.9948132780082988
+step 241, ctx len 130557, avg score 0.9948347107438017
+step 242, ctx len 130545, avg score 0.9948559670781894
+step 243, ctx len 130551, avg score 0.9948770491803278
+step 244, ctx len 130551, avg score 0.9948979591836735
+step 245, ctx len 130539, avg score 0.9949186991869918
+step 246, ctx len 130554, avg score 0.9949392712550608
+step 247, ctx len 130557, avg score 0.9949596774193549
+step 248, ctx len 130557, avg score 0.9949799196787149
+step 249, ctx len 130545, avg score 0.995
+step 250, ctx len 130545, avg score 0.9950199203187251
+step 251, ctx len 130545, avg score 0.9950396825396826
+step 252, ctx len 130554, avg score 0.9950592885375494
+step 253, ctx len 130548, avg score 0.9950787401574803
+step 254, ctx len 130557, avg score 0.9950980392156863
+step 255, ctx len 130560, avg score 0.9951171875
+step 256, ctx len 130569, avg score 0.995136186770428
+step 257, ctx len 130554, avg score 0.9951550387596899
+step 258, ctx len 130554, avg score 0.9951737451737451
+step 259, ctx len 130551, avg score 0.9951923076923077
+step 260, ctx len 130557, avg score 0.9952107279693486
+step 261, ctx len 130557, avg score 0.9952290076335878
+step 262, ctx len 130542, avg score 0.9952471482889734
+step 263, ctx len 130554, avg score 0.9952651515151515
+step 264, ctx len 130548, avg score 0.9952830188679245
+step 265, ctx len 130551, avg score 0.9953007518796992
+step 266, ctx len 130551, avg score 0.9953183520599251
+step 267, ctx len 130560, avg score 0.9953358208955224
+step 268, ctx len 130563, avg score 0.9953531598513011
+step 269, ctx len 130566, avg score 0.9953703703703703
+step 270, ctx len 130554, avg score 0.9944649446494465
+step 271, ctx len 130548, avg score 0.9944852941176471
+step 272, ctx len 130554, avg score 0.9945054945054945
+step 273, ctx len 130539, avg score 0.9945255474452555
+step 274, ctx len 130554, avg score 0.9945454545454545
+step 275, ctx len 130551, avg score 0.9945652173913043
+step 276, ctx len 130560, avg score 0.9945848375451264
+step 277, ctx len 130551, avg score 0.9946043165467626
+step 278, ctx len 130554, avg score 0.9946236559139785
+step 279, ctx len 130548, avg score 0.9946428571428572
+step 280, ctx len 130566, avg score 0.994661921708185
+step 281, ctx len 130563, avg score 0.9946808510638298
+step 282, ctx len 130548, avg score 0.9946996466431095
+step 283, ctx len 130548, avg score 0.9947183098591549
+step 284, ctx len 130551, avg score 0.9947368421052631
+step 285, ctx len 130545, avg score 0.9947552447552448
+step 286, ctx len 130557, avg score 0.9947735191637631
+step 287, ctx len 130557, avg score 0.9947916666666666
+step 288, ctx len 130548, avg score 0.9948096885813149
+step 289, ctx len 130560, avg score 0.9948275862068966
+step 290, ctx len 130551, avg score 0.9948453608247423
+step 291, ctx len 130551, avg score 0.9948630136986302
+step 292, ctx len 130548, avg score 0.9948805460750854
+step 293, ctx len 130554, avg score 0.9948979591836735
+step 294, ctx len 130542, avg score 0.9949152542372881
+step 295, ctx len 130551, avg score 0.9949324324324325
+step 296, ctx len 130557, avg score 0.9949494949494949
+step 297, ctx len 130545, avg score 0.9949664429530202
+step 298, ctx len 130545, avg score 0.9949832775919732
+step 299, ctx len 130551, avg score 0.995
+step 300, ctx len 130551, avg score 0.9950166112956811
+step 301, ctx len 130548, avg score 0.9950331125827815
+step 302, ctx len 130548, avg score 0.995049504950495
+step 303, ctx len 130539, avg score 0.9950657894736842
+step 304, ctx len 130542, avg score 0.9950819672131147
+step 305, ctx len 130545, avg score 0.9950980392156863
+step 306, ctx len 130548, avg score 0.995114006514658
+step 307, ctx len 130548, avg score 0.9951298701298701
+step 308, ctx len 130554, avg score 0.9951456310679612
+step 309, ctx len 130554, avg score 0.9951612903225806
+step 310, ctx len 130557, avg score 0.9951768488745981
+step 311, ctx len 130560, avg score 0.9951923076923077
+step 312, ctx len 130554, avg score 0.9952076677316294
+step 313, ctx len 130548, avg score 0.9952229299363057
+step 314, ctx len 130551, avg score 0.9952380952380953
+step 315, ctx len 130569, avg score 0.995253164556962
+step 316, ctx len 130548, avg score 0.9952681388012619
+step 317, ctx len 130551, avg score 0.9952830188679245
+step 318, ctx len 130551, avg score 0.9952978056426333
+step 319, ctx len 130563, avg score 0.9953125
+step 320, ctx len 130560, avg score 0.9953271028037384
+step 321, ctx len 130554, avg score 0.9953416149068323
+step 322, ctx len 130554, avg score 0.9953560371517027
+step 323, ctx len 130548, avg score 0.9953703703703703
+step 324, ctx len 130551, avg score 0.9953846153846154
+step 325, ctx len 130560, avg score 0.995398773006135
+step 326, ctx len 130545, avg score 0.9954128440366973
+step 327, ctx len 130554, avg score 0.9954268292682927
+step 328, ctx len 130551, avg score 0.9954407294832827
+step 329, ctx len 130548, avg score 0.9954545454545455
+step 330, ctx len 130554, avg score 0.9954682779456193
+step 331, ctx len 130551, avg score 0.9954819277108434
+step 332, ctx len 130554, avg score 0.9954954954954955
+step 333, ctx len 130551, avg score 0.9955089820359282
+step 334, ctx len 130548, avg score 0.9955223880597015
+step 335, ctx len 130554, avg score 0.9955357142857143
+step 336, ctx len 130545, avg score 0.9955489614243324
+step 337, ctx len 130542, avg score 0.9955621301775148
+step 338, ctx len 130557, avg score 0.995575221238938
+step 339, ctx len 130548, avg score 0.9955882352941177
+step 340, ctx len 130551, avg score 0.9956011730205279
+step 341, ctx len 130557, avg score 0.9956140350877193
+step 342, ctx len 130548, avg score 0.9956268221574344
+step 343, ctx len 130545, avg score 0.9956395348837209
+step 344, ctx len 130548, avg score 0.9956521739130435
+step 345, ctx len 130548, avg score 0.9956647398843931
+step 346, ctx len 130551, avg score 0.9956772334293948
+step 347, ctx len 130557, avg score 0.9956896551724138
+step 348, ctx len 130551, avg score 0.995702005730659
+step 349, ctx len 130557, avg score 0.9957142857142857
+step 350, ctx len 130548, avg score 0.9957264957264957
+step 351, ctx len 130554, avg score 0.9957386363636364
+step 352, ctx len 130554, avg score 0.9957507082152974
+step 353, ctx len 130545, avg score 0.9957627118644068
+step 354, ctx len 130557, avg score 0.995774647887324
+step 355, ctx len 130566, avg score 0.9957865168539326
+step 356, ctx len 130554, avg score 0.9957983193277311
+step 357, ctx len 130554, avg score 0.9958100558659218
+step 358, ctx len 130551, avg score 0.9958217270194986
+step 359, ctx len 130551, avg score 0.9958333333333333
+step 360, ctx len 130569, avg score 0.9958448753462604
+step 361, ctx len 130551, avg score 0.9958563535911602
+step 362, ctx len 130545, avg score 0.9958677685950413
+step 363, ctx len 130557, avg score 0.9958791208791209
+step 364, ctx len 130554, avg score 0.9958904109589041
+step 365, ctx len 130551, avg score 0.9959016393442623
+step 366, ctx len 130551, avg score 0.9959128065395095
+step 367, ctx len 130557, avg score 0.9959239130434783
+step 368, ctx len 130560, avg score 0.9959349593495935
+step 369, ctx len 130548, avg score 0.995945945945946
+step 370, ctx len 130545, avg score 0.9959568733153639
+step 371, ctx len 130557, avg score 0.9959677419354839
+step 372, ctx len 130551, avg score 0.9959785522788204
+step 373, ctx len 130548, avg score 0.9959893048128342
+step 374, ctx len 130551, avg score 0.996
+step 375, ctx len 130560, avg score 0.9960106382978723
+step 376, ctx len 130554, avg score 0.9960212201591512
+step 377, ctx len 130554, avg score 0.996031746031746
+step 378, ctx len 130551, avg score 0.996042216358839
+step 379, ctx len 130554, avg score 0.9960526315789474
+step 380, ctx len 130542, avg score 0.9960629921259843
+step 381, ctx len 130554, avg score 0.9960732984293194
+step 382, ctx len 130545, avg score 0.9960835509138382
+step 383, ctx len 130548, avg score 0.99609375
+step 384, ctx len 130563, avg score 0.9961038961038962
+step 385, ctx len 130542, avg score 0.9961139896373057
+step 386, ctx len 130557, avg score 0.9961240310077519
+step 387, ctx len 130560, avg score 0.9961340206185567
+step 388, ctx len 130557, avg score 0.9961439588688946
+step 389, ctx len 130548, avg score 0.9961538461538462
+step 390, ctx len 130539, avg score 0.9961636828644501
+step 391, ctx len 130548, avg score 0.9961734693877551
+step 392, ctx len 130548, avg score 0.9961832061068703
+step 393, ctx len 130554, avg score 0.9961928934010152
+step 394, ctx len 130551, avg score 0.9962025316455696
+step 395, ctx len 130545, avg score 0.9962121212121212
+step 396, ctx len 130560, avg score 0.9962216624685138
+step 397, ctx len 130554, avg score 0.9962311557788944
+step 398, ctx len 130560, avg score 0.9962406015037594
+step 399, ctx len 130566, avg score 0.99625
+step 400, ctx len 130554, avg score 0.9962593516209476
+step 401, ctx len 130554, avg score 0.996268656716418
+step 402, ctx len 130551, avg score 0.9962779156327544
+step 403, ctx len 130551, avg score 0.9962871287128713
+step 404, ctx len 130545, avg score 0.9962962962962963
+step 405, ctx len 130551, avg score 0.9963054187192119
+step 406, ctx len 130548, avg score 0.9963144963144963
+step 407, ctx len 130545, avg score 0.9963235294117647
+step 408, ctx len 130554, avg score 0.9957212713936431
+step 409, ctx len 130557, avg score 0.9957317073170732
+step 410, ctx len 130554, avg score 0.995742092457421
+step 411, ctx len 130551, avg score 0.995752427184466
+step 412, ctx len 130563, avg score 0.9957627118644068
+step 413, ctx len 130557, avg score 0.9957729468599034
+step 414, ctx len 130551, avg score 0.9957831325301205
+step 415, ctx len 130548, avg score 0.9951923076923077
+step 416, ctx len 130548, avg score 0.9952038369304557
+step 417, ctx len 130542, avg score 0.9952153110047847
+step 418, ctx len 130545, avg score 0.9952267303102625
+step 419, ctx len 130569, avg score 0.9952380952380953
+step 420, ctx len 130563, avg score 0.995249406175772
+step 421, ctx len 130560, avg score 0.995260663507109
+step 422, ctx len 130554, avg score 0.9952718676122931
+step 423, ctx len 130545, avg score 0.9952830188679245
+step 424, ctx len 130557, avg score 0.9952941176470588
+step 425, ctx len 130545, avg score 0.9953051643192489
+step 426, ctx len 130551, avg score 0.9953161592505855
+step 427, ctx len 130545, avg score 0.9953271028037384
+step 428, ctx len 130554, avg score 0.9953379953379954
+step 429, ctx len 130548, avg score 0.9953488372093023
+step 430, ctx len 130551, avg score 0.9953596287703016
+step 431, ctx len 130557, avg score 0.9953703703703703
+step 432, ctx len 130542, avg score 0.9953810623556582
+step 433, ctx len 130539, avg score 0.9953917050691244
+step 434, ctx len 130551, avg score 0.9954022988505747
+step 435, ctx len 130557, avg score 0.9954128440366973
+step 436, ctx len 130548, avg score 0.9954233409610984
+step 437, ctx len 130542, avg score 0.9954337899543378
+step 438, ctx len 130548, avg score 0.9954441913439636
+step 439, ctx len 130548, avg score 0.9954545454545455
+step 440, ctx len 130536, avg score 0.9954648526077098
+step 441, ctx len 130551, avg score 0.995475113122172
+step 442, ctx len 130545, avg score 0.9954853273137697
+step 443, ctx len 130548, avg score 0.9954954954954955
+step 444, ctx len 130548, avg score 0.9955056179775281
+step 445, ctx len 130551, avg score 0.9955156950672646
+step 446, ctx len 130545, avg score 0.9955257270693513
+step 447, ctx len 130563, avg score 0.9955357142857143
+step 448, ctx len 130542, avg score 0.9955456570155902
+step 449, ctx len 130548, avg score 0.9955555555555555
+step 450, ctx len 130557, avg score 0.9955654101995566
+step 451, ctx len 130542, avg score 0.995575221238938
+step 452, ctx len 130554, avg score 0.9955849889624724
+step 453, ctx len 130551, avg score 0.9955947136563876
+step 454, ctx len 130572, avg score 0.9956043956043956
+step 455, ctx len 130557, avg score 0.9956140350877193
+step 456, ctx len 130557, avg score 0.9956236323851203
+step 457, ctx len 130557, avg score 0.9956331877729258
+step 458, ctx len 130545, avg score 0.9956427015250545
+step 459, ctx len 130557, avg score 0.9956521739130435
+step 460, ctx len 130545, avg score 0.9956616052060737
+step 461, ctx len 130542, avg score 0.9956709956709957
+step 462, ctx len 130548, avg score 0.9956803455723542
+step 463, ctx len 130554, avg score 0.9956896551724138
+step 464, ctx len 130551, avg score 0.9956989247311828
+step 465, ctx len 130545, avg score 0.9957081545064378
+step 466, ctx len 130545, avg score 0.9957173447537473
+step 467, ctx len 130542, avg score 0.9957264957264957
+step 468, ctx len 130545, avg score 0.9957356076759062
+step 469, ctx len 130554, avg score 0.9957446808510638
+step 470, ctx len 130554, avg score 0.9957537154989384
+step 471, ctx len 130557, avg score 0.9957627118644068
+step 472, ctx len 130554, avg score 0.9957716701902748
+step 473, ctx len 130554, avg score 0.9957805907172996
+step 474, ctx len 130545, avg score 0.9957894736842106
+step 475, ctx len 130548, avg score 0.9957983193277311
+step 476, ctx len 130551, avg score 0.9958071278825996
+step 477, ctx len 130548, avg score 0.99581589958159
+step 478, ctx len 130542, avg score 0.9958246346555324
+step 479, ctx len 130545, avg score 0.9958333333333333
+step 480, ctx len 130557, avg score 0.9958419958419958
+step 481, ctx len 130545, avg score 0.995850622406639
+step 482, ctx len 130542, avg score 0.9958592132505176
+step 483, ctx len 130560, avg score 0.9958677685950413
+step 484, ctx len 130563, avg score 0.9958762886597938
+step 485, ctx len 130551, avg score 0.9958847736625515
+step 486, ctx len 130554, avg score 0.9958932238193019
+step 487, ctx len 130551, avg score 0.9959016393442623
+step 488, ctx len 130545, avg score 0.9959100204498977
+step 489, ctx len 130551, avg score 0.9959183673469387
+step 490, ctx len 130554, avg score 0.9959266802443992
+step 491, ctx len 130548, avg score 0.9959349593495935
+step 492, ctx len 130545, avg score 0.9959432048681541
+step 493, ctx len 130548, avg score 0.9959514170040485
+step 494, ctx len 130542, avg score 0.9959595959595959
+step 495, ctx len 130545, avg score 0.9959677419354839
+step 496, ctx len 130554, avg score 0.9959758551307847
+step 497, ctx len 130551, avg score 0.9959839357429718
+step 498, ctx len 130557, avg score 0.9959919839679359
+step 499, ctx len 130557, avg score 0.996
+{"ctx_len": 130551, "pred": ": 3914404, 4968669, 1937991, and 7516648.<|eot_id|>", "needle": ["3914404", "4968669", "1937991", "7516648"], "score": 1.0}
+{"ctx_len": 130551, "pred": "4902772, 6185050, 9228157, and 2514267, respectively.<|eot_id|>", "needle": ["4902772", "6185050", "9228157", "2514267"], "score": 1.0}
+{"ctx_len": 130554, "pred": "1999183, 6716988, 3977282, and 3478196, respectively.<|eot_id|>", "needle": ["1999183", "6716988", "3977282", "3478196"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3289279, 2695038, 8329435, and 6062779, respectively.<|eot_id|>", "needle": ["3289279", "2695038", "8329435", "6062779"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 1030163, 7569981, 5941179, and 3981450.<|eot_id|>", "needle": ["1030163", "7569981", "5941179", "3981450"], "score": 1.0}
+{"ctx_len": 130548, "pred": "6818508, 3359604, 3816683, and 2305378, respectively.<|eot_id|>", "needle": ["6818508", "3359604", "3816683", "2305378"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": 7474950, 8040612, 1021494, and 5306005, respectively.<|eot_id|>", "needle": ["7474950", "8040612", "1021494", "5306005"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 1560573, 4784650, 1336852, and 8571346.<|eot_id|>", "needle": ["1560573", "4784650", "8571346", "1336852"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2258331, 2562037, 1519979, and 9098979, respectively.<|eot_id|>", "needle": ["2258331", "2562037", "1519979", "9098979"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 5723173, 5450404, 1832744, and 4985398.<|eot_id|>", "needle": ["5723173", "5450404", "1832744", "4985398"], "score": 1.0}
+{"ctx_len": 130548, "pred": "2470159, 9058573, 2627170, and 4472094, respectively.<|eot_id|>", "needle": ["2470159", "9058573", "2627170", "4472094"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 7197531, 7501626, 7224691, and 5446036.<|eot_id|>", "needle": ["7197531", "7501626", "7224691", "5446036"], "score": 1.0}
+{"ctx_len": 130554, "pred": "7945543, 6767862, 2622400, and 2034137, respectively.<|eot_id|>", "needle": ["7945543", "6767862", "2622400", "2034137"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 6013906, 4953417, 1582647, and 7623718, respectively.<|eot_id|>", "needle": ["6013906", "4953417", "1582647", "7623718"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8103052, 8304686, 4554926, and 3117049, respectively.<|eot_id|>", "needle": ["8103052", "8304686", "4554926", "3117049"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": * macabre-road: 7666510 * scintillating-historian: 6471499 * ordinary-folklore: 1207430 * gruesome-historian: 9718920<|eot_id|>", "needle": ["7666510", "6471499", "1207430", "9718920"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": 7893590, 2681144, 9986438, and 2694338, respectively.<|eot_id|>", "needle": ["7893590", "2681144", "9986438", "2694338"], "score": 1.0}
+{"ctx_len": 130548, "pred": "3413447, 7640300, 7739741, and 4985919, respectively.<|eot_id|>", "needle": ["3413447", "7739741", "7640300", "4985919"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 9248001, 8434162, 2647814, and 3254614, respectively.<|eot_id|>", "needle": ["9248001", "8434162", "2647814", "3254614"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": 9127895, 2100870, 7273172, and 9644791.<|eot_id|>", "needle": ["9127895", "2100870", "9644791", "7273172"], "score": 1.0}
+{"ctx_len": 130545, "pred": "4340507, 7046090, 5185752, and 8657937, respectively.<|eot_id|>", "needle": ["4340507", "7046090", "5185752", "8657937"], "score": 1.0}
+{"ctx_len": 130545, "pred": "8962169, 7248955, 8484373, and 6867997, respectively.<|eot_id|>", "needle": ["8962169", "7248955", "8484373", "6867997"], "score": 1.0}
+{"ctx_len": 130545, "pred": "4776753, 4468370, 4595669, and 7870390, respectively.<|eot_id|>", "needle": ["4776753", "4468370", "4595669", "7870390"], "score": 1.0}
+{"ctx_len": 130551, "pred": "7316209, 6124763, 5620085, and 5234408, respectively.<|eot_id|>", "needle": ["7316209", "6124763", "5620085", "5234408"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 5742531, 7278533, 2813693, and 9581776, respectively.<|eot_id|>", "needle": ["5742531", "7278533", "2813693", "9581776"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7779646, 5031599, 6361758, and 3515396, respectively.<|eot_id|>", "needle": ["7779646", "5031599", "6361758", "3515396"], "score": 1.0}
+{"ctx_len": 130545, "pred": "4730635, 8981512, 4186247, and 9969688, respectively.<|eot_id|>", "needle": ["4730635", "8981512", "4186247", "9969688"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 6630978, 4071377, 2498202, and 5339457.<|eot_id|>", "needle": ["6630978", "4071377", "2498202", "5339457"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 2194801, 1900549, 2976045, and 4263903.<|eot_id|>", "needle": ["2194801", "1900549", "2976045", "4263903"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 7865099, 6308033, 4360419, and 8676774, respectively.<|eot_id|>", "needle": ["7865099", "6308033", "4360419", "8676774"], "score": 1.0}
+{"ctx_len": 130566, "pred": "2477088, 3828735, 3658100, and 5589036, respectively.<|eot_id|>", "needle": ["2477088", "3828735", "3658100", "5589036"], "score": 1.0}
+{"ctx_len": 130548, "pred": "6405839, 7259602, 9955386, and 4197346, respectively.<|eot_id|>", "needle": ["6405839", "7259602", "9955386", "4197346"], "score": 1.0}
+{"ctx_len": 130536, "pred": ": 2095334, 6135759, 6003003, and 9444584, respectively.<|eot_id|>", "needle": ["2095334", "6135759", "9444584", "6003003"], "score": 1.0}
+{"ctx_len": 130548, "pred": "3766286, 7027229, 4763487, and 1320859, respectively.<|eot_id|>", "needle": ["3766286", "7027229", "4763487", "1320859"], "score": 1.0}
+{"ctx_len": 130542, "pred": "2813842, 1815153, 5291430, and 1804641, respectively.<|eot_id|>", "needle": ["2813842", "1815153", "5291430", "1804641"], "score": 1.0}
+{"ctx_len": 130557, "pred": "1156104, 2694160, 3569046, and 8061051, respectively.<|eot_id|>", "needle": ["1156104", "2694160", "3569046", "8061051"], "score": 1.0}
+{"ctx_len": 130548, "pred": "9350675, 2912813, 9776935, and 4351238, respectively.<|eot_id|>", "needle": ["9350675", "2912813", "9776935", "4351238"], "score": 1.0}
+{"ctx_len": 130551, "pred": "9064202, 1213899, 2493219, and 4934345, respectively.<|eot_id|>", "needle": ["9064202", "1213899", "2493219", "4934345"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 8789281, 5966428, 4878226, and 2674515.<|eot_id|>", "needle": ["8789281", "5966428", "4878226", "2674515"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 1162274, 3860721, 6998314, and 5501484, respectively.<|eot_id|>", "needle": ["1162274", "3860721", "6998314", "5501484"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3223175, 3798082, 9023619, and 7471232, respectively.<|eot_id|>", "needle": ["3223175", "3798082", "9023619", "7471232"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7371160, 1483456, 3192032, and 9189341, respectively.<|eot_id|>", "needle": ["7371160", "1483456", "3192032", "9189341"], "score": 1.0}
+{"ctx_len": 130545, "pred": "9776214, 4757843, 6675742, and 9804983, respectively.<|eot_id|>", "needle": ["9776214", "4757843", "6675742", "9804983"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": 8873361, 3632804, 1915467, and 3775016, respectively.<|eot_id|>", "needle": ["8873361", "3632804", "1915467", "3775016"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 7352484, 4942645, 8517846, and 8702329, respectively.<|eot_id|>", "needle": ["7352484", "4942645", "8517846", "8702329"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 1002847, 4470388, 6110305, and 7917892, respectively.<|eot_id|>", "needle": ["1002847", "4470388", "6110305", "7917892"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 2634721, 4720299, 7095071, and 8592234, respectively.<|eot_id|>", "needle": ["2634721", "4720299", "7095071", "8592234"], "score": 1.0}
+{"ctx_len": 130554, "pred": "4287016, 9261472, 7865417, and 5266266, respectively.<|eot_id|>", "needle": ["4287016", "9261472", "7865417", "5266266"], "score": 1.0}
+{"ctx_len": 130560, "pred": "1780146, 8673695, 3067274, and 9459031, respectively.<|eot_id|>", "needle": ["1780146", "8673695", "3067274", "9459031"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7499587, 3153888, 3972963, and 3913368, respectively.<|eot_id|>", "needle": ["7499587", "3153888", "3972963", "3913368"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8597490, 6752216, 9594877, and 3318275, respectively.<|eot_id|>", "needle": ["8597490", "6752216", "9594877", "3318275"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 2936178, 6408662, 3983202, and 3225862.<|eot_id|>", "needle": ["2936178", "6408662", "3983202", "3225862"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 3438177, 9769953, 1949670, and 1423996, respectively.<|eot_id|>", "needle": ["3438177", "9769953", "1949670", "1423996"], "score": 1.0}
+{"ctx_len": 130551, "pred": "7524435, 8593275, 4763253, and 1542011, respectively.<|eot_id|>", "needle": ["7524435", "8593275", "4763253", "1542011"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 5216804, 7169672, 8433377, and 1902651.<|eot_id|>", "needle": ["5216804", "7169672", "8433377", "1902651"], "score": 1.0}
+{"ctx_len": 130542, "pred": "9620919, 2249382, 7328336, and 3915798, respectively.<|eot_id|>", "needle": ["9620919", "2249382", "7328336", "3915798"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 3578714, 6545923, 3597208, and 1853212, respectively.<|eot_id|>", "needle": ["3578714", "6545923", "3597208", "1853212"], "score": 1.0}
+{"ctx_len": 130542, "pred": "7978168, 9474848, 7768215, and 9734324, respectively.<|eot_id|>", "needle": ["7978168", "9474848", "7768215", "9734324"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 5032368, 9900294, 1147701, and 6805039, respectively.<|eot_id|>", "needle": ["5032368", "9900294", "1147701", "6805039"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 9628674, 8475204, 5745083, and 9671603, respectively.<|eot_id|>", "needle": ["9628674", "8475204", "5745083", "9671603"], "score": 1.0}
+{"ctx_len": 130542, "pred": "9945709, 4576485, 8117053, and 2098434, respectively.<|eot_id|>", "needle": ["9945709", "4576485", "8117053", "2098434"], "score": 1.0}
+{"ctx_len": 130548, "pred": "1910467, 2468357, 5226314, and 6565260, respectively.<|eot_id|>", "needle": ["1910467", "2468357", "5226314", "6565260"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": 7785511, 7534756, 2984841, and 6308382, respectively.<|eot_id|>", "needle": ["7785511", "7534756", "2984841", "6308382"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 2451316, 6055825, 2780658, and 8342987.<|eot_id|>", "needle": ["6055825", "2451316", "2780658", "8342987"], "score": 1.0}
+{"ctx_len": 130548, "pred": "3371859, 7260091, 5948917, and 3417186, respectively.<|eot_id|>", "needle": ["3371859", "7260091", "5948917", "3417186"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 7923193, 6768873, 3700366, and 9599207.<|eot_id|>", "needle": ["7923193", "6768873", "9599207", "3700366"], "score": 1.0}
+{"ctx_len": 130548, "pred": "2130159, 8738745, 2647562, and 2227162, respectively.<|eot_id|>", "needle": ["2130159", "8738745", "2647562", "2227162"], "score": 1.0}
+{"ctx_len": 130545, "pred": "8560584, 6331563, 2171198, and 6128383, respectively.<|eot_id|>", "needle": ["8560584", "6331563", "2171198", "6128383"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7031174, 8316947, 5130133, and 6562703, respectively.<|eot_id|>", "needle": ["7031174", "8316947", "5130133", "6562703"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 2282825, 4295580, 3348838, and 2375290.<|eot_id|>", "needle": ["2282825", "4295580", "2375290", "3348838"], "score": 1.0}
+{"ctx_len": 130545, "pred": "7585029, 3493647, 5372416, and 8920589, respectively.<|eot_id|>", "needle": ["7585029", "3493647", "5372416", "8920589"], "score": 1.0}
+{"ctx_len": 130557, "pred": "5007754, 3782393, 3355029, and 9424968, respectively.<|eot_id|>", "needle": ["5007754", "3782393", "3355029", "9424968"], "score": 1.0}
+{"ctx_len": 130557, "pred": "4926181, 5435176, 4888118, and 4671175, respectively.<|eot_id|>", "needle": ["4926181", "4888118", "5435176", "4671175"], "score": 1.0}
+{"ctx_len": 130554, "pred": "5588489, 9747185, 6437011, and 3916715, respectively.<|eot_id|>", "needle": ["5588489", "9747185", "6437011", "3916715"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 1110690, 6788681, 3331501, and 9088465, respectively.<|eot_id|>", "needle": ["1110690", "6788681", "3331501", "9088465"], "score": 1.0}
+{"ctx_len": 130551, "pred": "2985251, 4864570, 6540252, and 7077092, respectively.<|eot_id|>", "needle": ["2985251", "4864570", "6540252", "7077092"], "score": 1.0}
+{"ctx_len": 130548, "pred": "3463987, 9600719, 1723841, and 3703298, respectively.<|eot_id|>", "needle": ["3463987", "9600719", "1723841", "3703298"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 3861635, 4633834, 8909005, and 7891524.<|eot_id|>", "needle": ["3861635", "4633834", "8909005", "7891524"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 7345333, 3218169, 2154992, and 1277874, respectively.<|eot_id|>", "needle": ["7345333", "3218169", "2154992", "1277874"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": 3186555, 9444462, 1654924, and 2563468, respectively.<|eot_id|>", "needle": ["3186555", "9444462", "1654924", "2563468"], "score": 1.0}
+{"ctx_len": 130551, "pred": "2639417, 3246185, 6880713, and 9088689, respectively.<|eot_id|>", "needle": ["2639417", "3246185", "6880713", "9088689"], "score": 1.0}
+{"ctx_len": 130557, "pred": "9720156, 1119354, 1091762, and 9766777, respectively.<|eot_id|>", "needle": ["9720156", "1119354", "1091762", "9766777"], "score": 1.0}
+{"ctx_len": 130554, "pred": "5623138, 5255251, 9994347, and 7134489, respectively.<|eot_id|>", "needle": ["5623138", "5255251", "9994347", "7134489"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": 6144785, 3316405, 6777340, and 7679508.<|eot_id|>", "needle": ["6144785", "3316405", "6777340", "7679508"], "score": 1.0}
+{"ctx_len": 130551, "pred": "1873301, 7528076, 3438206, and 1088762, respectively.<|eot_id|>", "needle": ["1873301", "7528076", "3438206", "1088762"], "score": 1.0}
+{"ctx_len": 130551, "pred": "7447920, 9741022, 1964069, and 1633429, respectively.<|eot_id|>", "needle": ["7447920", "9741022", "1964069", "1633429"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 9565571, 4886793, 3843451, and 1605005, respectively.<|eot_id|>", "needle": ["9565571", "4886793", "3843451", "1605005"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 1257807, 4360650, 2151205, and 7629401, respectively.<|eot_id|>", "needle": ["1257807", "4360650", "2151205", "7629401"], "score": 1.0}
+{"ctx_len": 130557, "pred": "4263591, 1078038, 7777264, and 3936596, respectively.<|eot_id|>", "needle": ["4263591", "1078038", "7777264", "3936596"], "score": 1.0}
+{"ctx_len": 130569, "pred": ": 9611521, 5196677, 8428425, and 9113963, respectively.<|eot_id|>", "needle": ["9611521", "5196677", "9113963", "8428425"], "score": 1.0}
+{"ctx_len": 130566, "pred": "4857587, 7420191, 4697401, and 7919359, respectively.<|eot_id|>", "needle": ["4857587", "7420191", "4697401", "7919359"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 4666931, 6265911, 6737688, and 3994493, respectively.<|eot_id|>", "needle": ["4666931", "6265911", "6737688", "3994493"], "score": 1.0}
+{"ctx_len": 130557, "pred": "6973148, 4401858, 5061034, and 4469169, respectively.<|eot_id|>", "needle": ["6973148", "4401858", "5061034", "4469169"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 6291817, 7227644, 4068080, and 5609255.<|eot_id|>", "needle": ["6291817", "7227644", "4068080", "5609255"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 1546310, 3019442, 6826541, and 3932663, respectively.<|eot_id|>", "needle": ["1546310", "3932663", "3019442", "6826541"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 5357055, 7066680, 2690268, and 5409875, respectively.<|eot_id|>", "needle": ["5357055", "7066680", "2690268", "5409875"], "score": 1.0}
+{"ctx_len": 130560, "pred": "4532148, 7720828, 7246319, and 8561977, respectively.<|eot_id|>", "needle": ["4532148", "7720828", "7246319", "8561977"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3509000, 4289394, 1163448, and 8251427, respectively.<|eot_id|>", "needle": ["3509000", "4289394", "1163448", "8251427"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3740422, 2660521, 4614941, and 1800429.<|eot_id|>", "needle": ["3740422", "2660521", "4614941", "1800429"], "score": 1.0}
+{"ctx_len": 130551, "pred": "3034027, 1332781, 4337963, and 5323737, respectively.<|eot_id|>", "needle": ["3034027", "1332781", "4337963", "5323737"], "score": 1.0}
+{"ctx_len": 130554, "pred": "7393310, 6660436, 3430151, and 5807067, respectively.<|eot_id|>", "needle": ["7393310", "6660436", "3430151", "5807067"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 7634639, 5888148, 6259356, and 5487442, respectively.<|eot_id|>", "needle": ["7634639", "5888148", "6259356", "5487442"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3097821, 2343263, 4936391, and 5221936, respectively.<|eot_id|>", "needle": ["3097821", "2343263", "4936391", "5221936"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2396723, 5403218, 3605071, and 7660764, respectively.<|eot_id|>", "needle": ["2396723", "5403218", "3605071", "7660764"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 1479346, 6986802, 9837269, and 3120836.<|eot_id|>", "needle": ["1479346", "6986802", "9837269", "3120836"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 8659527, 3970181, 9955411, and 8297709.<|eot_id|>", "needle": ["8659527", "3970181", "9955411", "8297709"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7915632, 1177097, 3612506, and 9779789, respectively.<|eot_id|>", "needle": ["7915632", "1177097", "3612506", "9779789"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 7268704, 1153219, 4879150, and 5914425, respectively.<|eot_id|>", "needle": ["7268704", "1153219", "4879150", "5914425"], "score": 1.0}
+{"ctx_len": 130542, "pred": "2328918, 4700926, 5019180, and 5561139, respectively.<|eot_id|>", "needle": ["2328918", "4700926", "5019180", "5561139"], "score": 1.0}
+{"ctx_len": 130554, "pred": "2851472, 8596173, 9254323, and 9254323, respectively.<|eot_id|>", "needle": ["2851472", "8596173", "9254323", "8639388"], "score": 0.75}
+{"ctx_len": 130563, "pred": "1137641, 5733096, 3097809, and 8355410, respectively.<|eot_id|>", "needle": ["1137641", "5733096", "3097809", "8355410"], "score": 1.0}
+{"ctx_len": 130569, "pred": "9361693, 1532460, 8779334, and 2345920, respectively.<|eot_id|>", "needle": ["9361693", "1532460", "8779334", "2345920"], "score": 1.0}
+{"ctx_len": 130542, "pred": "5195637, 5176895, 8431651, and 1211652, respectively.<|eot_id|>", "needle": ["5195637", "5176895", "8431651", "1211652"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3661058, 9739692, 6236326, and 1707762, respectively.<|eot_id|>", "needle": ["3661058", "9739692", "6236326", "1707762"], "score": 1.0}
+{"ctx_len": 130557, "pred": "4958849, 5632190, 8284023, and 1252794, respectively.<|eot_id|>", "needle": ["4958849", "5632190", "8284023", "1252794"], "score": 1.0}
+{"ctx_len": 130563, "pred": "2501223, 6677780, 3645741, and 2533463, respectively.<|eot_id|>", "needle": ["2501223", "6677780", "3645741", "2533463"], "score": 1.0}
+{"ctx_len": 130554, "pred": "7337911, 3260430, 4237420, and 6827024, respectively.<|eot_id|>", "needle": ["7337911", "3260430", "4237420", "6827024"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 8858359, 6832845, 3690116, and 4131076, respectively.<|eot_id|>", "needle": ["8858359", "6832845", "3690116", "4131076"], "score": 1.0}
+{"ctx_len": 130551, "pred": "4112748, 7108168, 5006173, and 9488562, respectively.<|eot_id|>", "needle": ["4112748", "7108168", "5006173", "9488562"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7875379, 5750117, 6402667, and 2614912, respectively.<|eot_id|>", "needle": ["7875379", "5750117", "6402667", "2614912"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 4214793, 1533803, 9219319, and 7519606, respectively.<|eot_id|>", "needle": ["4214793", "1533803", "9219319", "7519606"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 8852729, 2018380, 9244416.<|eot_id|>", "needle": ["8852729", "2018380", "4502044", "9244416"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": 2698275, 9715516, 2307538, and 4875838, respectively.<|eot_id|>", "needle": ["9715516", "2698275", "2307538", "4875838"], "score": 1.0}
+{"ctx_len": 130548, "pred": "8165129, 3798595, 7005628, and 8696054, respectively.<|eot_id|>", "needle": ["8165129", "3798595", "7005628", "8696054"], "score": 1.0}
+{"ctx_len": 130557, "pred": "6446792, 8224069, 7917972, and 6287423, respectively.<|eot_id|>", "needle": ["6446792", "8224069", "7917972", "6287423"], "score": 1.0}
+{"ctx_len": 130542, "pred": "1581546, 8507800, 1273509, and 1003282, respectively.<|eot_id|>", "needle": ["1581546", "8507800", "1273509", "1003282"], "score": 1.0}
+{"ctx_len": 130551, "pred": "3595683, 9577712, 5629792, and 1633110, respectively.<|eot_id|>", "needle": ["3595683", "9577712", "5629792", "1633110"], "score": 1.0}
+{"ctx_len": 130545, "pred": "6038238, 4647992, 7707501, and 2295227, respectively.<|eot_id|>", "needle": ["6038238", "4647992", "7707501", "2295227"], "score": 1.0}
+{"ctx_len": 130551, "pred": "7988074, 7401281, 1938227, and 6837300, respectively.<|eot_id|>", "needle": ["7988074", "7401281", "1938227", "6837300"], "score": 1.0}
+{"ctx_len": 130548, "pred": "3509536, 1847581, 9428900, and 4704361, respectively.<|eot_id|>", "needle": ["3509536", "1847581", "9428900", "4704361"], "score": 1.0}
+{"ctx_len": 130560, "pred": "1827302, 8983516, 6639966, and 3483236, respectively.<|eot_id|>", "needle": ["1827302", "8983516", "6639966", "3483236"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 4323709, 9068540, and 7632348.<|eot_id|>", "needle": ["4323709", "9068540", "4290000", "7632348"], "score": 0.75}
+{"ctx_len": 130548, "pred": ": 7128174, 2503148, 7938755, and 4195887.<|eot_id|>", "needle": ["7128174", "2503148", "7938755", "4195887"], "score": 1.0}
+{"ctx_len": 130548, "pred": "1752920, 4350161, 7271672, and 3446428, respectively.<|eot_id|>", "needle": ["1752920", "4350161", "3446428", "7271672"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8550780, 1381650, 2866934, and 6759137, respectively.<|eot_id|>", "needle": ["8550780", "1381650", "2866934", "6759137"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 1308508, 9838222, 2008479, and 5285846.<|eot_id|>", "needle": ["1308508", "9838222", "2008479", "5285846"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 1320081, 7043474, 5551832, and 7484783, respectively.<|eot_id|>", "needle": ["1320081", "7043474", "5551832", "7484783"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 9399526, 1360516, 5150551, and 6115834.<|eot_id|>", "needle": ["9399526", "1360516", "5150551", "6115834"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 2040350, 6072192, 5323142, and 9409604.<|eot_id|>", "needle": ["9409604", "6072192", "5323142", "2040350"], "score": 1.0}
+{"ctx_len": 130560, "pred": "4815608, 7412371, 3302852, and 5032585, respectively.<|eot_id|>", "needle": ["4815608", "7412371", "3302852", "5032585"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 4394202, 9787997, 3324928, and 6184132.<|eot_id|>", "needle": ["4394202", "9787997", "3324928", "6184132"], "score": 1.0}
+{"ctx_len": 130560, "pred": "6328403, 6089336, 7946441, and 1494648, respectively.<|eot_id|>", "needle": ["6328403", "6089336", "7946441", "1494648"], "score": 1.0}
+{"ctx_len": 130551, "pred": "1437625, 4895376, 4874049, and 5477211, respectively.<|eot_id|>", "needle": ["1437625", "4895376", "4874049", "5477211"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 4242361, 9245088, 1540722, and 3307080.<|eot_id|>", "needle": ["3307080", "9245088", "4242361", "1540722"], "score": 1.0}
+{"ctx_len": 130566, "pred": "7792537, 5140345, 9219877, and 6450844, respectively.<|eot_id|>", "needle": ["7792537", "5140345", "9219877", "6450844"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 5122525, 1658532, 7637254, and 8665517.<|eot_id|>", "needle": ["5122525", "1658532", "7637254", "8665517"], "score": 1.0}
+{"ctx_len": 130554, "pred": "5796850, 5939543, 1915141, and 3793181, respectively.<|eot_id|>", "needle": ["5796850", "5939543", "1915141", "3793181"], "score": 1.0}
+{"ctx_len": 130551, "pred": "8564609, 7938373, 4001084, and 3270069, respectively.<|eot_id|>", "needle": ["8564609", "7938373", "3270069", "4001084"], "score": 1.0}
+{"ctx_len": 130548, "pred": "9788196, 7089179, 8539654, and 2915369, respectively.<|eot_id|>", "needle": ["9788196", "7089179", "8539654", "2915369"], "score": 1.0}
+{"ctx_len": 130551, "pred": "3518087, 6623607, 3426109, and 1860847, respectively.<|eot_id|>", "needle": ["3518087", "6623607", "3426109", "1860847"], "score": 1.0}
+{"ctx_len": 130545, "pred": "1096478, 8694746, 9365828, and 5246497, respectively.<|eot_id|>", "needle": ["1096478", "8694746", "9365828", "5246497"], "score": 1.0}
+{"ctx_len": 130557, "pred": "5665960, 1110277, 4101100, and 4483580, respectively.<|eot_id|>", "needle": ["5665960", "1110277", "4101100", "4483580"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 7995376, 5771113, 3706755, and 1822609, respectively.<|eot_id|>", "needle": ["7995376", "5771113", "3706755", "1822609"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 2135258, 7183568, 2089275, and 6021328.<|eot_id|>", "needle": ["2135258", "7183568", "2089275", "6021328"], "score": 1.0}
+{"ctx_len": 130557, "pred": "9874251, 9114518, 1976175, and 4507293, respectively.<|eot_id|>", "needle": ["9874251", "9114518", "1976175", "4507293"], "score": 1.0}
+{"ctx_len": 130548, "pred": "9328158, 4018342, 4904421, and 9350710, respectively.<|eot_id|>", "needle": ["9328158", "9350710", "4904421", "4018342"], "score": 1.0}
+{"ctx_len": 130557, "pred": "7956372, 1763232, 6866154, and 4562439, respectively.<|eot_id|>", "needle": ["7956372", "1763232", "6866154", "4562439"], "score": 1.0}
+{"ctx_len": 130545, "pred": "1488508, 2909863, 7644605, and 6591559, respectively.<|eot_id|>", "needle": ["1488508", "2909863", "7644605", "6591559"], "score": 1.0}
+{"ctx_len": 130548, "pred": "8727886, 9742158, 6622207, and 7944979, respectively.<|eot_id|>", "needle": ["8727886", "9742158", "6622207", "7944979"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 1522998, 7295495, 3504920, and 9963616.<|eot_id|>", "needle": ["1522998", "7295495", "3504920", "9963616"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 7943579, 1530633, 9339189, and 6276424, respectively.<|eot_id|>", "needle": ["1530633", "7943579", "9339189", "6276424"], "score": 1.0}
+{"ctx_len": 130551, "pred": "8445293, 4390648, 1418336, and 7278297, respectively.<|eot_id|>", "needle": ["8445293", "4390648", "1418336", "7278297"], "score": 1.0}
+{"ctx_len": 130551, "pred": "2648387, 1613249, 7502651, and 3226624, respectively.<|eot_id|>", "needle": ["2648387", "1613249", "7502651", "3226624"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 6242557, 6236888, 9733844, and 1774096, and 6236888<|eot_id|>", "needle": ["6242557", "6236888", "9733844", "1774096"], "score": 1.0}
+{"ctx_len": 130554, "pred": "5590865, 1255965, and 2973853.<|eot_id|>", "needle": ["3505186", "5590865", "1255965", "2973853"], "score": 0.75}
+{"ctx_len": 130545, "pred": ":2195257, 3374929, 5107483, and 5752443, respectively.<|eot_id|>", "needle": ["2195257", "3374929", "5107483", "5752443"], "score": 1.0}
+{"ctx_len": 130551, "pred": "2444846, 7435734, 7575272, and 1846511, respectively.<|eot_id|>", "needle": ["2444846", "7435734", "7575272", "1846511"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8813071, 9950391, 3211157, and 8856366, respectively.<|eot_id|>", "needle": ["8813071", "9950391", "3211157", "8856366"], "score": 1.0}
+{"ctx_len": 130545, "pred": "1507747, 6541983, 7577959, and 8604827, respectively.<|eot_id|>", "needle": ["1507747", "6541983", "7577959", "8604827"], "score": 1.0}
+{"ctx_len": 130551, "pred": "2189907, 3137316, 2794848, and 2726915, respectively.<|eot_id|>", "needle": ["2189907", "3137316", "2794848", "2726915"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 6741177, 7439371, 8233471, and 6716235.<|eot_id|>", "needle": ["6741177", "7439371", "6716235", "8233471"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2638360, 2824432, 7808088, and 3955709, respectively.<|eot_id|>", "needle": ["2638360", "2824432", "7808088", "3955709"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3503436, 9912993, 7542823, and 1003092, respectively.<|eot_id|>", "needle": ["3503436", "9912993", "7542823", "1003092"], "score": 1.0}
+{"ctx_len": 130560, "pred": "1136218, 9563491, 6109503, and 6775801, respectively.<|eot_id|>", "needle": ["1136218", "9563491", "6109503", "6775801"], "score": 1.0}
+{"ctx_len": 130551, "pred": "5734685, 4946691, 7027124, and 7614724, respectively.<|eot_id|>", "needle": ["5734685", "4946691", "7027124", "7614724"], "score": 1.0}
+{"ctx_len": 130554, "pred": "7452434, 8000050, 5839738, and 4157922, respectively.<|eot_id|>", "needle": ["7452434", "8000050", "5839738", "4157922"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 4016499, 7976896, 2420416, and 8142130.<|eot_id|>", "needle": ["4016499", "7976896", "8142130", "2420416"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 9357686, 8126489, 4972005, and 1124654, respectively.<|eot_id|>", "needle": ["9357686", "8126489", "4972005", "1124654"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7183722, 9831661, 9078781, and 2343236, respectively.<|eot_id|>", "needle": ["7183722", "9831661", "9078781", "2343236"], "score": 1.0}
+{"ctx_len": 130554, "pred": "9976368, 1885405, 8866313, and 6242875, respectively.<|eot_id|>", "needle": ["9976368", "1885405", "8866313", "6242875"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 5369510, 8938316, 3810320, and 6101462.<|eot_id|>", "needle": ["5369510", "8938316", "3810320", "6101462"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 2384290, 5661529, 3223631, and 9482495, respectively.<|eot_id|>", "needle": ["2384290", "5661529", "3223631", "9482495"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3942713, 4962709, 8493596, and 4033474.<|eot_id|>", "needle": ["3942713", "4962709", "8493596", "4033474"], "score": 1.0}
+{"ctx_len": 130560, "pred": "6789409, 8385078, 3806547, and 7428475, respectively.<|eot_id|>", "needle": ["6789409", "8385078", "3806547", "7428475"], "score": 1.0}
+{"ctx_len": 130554, "pred": "7544296, 7371999, 5406118, and 9934217, respectively.<|eot_id|>", "needle": ["7544296", "7371999", "5406118", "9934217"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 5573311, 9913623, 1688161, and 6936250, respectively.<|eot_id|>", "needle": ["5573311", "9913623", "1688161", "6936250"], "score": 1.0}
+{"ctx_len": 130554, "pred": "6660743, 1177469, 4018500, and 1142206, respectively.<|eot_id|>", "needle": ["6660743", "1177469", "4018500", "1142206"], "score": 1.0}
+{"ctx_len": 130560, "pred": "5752935, 2542518, 1397627, and 4239337, respectively.<|eot_id|>", "needle": ["5752935", "2542518", "1397627", "4239337"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 5942041, 4099902, 2270273, and 4091420.<|eot_id|>", "needle": ["5942041", "4099902", "2270273", "4091420"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3985161, 7422301, 6581020, and 5332524, respectively.<|eot_id|>", "needle": ["3985161", "7422301", "6581020", "5332524"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 8235234, 2782574, 1584868, and 5345236, respectively.<|eot_id|>", "needle": ["8235234", "2782574", "1584868", "5345236"], "score": 1.0}
+{"ctx_len": 130554, "pred": "1062138, 6533643, 7551231, and 3543551, respectively.<|eot_id|>", "needle": ["1062138", "6533643", "7551231", "3543551"], "score": 1.0}
+{"ctx_len": 130554, "pred": "9980912, 6594190, 9087731, and 7449562, respectively.<|eot_id|>", "needle": ["9980912", "6594190", "9087731", "7449562"], "score": 1.0}
+{"ctx_len": 130551, "pred": "4204501, 5864699, 4407796, and 1659867, respectively.<|eot_id|>", "needle": ["4204501", "5864699", "4407796", "1659867"], "score": 1.0}
+{"ctx_len": 130554, "pred": "7522436, 1598917, 5001116, and 1425547, respectively.<|eot_id|>", "needle": ["7522436", "1598917", "5001116", "1425547"], "score": 1.0}
+{"ctx_len": 130554, "pred": "2982850, 6665977, 1718308, and 9776491, respectively.<|eot_id|>", "needle": ["1718308", "6665977", "2982850", "9776491"], "score": 1.0}
+{"ctx_len": 130551, "pred": "1768424, 3190059, 1319824, and 3889858, respectively.<|eot_id|>", "needle": ["1768424", "3190059", "1319824", "3889858"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": 4399754, 6659678, 9340683, and no number is mentioned for bawdy-aftershock.<|eot_id|>", "needle": ["4700592", "6659678", "9340683", "4399754"], "score": 0.75}
+{"ctx_len": 130554, "pred": ": 2060687, 5595168, 3909968, and 7965133, respectively.<|eot_id|>", "needle": ["2060687", "5595168", "3909968", "7965133"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 1121198, 1262233, 2354300, and 7310431.<|eot_id|>", "needle": ["1121198", "2354300", "1262233", "7310431"], "score": 1.0}
+{"ctx_len": 130545, "pred": "5545782, 8556779, 5014011, and 3400615, respectively.<|eot_id|>", "needle": ["5545782", "8556779", "5014011", "3400615"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 8026061, 2971454, 6053293, and 4953366, respectively.<|eot_id|>", "needle": ["8026061", "2971454", "6053293", "4953366"], "score": 1.0}
+{"ctx_len": 130545, "pred": "8959326, 4250065, 3503452, and 3958222, respectively.<|eot_id|>", "needle": ["8959326", "4250065", "3503452", "3958222"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 3950904, 2751895, 1487633, and 8602555, respectively.<|eot_id|>", "needle": ["2751895", "3950904", "1487633", "8602555"], "score": 1.0}
+{"ctx_len": 130542, "pred": "4821548, 4334495, 2847722, and 6464086, respectively.<|eot_id|>", "needle": ["4821548", "4334495", "2847722", "6464086"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8633480, 4626649, 9127012, and 8312602, respectively.<|eot_id|>", "needle": ["8633480", "4626649", "9127012", "8312602"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 2000789, 4392535, 3134259, and 3290115, respectively.<|eot_id|>", "needle": ["2000789", "4392535", "3134259", "3290115"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7907115, 3851044, 4853765, and 9207638, respectively.<|eot_id|>", "needle": ["7907115", "3851044", "4853765", "9207638"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 6491114, 4731363, 3499296, and 1085187, respectively.<|eot_id|>", "needle": ["6491114", "4731363", "3499296", "1085187"], "score": 1.0}
+{"ctx_len": 130548, "pred": "2394044, 2644153, 1208423, and 9309504, respectively.<|eot_id|>", "needle": ["2394044", "2644153", "1208423", "9309504"], "score": 1.0}
+{"ctx_len": 130566, "pred": "8780612, 8705487, 6114309, and 1409590, respectively.<|eot_id|>", "needle": ["8780612", "1409590", "6114309", "8705487"], "score": 1.0}
+{"ctx_len": 130548, "pred": "8145454, 6585238, 4475340, and 1548852, respectively.<|eot_id|>", "needle": ["8145454", "6585238", "4475340", "1548852"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 1685757, 7147725, 8807325, and 2124172, respectively.<|eot_id|>", "needle": ["1685757", "7147725", "8807325", "2124172"], "score": 1.0}
+{"ctx_len": 130560, "pred": "5485520, 6376490, 8095573, and 4519758, respectively.<|eot_id|>", "needle": ["5485520", "6376490", "8095573", "4519758"], "score": 1.0}
+{"ctx_len": 130563, "pred": "9923876, 9939831, 7176462, and 8582938, respectively.<|eot_id|>", "needle": ["9923876", "9939831", "7176462", "8582938"], "score": 1.0}
+{"ctx_len": 130545, "pred": "3524938, 3482256, 2834838, and 5629550, respectively.<|eot_id|>", "needle": ["3524938", "3482256", "2834838", "5629550"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 4171911, 1360413, 1369713, and 8048611, respectively.<|eot_id|>", "needle": ["4171911", "1369713", "1360413", "8048611"], "score": 1.0}
+{"ctx_len": 130548, "pred": "3213824, 8470161, 6101655, and 9894713, respectively.<|eot_id|>", "needle": ["3213824", "8470161", "6101655", "9894713"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 8649177, 6924385, 3697606, and 9981123, respectively.<|eot_id|>", "needle": ["8649177", "6924385", "3697606", "9981123"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 1581986, 4095339, 3121873, and 5368907, respectively.<|eot_id|>", "needle": ["1581986", "4095339", "3121873", "5368907"], "score": 1.0}
+{"ctx_len": 130560, "pred": "8684648, 9378825, 3618139, and 1418175, respectively.<|eot_id|>", "needle": ["8684648", "9378825", "3618139", "1418175"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3339134, 9035971, 8417300, and 2884343, respectively.<|eot_id|>", "needle": ["3339134", "9035971", "8417300", "2884343"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 2551575, 4274069, 1923311, and 9832094.<|eot_id|>", "needle": ["2551575", "4274069", "1923311", "9832094"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 7057663, 9228643, 7617330, and 9582482.<|eot_id|>", "needle": ["7057663", "9228643", "7617330", "9582482"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8452780, 2469661, 8475525, and 6894759, respectively.<|eot_id|>", "needle": ["8452780", "2469661", "8475525", "6894759"], "score": 1.0}
+{"ctx_len": 130554, "pred": "2444148, 4486033, 8962686, and 6627359, respectively.<|eot_id|>", "needle": ["2444148", "4486033", "8962686", "6627359"], "score": 1.0}
+{"ctx_len": 130554, "pred": "4120669, 3297254, 5856386, and 8753086, respectively.<|eot_id|>", "needle": ["4120669", "3297254", "5856386", "8753086"], "score": 1.0}
+{"ctx_len": 130545, "pred": "1041048, 5826621, 5406989, and 8927925, respectively.<|eot_id|>", "needle": ["1041048", "5826621", "5406989", "8927925"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 7069317, 9061215, 8986637, and 8316015, respectively.<|eot_id|>", "needle": ["7069317", "9061215", "8986637", "8316015"], "score": 1.0}
+{"ctx_len": 130548, "pred": "3739867, 3273269, 6363359, and 5574649, respectively.<|eot_id|>", "needle": ["3739867", "3273269", "6363359", "5574649"], "score": 1.0}
+{"ctx_len": 130551, "pred": "6412444, 4074382, 6051155, and 3804075, respectively.<|eot_id|>", "needle": ["6412444", "4074382", "6051155", "3804075"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 9135255, 2718286, 5721406, and 6709506.<|eot_id|>", "needle": ["9135255", "6709506", "5721406", "2718286"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 9044980, 2281784, 3201710, and 6227335.<|eot_id|>", "needle": ["9044980", "2281784", "3201710", "6227335"], "score": 1.0}
+{"ctx_len": 130557, "pred": "4730545, 3102926, 4801288, and 3388393, respectively.<|eot_id|>", "needle": ["4730545", "3102926", "4801288", "3388393"], "score": 1.0}
+{"ctx_len": 130548, "pred": "1713315, 2808875, 1994305, and 9614751, respectively.<|eot_id|>", "needle": ["1713315", "2808875", "1994305", "9614751"], "score": 1.0}
+{"ctx_len": 130545, "pred": "6897756, 4446060, 2523024, and 4355853, respectively.<|eot_id|>", "needle": ["6897756", "4446060", "2523024", "4355853"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3881880, 4640623, 1234617, and 4213634, respectively.<|eot_id|>", "needle": ["3881880", "4640623", "1234617", "4213634"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 2800606, 6952931, 9627700, and 8115080, respectively.<|eot_id|>", "needle": ["2800606", "6952931", "9627700", "8115080"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 6504863, 1681298, 5836389, and 7060776, respectively.<|eot_id|>", "needle": ["6504863", "1681298", "5836389", "7060776"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7164643, 8180005, 7833061, and 2167847, respectively.<|eot_id|>", "needle": ["7164643", "8180005", "7833061", "2167847"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7623837, 4340115, 2706614, and 2085660, respectively.<|eot_id|>", "needle": ["7623837", "4340115", "2706614", "2085660"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 7785437, 5579723, 8983040, and 7714837.<|eot_id|>", "needle": ["7785437", "5579723", "8983040", "7714837"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2671067, 9342869, 3258353, and 2144687, respectively.<|eot_id|>", "needle": ["2671067", "9342869", "3258353", "2144687"], "score": 1.0}
+{"ctx_len": 130551, "pred": "5925168, 9353359, 9723295, and 8818548, respectively.<|eot_id|>", "needle": ["5925168", "9353359", "9723295", "8818548"], "score": 1.0}
+{"ctx_len": 130551, "pred": "8551685, 8711752, 7313879, and 2998738, respectively.<|eot_id|>", "needle": ["8551685", "8711752", "7313879", "2998738"], "score": 1.0}
+{"ctx_len": 130539, "pred": "7527687, 2835125, 9230125, and 8882244, respectively.<|eot_id|>", "needle": ["7527687", "2835125", "9230125", "8882244"], "score": 1.0}
+{"ctx_len": 130554, "pred": "6376808, 1472228, 7338393, and 6918393, respectively.<|eot_id|>", "needle": ["6376808", "1472228", "7338393", "6918393"], "score": 1.0}
+{"ctx_len": 130557, "pred": "2633262, 6790539, 1947061, and 7911031, respectively.<|eot_id|>", "needle": ["2633262", "6790539", "1947061", "7911031"], "score": 1.0}
+{"ctx_len": 130557, "pred": "1330712, 8732776, 6471332, and 8087921, respectively.<|eot_id|>", "needle": ["1330712", "8732776", "6471332", "8087921"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2639564, 7337385, 7548160, and 2678672, respectively.<|eot_id|>", "needle": ["2639564", "7337385", "7548160", "2678672"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2263679, 4591668, 4384948, and 5448564, respectively.<|eot_id|>", "needle": ["2263679", "4591668", "4384948", "5448564"], "score": 1.0}
+{"ctx_len": 130545, "pred": "9909769, 2128599, 8165647, and 6651204, respectively.<|eot_id|>", "needle": ["9909769", "2128599", "8165647", "6651204"], "score": 1.0}
+{"ctx_len": 130554, "pred": "9660803, 9646460, 4029979, and 7749490, respectively.<|eot_id|>", "needle": ["9660803", "9646460", "4029979", "7749490"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 8759239, 6037789, 4366315, and 5032805.<|eot_id|>", "needle": ["8759239", "6037789", "5032805", "4366315"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 3515949, 4961601, 5001087, and 3694157, respectively.<|eot_id|>", "needle": ["3515949", "4961601", "5001087", "3694157"], "score": 1.0}
+{"ctx_len": 130560, "pred": "5335179, 1620819, 3288926, and 3673591, respectively.<|eot_id|>", "needle": ["5335179", "1620819", "3288926", "3673591"], "score": 1.0}
+{"ctx_len": 130569, "pred": "5999260, 2515088, 7828441, and 3358208, respectively.<|eot_id|>", "needle": ["5999260", "2515088", "7828441", "3358208"], "score": 1.0}
+{"ctx_len": 130554, "pred": "4994266, 7542286, 6524500, and 3051464, respectively.<|eot_id|>", "needle": ["4994266", "7542286", "6524500", "3051464"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 1938272, 2895176, 7851404, and 9950140, respectively.<|eot_id|>", "needle": ["1938272", "2895176", "7851404", "9950140"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 1584005, 1917249, 1353566, and 7169641, respectively.<|eot_id|>", "needle": ["1584005", "1917249", "1353566", "7169641"], "score": 1.0}
+{"ctx_len": 130557, "pred": "7517462, 6048065, 7593035, and 4965830, respectively.<|eot_id|>", "needle": ["7517462", "6048065", "7593035", "4965830"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 5597569, 9249220, 7928341, and 8086125, respectively.<|eot_id|>", "needle": ["5597569", "9249220", "7928341", "8086125"], "score": 1.0}
+{"ctx_len": 130542, "pred": "8439100, 3283248, 1458871, and 4082639, respectively.<|eot_id|>", "needle": ["8439100", "3283248", "1458871", "4082639"], "score": 1.0}
+{"ctx_len": 130554, "pred": "7883963, 3182597, 5187652, and 8574743, respectively.<|eot_id|>", "needle": ["7883963", "3182597", "5187652", "8574743"], "score": 1.0}
+{"ctx_len": 130548, "pred": "1385374, 7167297, 7601736, and 4766269, respectively.<|eot_id|>", "needle": ["1385374", "7167297", "7601736", "4766269"], "score": 1.0}
+{"ctx_len": 130551, "pred": "7728249, 5364723, 8195804, and 2494200, respectively.<|eot_id|>", "needle": ["7728249", "5364723", "8195804", "2494200"], "score": 1.0}
+{"ctx_len": 130551, "pred": "5466142, 9290445, 4408213, and 4766215, respectively.<|eot_id|>", "needle": ["5466142", "9290445", "4408213", "4766215"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 4026104, 5868629, 3448514, and 4176986, respectively.<|eot_id|>", "needle": ["4026104", "5868629", "3448514", "4176986"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": 8866528, 4560421, 7669861, and 6423167, respectively.<|eot_id|>", "needle": ["8866528", "4560421", "7669861", "6423167"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": 5255656, 1763562, 6944195, and 4939985, respectively.<|eot_id|>", "needle": ["5255656", "1763562", "6944195", "4939985"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3849886, 9268480, 1689962, and 9268480, respectively.<|eot_id|>", "needle": ["3849886", "9268480", "4009366", "1689962"], "score": 0.75}
+{"ctx_len": 130548, "pred": "9375364, 7049733, 1740918, and 2960284, respectively.<|eot_id|>", "needle": ["9375364", "7049733", "1740918", "2960284"], "score": 1.0}
+{"ctx_len": 130554, "pred": "6293931, 3537801, 8381800, and 4169550, respectively.<|eot_id|>", "needle": ["6293931", "3537801", "8381800", "4169550"], "score": 1.0}
+{"ctx_len": 130539, "pred": ": 2946560, 8837188, 6981414, and 1684371, respectively.<|eot_id|>", "needle": ["2946560", "8837188", "6981414", "1684371"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3823521, 4563416, 5766683, and 5576682, respectively.<|eot_id|>", "needle": ["3823521", "4563416", "5766683", "5576682"], "score": 1.0}
+{"ctx_len": 130551, "pred": "2582179, 7267268, 1435572, and 3046668, respectively.<|eot_id|>", "needle": ["2582179", "7267268", "1435572", "3046668"], "score": 1.0}
+{"ctx_len": 130560, "pred": "5518413, 1735630, 1097397, and 8601790, respectively.<|eot_id|>", "needle": ["5518413", "1735630", "1097397", "8601790"], "score": 1.0}
+{"ctx_len": 130551, "pred": "7398678, 2186553, 3986525, and 7691735, respectively.<|eot_id|>", "needle": ["7398678", "2186553", "3986525", "7691735"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8253770, 6202636, 3585950, and 6008781, respectively.<|eot_id|>", "needle": ["8253770", "6202636", "3585950", "6008781"], "score": 1.0}
+{"ctx_len": 130548, "pred": "8088983, 7511061, 8097946, and 5504336, respectively.<|eot_id|>", "needle": ["8088983", "7511061", "8097946", "5504336"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": 4761958, 3601637, 9846268, and 9802632, respectively.<|eot_id|>", "needle": ["4761958", "3601637", "9846268", "9802632"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": 6040020, 5957359, 9776028, and 1800747.<|eot_id|>", "needle": ["6040020", "5957359", "9776028", "1800747"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 5251016, 8795642, 2371865, and 5275844, respectively.<|eot_id|>", "needle": ["5251016", "8795642", "2371865", "5275844"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 5993696, 7983542, 8633602, and 8548873, respectively.<|eot_id|>", "needle": ["5993696", "7983542", "8633602", "8548873"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 2957536, 1098097, 9965341, and 2783932, respectively.<|eot_id|>", "needle": ["2957536", "1098097", "9965341", "2783932"], "score": 1.0}
+{"ctx_len": 130545, "pred": "7626953, 7052024, 2470273, and 3266835, respectively.<|eot_id|>", "needle": ["7626953", "7052024", "2470273", "3266835"], "score": 1.0}
+{"ctx_len": 130557, "pred": "3435283, 6048564, 4203013, and 5056398, respectively.<|eot_id|>", "needle": ["3435283", "6048564", "4203013", "5056398"], "score": 1.0}
+{"ctx_len": 130557, "pred": "8470322, 8910276, 5070650, and 8541631, respectively.<|eot_id|>", "needle": ["8470322", "8910276", "5070650", "8541631"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 9178834, 8244199, 5878387, and 9316519, respectively.<|eot_id|>", "needle": ["9178834", "8244199", "5878387", "9316519"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 2961940, 6299086, 7998405, and 2065530.<|eot_id|>", "needle": ["2961940", "6299086", "7998405", "2065530"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 6768801, 4685993, 4894044, and 4224602.<|eot_id|>", "needle": ["6768801", "4685993", "4894044", "4224602"], "score": 1.0}
+{"ctx_len": 130551, "pred": "3718341, 4476383, 2446060, and 7044085, respectively.<|eot_id|>", "needle": ["3718341", "4476383", "2446060", "7044085"], "score": 1.0}
+{"ctx_len": 130548, "pred": "9283332, 7019442, 4937929, and 1789356, respectively.<|eot_id|>", "needle": ["9283332", "7019442", "4937929", "1789356"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 4803231, 5325537, 6959954, and 4759700.<|eot_id|>", "needle": ["4803231", "5325537", "6959954", "4759700"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": 2709062, 1704130, 2768504, and 2861110, respectively.<|eot_id|>", "needle": ["2709062", "1704130", "2768504", "2861110"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 9361613, 3311438, 2665880, and 7102492, respectively.<|eot_id|>", "needle": ["9361613", "3311438", "2665880", "7102492"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 7962689, 9472875, 7248445, and 2429986.<|eot_id|>", "needle": ["7962689", "9472875", "7248445", "2429986"], "score": 1.0}
+{"ctx_len": 130545, "pred": "7867070, 9659648, 7069566, and 8425238, respectively.<|eot_id|>", "needle": ["7867070", "9659648", "7069566", "8425238"], "score": 1.0}
+{"ctx_len": 130545, "pred": "3532555, 1969887, 7597913, and 8282524, respectively.<|eot_id|>", "needle": ["3532555", "1969887", "7597913", "8282524"], "score": 1.0}
+{"ctx_len": 130551, "pred": "4441570, 5693941, 3463932, and 7776956, respectively.<|eot_id|>", "needle": ["4441570", "5693941", "3463932", "7776956"], "score": 1.0}
+{"ctx_len": 130551, "pred": "5763519, 2557253, 6611860, and 3114023, respectively.<|eot_id|>", "needle": ["5763519", "2557253", "6611860", "3114023"], "score": 1.0}
+{"ctx_len": 130548, "pred": "8092498, 5340101, 2852907, and 6099302, respectively.<|eot_id|>", "needle": ["8092498", "5340101", "2852907", "6099302"], "score": 1.0}
+{"ctx_len": 130548, "pred": "6687145, 9947098, 5998957, and 1087466, respectively.<|eot_id|>", "needle": ["6687145", "9947098", "5998957", "1087466"], "score": 1.0}
+{"ctx_len": 130539, "pred": "5154597, 8622050, 4230541, and 6500359, respectively.<|eot_id|>", "needle": ["5154597", "8622050", "4230541", "6500359"], "score": 1.0}
+{"ctx_len": 130542, "pred": "9829103, 8485391, 7195728, and 8990200, respectively.<|eot_id|>", "needle": ["9829103", "8485391", "7195728", "8990200"], "score": 1.0}
+{"ctx_len": 130545, "pred": "9213136, 3421727, 3132786, and 7994796, respectively.<|eot_id|>", "needle": ["9213136", "3421727", "3132786", "7994796"], "score": 1.0}
+{"ctx_len": 130548, "pred": "7196363, 1547061, 3027802, and 7855503, respectively.<|eot_id|>", "needle": ["7196363", "1547061", "3027802", "7855503"], "score": 1.0}
+{"ctx_len": 130548, "pred": "9152477, 3396950, 8075907, and 6087859, respectively.<|eot_id|>", "needle": ["9152477", "3396950", "8075907", "6087859"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 6195935, 9072800, 1749647, and 6849358.<|eot_id|>", "needle": ["6195935", "9072800", "6849358", "1749647"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 8733225, 6456223, 8534223, and 7872422.<|eot_id|>", "needle": ["8733225", "6456223", "8534223", "7872422"], "score": 1.0}
+{"ctx_len": 130557, "pred": "2485285, 6181610, 3076710, and 1416143, respectively.<|eot_id|>", "needle": ["2485285", "6181610", "3076710", "1416143"], "score": 1.0}
+{"ctx_len": 130560, "pred": "1318323, 9923120, 1313131, and 4452834, respectively.<|eot_id|>", "needle": ["1318323", "9923120", "1313131", "4452834"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 6703524, 1403608, 6324793, and 4028421, respectively.<|eot_id|>", "needle": ["6703524", "1403608", "6324793", "4028421"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 4064676, 6147152, 3838554, and 2503717, respectively.<|eot_id|>", "needle": ["4064676", "6147152", "3838554", "2503717"], "score": 1.0}
+{"ctx_len": 130551, "pred": "3390091, 7300065, 6439471, and 2656653, respectively.<|eot_id|>", "needle": ["3390091", "7300065", "6439471", "2656653"], "score": 1.0}
+{"ctx_len": 130569, "pred": ": 2017235, 9123050, 7829609, and 8798444.<|eot_id|>", "needle": ["2017235", "9123050", "7829609", "8798444"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 3388522, 9395862, 2407748, and 7824064, respectively.<|eot_id|>", "needle": ["3388522", "9395862", "2407748", "7824064"], "score": 1.0}
+{"ctx_len": 130551, "pred": "2009569, 5852800, 8795567, and 3808198, respectively.<|eot_id|>", "needle": ["2009569", "5852800", "8795567", "3808198"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 2173318, 2505169, 3063211, and 3708116, respectively.<|eot_id|>", "needle": ["2173318", "2505169", "3063211", "3708116"], "score": 1.0}
+{"ctx_len": 130563, "pred": "5125991, 5384902, 6396194, and 8595349, respectively.<|eot_id|>", "needle": ["5125991", "5384902", "6396194", "8595349"], "score": 1.0}
+{"ctx_len": 130560, "pred": "8994829, 3911451, 1160702, and 9203667, respectively.<|eot_id|>", "needle": ["8994829", "3911451", "1160702", "9203667"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 1141455, 7314548, 3972698, and 7005668.<|eot_id|>", "needle": ["1141455", "7314548", "3972698", "7005668"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 6086491, 2509387, 7003240, and 4710242.<|eot_id|>", "needle": ["6086491", "2509387", "7003240", "4710242"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 5653119, 7645223, 9394071, and 3860131.<|eot_id|>", "needle": ["5653119", "7645223", "9394071", "3860131"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": * 1387847 (empty-chronicle) * 5355775 (cuddly-lotion) * 4824620 (skillful-knowledge) * 5602459 (red-opinion)<|eot_id|>", "needle": ["1387847", "5355775", "4824620", "5602459"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 8256954, 5597554, 9695551, and 9314364.<|eot_id|>", "needle": ["8256954", "5597554", "9695551", "9314364"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 2372525, 1086558, 1425670, and 4264982.<|eot_id|>", "needle": ["4264982", "1086558", "1425670", "2372525"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 9052500, 6608665, 2622794, and 1403047, respectively.<|eot_id|>", "needle": ["9052500", "6608665", "2622794", "1403047"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 8490291, 3094239, 4971899, and 8357303.<|eot_id|>", "needle": ["8490291", "3094239", "4971899", "8357303"], "score": 1.0}
+{"ctx_len": 130548, "pred": "2708383, 8414160, 6057845, and 8245056, respectively.<|eot_id|>", "needle": ["2708383", "8414160", "6057845", "8245056"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8182422, 2699161, 1177948, and 7441109, respectively.<|eot_id|>", "needle": ["8182422", "2699161", "1177948", "7441109"], "score": 1.0}
+{"ctx_len": 130551, "pred": "3113620, 4248312, 2133208, and 1206168, respectively.<|eot_id|>", "needle": ["3113620", "4248312", "2133208", "1206168"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 2014873, 3309764, 8312318, and 6228902, respectively.<|eot_id|>", "needle": ["2014873", "3309764", "8312318", "6228902"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 6752912, 7187940, 9685239, and 3425991, respectively.<|eot_id|>", "needle": ["6752912", "7187940", "9685239", "3425991"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 8981342, 8841710, 6730290, and 4376603, respectively.<|eot_id|>", "needle": ["8981342", "8841710", "6730290", "4376603"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8621924, 1062026, 9320336, and 3722606, respectively.<|eot_id|>", "needle": ["8621924", "1062026", "9320336", "3722606"], "score": 1.0}
+{"ctx_len": 130545, "pred": "1165961, 1112833, 7716130, and 7004341, respectively.<|eot_id|>", "needle": ["1165961", "1112833", "7716130", "7004341"], "score": 1.0}
+{"ctx_len": 130542, "pred": "4318952, 1498041, 3921695, and 5395611, respectively.<|eot_id|>", "needle": ["4318952", "1498041", "3921695", "5395611"], "score": 1.0}
+{"ctx_len": 130557, "pred": "2861751, 4527197, 2697690, and 3302564, respectively.<|eot_id|>", "needle": ["2861751", "4527197", "2697690", "3302564"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 9934785, 4181650, 2096852, and 3423170, respectively.<|eot_id|>", "needle": ["9934785", "4181650", "2096852", "3423170"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 1893537, 4172607, 6497568, and 5935567, respectively.<|eot_id|>", "needle": ["1893537", "4172607", "6497568", "5935567"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 9542262, 9364914, 9533123, and 2088389, respectively.<|eot_id|>", "needle": ["9542262", "9364914", "9533123", "2088389"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 7726758, 4683039, 1614121, and 5501921, respectively.<|eot_id|>", "needle": ["7726758", "4683039", "1614121", "5501921"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 2422018, 5270292, 3637534, and 2409758, respectively.<|eot_id|>", "needle": ["5270292", "2422018", "3637534", "2409758"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 6643418, 7165827, 8569061, and 8256240, respectively.<|eot_id|>", "needle": ["6643418", "7165827", "8569061", "8256240"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 2273196, 2382753, 2311290, and 9418218.<|eot_id|>", "needle": ["2273196", "2382753", "2311290", "9418218"], "score": 1.0}
+{"ctx_len": 130551, "pred": "6078724, 4299177, 6523752, and 5604751, respectively.<|eot_id|>", "needle": ["6078724", "4299177", "6523752", "5604751"], "score": 1.0}
+{"ctx_len": 130557, "pred": "7669032, 9600788, 1199493, and 7774826, respectively.<|eot_id|>", "needle": ["7669032", "9600788", "1199493", "7774826"], "score": 1.0}
+{"ctx_len": 130551, "pred": "8193952, 8007639, 6252524, and 8359842, respectively.<|eot_id|>", "needle": ["8193952", "8007639", "6252524", "8359842"], "score": 1.0}
+{"ctx_len": 130557, "pred": "9385256, 4783105, 8142385, and 6950248, respectively.<|eot_id|>", "needle": ["9385256", "4783105", "8142385", "6950248"], "score": 1.0}
+{"ctx_len": 130548, "pred": "6540684, 7557976, 4425984, and 2068863, respectively.<|eot_id|>", "needle": ["6540684", "7557976", "4425984", "2068863"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3980239, 3876011, 4132173, and 9197571, respectively.<|eot_id|>", "needle": ["3980239", "3876011", "4132173", "9197571"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 7893107, 9699518, 3882757, and 1963904.<|eot_id|>", "needle": ["7893107", "9699518", "1963904", "3882757"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 8965487, 3179901, 6206200, and 6196863, respectively.<|eot_id|>", "needle": ["8965487", "3179901", "6206200", "6196863"], "score": 1.0}
+{"ctx_len": 130557, "pred": "6517883, 9236918, 5141290, and 2073239, respectively.<|eot_id|>", "needle": ["6517883", "9236918", "5141290", "2073239"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": 5990361, 8249042, 3938131, and 5179788.<|eot_id|>", "needle": ["5990361", "3938131", "8249042", "5179788"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 2119776, 5593203, 4644931, and 5897094, respectively.<|eot_id|>", "needle": ["2119776", "5593203", "4644931", "5897094"], "score": 1.0}
+{"ctx_len": 130554, "pred": "9490354, 8753883, 5240720, and 8565450, respectively.<|eot_id|>", "needle": ["9490354", "8753883", "5240720", "8565450"], "score": 1.0}
+{"ctx_len": 130551, "pred": "5204466, 3289764, 8788747, and 1633753, respectively.<|eot_id|>", "needle": ["5204466", "3289764", "8788747", "1633753"], "score": 1.0}
+{"ctx_len": 130551, "pred": "5683223, 2686363, 5934928, and 3862010, respectively.<|eot_id|>", "needle": ["5683223", "2686363", "5934928", "3862010"], "score": 1.0}
+{"ctx_len": 130569, "pred": "8393014, 3985341, 1577888, and 9930492, respectively.<|eot_id|>", "needle": ["8393014", "3985341", "1577888", "9930492"], "score": 1.0}
+{"ctx_len": 130551, "pred": "1078278, 5002042, 7331646, and 5189267, respectively.<|eot_id|>", "needle": ["1078278", "5002042", "7331646", "5189267"], "score": 1.0}
+{"ctx_len": 130545, "pred": "3816607, 2620732, 2059841, and 3802587, respectively.<|eot_id|>", "needle": ["3816607", "2620732", "2059841", "3802587"], "score": 1.0}
+{"ctx_len": 130557, "pred": "4586633, 7628072, 3026754, and 6982358, respectively.<|eot_id|>", "needle": ["4586633", "7628072", "3026754", "6982358"], "score": 1.0}
+{"ctx_len": 130554, "pred": "2129631, 4692601, 7190456, and 5671743, respectively.<|eot_id|>", "needle": ["2129631", "4692601", "7190456", "5671743"], "score": 1.0}
+{"ctx_len": 130551, "pred": "6441761, 3230219, 7519046, and 3941566, respectively.<|eot_id|>", "needle": ["6441761", "3230219", "7519046", "3941566"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 4899452, 3081317, 1355901, and 1222997, respectively.<|eot_id|>", "needle": ["4899452", "3081317", "1355901", "1222997"], "score": 1.0}
+{"ctx_len": 130557, "pred": "3544610, 1635969, 4429016, and 5976369, respectively.<|eot_id|>", "needle": ["3544610", "1635969", "4429016", "5976369"], "score": 1.0}
+{"ctx_len": 130560, "pred": "7960756, 4842150, 6557792, and 5839473, respectively.<|eot_id|>", "needle": ["7960756", "4842150", "6557792", "5839473"], "score": 1.0}
+{"ctx_len": 130548, "pred": "6396173, 7400271, 8421584, and 1101379, respectively.<|eot_id|>", "needle": ["6396173", "7400271", "8421584", "1101379"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 8836205, 4428815, 8151117, and 9513171, respectively.<|eot_id|>", "needle": ["8836205", "4428815", "8151117", "9513171"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 7032783, 4378948, 9072704, and 8520742.<|eot_id|>", "needle": ["7032783", "4378948", "9072704", "8520742"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 3563536, 8170536, 6037049, and 1332374.<|eot_id|>", "needle": ["3563536", "8170536", "6037049", "1332374"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 3595845, 6590741, 9067229, and 8872850.<|eot_id|>", "needle": ["3595845", "6590741", "8872850", "9067229"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 6164208, 1651407, 2195114, and 7443078, respectively.<|eot_id|>", "needle": ["6164208", "1651407", "2195114", "7443078"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 1968122, 7464817, 9197714, and 7177044.<|eot_id|>", "needle": ["1968122", "7464817", "9197714", "7177044"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3708302, 5150931, 8641531, and 3472414, respectively.<|eot_id|>", "needle": ["3708302", "5150931", "8641531", "3472414"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3782058, 9945633, 5242475, and 6070402, respectively.<|eot_id|>", "needle": ["3782058", "9945633", "5242475", "6070402"], "score": 1.0}
+{"ctx_len": 130551, "pred": "1026484, 3825261, 6169066, and 4515255, respectively.<|eot_id|>", "needle": ["1026484", "3825261", "6169066", "4515255"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 4127273, 3959522, 3253718, and 9161633, respectively.<|eot_id|>", "needle": ["4127273", "3959522", "3253718", "9161633"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": 2831995, 4219293, 7858398, and 3787134, respectively.<|eot_id|>", "needle": ["2831995", "4219293", "7858398", "3787134"], "score": 1.0}
+{"ctx_len": 130554, "pred": "4938956, 2024357, 2691296, and 9140210, respectively.<|eot_id|>", "needle": ["4938956", "2024357", "2691296", "9140210"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 6654424, 8205036, 9725395, and 9152488.<|eot_id|>", "needle": ["6654424", "8205036", "9152488", "9725395"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 1051752, 7741225, 6540763, and 1960353.<|eot_id|>", "needle": ["1051752", "7741225", "1960353", "6540763"], "score": 1.0}
+{"ctx_len": 130563, "pred": "6405343, 8972523, 7931114, and 4153025, respectively.<|eot_id|>", "needle": ["6405343", "8972523", "7931114", "4153025"], "score": 1.0}
+{"ctx_len": 130542, "pred": "2365149, 7456854, 8179243, and 2685367, respectively.<|eot_id|>", "needle": ["2365149", "7456854", "8179243", "2685367"], "score": 1.0}
+{"ctx_len": 130557, "pred": "8831655, 8487448, 9089445, and 5041658, respectively.<|eot_id|>", "needle": ["8831655", "8487448", "5041658", "9089445"], "score": 1.0}
+{"ctx_len": 130560, "pred": ": 7433891, 5322289, 4697296, and 8991026, respectively.<|eot_id|>", "needle": ["7433891", "5322289", "4697296", "8991026"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 2084932, 8331010, 6758373, and 7403032, respectively.<|eot_id|>", "needle": ["2084932", "8331010", "7403032", "6758373"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 7169603, 1028160, 6257514, and 4156740, respectively.<|eot_id|>", "needle": ["7169603", "1028160", "6257514", "4156740"], "score": 1.0}
+{"ctx_len": 130539, "pred": ": 8727632, 4726916, 7632241, and 3119085, respectively.<|eot_id|>", "needle": ["8727632", "7632241", "4726916", "3119085"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 1576194, 9428504, 6371047, and 5754542, respectively.<|eot_id|>", "needle": ["1576194", "9428504", "6371047", "5754542"], "score": 1.0}
+{"ctx_len": 130548, "pred": "4533501, 6589238, 1881916, and 4776077, respectively.<|eot_id|>", "needle": ["4533501", "6589238", "1881916", "4776077"], "score": 1.0}
+{"ctx_len": 130554, "pred": "8942696, 5748621, 7565976, and 2204993, respectively.<|eot_id|>", "needle": ["8942696", "5748621", "7565976", "2204993"], "score": 1.0}
+{"ctx_len": 130551, "pred": "6101515, 3746337, 9094028, and 3307889, respectively.<|eot_id|>", "needle": ["6101515", "3746337", "9094028", "3307889"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2611413, 8950315, 3822312, and 8165734, respectively.<|eot_id|>", "needle": ["2611413", "8950315", "3822312", "8165734"], "score": 1.0}
+{"ctx_len": 130560, "pred": "7777894, 1570305, 5040883, and 9197782, respectively.<|eot_id|>", "needle": ["7777894", "1570305", "5040883", "9197782"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3047685, 2956687, 8467845, and 1194656.<|eot_id|>", "needle": ["3047685", "1194656", "8467845", "2956687"], "score": 1.0}
+{"ctx_len": 130560, "pred": "9123384, 8275548, 3101118, and 6456436, respectively.<|eot_id|>", "needle": ["9123384", "8275548", "3101118", "6456436"], "score": 1.0}
+{"ctx_len": 130566, "pred": ": 2968404, 4018851, 3081873, and 8503322.<|eot_id|>", "needle": ["2968404", "4018851", "3081873", "8503322"], "score": 1.0}
+{"ctx_len": 130554, "pred": "2419525, 7099518, 5307726, and 9491759, respectively.<|eot_id|>", "needle": ["2419525", "7099518", "5307726", "9491759"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3346378, 9228265, 9960751, and 6250195, respectively.<|eot_id|>", "needle": ["3346378", "9228265", "9960751", "6250195"], "score": 1.0}
+{"ctx_len": 130551, "pred": "4624549, 1616293, 3376783, and 4610673, respectively.<|eot_id|>", "needle": ["4624549", "1616293", "3376783", "4610673"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 5264422, 8136077, 3740044, and 8651547, respectively.<|eot_id|>", "needle": ["5264422", "8136077", "3740044", "8651547"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 9580328, 3752186, 8275056, and 3575158, respectively.<|eot_id|>", "needle": ["9580328", "3752186", "8275056", "3575158"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 7824657, 6525702, 6595492, and 2492738, respectively.<|eot_id|>", "needle": ["7824657", "6525702", "6595492", "2492738"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 6143048, 9214437, 9832796, and 3072044, respectively.<|eot_id|>", "needle": ["6143048", "9214437", "9832796", "3072044"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 7535788, 9920146, 3864666, and 6791040, respectively.<|eot_id|>", "needle": ["7535788", "9920146", "3864666", "6791040"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 5485722, 7210098, 7355222, and 3120109, respectively.<|eot_id|>", "needle": ["7355220", "7210098", "5485722", "3120109"], "score": 0.75}
+{"ctx_len": 130557, "pred": ": 5812035, 2458649, 4838024, and 8176707, respectively.<|eot_id|>", "needle": ["5812035", "2458649", "4838024", "8176707"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 1963205, 5795781, 8113264, and 9268659, respectively.<|eot_id|>", "needle": ["1963205", "5795781", "8113264", "9268659"], "score": 1.0}
+{"ctx_len": 130551, "pred": "9964482, 8129962, 5097436, and 9860239, respectively.<|eot_id|>", "needle": ["9964482", "8129962", "5097436", "9860239"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": 9618195, 1854070, 9313242, and 3860246.<|eot_id|>", "needle": ["9618195", "1854070", "9313242", "3860246"], "score": 1.0}
+{"ctx_len": 130557, "pred": "6114027, 5441781, 1037485, and 7603872, respectively.<|eot_id|>", "needle": ["6114027", "5441781", "1037485", "7603872"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 8723456, 6005493, 2797914, and 6867356, respectively.<|eot_id|>", "needle": ["8723456", "6005493", "2797914", "6867356"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 1115938, 3578837, 9876767, and 9876767, respectively.<|eot_id|>", "needle": ["1115938", "3578837", "3077734", "9876767"], "score": 0.75}
+{"ctx_len": 130548, "pred": "4056507, 5521152, 8371182, and 8358018, respectively.<|eot_id|>", "needle": ["4056507", "5521152", "8371182", "8358018"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": 5779824, 3242783, 8064143, and 1530269.<|eot_id|>", "needle": ["5779824", "3242783", "8064143", "1530269"], "score": 1.0}
+{"ctx_len": 130545, "pred": "7523795, 2841010, 3137987, and 7708806, respectively.<|eot_id|>", "needle": ["7523795", "2841010", "3137987", "7708806"], "score": 1.0}
+{"ctx_len": 130569, "pred": ": 1134702, 9056301, 6740173, and 5734922, respectively.<|eot_id|>", "needle": ["1134702", "9056301", "6740173", "5734922"], "score": 1.0}
+{"ctx_len": 130563, "pred": "5149917, 8200092, 2929715, and 8950602, respectively.<|eot_id|>", "needle": ["5149917", "8200092", "2929715", "8950602"], "score": 1.0}
+{"ctx_len": 130560, "pred": "3219555, 1643681, 4224201, and 8152177, respectively.<|eot_id|>", "needle": ["3219555", "1643681", "4224201", "8152177"], "score": 1.0}
+{"ctx_len": 130554, "pred": "9039562, 6640128, 9554093, and 4882711, respectively.<|eot_id|>", "needle": ["9039562", "6640128", "9554093", "4882711"], "score": 1.0}
+{"ctx_len": 130545, "pred": "1008991, 6366039, 8014121, and 4049286, respectively.<|eot_id|>", "needle": ["1008991", "6366039", "8014121", "4049286"], "score": 1.0}
+{"ctx_len": 130557, "pred": "6106258, 2625497, 7099881, and 5232271, respectively.<|eot_id|>", "needle": ["6106258", "2625497", "7099881", "5232271"], "score": 1.0}
+{"ctx_len": 130545, "pred": "5629621, 3019210, 7443279, and 2784517, respectively.<|eot_id|>", "needle": ["5629621", "3019210", "7443279", "2784517"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 3578194, 9951610, 3144664, and 8955730, respectively.<|eot_id|>", "needle": ["3578194", "9951610", "3144664", "8955730"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 2135960, 9453526, 3800706, and 8029723.<|eot_id|>", "needle": ["2135960", "9453526", "3800706", "8029723"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 2258048, 9305156, 8344141, and 9933361.<|eot_id|>", "needle": ["2258048", "9305156", "8344141", "9933361"], "score": 1.0}
+{"ctx_len": 130548, "pred": "8641031, 9809266, 4654207, and 1148668, respectively.<|eot_id|>", "needle": ["8641031", "9809266", "4654207", "1148668"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 4996614, 1655832, 1765250, and 3485367, respectively.<|eot_id|>", "needle": ["4996614", "1655832", "1765250", "3485367"], "score": 1.0}
+{"ctx_len": 130557, "pred": ": 2396638, 6829443, 5429825, and 7192640, respectively.<|eot_id|>", "needle": ["2396638", "6829443", "5429825", "7192640"], "score": 1.0}
+{"ctx_len": 130542, "pred": "7408577, 5692416, 5294752, and 2785812, respectively.<|eot_id|>", "needle": ["7408577", "5692416", "5294752", "2785812"], "score": 1.0}
+{"ctx_len": 130539, "pred": "3488634, 7634775, 8279693, and 8483576, respectively.<|eot_id|>", "needle": ["3488634", "7634775", "8279693", "8483576"], "score": 1.0}
+{"ctx_len": 130551, "pred": "4026721, 9229532, 5731917, and 6203625, respectively.<|eot_id|>", "needle": ["4026721", "9229532", "5731917", "6203625"], "score": 1.0}
+{"ctx_len": 130557, "pred": "5114676, 1197778, 9837877, and 7752901, respectively.<|eot_id|>", "needle": ["5114676", "1197778", "9837877", "7752901"], "score": 1.0}
+{"ctx_len": 130548, "pred": "3393028, 2784071, 1226440, and 2402500, respectively.<|eot_id|>", "needle": ["3393028", "2784071", "1226440", "2402500"], "score": 1.0}
+{"ctx_len": 130542, "pred": "6565947, 1937435, 3592303, and 5487177, respectively.<|eot_id|>", "needle": ["6565947", "1937435", "3592303", "5487177"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 1402667, 1020307, 8166143, and 7967320.<|eot_id|>", "needle": ["1020307", "1402667", "8166143", "7967320"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 3844728, 2279932, 5728058, and 4766861, respectively.<|eot_id|>", "needle": ["3844728", "2279932", "5728058", "4766861"], "score": 1.0}
+{"ctx_len": 130536, "pred": ": 8134419, 4042807, 6059400, and 9899988, respectively.<|eot_id|>", "needle": ["8134419", "4042807", "6059400", "9899988"], "score": 1.0}
+{"ctx_len": 130551, "pred": "2281267, 3459356, 3493814, and 3479340, respectively.<|eot_id|>", "needle": ["2281267", "3459356", "3493814", "3479340"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 7459520, 2517449, 6357229, and 3139694, respectively.<|eot_id|>", "needle": ["7459520", "2517449", "6357229", "3139694"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 9955185, 9933438, 9339992, and 4860680, respectively.<|eot_id|>", "needle": ["9955185", "9933438", "9339992", "4860680"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 8951164, 1287807, 1048085, and 2848116, respectively.<|eot_id|>", "needle": ["8951164", "1287807", "1048085", "2848116"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 4535586, 2966890, 3400426, and 1937270.<|eot_id|>", "needle": ["4535586", "2966890", "3400426", "1937270"], "score": 1.0}
+{"ctx_len": 130545, "pred": "3464349, 3653705, 5111186, and 3370243, respectively.<|eot_id|>", "needle": ["3464349", "3653705", "5111186", "3370243"], "score": 1.0}
+{"ctx_len": 130563, "pred": "6024905, 6659575, 7904201, and 1221617, respectively.<|eot_id|>", "needle": ["6024905", "6659575", "1221617", "7904201"], "score": 1.0}
+{"ctx_len": 130542, "pred": "5329433, 7650332, 8621830, and 9420022, respectively.<|eot_id|>", "needle": ["5329433", "7650332", "8621830", "9420022"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 2295356, 7717637, 7581550, and 1939470.<|eot_id|>", "needle": ["2295356", "7717637", "7581550", "1939470"], "score": 1.0}
+{"ctx_len": 130557, "pred": "2751542, 8117262, 7085123, and 5528498, respectively.<|eot_id|>", "needle": ["2751542", "8117262", "7085123", "5528498"], "score": 1.0}
+{"ctx_len": 130542, "pred": "1184163, 4384399, 4149818, and 1543024, respectively.<|eot_id|>", "needle": ["1184163", "4384399", "4149818", "1543024"], "score": 1.0}
+{"ctx_len": 130554, "pred": "6983579, 6277781, 7679620, and 6177530, respectively.<|eot_id|>", "needle": ["6983579", "6277781", "7679620", "6177530"], "score": 1.0}
+{"ctx_len": 130551, "pred": "9425133, 9448643, 7410771, and 1397373, respectively.<|eot_id|>", "needle": ["9425133", "9448643", "7410771", "1397373"], "score": 1.0}
+{"ctx_len": 130572, "pred": ": 3701920, 2565160, 4885101, and 3363282.<|eot_id|>", "needle": ["3701920", "2565160", "4885101", "3363282"], "score": 1.0}
+{"ctx_len": 130557, "pred": "8229326, 2258262, 7503423, and 4503428, respectively.<|eot_id|>", "needle": ["8229326", "2258262", "7503423", "4503428"], "score": 1.0}
+{"ctx_len": 130557, "pred": "2578970, 2143565, 5959482, and 6263326, respectively.<|eot_id|>", "needle": ["2578970", "2143565", "5959482", "6263326"], "score": 1.0}
+{"ctx_len": 130557, "pred": "9191626, 3356313, 8940001, and 8416290, respectively.<|eot_id|>", "needle": ["9191626", "3356313", "8940001", "8416290"], "score": 1.0}
+{"ctx_len": 130545, "pred": "9597975, 2400738, 7932248, and 6262096, respectively.<|eot_id|>", "needle": ["9597975", "2400738", "7932248", "6262096"], "score": 1.0}
+{"ctx_len": 130557, "pred": "4742179, 7305241, 7698813, and 2766607, respectively.<|eot_id|>", "needle": ["4742179", "7305241", "7698813", "2766607"], "score": 1.0}
+{"ctx_len": 130545, "pred": "7736395, 4024485, 2817783, and 8266453, respectively.<|eot_id|>", "needle": ["7736395", "4024485", "2817783", "8266453"], "score": 1.0}
+{"ctx_len": 130542, "pred": "4581434, 8626564, 3612902, and 3441316, respectively.<|eot_id|>", "needle": ["4581434", "8626564", "3612902", "3441316"], "score": 1.0}
+{"ctx_len": 130548, "pred": "8095426, 4548261, 4580607, and 5229054, respectively.<|eot_id|>", "needle": ["8095426", "4548261", "4580607", "5229054"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 8573586, 9804312, 1901645, and 5352802.<|eot_id|>", "needle": ["9804312", "8573586", "1901645", "5352802"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 8977556, 8328019, 3695916, and 7528651.<|eot_id|>", "needle": ["8977556", "8328019", "7528651", "3695916"], "score": 1.0}
+{"ctx_len": 130545, "pred": "6310245, 3525076, 6308442, and 3474414, respectively.<|eot_id|>", "needle": ["6310245", "3525076", "6308442", "3474414"], "score": 1.0}
+{"ctx_len": 130545, "pred": "4667881, 2634873, 8049385, and 3786712, respectively.<|eot_id|>", "needle": ["4667881", "2634873", "8049385", "3786712"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": 9374022, 3092879, 6150025, and 1271644, respectively.<|eot_id|>", "needle": ["9374022", "3092879", "6150025", "1271644"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 8697782, 8312788, 3728933, and 7259939, respectively.<|eot_id|>", "needle": ["8697782", "8312788", "3728933", "7259939"], "score": 1.0}
+{"ctx_len": 130554, "pred": "9328292, 7900127, 1275590, and 2672723, respectively.<|eot_id|>", "needle": ["9328292", "7900127", "1275590", "2672723"], "score": 1.0}
+{"ctx_len": 130554, "pred": "3087766, 4280956, 8783741, and 7393458, respectively.<|eot_id|>", "needle": ["4280956", "3087766", "8783741", "7393458"], "score": 1.0}
+{"ctx_len": 130557, "pred": "5052611, 7955106, 7957788, and 5437558, respectively.<|eot_id|>", "needle": ["5052611", "7955106", "7957788", "5437558"], "score": 1.0}
+{"ctx_len": 130554, "pred": "7598776, 8199144, 8214533, and 7565971, respectively.<|eot_id|>", "needle": ["7598776", "8199144", "8214533", "7565971"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 3119470, 2670640, 2985964, and 7576872, respectively.<|eot_id|>", "needle": ["3119470", "2670640", "2985964", "7576872"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 3567729, 1193577, 2321583, and 7415688.<|eot_id|>", "needle": ["3567729", "1193577", "2321583", "7415688"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 9982810, 7343582, 1868201, and 2391894.<|eot_id|>", "needle": ["9982810", "7343582", "2391894", "1868201"], "score": 1.0}
+{"ctx_len": 130551, "pred": "5738943, 4030429, 7063240, and 2298244, respectively.<|eot_id|>", "needle": ["5738943", "4030429", "7063240", "2298244"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 6261082, 8044872, 2280314, and 8564486, respectively.<|eot_id|>", "needle": ["8044872", "6261082", "2280314", "8564486"], "score": 1.0}
+{"ctx_len": 130542, "pred": "6818065, 9753488, 3040002, and 1084130, respectively.<|eot_id|>", "needle": ["6818065", "9753488", "3040002", "1084130"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2925830, 1494887, 3324735, and 2399937, respectively.<|eot_id|>", "needle": ["2925830", "1494887", "3324735", "2399937"], "score": 1.0}
+{"ctx_len": 130557, "pred": "5195866, 8315906, 4319815, and 7709915, and 2.5 x 4 in.<|eot_id|>", "needle": ["5195866", "8315906", "4319815", "7709915"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2804542, 7426442, 8485284, and 5557932, respectively.<|eot_id|>", "needle": ["2804542", "7426442", "8485284", "5557932"], "score": 1.0}
+{"ctx_len": 130542, "pred": ": 5245703, 9900282, 7875441, and 1566398.<|eot_id|>", "needle": ["5245703", "9900282", "7875441", "1566398"], "score": 1.0}
+{"ctx_len": 130560, "pred": "4610191, 3433361, 7235425, and 5115755, respectively.<|eot_id|>", "needle": ["4610191", "3433361", "7235425", "5115755"], "score": 1.0}
+{"ctx_len": 130563, "pred": ": 2111241, 4559708, 5758257, and 4648430.<|eot_id|>", "needle": ["2111241", "4559708", "5758257", "4648430"], "score": 1.0}
+{"ctx_len": 130551, "pred": ": 4307179, 9286841, 1785036, and 6370746, respectively.<|eot_id|>", "needle": ["4307179", "9286841", "1785036", "6370746"], "score": 1.0}
+{"ctx_len": 130554, "pred": "1356829, 1299243, 5770866, and 1077963, respectively.<|eot_id|>", "needle": ["1356829", "1299243", "5770866", "1077963"], "score": 1.0}
+{"ctx_len": 130551, "pred": "2595845, 6049913, 6321559, and 7716663, respectively.<|eot_id|>", "needle": ["2595845", "6049913", "6321559", "7716663"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2723751, 3036971, 4758337, and 1174416, respectively.<|eot_id|>", "needle": ["2723751", "3036971", "4758337", "1174416"], "score": 1.0}
+{"ctx_len": 130551, "pred": "1880652, 1082902, 1722698, and 7188771, respectively.<|eot_id|>", "needle": ["1880652", "1082902", "1722698", "7188771"], "score": 1.0}
+{"ctx_len": 130554, "pred": ": 8729158, 3118772, 3483052, and 3857807.<|eot_id|>", "needle": ["8729158", "3118772", "3483052", "3857807"], "score": 1.0}
+{"ctx_len": 130548, "pred": "9098468, 2540137, 6400776, and 5969984, respectively.<|eot_id|>", "needle": ["9098468", "2540137", "6400776", "5969984"], "score": 1.0}
+{"ctx_len": 130545, "pred": ": 1220253, 4626151, 2011111, and 7460238.<|eot_id|>", "needle": ["1220253", "4626151", "7460238", "2011111"], "score": 1.0}
+{"ctx_len": 130548, "pred": ": 3583673, 4670600, 8617224, and 2772688, respectively.<|eot_id|>", "needle": ["3583673", "4670600", "8617224", "2772688"], "score": 1.0}
+{"ctx_len": 130542, "pred": "8733526, 8098339, 6153067, and 2712355, respectively.<|eot_id|>", "needle": ["8733526", "8098339", "6153067", "2712355"], "score": 1.0}
+{"ctx_len": 130545, "pred": "2410406, 2985184, 6904855, and 9906779, respectively.<|eot_id|>", "needle": ["2410406", "2985184", "6904855", "9906779"], "score": 1.0}
+{"ctx_len": 130554, "pred": "7203890, 8404466, 7417663, and 1824338, respectively.<|eot_id|>", "needle": ["7203890", "1824338", "7417663", "8404466"], "score": 1.0}
+{"ctx_len": 130551, "pred": "5176591, 8274019, 4683937, and 1836704, respectively.<|eot_id|>", "needle": ["5176591", "8274019", "4683937", "1836704"], "score": 1.0}
+{"ctx_len": 130557, "pred": "7787380, 4689113, 7591523, and 4799452, respectively.<|eot_id|>", "needle": ["7787380", "4689113", "7591523", "4799452"], "score": 1.0}
+{"ctx_len": 130557, "pred": "8998677, 4105107, 1052124, and 5003370, respectively.<|eot_id|>", "needle": ["8998677", "4105107", "1052124", "5003370"], "score": 1.0}
+avg:0.996
