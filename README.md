@@ -107,7 +107,8 @@ wget https://arxiv.org/pdf/2407.21783.pdf
 python chat_with_pdf.py --input 2407.21783.pdf --shifted_offset 43253
 # rope:  python chat_with_pdf.py --input 2407.21783.pdf --shifted_offset 0
 ```
-https://github.com/user-attachments/assets/e624c670-cdf7-4332-b9ee-f00e705568e3
+
+https://github.com/user-attachments/assets/5c84adb0-b611-4edc-a3ff-a64fe8165108
 
 **Gradio deomo**: 
 We also provide a gradio demo of using STRING to perform QA over a lengthy document: `gradio_demo.py`
