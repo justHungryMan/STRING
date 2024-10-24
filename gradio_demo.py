@@ -36,7 +36,7 @@ def greet(input_text):
     output = tokenizer.decode(model.generate(**inputs, max_new_tokens=256)[0][prompt_length:], skip_special_tokens=True)
     return output
 
-prompt = parse_pdf2text(args.input)
+# prompt = parse_pdf2text(args.input)
 
 demo = gr.Interface(
     fn=greet,
