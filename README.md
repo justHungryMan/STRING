@@ -4,11 +4,11 @@
 
 # Why Does the Effective Context Length of LLMs Fall Short?
 
-[![Paper](https://img.shields.io/badge/Paper-Arvix%20Link-green)](https://arxiv.org/abs/)
+[![Paper](https://img.shields.io/badge/Paper-Arvix%20Link-green)](https://arxiv.org/abs/2410.18745)
 
 
 ###  Overview
-We analyze the effective context length of LLMs from a pretraining perspective. Some interesting findings can be found in our [paper](https://arxiv.org/abs/) (Sections 2 & 3). We observe there is a left-skewed position frequency distribution in LLM pretraining and these infrequent positions cannot effectively model long-range dependencies.
+We analyze the effective context length of LLMs from a pretraining perspective. Some interesting findings can be found in our [paper](https://arxiv.org/abs/2410.18745) (Sections 2 & 3). We observe there is a left-skewed position frequency distribution in LLM pretraining and these infrequent positions cannot effectively model long-range dependencies.
 To reduce the gap between the training length and the effective length of current LLMs, we propose STRING, which shifts well-trained positions to overwrite the original ineffective positions during inference, enhancing performance within their existing training lengths. STRING is a training-free method that *does not require further training but brings significant improvements* to popular RoPE-based LLMs.
 
 You can also use STRING to verify whether your LLMs have insufficient training for these large positions. This repo contains (1) code & data used in our experiments, (2) demos of deploying STRING with [Transformers](https://github.com/huggingface/transformers) and [VLLM](https://github.com/vllm-project/vllm) (3) Flash Attention implementation for baselines used in our paper.
