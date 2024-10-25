@@ -199,5 +199,13 @@ We sincerely appreciate the assistance provided by the following people (works):
 
 ### Citation
 ```
-
+@misc{an2024doeseffectivecontextlength,
+      title={Why Does the Effective Context Length of LLMs Fall Short?}, 
+      author={Chenxin An and Jun Zhang and Ming Zhong and Lei Li and Shansan Gong and Yao Luo and Jingjing Xu and Lingpeng Kong},
+      year={2024},
+      eprint={2410.18745},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.18745}, 
+}
 ```
