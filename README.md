@@ -93,7 +93,7 @@ flash_attn >=2.5.3, <2.6.0
 2. Requirements for VLLM
 ```bash
 conda create -n vllm_string python=3.10  # we suggest creating a new environment to install vllm from source 
-cd vllm & pip install -e . # after installation, we have torch==2.3.0, vllm==0.5.0.post1+cu124
+cd vllm_string & pip install -e . # after installation, we have torch==2.3.0, vllm==0.5.0.post1+cu124
 ```
 
 ### 💬Chat with PDFs
