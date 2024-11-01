@@ -60,7 +60,7 @@ if __name__ == '__main__':
     parser.add_argument("--benchmark", type=str, default='synthetic', help='Options: [synthetic]')
     parser.add_argument("--task", type=str, help='Options: tasks in benchmark')
     parser.add_argument('--test_max_length', default=4096, type=int)
-    parser.add_argument('--shifted_ratio', default=0.33, type=float, help="set to 1.0 to disable string")
+    parser.add_argument('--shifted_ratio', default=0.33, type=float, help="set to 0.0 to disable string")
     parser.add_argument('--local_value', default=128, type=int)
     args = parser.parse_args()
 
