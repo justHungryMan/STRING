@@ -189,9 +189,11 @@ This command will generate a prediction file in the `results-string/task_name/mo
 
 ### FAQs
 **Q:** Why does the relative position matrix for `shifted self-attention`  start with a `local_value of 128`?
+
 **A:** LLMs heavily rely on the nearest `N` tokens to generate fluent content. If the `42K-th` slash is filled with `0`, the current token would associate itself with the `42K-th` token, which would significantly impact performance. By starting with 128, the model maintains a local context within a distance of 128, thereby preserving fluency. We suggest increasing 128 to **512** when obtaining unsatisfactory results.
 
 **Q:** Why STRING can achieve superior performance compared with DCA and ReRoPE?
+
 **A:** STRING can prevent positional disorder as much as possible. Let's illustrate with the needle-retrieval task. STRING can most likely preserve a continuous position list for the needle wherever it is placed.
 <p align="center" width="100%">
 <img src="fig/difference.png" alt="diff" style="width: 90%; min-width: 300px; display: block; margin: auto;">
