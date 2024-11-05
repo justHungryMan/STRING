@@ -26,6 +26,7 @@ config = AutoConfig.from_pretrained(model_path)
 # STRING
 L = config.max_position_embeddings # 131072 for Llama 3.1
 replace_with_string(max_test_length=L, shifted_offset=int(0.33 * L), small_local_value=128)  # shifted_offset also means how many positions are discarded
+# we suggest setting `shifted_offset` to 0.25~0.4 * L and `small_local_value` to 128~512
 
 tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(model_path, attn_implementation="flash_attention_2", trust_remote_code=True, torch_dtype=torch.bfloat16, device_map="auto")
