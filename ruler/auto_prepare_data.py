@@ -31,6 +31,8 @@ def execute_command(task):
     if result != 0:
         print(f"Command for task {task} failed with exit code {result}")
 
+
+# pip install pyyaml, tqdm, wonderwords, tenacity, nltk, filelock
 if __name__ == "__main__":
     parse = argparse.ArgumentParser()
     parse.add_argument("--model_path", type=str, required=True)
