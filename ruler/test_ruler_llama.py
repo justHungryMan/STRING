@@ -120,8 +120,6 @@ if __name__ == '__main__':
         replace_with_string(test_max_length, shifted_offset=shifted_offset, small_local_value=args.local_value)
     else:
         print(f"========== Test Length: {test_max_length} & Training Length: {training_length} ==========")
-        from string_for_llama import replace_with_oom
-        replace_with_oom()
         
     model = AutoModelForCausalLM.from_pretrained(model_path, config=config, attn_implementation="flash_attention_2",
                                                  device_map="auto",
