@@ -10,7 +10,10 @@ import transformers
 from transformers.cache_utils import Cache
 import pdb
 import math
-from transformers.modeling_outputs import BaseModelOutputWithPast, MoeCausalLMOutputWithPast
+from transformers.modeling_outputs import (
+    BaseModelOutputWithPast,
+    MoeCausalLMOutputWithPast,
+)
 from transformers.modeling_outputs import CausalLMOutputWithPast
 from flash_attn.losses.cross_entropy import CrossEntropyLoss
 from transformers import LlamaConfig, PretrainedConfig
@@ -20,22 +23,22 @@ import math
 
 
 def new_flash_attn_with_kvcache(
-        q,
-        k_cache,
-        v_cache,
-        k=None,
-        v=None,
-        rotary_cos=None,
-        rotary_sin=None,
-        cache_seqlens: Optional[Union[(int, torch.Tensor)]] = None,
-        cache_batch_idx: Optional[torch.Tensor] = None,
-        block_table: Optional[torch.Tensor] = None,
-        softmax_scale=None,
-        causal=False,
-        window_size=(-1, -1),  # -1 means infinite context window
-        rotary_interleaved=True,
-        alibi_slopes=None,
-        num_splits=0,
+    q,
+    k_cache,
+    v_cache,
+    k=None,
+    v=None,
+    rotary_cos=None,
+    rotary_sin=None,
+    cache_seqlens: Optional[Union[(int, torch.Tensor)]] = None,
+    cache_batch_idx: Optional[torch.Tensor] = None,
+    block_table: Optional[torch.Tensor] = None,
+    softmax_scale=None,
+    causal=False,
+    window_size=(-1, -1),  # -1 means infinite context window
+    rotary_interleaved=True,
+    alibi_slopes=None,
+    num_splits=0,
 ):
     """
     If k and v are not None, k_cache and v_cache will be updated *inplace* with the new values from
@@ -120,7 +123,9 @@ def new_flash_attn_with_kvcache(
     """
     assert k_cache.stride(-1) == 1, "k_cache must have contiguous last dimension"
     assert v_cache.stride(-1) == 1, "v_cache must have contiguous last dimension"
-    maybe_contiguous = lambda x: x.contiguous() if x is not None and x.stride(-1) != 1 else x
+    maybe_contiguous = lambda x: (
+        x.contiguous() if x is not None and x.stride(-1) != 1 else x
+    )
     q, k, v = [maybe_contiguous(x) for x in (q, k, v)]
     if softmax_scale is None:
         softmax_scale = q.shape[-1] ** (-0.5)
@@ -154,13 +159,21 @@ def new_flash_attn_with_kvcache(
     return out, softmax_lse
 
 
-def do_flash_decoding(query_states, key_states, value_states, k_cache, v_cache, cache_seqlens, intra=False):
+def do_flash_decoding(
+    query_states, key_states, value_states, k_cache, v_cache, cache_seqlens, intra=False
+):
     if key_states is not None:
         key_states = key_states.transpose(1, 2)
     if value_states is not None:
         value_states = value_states.transpose(1, 2)
-    output, softmax_lse = new_flash_attn_with_kvcache(query_states.transpose(1, 2), k_cache, v_cache,
-                                                      key_states, value_states, cache_seqlens=cache_seqlens)
+    output, softmax_lse = new_flash_attn_with_kvcache(
+        query_states.transpose(1, 2),
+        k_cache,
+        v_cache,
+        key_states,
+        value_states,
+        cache_seqlens=cache_seqlens,
+    )
     # return output.transpose(1, 2), softmax_lse
     return output, softmax_lse
 
@@ -176,10 +189,10 @@ def apply_rotary_pos_emb(x, cos, sin, position_ids):
 
 
 def _compute_default_rope_parameters(
-        config: Optional[PretrainedConfig] = None,
-        device: Optional["torch.device"] = None,
-        seq_len: Optional[int] = None,
-        **rope_kwargs,
+    config: Optional[PretrainedConfig] = None,
+    device: Optional["torch.device"] = None,
+    seq_len: Optional[int] = None,
+    **rope_kwargs,
 ) -> Tuple["torch.Tensor", float]:
     """
     Computes the inverse frequencies according to the original RoPE implementation
@@ -206,16 +219,27 @@ def _compute_default_rope_parameters(
         dim = rope_kwargs["dim"]
     elif config is not None:
         base = config.rope_theta
-        partial_rotary_factor = config.partial_rotary_factor if hasattr(config, "partial_rotary_factor") else 1.0
-        dim = int((config.hidden_size // config.num_attention_heads) * partial_rotary_factor)
+        partial_rotary_factor = (
+            config.partial_rotary_factor
+            if hasattr(config, "partial_rotary_factor")
+            else 1.0
+        )
+        dim = int(
+            (config.hidden_size // config.num_attention_heads) * partial_rotary_factor
+        )
 
     # Compute the inverse frequencies
-    inv_freq = 1.0 / (base ** (torch.arange(0, dim, 2, dtype=torch.int64).float().to(device) / dim))
+    inv_freq = 1.0 / (
+        base ** (torch.arange(0, dim, 2, dtype=torch.int64).float().to(device) / dim)
+    )
     return inv_freq
 
 
 def _compute_llama3_parameters(
-        config: PretrainedConfig, device: "torch.device", seq_len: Optional[int] = None, **rope_kwargs
+    config: PretrainedConfig,
+    device: "torch.device",
+    seq_len: Optional[int] = None,
+    **rope_kwargs,
 ) -> Tuple["torch.Tensor", float]:
     """
     Computes the inverse frequencies for llama 3.1.
@@ -236,10 +260,16 @@ def _compute_llama3_parameters(
     # Gets the default RoPE parameters
     inv_freq = _compute_default_rope_parameters(config, device, seq_len, **rope_kwargs)
 
-    factor = config.rope_scaling["factor"] # `8` in the original implementation
-    low_freq_factor = config.rope_scaling["low_freq_factor"]  # `1` in the original implementation
-    high_freq_factor = config.rope_scaling["high_freq_factor"]  # `4` in the original implementation
-    old_context_len = config.rope_scaling["original_max_position_embeddings"]  # `8192` in the original implementation
+    factor = config.rope_scaling["factor"]  # `8` in the original implementation
+    low_freq_factor = config.rope_scaling[
+        "low_freq_factor"
+    ]  # `1` in the original implementation
+    high_freq_factor = config.rope_scaling[
+        "high_freq_factor"
+    ]  # `4` in the original implementation
+    old_context_len = config.rope_scaling[
+        "original_max_position_embeddings"
+    ]  # `8192` in the original implementation
     low_freq_wavelen = old_context_len / low_freq_factor
     high_freq_wavelen = old_context_len / high_freq_factor
     new_freqs = []
@@ -251,7 +281,9 @@ def _compute_llama3_parameters(
             new_freqs.append(freq / factor)
         else:
             assert low_freq_wavelen != high_freq_wavelen
-            smooth = (old_context_len / wavelen - low_freq_factor) / (high_freq_factor - low_freq_factor)
+            smooth = (old_context_len / wavelen - low_freq_factor) / (
+                high_freq_factor - low_freq_factor
+            )
             new_freqs.append((1 - smooth) * freq / factor + smooth * freq)
     inv_freq = torch.tensor(new_freqs, dtype=inv_freq.dtype, device=inv_freq.device)
     return inv_freq
@@ -259,14 +291,14 @@ def _compute_llama3_parameters(
 
 class RotaryEmbedding(nn.Module):
     def __init__(
-            self,
-            dim=None,
-            max_position_embeddings=2048,
-            base=10000,
-            device=None,
-            scaling_factor=1.0,
-            rope_type="default",
-            config: Optional[LlamaConfig] = None,
+        self,
+        dim=None,
+        max_position_embeddings=2048,
+        base=10000,
+        device=None,
+        scaling_factor=1.0,
+        rope_type="default",
+        config: Optional[LlamaConfig] = None,
     ):
         super().__init__()
         # TODO (joao): remove the `if` below, only used for BC
@@ -287,7 +319,11 @@ class RotaryEmbedding(nn.Module):
             self.original_max_seq_len = config.max_position_embeddings
 
         self.config = config
-        if config is not None and hasattr(config, "rope_scaling") and config.rope_scaling:
+        if (
+            config is not None
+            and hasattr(config, "rope_scaling")
+            and config.rope_scaling
+        ):
             self.rope_init_fn = _compute_llama3_parameters
         else:
             self.rope_init_fn = _compute_default_rope_parameters
@@ -296,17 +332,25 @@ class RotaryEmbedding(nn.Module):
         self.register_buffer("inv_freq", inv_freq, persistent=False)
         self.original_inv_freq = self.inv_freq
         self._set_cos_sin_cache(
-            seq_len=max_position_embeddings, device=self.inv_freq.device, dtype=torch.get_default_dtype()
+            seq_len=max_position_embeddings,
+            device=self.inv_freq.device,
+            dtype=torch.get_default_dtype(),
         )
 
     def _set_cos_sin_cache(self, seq_len, device, dtype):
         self.max_seq_len_cached = seq_len
-        t = torch.arange(self.max_seq_len_cached, device=device, dtype=self.inv_freq.dtype)
+        t = torch.arange(
+            self.max_seq_len_cached, device=device, dtype=self.inv_freq.dtype
+        )
         freqs = torch.outer(t, self.inv_freq)
         # Different from paper, but it uses a different permutation in order to obtain the same calculation
         emb = torch.cat((freqs, freqs), dim=-1)
-        self.register_buffer("cos_cached", attention_factor * emb.cos().to(dtype), persistent=False)
-        self.register_buffer("sin_cached", attention_factor * emb.sin().to(dtype), persistent=False)
+        self.register_buffer(
+            "cos_cached", attention_factor * emb.cos().to(dtype), persistent=False
+        )
+        self.register_buffer(
+            "sin_cached", attention_factor * emb.sin().to(dtype), persistent=False
+        )
 
     def forward(self, x, seq_len=None):
         # x: [bs, num_attention_heads, seq_len, head_size]
@@ -320,13 +364,15 @@ class RotaryEmbedding(nn.Module):
             self.sin_cached[:seq_len].to(dtype=x.dtype),
         )
 
+
 def string_flash_forward(
-        neighbor_query_states,
-        shifted_query_states,
-        key_states,
-        value_states,
+    neighbor_query_states,
+    shifted_query_states,
+    key_states,
+    value_states,
 ):
     bsz, kv_seq_len, _, head_dim = neighbor_query_states.size()
+    # Sliding Window
     diag_out, diag_lse, _ = flash_attn_func(
         neighbor_query_states,
         key_states,
@@ -336,10 +382,11 @@ def string_flash_forward(
         return_attn_probs=True,
     )  # [bsz, L, h, d]
     triangle_len = (
-            kv_seq_len - diag_size
+        kv_seq_len - diag_size
     )  # here we should use kv_seq_len rather than max_kv_len since we have paddings in qkv and attention_mask
     if triangle_len < 0:
         return diag_out
+    # left-bottom triangle
     shifted_out, shifted_lse, _ = flash_attn_func(
         shifted_query_states[:, -triangle_len:, :, :],
         key_states[:, :triangle_len, :, :],
@@ -362,29 +409,37 @@ def string_flash_forward(
     lse_gap_re = 1 / (1 + torch.exp(shifted_lse - diag_lse_tail))
     lse_gap = lse_gap.transpose(1, 2).unsqueeze(-1)
     lse_gap_re = lse_gap_re.transpose(1, 2).unsqueeze(-1)
-    merge_out_tail = diag_out_tail * lse_gap_re.to(diag_out_tail) + shifted_out * lse_gap.to(shifted_out)
+    merge_out_tail = diag_out_tail * lse_gap_re.to(
+        diag_out_tail
+    ) + shifted_out * lse_gap.to(shifted_out)
     output = torch.cat([diag_out_head, merge_out_tail], dim=1)
     return output
 
 
 def forward(
-        self,
-        hidden_states: torch.Tensor,
-        attention_mask: Optional[torch.LongTensor] = None,
-        position_ids: Optional[torch.LongTensor] = None,
-        past_key_value=None,
-        output_attentions: bool = False,
-        use_cache: bool = False,
-        **kwargs,
+    self,
+    hidden_states: torch.Tensor,
+    attention_mask: Optional[torch.LongTensor] = None,
+    position_ids: Optional[torch.LongTensor] = None,
+    past_key_value=None,
+    output_attentions: bool = False,
+    use_cache: bool = False,
+    **kwargs,
 ) -> Tuple[torch.Tensor, Optional[torch.Tensor], Optional[Tuple[torch.Tensor]]]:
     bsz, q_len, _ = hidden_states.size()
 
     query_states = self.q_proj(hidden_states)
     key_states = self.k_proj(hidden_states)
     value_states = self.v_proj(hidden_states)
-    query_states = query_states.view(bsz, q_len, self.num_heads, self.head_dim).transpose(1, 2)
-    key_states = key_states.view(bsz, q_len, self.num_key_value_heads, self.head_dim).transpose(1, 2)
-    value_states = value_states.view(bsz, q_len, self.num_key_value_heads, self.head_dim).transpose(1, 2)
+    query_states = query_states.view(
+        bsz, q_len, self.num_heads, self.head_dim
+    ).transpose(1, 2)
+    key_states = key_states.view(
+        bsz, q_len, self.num_key_value_heads, self.head_dim
+    ).transpose(1, 2)
+    value_states = value_states.view(
+        bsz, q_len, self.num_key_value_heads, self.head_dim
+    ).transpose(1, 2)
 
     kv_seq_len = key_states.shape[-2]
     kv_seq_len += past_key_value["cache_seqlens"].item()
@@ -401,8 +456,12 @@ def forward(
 
     if not has_kv_cache:
         # pdb.set_trace()
-        key_cache[:, kv_seq_len - key_states.shape[-2]:kv_seq_len, :, :] = key_states.transpose(1, 2)
-        value_cache[:, kv_seq_len - key_states.shape[-2]:kv_seq_len, :, :] = value_states.transpose(1, 2)
+        key_cache[:, kv_seq_len - key_states.shape[-2] : kv_seq_len, :, :] = (
+            key_states.transpose(1, 2)
+        )
+        value_cache[:, kv_seq_len - key_states.shape[-2] : kv_seq_len, :, :] = (
+            value_states.transpose(1, 2)
+        )
         key_states = repeat_kv(key_states, self.num_key_value_groups)
         value_states = repeat_kv(value_states, self.num_key_value_groups)
     else:
@@ -417,7 +476,9 @@ def forward(
         query_states_2 = query_states_2.transpose(1, 2)
         key_states = key_states.transpose(1, 2)
         value_states = value_states.transpose(1, 2)
-        attn_output = string_flash_forward(query_states_1, query_states_2, key_states, value_states)
+        attn_output = string_flash_forward(
+            query_states_1, query_states_2, key_states, value_states
+        )
     else:
         query_states_1 = apply_rotary_pos_emb(query_states, cos, sin, position_ids)
         position_ids = position_ids - diag_size + local_window
@@ -426,12 +487,24 @@ def forward(
         shifted_size = kv_seq_len - diag_size
         k_cache_diag = key_cache[:, shifted_size:kv_seq_len, :, :]
         v_cache_diag = value_cache[:, shifted_size:kv_seq_len, :, :]
-        out1, lse1 = do_flash_decoding(query_states_1, None, None, k_cache_diag, v_cache_diag,
-                                       cache_seqlens=diag_size)
+        out1, lse1 = do_flash_decoding(
+            query_states_1,
+            None,
+            None,
+            k_cache_diag,
+            v_cache_diag,
+            cache_seqlens=diag_size,
+        )
         k_cache_shifted = key_cache[:, :shifted_size, :, :]
         v_cache_shifted = value_cache[:, :shifted_size, :, :]
-        out2, lse2 = do_flash_decoding(query_states_2, None, None, k_cache_shifted, v_cache_shifted,
-                                       cache_seqlens=shifted_size)
+        out2, lse2 = do_flash_decoding(
+            query_states_2,
+            None,
+            None,
+            k_cache_shifted,
+            v_cache_shifted,
+            cache_seqlens=shifted_size,
+        )
         lse1 = lse1.to(torch.float32)
         lse2 = lse2.to(torch.float32)
         gap21 = 1 / (1 + torch.exp(lse2 - lse1))
@@ -445,49 +518,67 @@ def forward(
 
 
 def allocate_inference_cache(
-        max_batch_size,
-        max_seqlen,
-        nheads,
-        headdim,
-        layers,
-        dtype=torch.float16,
+    max_batch_size,
+    max_seqlen,
+    nheads,
+    headdim,
+    layers,
+    dtype=torch.float16,
 ):
 
     assert dtype in [torch.float16, torch.bfloat16, torch.float32]
     kv_cache_shape = (max_batch_size, max_seqlen, 2, nheads, headdim)
-    allc_kv_cache = {i: {0: torch.empty(kv_cache_shape, device=layer.self_attn.k_proj.weight.device, dtype=dtype),
-                         "cache_seqlens": torch.tensor([0], device=layer.self_attn.k_proj.weight.device).long()} for
-                     i, layer in enumerate(layers)}
+    allc_kv_cache = {
+        i: {
+            0: torch.empty(
+                kv_cache_shape, device=layer.self_attn.k_proj.weight.device, dtype=dtype
+            ),
+            "cache_seqlens": torch.tensor(
+                [0], device=layer.self_attn.k_proj.weight.device
+            ).long(),
+        }
+        for i, layer in enumerate(layers)
+    }
 
     return allc_kv_cache
 
 
 # add cache_position = None for llama31
 def flashdecoding_forward(
-        self,
-        input_ids: torch.LongTensor = None,
-        attention_mask: Optional[torch.Tensor] = None,
-        position_ids: Optional[torch.LongTensor] = None,
-        past_key_values: Optional[List[torch.FloatTensor]] = None,
-        inputs_embeds: Optional[torch.FloatTensor] = None,
-        use_cache: Optional[bool] = None,
-        cache_position=None,
-        output_router_logits=None,
-        output_attentions: Optional[bool] = None,
-        output_hidden_states: Optional[bool] = None,
-        return_dict: Optional[bool] = None,
+    self,
+    input_ids: torch.LongTensor = None,
+    attention_mask: Optional[torch.Tensor] = None,
+    position_ids: Optional[torch.LongTensor] = None,
+    past_key_values: Optional[List[torch.FloatTensor]] = None,
+    inputs_embeds: Optional[torch.FloatTensor] = None,
+    use_cache: Optional[bool] = None,
+    cache_position=None,
+    output_router_logits=None,
+    output_attentions: Optional[bool] = None,
+    output_hidden_states: Optional[bool] = None,
+    return_dict: Optional[bool] = None,
 ) -> Union[Tuple, BaseModelOutputWithPast]:
-    output_attentions = output_attentions if output_attentions is not None else self.config.output_attentions
+    output_attentions = (
+        output_attentions
+        if output_attentions is not None
+        else self.config.output_attentions
+    )
     output_hidden_states = (
-        output_hidden_states if output_hidden_states is not None else self.config.output_hidden_states
+        output_hidden_states
+        if output_hidden_states is not None
+        else self.config.output_hidden_states
     )
     use_cache = use_cache if use_cache is not None else self.config.use_cache
 
-    return_dict = return_dict if return_dict is not None else self.config.use_return_dict
+    return_dict = (
+        return_dict if return_dict is not None else self.config.use_return_dict
+    )
 
     # retrieve input_ids and inputs_embeds
     if input_ids is not None and inputs_embeds is not None:
-        raise ValueError("You cannot specify both input_ids and inputs_embeds at the same time")
+        raise ValueError(
+            "You cannot specify both input_ids and inputs_embeds at the same time"
+        )
     elif input_ids is not None:
         batch_size, seq_length = input_ids.shape[:2]
     elif inputs_embeds is not None:
@@ -503,9 +594,11 @@ def flashdecoding_forward(
 
     if past_key_values:
         input_ids = input_ids[:, -1].unsqueeze(-1)
-        position_ids = position_ids[:, -1].unsqueeze(-1) if position_ids is not None else None
+        position_ids = (
+            position_ids[:, -1].unsqueeze(-1) if position_ids is not None else None
+        )
 
-    if use_cache and (past_key_values is None or len(past_key_values)==0):
+    if use_cache and (past_key_values is None or len(past_key_values) == 0):
         num_kv_heads = self.config.num_key_value_heads
         num_attention_heads = self.config.num_attention_heads
         head_dim = self.config.hidden_size // num_attention_heads
@@ -522,14 +615,19 @@ def flashdecoding_forward(
     if position_ids is None:
         device = input_ids.device if input_ids is not None else inputs_embeds.device
         position_ids = torch.arange(
-            past_key_values_length, seq_length + past_key_values_length, dtype=torch.long, device=device
+            past_key_values_length,
+            seq_length + past_key_values_length,
+            dtype=torch.long,
+            device=device,
         )
         position_ids = position_ids.unsqueeze(0)
 
     if inputs_embeds is None:
         inputs_embeds = self.embed_tokens(input_ids)
 
-    attention_mask = attention_mask if (attention_mask is not None and 0 in attention_mask) else None
+    attention_mask = (
+        attention_mask if (attention_mask is not None and 0 in attention_mask) else None
+    )
 
     # embed positions
     hidden_states = inputs_embeds
@@ -574,7 +672,11 @@ def flashdecoding_forward(
         all_hidden_states += (hidden_states,)
 
     if not return_dict:
-        return tuple(v for v in [hidden_states, past_key_values, all_hidden_states, all_self_attns] if v is not None)
+        return tuple(
+            v
+            for v in [hidden_states, past_key_values, all_hidden_states, all_self_attns]
+            if v is not None
+        )
 
     return BaseModelOutputWithPast(
         last_hidden_state=hidden_states,
@@ -623,11 +725,19 @@ def causal_forward(
     >>> tokenizer.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
     "Hey, are you conscious? Can you talk to me?\nI'm not conscious, but I can talk to you."
     ```"""
-    output_attentions = output_attentions if output_attentions is not None else self.config.output_attentions
-    output_hidden_states = (
-        output_hidden_states if output_hidden_states is not None else self.config.output_hidden_states
+    output_attentions = (
+        output_attentions
+        if output_attentions is not None
+        else self.config.output_attentions
     )
-    return_dict = return_dict if return_dict is not None else self.config.use_return_dict
+    output_hidden_states = (
+        output_hidden_states
+        if output_hidden_states is not None
+        else self.config.output_hidden_states
+    )
+    return_dict = (
+        return_dict if return_dict is not None else self.config.use_return_dict
+    )
 
     # decoder outputs consists of (dec_features, layer_state, dec_hidden, dec_attn)
     outputs = self.model(
@@ -707,13 +817,14 @@ def causal_forward(
         attentions=outputs.attentions,
     )
 
+
 # adapt transformers 4.37.2
 def _init_rope(self):
     self.rotary_emb = RotaryEmbedding(
         self.head_dim,
         max_position_embeddings=self.max_position_embeddings,
         base=self.rope_theta,
-        config=self.config
+        config=self.config,
     )
 
 
@@ -736,11 +847,13 @@ def replace_with_string(max_test_length, shifted_offset, small_local_value=128):
     diag_size = shifted_offset
     local_window = small_local_value
     # STRING will make the attention map smooth, we use the attention_factor to recover it, similar with Yarn
-    attention_factor = 0.1*math.log(2) + 1
+    attention_factor = 0.1 * math.log(2) + 1
 
     print("============== [STRING Config for Llama] ===============")
     print(f"Position ids for sliding window attention: {0}-{diag_size}")
-    print(f"Position ids for Shifted self attention: {local_window}-{max_test_length-local_window}")
+    print(
+        f"Position ids for Shifted self attention: {local_window}-{max_test_length-local_window}"
+    )
     print(f"Attention factor {attention_factor}")
     print("==============================================")
 
@@ -752,7 +865,13 @@ def replace_with_string(max_test_length, shifted_offset, small_local_value=128):
     transformers.models.llama.modeling_llama.LlamaRotaryEmbedding = RotaryEmbedding
 
     # for mistral
-    transformers.models.mistral.modeling_mistral.MistralRotaryEmbedding = RotaryEmbedding
-    transformers.models.mistral.modeling_mistral.MistralModel.forward = flashdecoding_forward
+    transformers.models.mistral.modeling_mistral.MistralRotaryEmbedding = (
+        RotaryEmbedding
+    )
+    transformers.models.mistral.modeling_mistral.MistralModel.forward = (
+        flashdecoding_forward
+    )
     transformers.models.mistral.modeling_mistral.MistralAttention.forward = forward
-    transformers.models.mistral.modeling_mistral.MistralFlashAttention2.forward = forward
+    transformers.models.mistral.modeling_mistral.MistralFlashAttention2.forward = (
+        forward
+    )
